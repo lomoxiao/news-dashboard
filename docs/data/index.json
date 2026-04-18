@@ -1,0 +1,15 @@
+{
+  "last_updated": "2026-04-18T06:05:00+09:00",
+  "reports": [
+    { "date": "2026-04-18", "headline": "Claude Code Routine正式リリース・日銀追加利上げ示唆" }
+  ],
+  "all_sources": [
+    { "name": "Anthropic", "url": "https://www.anthropic.com", "count": 1 },
+    { "name": "OpenAI", "url": "https://openai.com", "count": 1 },
+    { "name": "NTTドコモ", "url": "https://www.docomo.ne.jp", "count": 1 },
+    { "name": "arXiv", "url": "https://arxiv.org", "count": 1 },
+    { "name": "日本銀行", "url": "https://www.boj.or.jp", "count": 1 },
+    { "name": "首相官邸", "url": "https://www.kantei.go.jp", "count": 1 }
+  ],
+  "themes": ["最新AI情報", "NTTドコモ", "量子コンピュータ", "金融決済", "国内・社会"]
+}
