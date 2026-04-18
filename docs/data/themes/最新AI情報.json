@@ -1,0 +1,42 @@
+{
+  "theme": "最新AI情報",
+  "last_updated": "2026-04-19",
+  "trend_direction": "上昇",
+  "weekly_highlights": [
+    {
+      "title": "Anthropic、Claude Opus 4.7を発表—コーディング・視覚推論強化と自動セキュリティ検知機能を搭載",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "date": "2026-04-19",
+      "importance": 5,
+      "summary": "Anthropicが4月16日にClaude Opus 4.7をリリース。コーディング・視覚推論が向上し、禁止サイバー用途を自動ブロックするセーフガードを搭載。"
+    },
+    {
+      "title": "Claude Code Routine 正式リリース",
+      "url": "https://www.anthropic.com/news/claude-code-routine",
+      "date": "2026-04-18",
+      "importance": 5,
+      "summary": "Anthropicが自律型コーディングエージェント機能を正式公開。スケジュール実行で定型開発タスクを自動化。Proプランで最大15回/日実行可能。"
+    },
+    {
+      "title": "OpenAI GPT-5ロールアウト継続中",
+      "url": "https://openai.com/blog/gpt5",
+      "date": "2026-04-18",
+      "importance": 4,
+      "summary": "GPT-5が段階的にChatGPT有料ユーザーへ展開中。コーディング・数学・推論能力でGPT-4oを上回るとされる。"
+    }
+  ],
+  "stats": {
+    "article_count": 4,
+    "avg_importance": 4.25,
+    "top_keywords": ["Claude", "Anthropic", "コーディング", "AI", "セキュリティ"]
+  },
+  "trend_series": [
+    { "date": "2026-04-13", "score": 68, "article_count": 0 },
+    { "date": "2026-04-14", "score": 75, "article_count": 0 },
+    { "date": "2026-04-15", "score": 80, "article_count": 0 },
+    { "date": "2026-04-16", "score": 82, "article_count": 0 },
+    { "date": "2026-04-17", "score": 85, "article_count": 0 },
+    { "date": "2026-04-18", "score": 89, "article_count": 2 },
+    { "date": "2026-04-19", "score": 93, "article_count": 2 }
+  ]
+}

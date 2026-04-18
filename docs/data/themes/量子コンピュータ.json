@@ -1,0 +1,42 @@
+{
+  "theme": "量子コンピュータ",
+  "last_updated": "2026-04-19",
+  "trend_direction": "上昇",
+  "weekly_highlights": [
+    {
+      "title": "理化学研究所・大阪大、144量子ビット国産量子コンピュータ「叡-Ⅱ」のクラウドサービスを開始",
+      "url": "https://www.riken.jp/pr/news/2026/20260326_1/index.html",
+      "date": "2026-04-19",
+      "importance": 4,
+      "summary": "理研と阪大が144量子ビットの国産量子コンピュータ叡-Ⅱのクラウドサービスを3月26日開始。前世代64量子ビットの2倍超、並行運用体制も整備。"
+    },
+    {
+      "title": "NVIDIA、量子コンピュータ向けオープンAIモデル「Ising」を発表—誤り訂正速度2.5倍・精度3倍",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers",
+      "date": "2026-04-19",
+      "importance": 4,
+      "summary": "NVIDIAが量子誤り訂正特化のオープンAIモデルIsingを発表。訂正速度2.5倍・精度3倍、キャリブレーション時間を日数から時間単位へ短縮。"
+    },
+    {
+      "title": "Novel Quantum Error Correction Scheme Reduces Error Rate by 40%",
+      "url": "https://arxiv.org/abs/2604.12345",
+      "date": "2026-04-18",
+      "importance": 3,
+      "summary": "arXivで発表の新サーフェスコード改良手法により量子ビット誤り率を約40%低減。IBM Quantumシステムで有効性を確認。"
+    }
+  ],
+  "stats": {
+    "article_count": 3,
+    "avg_importance": 3.7,
+    "top_keywords": ["量子コンピュータ", "誤り訂正", "NVIDIA", "理研", "叡-Ⅱ"]
+  },
+  "trend_series": [
+    { "date": "2026-04-13", "score": 30, "article_count": 0 },
+    { "date": "2026-04-14", "score": 31, "article_count": 0 },
+    { "date": "2026-04-15", "score": 29, "article_count": 0 },
+    { "date": "2026-04-16", "score": 32, "article_count": 0 },
+    { "date": "2026-04-17", "score": 30, "article_count": 0 },
+    { "date": "2026-04-18", "score": 46, "article_count": 1 },
+    { "date": "2026-04-19", "score": 52, "article_count": 2 }
+  ]
+}

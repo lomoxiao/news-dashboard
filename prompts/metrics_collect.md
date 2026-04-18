@@ -1,10 +1,9 @@
----
 # ニュースダッシュボード 日次マクロ指標収集プロンプト
-# 実行: Routine② (毎朝6:30 ※Routine①完了後)
----
 
 あなたはデータ収集エージェントです。以下の指標を収集し、
 docs/data/metrics/daily/YYYY-MM-DD.json と docs/data/metrics/master.json を更新してください。
+
+作業ディレクトリ: `d:/work/claude/news-dashboard`
 
 ## 収集項目
 
@@ -20,7 +19,7 @@ docs/data/metrics/daily/YYYY-MM-DD.json と docs/data/metrics/master.json を更
 - Yahoo Finance APIで日経平均終値・USD/JPY終値を取得
 - 取得できない場合は null を記録
 
-## 出力スキーマ: data/metrics/daily/YYYY-MM-DD.json
+## 出力スキーマ: docs/data/metrics/daily/YYYY-MM-DD.json
 
 ```json
 {
@@ -44,3 +43,5 @@ docs/data/metrics/daily/YYYY-MM-DD.json と docs/data/metrics/master.json を更
 - 各 series の data[] に { "date": "YYYY-MM-DD", "value": N } を追加
 - データは時系列順（古い順）で保持
 - 最大365件を保持（古いものから削除）
+
+以上の手順をすべて自律的に実行し、両ファイルの保存まで完了してください。

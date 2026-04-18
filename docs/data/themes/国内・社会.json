@@ -1,0 +1,42 @@
+{
+  "theme": "国内・社会",
+  "last_updated": "2026-04-19",
+  "trend_direction": "上昇",
+  "weekly_highlights": [
+    {
+      "title": "ホルムズ海峡封鎖継続—日本の精製所稼働率67.7%に急落、国家備蓄70日分超放出",
+      "url": "https://www.jiji.com/jc/v8?id=202604hormuz-team",
+      "date": "2026-04-19",
+      "importance": 5,
+      "summary": "4月13日以降もホルムズ海峡封鎖継続、通航数約90%減。日本の精製所稼働率67.7%へ急落し国家備蓄を放出して対応中。"
+    },
+    {
+      "title": "IMF、日本の2026年GDP成長率を0.8%に下方修正—外需弱体化と中東情勢を要因に",
+      "url": "https://www.imf.org/en/news/articles/2026/04/02/pr-26105-japan-imf-executive-board-concludes-2026-article-iv-consult",
+      "date": "2026-04-19",
+      "importance": 4,
+      "summary": "IMFが日本の2026年実質GDP成長率を0.8%へ下方修正。外需弱体化と中東情勢による供給制約が主因。"
+    },
+    {
+      "title": "政府、AI利活用基本方針を閣議決定",
+      "url": "https://www.kantei.go.jp/jp/press/2026/04/18/",
+      "date": "2026-04-18",
+      "importance": 4,
+      "summary": "日本政府がAI利活用基本方針を閣議決定。高リスクAI規制と企業支援の両立を目指し、2026年度中に関連法整備を進める。"
+    }
+  ],
+  "stats": {
+    "article_count": 4,
+    "avg_importance": 4.25,
+    "top_keywords": ["ホルムズ海峡", "GDP", "AI規制", "予算", "IMF"]
+  },
+  "trend_series": [
+    { "date": "2026-04-13", "score": 58, "article_count": 0 },
+    { "date": "2026-04-14", "score": 60, "article_count": 0 },
+    { "date": "2026-04-15", "score": 63, "article_count": 0 },
+    { "date": "2026-04-16", "score": 61, "article_count": 0 },
+    { "date": "2026-04-17", "score": 62, "article_count": 0 },
+    { "date": "2026-04-18", "score": 78, "article_count": 1 },
+    { "date": "2026-04-19", "score": 76, "article_count": 3 }
+  ]
+}

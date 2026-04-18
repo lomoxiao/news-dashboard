@@ -1,0 +1,291 @@
+{
+  "date": "2026-04-19",
+  "generated_at": "2026-04-19T10:30:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "AnthropicはAIモデル「Claude Opus 4.7」を4月16日にリリースし、コーディング・視覚推論性能と自動セキュリティ検知機能を強化した。国内では長期金利が一時2.275%と27年ぶりの高水準を記録しており、ホルムズ海峡封鎖が継続するなか財政悪化懸念が高まっている。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicがClaude Opus 4.7を4月16日にリリース。コーディングと視覚推論を強化し、禁止サイバー用途を自動検知するセーフガードを搭載した。Claudeの有料登録者数は2026年に入り2倍超に増加した。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "日本の長期金利が2.275%と1999年以来27年ぶりの高水準を記録した。中東情勢の緊張と財政悪化懸念が上昇圧力となっており、日銀の4月会合での利上げ確率は31%にとどまっている。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "理化学研究所と大阪大が144量子ビット国産量子コンピュータ「叡-Ⅱ」のクラウドサービスを3月26日に開始した。NVIDIA製AIモデルIsingと合わせ、量子実用化の基盤が整いつつある。"
+        }
+      ],
+      "must_read": {
+        "title": "ホルムズ海峡封鎖継続、日本の精製所稼働率67.7%に急落—国家備蓄放出で対応",
+        "url": "https://www.jiji.com/jc/v8?id=202604hormuz-team",
+        "reason": "日本の原油輸入量の9割が依存する海峡の封鎖が継続。エネルギー・物価・金融政策に横断的に影響するため必読。",
+        "bookmark_count": null
+      }
+    },
+    "friendly": {
+      "lead": "AIの世界でまた大きな動きがありましたよ。AnthropicがClaude Opus 4.7をリリースして、コーディング能力がさらに上がったみたいです！",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicのClaude Opus 4.7がリリースされましたよ。コーディングや視覚推論がさらに得意になって、悪用を自動でブロックする機能もついています。有料ユーザーも2倍以上に増えているとのことです。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "日本の長期金利が27年ぶりの高水準になっていますね。中東情勢の影響で財政への不安が高まっているようです。住宅ローンなどへの影響が気になるところですね。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "理化学研究所と大阪大学が作った国産量子コンピュータ「叡-Ⅱ」が3月からクラウドで使えるようになりましたよ。144量子ビットと前モデルの2倍以上で、日本の量子技術も着実に進んでいますね。"
+        }
+      ],
+      "must_read": {
+        "title": "ホルムズ海峡封鎖継続、日本の精製所稼働率67.7%に急落—国家備蓄放出で対応",
+        "url": "https://www.jiji.com/jc/v8?id=202604hormuz-team",
+        "reason": "ガソリン代や光熱費への影響が直接的なので、今週は絶対押さえておきたいニュースです。",
+        "bookmark_count": null
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Claude Opus 4.7リリース（4月16日）、コーディング・視覚推論強化\n・Anthropic、Claude一部機能に本人確認を導入\n・Claudeの有料登録者数が2026年に2倍超"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・ドコモ+奈良先端大、チャットからチーム共通認知をAI推定—CHI 2026採択\n・docomo business ANCAR Routing/Chat、4月17日提供開始"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・叡-Ⅱ（144量子ビット）クラウド運用開始（3月26日）\n・NVIDIA Ising、量子誤り訂正速度2.5倍・精度3倍"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・長期金利2.275%、27年ぶり（1999年以来）高水準\n・日銀4月利上げ確率31%（先週比57%→31%）"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・IMFが日本2026年GDP成長率を0.8%に下方修正\n・ホルムズ海峡封鎖継続、精製稼働率67.7%\n・2026年度予算122兆円超が成立"
+        }
+      ],
+      "must_read": {
+        "title": "ホルムズ海峡封鎖継続、日本の精製所稼働率67.7%に急落—国家備蓄放出で対応",
+        "url": "https://www.jiji.com/jc/v8?id=202604hormuz-team",
+        "reason": "必読。エネルギー危機の現状確認。",
+        "bookmark_count": null
+      }
+    },
+    "analytical": {
+      "lead": "Claude Opus 4.7の自動セキュリティ検知機能とAnthropicによる本人確認制度の同時導入は、AIガバナンスが能力向上に連動した管理強化の段階に入ったことを示す。国内では長期金利の27年ぶり高水準とIMFの成長率下方修正が重なり、財政拡張と金融引き締め余地の制約が同時に顕在化している。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Claude Opus 4.7は自動セキュリティ検知機能を搭載し、合法的なセキュリティ研究者向けに認証プログラム（Cyber Verification Program）を別途設けた。本人確認制度の同時導入は、モデル能力の向上に連動したリスク管理の強化を示す。Claudeの有料登録者数が2026年に2倍超に増加し、AI市場の3社体制（Anthropic・OpenAI・Google）への移行が実績として示された。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "長期金利2.275%は日銀の利上げ姿勢（政策金利0.75%）と122兆円規模の積極財政との間の矛盾を数値として示す。IMFが日本の成長率を0.8%と予測する中での金利上昇は、住宅ローン・設備投資の抑制要因となる。4月27〜28日の日銀決定会合での利上げ確率が31%にとどまるのは、中東情勢と貿易不確実性を配慮した結果であり、金融政策の機動性が外的ショックによって制約されている。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "叡-Ⅱ（144量子ビット）の運用開始とNVIDIA Isingの発表は、量子ハードウェアとAIソフトウェアが補完関係へ移行する流れを裏付ける。日本が国産量子コンピュータのクラウド実用化を実現したことは、富士通・理研が計画する2026年末の1,000量子ビット構築に向けた実証基盤として機能する。"
+        }
+      ],
+      "must_read": {
+        "title": "ホルムズ海峡封鎖継続、日本の精製所稼働率67.7%に急落—国家備蓄放出で対応",
+        "url": "https://www.jiji.com/jc/v8?id=202604hormuz-team",
+        "reason": "エネルギー危機は長期金利上昇・インフレ継続・日銀政策の3要素に直結しており、日本経済全体のリスクシナリオを読む起点となる一次情報。",
+        "bookmark_count": null
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 93,
+      "trend_history": [68, 75, 80, 82, 85, 89, 93],
+      "summary_short": "AnthropicがClaude Opus 4.7を発表し、コーディングと自動セキュリティ検知を強化した。",
+      "summary_long": "Anthropicは2026年4月16日にClaude Opus 4.7をリリースした。Opus 4.6比でコーディング・視覚推論・大規模ツール使用が向上し、禁止されたサイバーセキュリティ用途を自動検知・ブロックするセーフガードを搭載した。同時にAnthropicはClaude一部機能への本人確認制度を導入し、合法的なセキュリティ研究者向けにCyber Verification Programも開始した。2026年のClaudeの有料登録者数は2倍超に増加し、AI市場の3社体制への移行が実績として示された。",
+      "articles": [
+        {
+          "title": "Anthropic、Claude Opus 4.7を発表—コーディング・視覚推論強化と自動セキュリティ検知機能を搭載",
+          "url": "https://www.anthropic.com/news/claude-opus-4-7",
+          "source": "Anthropic",
+          "summary_short": "AnthropicがClaude Opus 4.7をリリースし、コーディングと視覚推論が向上した。",
+          "summary_long": "Anthropicは2026年4月16日にClaude Opus 4.7をリリースした。Opus 4.6比でコーディング・視覚推論・スケールしたツール使用が向上し、エージェントコーディングベンチマークでも性能が改善された。禁止されたサイバー用途を自動検知・ブロックするセーフガードを搭載し、合法的なセキュリティ研究者向けのCyber Verification Programも開始した。全Claude製品・API・Microsoft/Google/Amazonの各クラウドで利用可能。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "AnthropicがClaude一部機能に本人確認を導入—Persona社経由でパスポート・免許証を照合",
+          "url": "https://www.theregister.com/2026/04/16/anthropic_claude_id_verification_persona/",
+          "source": "The Register",
+          "summary_short": "AnthropicがClaude一部機能の利用に本人確認書類の提出を義務付けた。",
+          "summary_long": "Anthropicは2026年4月、Claude一部機能の利用に本人確認を導入した。Persona社が照合を担当し、パスポート・運転免許証・国民IDカードのいずれかを要求する。Anthropicは本人確認画像を自社サーバーに保持しないとしているが、プライバシー懸念からユーザーの反発を受けている。OpenAI・Google Geminiは同様の確認を一般ユーザーに求めていない。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 53,
+      "trend_history": [41, 39, 43, 40, 42, 50, 53],
+      "summary_short": "ドコモと奈良先端大がチャットからチーム共通認知をAI推定する技術を開発した。",
+      "summary_long": "NTTドコモと奈良先端科学技術大学院大学は2026年4月10日、日常のビジネスチャットメッセージからチームのShared Mental Model（SMM）をAIでリアルタイム推定する技術を世界で初めて開発したと発表した。メッセージの内容・カテゴリ・指向性の3要素を分析してSMMスコアを算出し、チーム状態の変化を可視化する。論文はHCI分野最難関の国際会議CHI 2026（4月13〜17日、スペイン・バルセロナ）で発表された。ドコモビジネスは4月17日にAI-IVR「ANCAR Routing」とチャットボット「ANCAR Chat」の提供も開始した。",
+      "articles": [
+        {
+          "title": "NTTドコモと奈良先端大、チャットメッセージからチーム共通認知をAIでリアルタイム推定する技術を開発—世界初、CHI 2026に採択",
+          "url": "https://www.docomo.ne.jp/binary/pdf/info/news_release/topics_260410_c1.pdf",
+          "source": "NTTドコモ",
+          "summary_short": "ドコモと奈良先端大がチャットからチーム共通認知をAI推定する技術を開発した。",
+          "summary_long": "NTTドコモと奈良先端科学技術大学院大学は2026年4月10日、ビジネスチャットのメッセージからチームのShared Mental Model（SMM）をAIでリアルタイム推定する技術を世界で初めて開発したと発表した。メッセージの内容・カテゴリ・指向性の3要素を分析してSMMスコアを算出する。HCI分野最難関の国際会議CHI 2026（4月13〜17日、スペイン・バルセロナ）で発表された。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモビジネス、自由発話認識AI-IVR「docomo business ANCAR® Routing」と「ANCAR® Chat」を提供開始",
+          "url": "https://www.ntt.com/about-us/information/info_20260417.html",
+          "source": "NTTドコモビジネス",
+          "summary_short": "ドコモビジネスが自由発話認識AI-IVRとチャットボットの提供を開始した。",
+          "summary_long": "NTTドコモビジネスは2026年4月17日、顧客の自由発話によるお問い合わせを認識して適切な窓口につなぐAI-IVR「docomo business ANCAR® Routing」と、自動から有人応対までをシームレスにつなぐチャットボット「ANCAR® Chat」の提供を開始した。従来IVRの深階層選択課題を解消し、オペレーターと顧客双方の負担を軽減する。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 52,
+      "trend_history": [30, 31, 29, 32, 30, 46, 52],
+      "summary_short": "理研と阪大が144量子ビットの国産量子コンピュータ叡-Ⅱのクラウド運用を開始した。",
+      "summary_long": "理化学研究所と大阪大学の共同研究グループは2026年3月26日、144量子ビットチップを搭載した国産量子コンピュータ「叡-Ⅱ（エイツー）」のクラウドサービスを開始した。前モデル「叡」（64量子ビット）の2倍以上の量子ビット数を実現し、共振周波数の低設定による新アプローチで量子ビット寿命を延長した。並行運用体制を採用し、一方のメンテナンス中も計算リクエストを継続処理できる。NVIDIAのIsingモデルと合わせ、量子実用化の国内基盤が整いつつある。",
+      "articles": [
+        {
+          "title": "理化学研究所・大阪大、144量子ビット国産量子コンピュータ「叡-Ⅱ」のクラウドサービスを開始",
+          "url": "https://www.riken.jp/pr/news/2026/20260326_1/index.html",
+          "source": "理化学研究所",
+          "summary_short": "理研と阪大が144量子ビットの国産量子コンピュータ叡-Ⅱのクラウド運用を開始した。",
+          "summary_long": "理化学研究所と大阪大学の共同研究グループは2026年3月26日、144量子ビットチップを搭載した国産量子コンピュータ「叡-Ⅱ」のクラウドサービスを開始した。前世代の「叡」（64量子ビット）の2倍以上の量子ビット数を搭載し、共振周波数を低く設定する新アプローチで量子ビット寿命を延長した。複数台の並行運用に移行し、メンテナンス中も計算リクエストを継続処理できる体制を整えた。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "NVIDIA、量子コンピュータ向けオープンAIモデル「Ising」を発表—誤り訂正速度2.5倍・精度3倍",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers",
+          "source": "NVIDIA",
+          "summary_short": "NVIDIAが量子誤り訂正速度2.5倍・精度3倍の量子AIモデル「Ising」を公開した。",
+          "summary_long": "NVIDIAは2026年4月14日、量子プロセッサのキャリブレーションと誤り訂正に特化したオープンソースAIモデル「Ising」を発表した。35Bパラメータの「Ising Calibration」と3D CNNベースの「Ising Decoding」の2モデルで構成。従来比で誤り訂正速度2.5倍・精度3倍を実現し、キャリブレーション所要時間を日数から時間単位へ短縮する。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 65,
+      "trend_history": [50, 52, 58, 56, 54, 58, 65],
+      "summary_short": "日本の長期金利が2.275%と27年ぶり高水準を記録し、財政悪化懸念が高まった。",
+      "summary_long": "日本の新発10年国債利回りが2.275%と1999年以来27年ぶりの高水準を記録した。中東情勢の緊張（ホルムズ海峡封鎖）と122兆円規模の積極財政予算が上昇圧力となっている。日銀の4月27〜28日の金融政策決定会合での利上げ確率はOIS市場ベースで31%にとどまっており、金利上昇と利上げ見送りが並存する状況が続いている。",
+      "articles": [
+        {
+          "title": "日本の長期金利が2.275%と27年ぶり高水準—中東情勢と財政悪化懸念が上昇圧力",
+          "url": "https://www.nikkei.com/article/DGXZQOUB140I60U6A110C2000000/",
+          "source": "日本経済新聞",
+          "summary_short": "日本の長期金利が2.275%と1999年以来27年ぶりの高水準を記録した。",
+          "summary_long": "日本の新発10年国債利回りが2.275%と1999年以来27年ぶりの高水準を記録した。ホルムズ海峡封鎖による中東緊張と2026年度の122兆円超規模の積極財政予算が上昇要因となっている。日銀の4月会合での利上げ確率はOIS市場ベースで31%にとどまり、金利上昇と政策金利据え置きが並存する状況が継続している。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "日銀4月会合の利上げ確率31%に急低下—イラン情勢・貿易不確実性が重し",
+          "url": "https://www.nikkei.com/article/DGXZQOCD110EN0R10C26A4000000/",
+          "source": "日本経済新聞",
+          "summary_short": "日銀4月会合の利上げ確率がOIS市場で先週57%から31%へ急低下した。",
+          "summary_long": "日銀の4月27〜28日の金融政策決定会合での利上げ確率は、翌日物金利スワップ（OIS）市場ベースで4月14日時点に31%まで低下した。ホルムズ海峡封鎖による原油高・円安圧力と米中貿易交渉の不確実性が重しとなり、先週の57%から大幅に後退している。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": [
+        "https://www.jiji.com/jc/v8?id=202604hormuz-team"
+      ]
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 76,
+      "trend_history": [58, 60, 63, 61, 62, 78, 76],
+      "summary_short": "IMFが日本の2026年GDP成長率を0.8%に下方修正し、中東情勢の影響を指摘した。",
+      "summary_long": "IMFは2026年4月2日に日本のアーティクルIVコンサルテーションを公表し、2026年のGDP成長率予測を0.8%に下方修正した。外需の弱体化と中東情勢の影響が主要因で、インフレによる家計購買力の低下も指摘している。ホルムズ海峡封鎖は継続しており、日本の原油精製所稼働率は67.7%に急落。2026年度予算（122兆3092億円）は4月7日に参院で可決・成立し、4月成立は11年ぶりとなった。",
+      "articles": [
+        {
+          "title": "IMF、日本の2026年GDP成長率を0.8%に下方修正—外需弱体化と中東情勢を要因に",
+          "url": "https://www.imf.org/en/news/articles/2026/04/02/pr-26105-japan-imf-executive-board-concludes-2026-article-iv-consult",
+          "source": "IMF",
+          "summary_short": "IMFが日本の2026年GDP成長率予測を0.8%に下方修正した。",
+          "summary_long": "IMFは2026年4月2日、日本のアーティクルIVコンサルテーション結果を公表した。2026年の実質GDP成長率を0.8%へ下方修正し、外需の弱体化と中東情勢による供給制約が主因と示した。名目賃金の伸びがインフレを下回るリスクへの警戒も明記した。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "ホルムズ海峡封鎖継続—日本の精製所稼働率67.7%に急落、国家備蓄70日分超放出",
+          "url": "https://www.jiji.com/jc/v8?id=202604hormuz-team",
+          "source": "時事通信",
+          "summary_short": "ホルムズ海峡封鎖継続で日本の精製所稼働率が67.7%へ急落した。",
+          "summary_long": "米国によるホルムズ海峡封鎖は4月13日以降も継続し、海峡通航数は平時の約10隻前後と約90%減となった。原油先物は4月7日に1バレル112.95ドルを記録。日本の精製所稼働率は67.7%へ急落し、高市政権は計70日分超の国家石油備蓄放出で対応している。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "2026年度予算が参院可決・成立、過去最大122兆3092億円—4月成立は11年ぶり",
+          "url": "https://www.jiji.com/jc/article?k=2026040700797&g=pol",
+          "source": "時事通信",
+          "summary_short": "2026年度予算が過去最大122兆円超で成立、4月成立は11年ぶりとなった。",
+          "summary_long": "参議院本会議で2026年度予算が可決・成立した。一般会計歳出総額122兆3092億円は過去最大規模で、4月中の成立は2015年以来11年ぶり。社会保障費39兆円・国債費31兆円を計上し、高校授業料・小学校給食費の無償化も盛り込んだ積極財政予算となった。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 93,
+      "NTTドコモ": 53,
+      "量子コンピュータ": 52,
+      "金融決済": 65,
+      "国内・社会": 76
+    },
+    "source_distribution": {
+      "Anthropic": 1,
+      "The Register": 1,
+      "NTTドコモ": 1,
+      "NTTドコモビジネス": 1,
+      "理化学研究所": 1,
+      "NVIDIA": 1,
+      "日本経済新聞": 2,
+      "IMF": 1,
+      "時事通信": 2
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 2,
+      "4": 6,
+      "5": 3
+    }
+  }
+}
