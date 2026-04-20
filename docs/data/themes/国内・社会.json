@@ -1,6 +1,6 @@
 {
   "theme": "国内・社会",
-  "last_updated": "2026-04-20",
+  "last_updated": "2026-04-21",
   "trend_direction": "上昇トレンド",
   "weekly_highlights": [
     {
@@ -11,11 +11,11 @@
       "summary": "4月13日以降もホルムズ海峡封鎖継続、通航数約90%減。日本の精製所稼働率67.7%へ急落し国家備蓄を放出して対応中。"
     },
     {
-      "title": "IMF、日本の2026年GDP成長率を0.8%に下方修正—外需弱体化と中東情勢を要因に",
-      "url": "https://www.imf.org/en/news/articles/2026/04/02/pr-26105-japan-imf-executive-board-concludes-2026-article-iv-consult",
-      "date": "2026-04-19",
+      "title": "子育て支援金は「独身税」？ 26年度6,000億円、出産や育児支える",
+      "url": "https://www.nikkei.com/article/DGXZQOCD0693K0W6A400C2000000/",
+      "date": "2026-04-21",
       "importance": 4,
-      "summary": "IMFが日本の2026年実質GDP成長率を0.8%へ下方修正。外需弱体化と中東情勢による供給制約が主因。"
+      "summary": "子ども・子育て支援金制度が2026年4月に開始。全医療保険加入者から月額200〜600円を徴収し、年間約6,000億円を児童手当拡充・こども誰でも通園制度等に充当する。"
     },
     {
       "title": "政府、AI利活用基本方針を閣議決定",
@@ -26,17 +26,17 @@
     }
   ],
   "stats": {
-    "article_count": 6,
-    "avg_importance": 4.0,
-    "top_keywords": ["ホルムズ海峡封鎖", "高市内閣", "AI規制", "IMF", "予算"]
+    "article_count": 8,
+    "avg_importance": 4.1,
+    "top_keywords": ["ホルムズ海峡封鎖", "子育て支援金", "独身税", "AI規制", "IMF"]
   },
   "trend_series": [
-    { "date": "2026-04-14", "score": 60, "article_count": 0 },
     { "date": "2026-04-15", "score": 63, "article_count": 0 },
     { "date": "2026-04-16", "score": 61, "article_count": 0 },
     { "date": "2026-04-17", "score": 62, "article_count": 0 },
     { "date": "2026-04-18", "score": 78, "article_count": 1 },
     { "date": "2026-04-19", "score": 76, "article_count": 3 },
-    { "date": "2026-04-20", "score": 72, "article_count": 2 }
+    { "date": "2026-04-20", "score": 72, "article_count": 2 },
+    { "date": "2026-04-21", "score": 78, "article_count": 2 }
   ]
 }

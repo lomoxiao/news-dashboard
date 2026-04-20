@@ -1,8 +1,15 @@
 {
   "theme": "最新AI情報",
-  "last_updated": "2026-04-20",
+  "last_updated": "2026-04-21",
   "trend_direction": "上昇トレンド",
   "weekly_highlights": [
+    {
+      "title": "Anthropic、AIデザインツール「Claude Design」プレビュー公開——Opus 4.7搭載でコーディングツールとの連携も",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/18/news022.html",
+      "date": "2026-04-21",
+      "importance": 5,
+      "summary": "Anthropicが4月17日にAIデザインツールClaude Designをプレビュー公開。Claude Opus 4.7搭載でプロンプトからプロトタイプ・スライドを生成。発表当日にFigma株約6%・Wix株約5%・Adobe株約2.7%が下落した。"
+    },
     {
       "title": "Anthropic、Claude Opus 4.7を発表—コーディング・視覚推論強化と自動セキュリティ検知機能を搭載",
       "url": "https://www.anthropic.com/news/claude-opus-4-7",
@@ -11,32 +18,25 @@
       "summary": "Anthropicが4月16日にClaude Opus 4.7をリリース。コーディング・視覚推論が向上し、禁止サイバー用途を自動ブロックするセーフガードを搭載。"
     },
     {
-      "title": "Claude Code Routine 正式リリース",
-      "url": "https://www.anthropic.com/news/claude-code-routine",
-      "date": "2026-04-18",
-      "importance": 5,
-      "summary": "Anthropicが自律型コーディングエージェント機能を正式公開。スケジュール実行で定型開発タスクを自動化。Proプランで最大15回/日実行可能。"
-    },
-    {
-      "title": "Google、Gemini Mac向けネイティブアプリを正式リリース—画面共有・ショートカット起動でデスクトップAI市場に参入",
-      "url": "https://biggo.jp/news/202604180450_Google-Gemini-Mac-App-Launch",
-      "date": "2026-04-20",
+      "title": "OpenAI、Codexを強化——バックグラウンドでデスクトップアプリを操作する機能でAnthropicに対抗",
+      "url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+      "date": "2026-04-21",
       "importance": 4,
-      "summary": "GoogleがMac向けネイティブGeminiアプリをリリース。Apple Silicon専用・100%Swift製でOption+Spaceでの呼び出しと画面共有機能を実装し、ChatGPT・ClaudeのMacアプリと直接競合する。"
+      "summary": "OpenAIがCodexを強化し、バックグラウンドでコンピューター上の任意アプリを操作できる機能を追加。AIエージェントがデスクトップを代理操作する競争が本格化。"
     }
   ],
   "stats": {
-    "article_count": 6,
-    "avg_importance": 4.0,
-    "top_keywords": ["Claude Opus 4.7", "Anthropic", "Google Gemini", "OpenAI", "コーディング"]
+    "article_count": 9,
+    "avg_importance": 4.3,
+    "top_keywords": ["Claude Design", "Claude Opus 4.7", "Anthropic", "OpenAI Codex", "LLM-jp-4"]
   },
   "trend_series": [
-    { "date": "2026-04-14", "score": 75, "article_count": 0 },
     { "date": "2026-04-15", "score": 80, "article_count": 0 },
     { "date": "2026-04-16", "score": 82, "article_count": 0 },
     { "date": "2026-04-17", "score": 85, "article_count": 0 },
     { "date": "2026-04-18", "score": 89, "article_count": 2 },
     { "date": "2026-04-19", "score": 93, "article_count": 2 },
-    { "date": "2026-04-20", "score": 89, "article_count": 2 }
+    { "date": "2026-04-20", "score": 89, "article_count": 2 },
+    { "date": "2026-04-21", "score": 94, "article_count": 3 }
   ]
 }

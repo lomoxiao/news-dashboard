@@ -1,42 +1,42 @@
 {
   "theme": "量子コンピュータ",
-  "last_updated": "2026-04-20",
+  "last_updated": "2026-04-21",
   "trend_direction": "上昇トレンド",
   "weekly_highlights": [
+    {
+      "title": "NVIDIA、世界初のオープン量子AIモデル「Ising」を発表——量子エラー訂正2.5倍高速・3倍高精度",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers",
+      "date": "2026-04-19",
+      "importance": 5,
+      "summary": "NVIDIAが量子誤り訂正特化のオープンAIモデルIsingを発表。訂正速度2.5倍・精度3倍、キャリブレーション時間を日単位から時間単位へ短縮。Harvard大・Fermilab等が採用。"
+    },
+    {
+      "title": "量子関連株、Nvidia量子AIモデル発表後に急騰",
+      "url": "https://www.cnbc.com/2026/04/16/quantum-stocks-nvidia-ai-models.html",
+      "date": "2026-04-21",
+      "importance": 3,
+      "summary": "NVIDIAのIsingモデル発表後にIonQ・Rigetti・D-Waveなどの量子コンピューティング関連株が急騰。NVIDIAの参入が業界全体の商業化期待を引き上げた。"
+    },
     {
       "title": "理化学研究所・大阪大、144量子ビット国産量子コンピュータ「叡-Ⅱ」のクラウドサービスを開始",
       "url": "https://www.riken.jp/pr/news/2026/20260326_1/index.html",
       "date": "2026-04-19",
       "importance": 4,
       "summary": "理研と阪大が144量子ビットの国産量子コンピュータ叡-Ⅱのクラウドサービスを3月26日開始。前世代64量子ビットの2倍超、並行運用体制も整備。"
-    },
-    {
-      "title": "NVIDIA、量子コンピュータ向けオープンAIモデル「Ising」を発表—誤り訂正速度2.5倍・精度3倍",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers",
-      "date": "2026-04-19",
-      "importance": 4,
-      "summary": "NVIDIAが量子誤り訂正特化のオープンAIモデルIsingを発表。訂正速度2.5倍・精度3倍、キャリブレーション時間を日数から時間単位へ短縮。"
-    },
-    {
-      "title": "IBM・Microsoft・富士通が牽引、量子コンピューティング市場が2026年に22億ドル規模へ—金融・医療で実用化加速",
-      "url": "https://innovatopia.jp/quantum/quantum-news/52867/",
-      "date": "2026-04-20",
-      "importance": 3,
-      "summary": "量子コンピューティング市場が2026年に22億ドル規模に達する見通し。NISQデバイス段階から誤り訂正実装段階へ移行する産業化フェーズに入り、金融・医療での実用化が加速。"
     }
   ],
   "stats": {
-    "article_count": 5,
-    "avg_importance": 3.4,
-    "top_keywords": ["叡-Ⅱ", "NVIDIA Ising", "誤り訂正", "ECC暗号", "量子市場"]
+    "article_count": 7,
+    "avg_importance": 3.7,
+    "top_keywords": ["NVIDIA Ising", "量子関連株", "誤り訂正", "叡-Ⅱ", "フォールトトレラント"]
   },
   "trend_series": [
-    { "date": "2026-04-14", "score": 31, "article_count": 0 },
     { "date": "2026-04-15", "score": 29, "article_count": 0 },
     { "date": "2026-04-16", "score": 32, "article_count": 0 },
     { "date": "2026-04-17", "score": 30, "article_count": 0 },
     { "date": "2026-04-18", "score": 46, "article_count": 1 },
     { "date": "2026-04-19", "score": 52, "article_count": 2 },
-    { "date": "2026-04-20", "score": 54, "article_count": 2 }
+    { "date": "2026-04-20", "score": 54, "article_count": 2 },
+    { "date": "2026-04-21", "score": 68, "article_count": 2 }
   ]
 }

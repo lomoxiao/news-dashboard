@@ -1,7 +1,7 @@
 {
   "theme": "NTTドコモ",
-  "last_updated": "2026-04-20",
-  "trend_direction": "上昇トレンド",
+  "last_updated": "2026-04-21",
+  "trend_direction": "下降トレンド",
   "weekly_highlights": [
     {
       "title": "Starlink衛星とスマートフォンの直接通信サービス「docomo Starlink Direct」を4月27日から提供開始",
@@ -18,25 +18,25 @@
       "summary": "顧客の自由発話を認識して適切な窓口につなぐAI-IVRとチャットボットを4月17日提供開始。従来IVRの深階層選択課題を解消。"
     },
     {
-      "title": "生成AI利用率、1年で27%→51%に急増—NTTドコモ モバイル社会研究所調査",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/06/news078.html",
-      "date": "2026-04-20",
-      "importance": 4,
-      "summary": "ドコモ調査で全国15〜69歳の生成AI利用率が2025年2月の27%から2026年2月に51%へ1年間で24ポイント急増した。"
+      "title": "「dバリューパス」に新たな特典を追加——4月21日よりエアトリのクーポンが利用可能に",
+      "url": "https://prtimes.jp/main/html/rd/p/000000786.000118641.html",
+      "date": "2026-04-21",
+      "importance": 3,
+      "summary": "NTTドコモが月額550円のdバリューパスに4月21日からエアトリのクーポン特典を追加。4月15日のタワーレコードオンラインに続く特典拡充。"
     }
   ],
   "stats": {
-    "article_count": 5,
-    "avg_importance": 4.0,
-    "top_keywords": ["Starlink Direct", "生成AI利用率", "カスタマーサポート", "ANCAR", "AI"]
+    "article_count": 7,
+    "avg_importance": 3.7,
+    "top_keywords": ["Starlink Direct", "dバリューパス", "エアトリ", "ANCAR", "生成AI利用率"]
   },
   "trend_series": [
-    { "date": "2026-04-14", "score": 39, "article_count": 0 },
     { "date": "2026-04-15", "score": 43, "article_count": 0 },
     { "date": "2026-04-16", "score": 40, "article_count": 0 },
     { "date": "2026-04-17", "score": 42, "article_count": 0 },
     { "date": "2026-04-18", "score": 50, "article_count": 1 },
     { "date": "2026-04-19", "score": 53, "article_count": 2 },
-    { "date": "2026-04-20", "score": 61, "article_count": 2 }
+    { "date": "2026-04-20", "score": 61, "article_count": 2 },
+    { "date": "2026-04-21", "score": 48, "article_count": 2 }
   ]
 }
