@@ -1,7 +1,7 @@
 {
   "theme": "金融決済",
-  "last_updated": "2026-04-20",
-  "trend_direction": "上昇トレンド",
+  "last_updated": "2026-04-19",
+  "trend_direction": "上昇",
   "weekly_highlights": [
     {
       "title": "日本の長期金利が2.275%と27年ぶり高水準—中東情勢と財政悪化懸念が上昇圧力",
@@ -11,32 +11,32 @@
       "summary": "新発10年国債利回りが1999年以来27年ぶりの高水準2.275%を記録。ホルムズ海峡封鎖と122兆円規模積極財政が上昇要因。"
     },
     {
+      "title": "植田日銀総裁、追加利上げ示唆",
+      "url": "https://www.boj.or.jp/en/about/press/2026/",
+      "date": "2026-04-18",
+      "importance": 4,
+      "summary": "植田総裁が物価上昇持続時の追加利上げを示唆。4月27〜28日の政策決定会合が焦点、市場利上げ確率は約60%。"
+    },
+    {
       "title": "日銀4月会合の利上げ確率31%に急低下—イラン情勢・貿易不確実性が重し",
       "url": "https://www.nikkei.com/article/DGXZQOCD110EN0R10C26A4000000/",
       "date": "2026-04-19",
       "importance": 4,
       "summary": "OIS市場での利上げ確率が先週57%から31%へ急低下。ホルムズ海峡封鎖と米中貿易不確実性が重しとなった。"
-    },
-    {
-      "title": "改正資金決済法2026年6月施行予定—ステーブルコイン規制の抜本見直しと電子決済手段仲介業を新設",
-      "url": "https://keiyaku-watch.jp/media/hourei/2026-funds-settlement/",
-      "date": "2026-04-20",
-      "importance": 4,
-      "summary": "2025年6月公布の改正資金決済法が2026年6月施行予定。信託型ステーブルコインの運用資産範囲拡張と電子決済手段等取引業仲介業の新設が主要変更点。"
     }
   ],
   "stats": {
-    "article_count": 4,
-    "avg_importance": 4.25,
-    "top_keywords": ["長期金利", "日銀", "ステーブルコイン", "改正資金決済法", "利上げ"]
+    "article_count": 3,
+    "avg_importance": 4.3,
+    "top_keywords": ["金利", "日銀", "利上げ", "財政", "円相場"]
   },
   "trend_series": [
+    { "date": "2026-04-13", "score": 50, "article_count": 0 },
     { "date": "2026-04-14", "score": 52, "article_count": 0 },
     { "date": "2026-04-15", "score": 58, "article_count": 0 },
     { "date": "2026-04-16", "score": 56, "article_count": 0 },
     { "date": "2026-04-17", "score": 54, "article_count": 0 },
     { "date": "2026-04-18", "score": 58, "article_count": 1 },
-    { "date": "2026-04-19", "score": 65, "article_count": 2 },
-    { "date": "2026-04-20", "score": 62, "article_count": 1 }
+    { "date": "2026-04-19", "score": 65, "article_count": 2 }
   ]
 }

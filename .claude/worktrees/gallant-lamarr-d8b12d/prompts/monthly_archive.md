@@ -53,3 +53,13 @@
 ```
 
 以上の手順をすべて自律的に実行してください。必ずステップ1のアーカイブJSON保存を確認してからステップ3のマーキングに進むこと。ファイルの削除は絶対に行わないこと。
+
+## 最終ステップ: GitHubへ反映（省略禁止）
+全ファイルの保存が完了したら、以下のgitコマンドを実行してGitHub Pagesに反映すること。
+
+```bash
+cd d:/work/claude/news-dashboard
+git add docs/data/monthly/ docs/data/daily/ docs/data/metrics/daily/
+git commit -m "chore: monthly archive $(date +%Y-%m-%d)"
+git push origin master
+```

@@ -1,8 +1,15 @@
 {
   "theme": "NTTドコモ",
-  "last_updated": "2026-04-19",
-  "trend_direction": "上昇",
+  "last_updated": "2026-04-20",
+  "trend_direction": "上昇トレンド",
   "weekly_highlights": [
+    {
+      "title": "Starlink衛星とスマートフォンの直接通信サービス「docomo Starlink Direct」を4月27日から提供開始",
+      "url": "https://www.docomo.ne.jp/info/news_release/2026/04/02_01.html",
+      "date": "2026-04-20",
+      "importance": 5,
+      "summary": "NTTドコモが4月27日から申込不要・当面無料の衛星直接通信サービスを84機種向けに開始。5G/4G LTE圏外でもテキスト送受信と位置情報共有が可能になる。"
+    },
     {
       "title": "NTTドコモビジネス、自由発話認識AI-IVR「ANCAR Routing」と「ANCAR Chat」を提供開始",
       "url": "https://www.ntt.com/about-us/information/info_20260417.html",
@@ -11,32 +18,25 @@
       "summary": "顧客の自由発話を認識して適切な窓口につなぐAI-IVRとチャットボットを4月17日提供開始。従来IVRの深階層選択課題を解消。"
     },
     {
-      "title": "ドコモ、生成AIでカスタマーサポートを自動化",
-      "url": "https://www.docomo.ne.jp/info/news_release/2026/04/18/",
-      "date": "2026-04-18",
+      "title": "生成AI利用率、1年で27%→51%に急増—NTTドコモ モバイル社会研究所調査",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/06/news078.html",
+      "date": "2026-04-20",
       "importance": 4,
-      "summary": "NTTドコモが生成AI活用のカスタマーサポート自動化システムを開発。2026年夏展開、対応コスト約30%削減見込み。"
-    },
-    {
-      "title": "NTTドコモと奈良先端大、チャットメッセージからチーム共通認知をAIでリアルタイム推定する技術を開発—CHI 2026採択",
-      "url": "https://www.docomo.ne.jp/binary/pdf/info/news_release/topics_260410_c1.pdf",
-      "date": "2026-04-19",
-      "importance": 3,
-      "summary": "ビジネスチャットからチームのShared Mental ModelをAIでリアルタイム推定する世界初技術。CHI 2026（バルセロナ）で発表。"
+      "summary": "ドコモ調査で全国15〜69歳の生成AI利用率が2025年2月の27%から2026年2月に51%へ1年間で24ポイント急増した。"
     }
   ],
   "stats": {
-    "article_count": 3,
-    "avg_importance": 3.7,
-    "top_keywords": ["NTTドコモ", "AI", "チャット", "自動化", "サービス"]
+    "article_count": 5,
+    "avg_importance": 4.0,
+    "top_keywords": ["Starlink Direct", "生成AI利用率", "カスタマーサポート", "ANCAR", "AI"]
   },
   "trend_series": [
-    { "date": "2026-04-13", "score": 41, "article_count": 0 },
     { "date": "2026-04-14", "score": 39, "article_count": 0 },
     { "date": "2026-04-15", "score": 43, "article_count": 0 },
     { "date": "2026-04-16", "score": 40, "article_count": 0 },
     { "date": "2026-04-17", "score": 42, "article_count": 0 },
     { "date": "2026-04-18", "score": 50, "article_count": 1 },
-    { "date": "2026-04-19", "score": 53, "article_count": 2 }
+    { "date": "2026-04-19", "score": 53, "article_count": 2 },
+    { "date": "2026-04-20", "score": 61, "article_count": 2 }
   ]
 }

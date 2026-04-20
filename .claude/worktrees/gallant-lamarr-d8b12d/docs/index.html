@@ -1,0 +1,979 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ニュースダッシュボード</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
+  <style>
+    :root {
+      --bg: #0f1117;
+      --surface: #1a1d27;
+      --surface2: #242736;
+      --surface3: #2c3045;
+      --border: #2e3147;
+      --text: #e8eaf0;
+      --text2: #8b90a8;
+      --text3: #5c6080;
+      --accent: #5b8dee;
+      --accent-dim: rgba(91,141,238,.15);
+      --green: #3ecf8e;
+      --red: #f56565;
+      --yellow: #f6c90e;
+      --yellow-dim: rgba(246,201,14,.12);
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, 'Hiragino Sans', 'Yu Gothic UI', sans-serif;
+      font-size: 14px;
+      line-height: 1.65;
+    }
+    a { color: inherit; text-decoration: none; }
+    button { cursor: pointer; font-family: inherit; }
+
+    /* ── Scrollbar ── */
+    ::-webkit-scrollbar { width: 6px; height: 6px; }
+    ::-webkit-scrollbar-track { background: var(--bg); }
+    ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+
+    /* ── Layout ── */
+    .app { display: flex; flex-direction: column; min-height: 100vh; }
+
+    /* ── Header ── */
+    .header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 10px 16px;
+      position: sticky; top: 0; z-index: 200;
+    }
+    .header-inner {
+      max-width: 1200px; margin: 0 auto;
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 8px;
+    }
+    .header-left { display: flex; align-items: baseline; gap: 12px; }
+    .header-title { font-size: 15px; font-weight: 700; letter-spacing: -.01em; }
+    .header-meta { color: var(--text2); font-size: 11px; }
+    .style-pills { display: flex; gap: 4px; flex-wrap: wrap; }
+    .style-pill {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      color: var(--text2);
+      padding: 3px 10px;
+      border-radius: 14px;
+      font-size: 12px;
+      transition: background .12s, border-color .12s, color .12s;
+    }
+    .style-pill.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+    .style-pill:hover:not(.active) { border-color: var(--accent); color: var(--text); }
+
+    /* ── Main ── */
+    .main { flex: 1; max-width: 1200px; margin: 0 auto; padding: 14px 16px 32px; width: 100%; }
+
+    /* ── Page nav ── */
+    .page-nav {
+      display: flex; gap: 4px;
+      margin-bottom: 14px;
+      border-bottom: 1px solid var(--border);
+      overflow-x: auto;
+      padding-bottom: 0;
+    }
+    .page-nav-btn {
+      background: transparent;
+      border: none;
+      border-bottom: 2px solid transparent;
+      color: var(--text2);
+      padding: 6px 14px 8px;
+      font-size: 13px;
+      white-space: nowrap;
+      transition: color .12s, border-color .12s;
+      margin-bottom: -1px;
+    }
+    .page-nav-btn.active { color: var(--accent); border-bottom-color: var(--accent); }
+    .page-nav-btn:hover:not(.active) { color: var(--text); }
+
+    /* ── Card ── */
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 14px 16px;
+      margin-bottom: 12px;
+    }
+    .card-label {
+      font-size: 11px; font-weight: 600;
+      color: var(--text3);
+      text-transform: uppercase;
+      letter-spacing: .07em;
+      margin-bottom: 10px;
+    }
+
+    /* ── Top Summary ── */
+    .lead {
+      font-size: 15px;
+      line-height: 1.75;
+      margin-bottom: 12px;
+    }
+    .highlights { display: flex; flex-direction: column; gap: 6px; margin-bottom: 12px; }
+    .highlight {
+      display: flex; gap: 10px; align-items: flex-start;
+      background: var(--surface2);
+      border-radius: 7px;
+      padding: 8px 12px;
+    }
+    .highlight-theme {
+      font-size: 11px; font-weight: 700;
+      color: var(--accent);
+      white-space: nowrap;
+      min-width: 76px;
+      padding-top: 2px;
+    }
+    .highlight-text { font-size: 13px; color: var(--text); }
+    .must-read {
+      background: var(--yellow-dim);
+      border: 1px solid rgba(246,201,14,.3);
+      border-radius: 8px;
+      padding: 10px 14px;
+    }
+    .must-read-label { font-size: 10px; font-weight: 700; color: var(--yellow); letter-spacing: .05em; margin-bottom: 4px; }
+    .must-read-title { font-size: 14px; font-weight: 600; }
+    .must-read-title a:hover { color: var(--accent); }
+    .must-read-reason { font-size: 12px; color: var(--text2); margin-top: 3px; }
+    .must-read-bkm { font-size: 11px; color: var(--text3); margin-top: 2px; }
+
+    /* ── Sparklines ── */
+    .spark-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 8px;
+    }
+    .spark-item {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 12px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      cursor: pointer;
+      transition: border-color .12s;
+    }
+    .spark-item:hover { border-color: var(--accent); }
+    .spark-item.active { border-color: var(--accent); background: var(--accent-dim); }
+    .spark-name { font-size: 13px; font-weight: 500; }
+    .spark-score { font-size: 11px; color: var(--text2); }
+    .spark-delta { font-size: 12px; font-weight: 600; margin-top: 1px; }
+    .spark-delta.up { color: var(--green); }
+    .spark-delta.down { color: var(--red); }
+    .spark-delta.flat { color: var(--text3); }
+
+    /* ── Theme tabs ── */
+    .theme-tabs {
+      display: flex; gap: 4px;
+      overflow-x: auto;
+      padding-bottom: 2px;
+      margin-bottom: 12px;
+    }
+    .theme-tab {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      color: var(--text2);
+      padding: 5px 12px;
+      border-radius: 6px;
+      font-size: 12px;
+      white-space: nowrap;
+      transition: all .12s;
+    }
+    .theme-tab.active { background: var(--surface3); border-color: var(--accent); color: var(--text); }
+    .theme-tab:hover:not(.active) { color: var(--text); }
+
+    /* ── Article cards ── */
+    .articles-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 8px;
+    }
+    @media (min-width: 700px) {
+      .articles-grid { grid-template-columns: 1fr 1fr; }
+    }
+    @media (min-width: 1000px) {
+      .articles-grid { grid-template-columns: 1fr 1fr; }
+    }
+
+    .article-card {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 12px;
+      transition: border-color .12s;
+    }
+    .article-card:hover { border-color: var(--accent); }
+    .article-card.expanded { border-color: var(--accent); }
+
+    .art-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; }
+    .art-title {
+      font-size: 14px; font-weight: 600;
+      line-height: 1.5;
+      color: var(--text);
+      cursor: pointer;
+      flex: 1;
+    }
+    .art-title:hover { color: var(--accent); }
+    .art-title a { color: inherit; }
+    .art-title a:hover { color: var(--accent); }
+    .art-badges { display: flex; gap: 4px; flex-shrink: 0; align-items: flex-start; padding-top: 2px; }
+    .imp-badge {
+      font-size: 10px;
+      padding: 1px 6px;
+      border-radius: 4px;
+      font-weight: 600;
+    }
+    .imp-5 { background: #742a2a; color: #fc8181; }
+    .imp-4 { background: #7b341e; color: #f6ad55; }
+    .imp-3 { background: #2a4365; color: #63b3ed; }
+    .imp-2 { background: #1a3a2a; color: #48bb78; }
+    .imp-1 { background: #2d3748; color: #a0aec0; }
+    .src-badge {
+      font-size: 10px;
+      padding: 1px 6px;
+      border-radius: 4px;
+      background: var(--surface3);
+      color: var(--text2);
+      white-space: nowrap;
+    }
+    .art-short { font-size: 12px; color: var(--text2); margin-top: 6px; line-height: 1.5; }
+    .art-expand-btn {
+      display: flex; align-items: center; gap: 4px;
+      background: none; border: none;
+      font-size: 11px; color: var(--text3);
+      margin-top: 6px;
+      padding: 0;
+      transition: color .12s;
+    }
+    .art-expand-btn:hover { color: var(--accent); }
+    .art-detail {
+      display: none;
+      margin-top: 10px;
+      padding-top: 10px;
+      border-top: 1px solid var(--border);
+    }
+    .article-card.expanded .art-detail { display: block; }
+    .art-long { font-size: 13px; color: var(--text); line-height: 1.7; margin-bottom: 8px; }
+    .art-source-link { font-size: 12px; }
+    .art-source-link a { color: var(--accent); }
+    .art-source-link a:hover { text-decoration: underline; }
+
+    /* Theme section heading */
+    .theme-heading {
+      display: flex; align-items: center; justify-content: space-between;
+      margin-bottom: 10px;
+    }
+    .theme-heading-left { display: flex; align-items: center; gap: 8px; }
+    .theme-title { font-size: 15px; font-weight: 700; }
+    .theme-summary { font-size: 12px; color: var(--text2); margin-bottom: 10px; }
+    .trend-score-pill {
+      font-size: 11px;
+      padding: 2px 8px;
+      border-radius: 10px;
+      background: var(--surface3);
+      color: var(--text2);
+    }
+
+    /* ── Charts page ── */
+    .period-row { display: flex; gap: 6px; margin-bottom: 12px; }
+    .period-btn {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      color: var(--text2);
+      padding: 4px 12px;
+      border-radius: 12px;
+      font-size: 12px;
+      transition: all .12s;
+    }
+    .period-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+    .chart-section { margin-bottom: 20px; }
+    .chart-section-title { font-size: 12px; color: var(--text2); margin-bottom: 8px; }
+    .chart-wrap { position: relative; height: 200px; }
+
+    /* ── Archive page ── */
+    .archive-list { display: flex; flex-direction: column; gap: 5px; }
+    .archive-item {
+      display: flex; justify-content: space-between; align-items: center;
+      padding: 8px 12px;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 7px;
+      cursor: pointer;
+      transition: border-color .12s;
+      gap: 12px;
+    }
+    .archive-item:hover { border-color: var(--accent); }
+    .archive-date { font-size: 13px; font-weight: 600; white-space: nowrap; }
+    .archive-headline { font-size: 12px; color: var(--text2); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+    /* ── Sources page ── */
+    .sources-list { display: flex; flex-direction: column; gap: 5px; }
+    .source-item {
+      display: flex; justify-content: space-between; align-items: center;
+      padding: 8px 12px;
+      background: var(--surface2);
+      border-radius: 7px;
+    }
+    .source-name a { color: var(--accent); font-size: 13px; }
+    .source-name a:hover { text-decoration: underline; }
+    .source-count { font-size: 12px; color: var(--text2); }
+
+    /* ── Loading / empty ── */
+    .empty { text-align: center; padding: 32px; color: var(--text2); font-size: 13px; }
+    .spinner {
+      display: inline-block;
+      width: 16px; height: 16px;
+      border: 2px solid var(--border);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin .7s linear infinite;
+      vertical-align: middle;
+      margin-right: 6px;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ── Pages ── */
+    .page { display: none; }
+    .page.active { display: block; }
+
+    /* ── Footer ── */
+    .footer {
+      text-align: center;
+      padding: 12px;
+      border-top: 1px solid var(--border);
+      display: flex; justify-content: center; gap: 20px;
+    }
+    .footer a { color: var(--text3); font-size: 12px; }
+    .footer a:hover { color: var(--text2); }
+
+    /* ── Mobile ── */
+    @media (max-width: 600px) {
+      .main { padding: 10px 10px 24px; }
+      .header-inner { gap: 6px; }
+      .header-title { font-size: 14px; }
+      .lead { font-size: 14px; }
+    }
+  </style>
+</head>
+<body>
+<div class="app">
+
+  <!-- ── Header ── -->
+  <header class="header">
+    <div class="header-inner">
+      <div class="header-left">
+        <div class="header-title">📰 ニュースダッシュボード</div>
+        <div class="header-meta" id="header-meta">読み込み中...</div>
+      </div>
+      <div class="style-pills" id="style-pills"></div>
+    </div>
+  </header>
+
+  <main class="main">
+
+    <!-- ── Page nav ── -->
+    <nav class="page-nav" id="page-nav">
+      <button class="page-nav-btn active" data-page="home">🏠 ホーム</button>
+      <button class="page-nav-btn" data-page="trends">📈 マクロトレンド</button>
+      <button class="page-nav-btn" data-page="archive">📅 過去レポート</button>
+      <button class="page-nav-btn" data-page="sources">🔗 ソース</button>
+    </nav>
+
+    <!-- ════ HOME PAGE ════ -->
+    <div class="page active" id="page-home">
+
+      <!-- Today's reading -->
+      <div class="card" id="top-summary-card">
+        <div class="card-label">今日の読み物</div>
+        <div id="top-summary-body">
+          <div class="empty"><span class="spinner"></span>読み込み中...</div>
+        </div>
+      </div>
+
+      <!-- Sparklines -->
+      <div class="card">
+        <div class="card-label">テーマ別トレンド（クリックでジャンプ）</div>
+        <div class="spark-grid" id="spark-grid">
+          <div class="empty"><span class="spinner"></span></div>
+        </div>
+      </div>
+
+      <!-- Theme tabs + articles -->
+      <div class="card" id="topics-card">
+        <div class="card-label">記事一覧</div>
+        <div class="theme-tabs" id="theme-tabs"></div>
+        <div id="topics-body">
+          <div class="empty"><span class="spinner"></span>読み込み中...</div>
+        </div>
+      </div>
+
+    </div><!-- /home -->
+
+    <!-- ════ TRENDS PAGE ════ -->
+    <div class="page" id="page-trends">
+      <div class="card">
+        <div class="card-label">マクロトレンド</div>
+        <div class="period-row" id="period-row">
+          <button class="period-btn active" data-days="30">30日</button>
+          <button class="period-btn" data-days="90">90日</button>
+          <button class="period-btn" data-days="180">180日</button>
+          <button class="period-btn" data-days="365">365日</button>
+        </div>
+        <div class="chart-section">
+          <div class="chart-section-title">arXiv 投稿数（AI・量子）</div>
+          <div class="chart-wrap"><canvas id="chart-arxiv"></canvas></div>
+        </div>
+        <div class="chart-section">
+          <div class="chart-section-title">Google Trends（テーマ別）</div>
+          <div class="chart-wrap"><canvas id="chart-gtrends"></canvas></div>
+        </div>
+        <div class="chart-section">
+          <div class="chart-section-title">日経平均・USD/JPY</div>
+          <div class="chart-wrap"><canvas id="chart-markets"></canvas></div>
+        </div>
+      </div>
+    </div><!-- /trends -->
+
+    <!-- ════ ARCHIVE PAGE ════ -->
+    <div class="page" id="page-archive">
+      <div class="card">
+        <div class="card-label">過去レポート</div>
+        <div id="archive-body">
+          <div class="empty"><span class="spinner"></span>読み込み中...</div>
+        </div>
+      </div>
+    </div><!-- /archive -->
+
+    <!-- ════ SOURCES PAGE ════ -->
+    <div class="page" id="page-sources">
+      <div class="card">
+        <div class="card-label">引用ソース一覧（回数順）</div>
+        <div id="sources-body">
+          <div class="empty"><span class="spinner"></span>読み込み中...</div>
+        </div>
+      </div>
+    </div><!-- /sources -->
+
+  </main>
+
+  <footer class="footer">
+    <a href="GRAND_DESIGN.md" target="_blank">設計書</a>
+    <a href="https://github.com" target="_blank">GitHub</a>
+  </footer>
+</div>
+
+<script>
+// ─────────────────────────────────────────────
+// State
+// ─────────────────────────────────────────────
+const S = {
+  style:      (new URLSearchParams(location.search).get('style')) || localStorage.getItem('nd-style') || 'journalist',
+  page:       'home',
+  period:     30,
+  activeTheme: null,  // null = all
+  config:     null,
+  today:      null,
+  todayDate:  null,
+  index:      null,
+  metrics:    null,
+};
+
+// Derive base URL: from docs/, data is at ./data/
+const BASE = './';
+
+// ─────────────────────────────────────────────
+// Fetch helpers
+// ─────────────────────────────────────────────
+async function getJSON(path) {
+  try {
+    const r = await fetch(BASE + path + '?v=' + Date.now());
+    return r.ok ? r.json() : null;
+  } catch { return null; }
+}
+
+async function boot() {
+  [S.config, S.index, S.metrics] = await Promise.all([
+    getJSON('config.json'),
+    getJSON('data/index.json'),
+    getJSON('data/metrics/master.json'),
+  ]);
+
+  if (S.index?.reports?.length) {
+    S.todayDate = S.index.reports[0].date;
+    S.today = await getJSON('data/daily/' + S.todayDate + '.json');
+  }
+
+  renderStylePills();
+  renderMeta();
+  renderTopSummary();
+  renderSparklines();
+  renderThemeTabs();
+  renderTopics(S.activeTheme);
+}
+
+// ─────────────────────────────────────────────
+// Style pills
+// ─────────────────────────────────────────────
+function renderStylePills() {
+  const styles = S.config?.styles || defaultStyles();
+  const el = document.getElementById('style-pills');
+  el.innerHTML = Object.entries(styles).map(([k, s]) =>
+    `<button class="style-pill${k === S.style ? ' active' : ''}" data-style="${k}">${s.label}</button>`
+  ).join('');
+  el.addEventListener('click', e => {
+    const btn = e.target.closest('.style-pill');
+    if (!btn) return;
+    S.style = btn.dataset.style;
+    localStorage.setItem('nd-style', S.style);
+    el.querySelectorAll('.style-pill').forEach(b => b.classList.toggle('active', b.dataset.style === S.style));
+    renderTopSummary();
+    renderTopics(S.activeTheme);
+  });
+}
+
+function defaultStyles() {
+  return {
+    journalist: { label: '📰 記者風' },
+    friendly:   { label: '😊 フレンドリー' },
+    brief:      { label: '📋 箇条書き' },
+    analytical: { label: '🔍 分析' },
+  };
+}
+
+// ─────────────────────────────────────────────
+// Meta
+// ─────────────────────────────────────────────
+function renderMeta() {
+  const el = document.getElementById('header-meta');
+  if (!S.today) { el.textContent = 'データなし'; return; }
+  const ts = S.today.generated_at ? new Date(S.today.generated_at) : null;
+  const timeStr = ts ? ts.toLocaleString('ja-JP', { hour: '2-digit', minute: '2-digit' }) : '';
+  el.textContent = S.todayDate + (timeStr ? ' ' + timeStr + ' 更新' : '');
+}
+
+// ─────────────────────────────────────────────
+// Top Summary
+// ─────────────────────────────────────────────
+function renderTopSummary() {
+  const el = document.getElementById('top-summary-body');
+  const sum = S.today?.top_summary?.[S.style];
+  if (!sum) {
+    el.innerHTML = `<div class="empty">データがありません。<code>prompts/daily_collect.md</code> を実行してください。</div>`;
+    return;
+  }
+
+  // highlights
+  const highlights = (sum.highlights || []).map(h => `
+    <div class="highlight">
+      <div class="highlight-theme">${h.theme}</div>
+      <div class="highlight-text">${esc(h.text)}</div>
+    </div>`).join('');
+
+  // must_read
+  const mr = sum.must_read;
+  const mustRead = mr ? `
+    <div class="must-read">
+      <div class="must-read-label">📌 今日の必読</div>
+      <div class="must-read-title"><a href="${mr.url}" target="_blank" rel="noopener">${esc(mr.title)}</a></div>
+      <div class="must-read-reason">${esc(mr.reason || '')}</div>
+      ${mr.bookmark_count ? `<div class="must-read-bkm">🔖 ${mr.bookmark_count.toLocaleString()} ブックマーク</div>` : ''}
+    </div>` : '';
+
+  el.innerHTML = `
+    <div class="lead">${esc(sum.lead || '')}</div>
+    <div class="highlights">${highlights}</div>
+    ${mustRead}
+  `;
+}
+
+// ─────────────────────────────────────────────
+// Sparklines
+// ─────────────────────────────────────────────
+function renderSparklines() {
+  const el = document.getElementById('spark-grid');
+  const topics = S.today?.topics;
+  const themes = S.config?.themes || [];
+
+  if (!topics?.length) {
+    el.innerHTML = `<div class="empty" style="grid-column:1/-1">データなし</div>`;
+    return;
+  }
+
+  el.innerHTML = topics.map(t => {
+    const conf = themes.find(th => th.name === t.theme) || {};
+    const h = t.trend_history?.length ? t.trend_history : [t.trend_score || 0];
+    const score = t.trend_score ?? 0;
+    const prev  = h.length >= 2 ? h[h.length - 2] : score;
+    const delta = prev ? ((score - prev) / prev * 100) : 0;
+    const cls   = delta > 0.5 ? 'up' : delta < -0.5 ? 'down' : 'flat';
+    const sign  = delta > 0 ? '+' : '';
+    const isActive = S.activeTheme === t.theme;
+    return `
+      <div class="spark-item${isActive ? ' active' : ''}" data-theme="${t.theme}">
+        <div>
+          <div class="spark-name">${conf.emoji || ''} ${t.theme}</div>
+          <div class="spark-score">スコア ${score}</div>
+          <div class="spark-delta ${cls}">${sign}${delta.toFixed(0)}%</div>
+        </div>
+        ${svgSparkline(h, 76, 28)}
+      </div>`;
+  }).join('');
+
+  el.addEventListener('click', e => {
+    const item = e.target.closest('.spark-item');
+    if (!item) return;
+    const theme = item.dataset.theme;
+    S.activeTheme = S.activeTheme === theme ? null : theme;
+    // Update active state
+    el.querySelectorAll('.spark-item').forEach(el =>
+      el.classList.toggle('active', el.dataset.theme === S.activeTheme)
+    );
+    updateThemeTabActive();
+    renderTopics(S.activeTheme);
+    // Scroll to topics
+    document.getElementById('topics-card').scrollIntoView({ behavior: 'smooth', block: 'start' });
+  });
+}
+
+function svgSparkline(data, W, H) {
+  if (!data?.length) return '';
+  const pad = 2;
+  const min = Math.min(...data), max = Math.max(...data);
+  const range = (max - min) || 1;
+  const points = data.map((v, i) => {
+    const x = pad + (data.length === 1 ? (W - pad * 2) / 2 : i / (data.length - 1) * (W - pad * 2));
+    const y = H - pad - ((v - min) / range) * (H - pad * 2);
+    return `${x.toFixed(1)},${y.toFixed(1)}`;
+  }).join(' ');
+  return `<svg width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" style="flex-shrink:0">
+    <polyline points="${points}" fill="none" stroke="var(--accent)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>`;
+}
+
+// ─────────────────────────────────────────────
+// Theme tabs
+// ─────────────────────────────────────────────
+function renderThemeTabs() {
+  const el = document.getElementById('theme-tabs');
+  const topics = S.today?.topics || [];
+  const conf   = S.config?.themes || [];
+
+  const all = [{ theme: null, label: '📋 すべて' }].concat(
+    topics.map(t => {
+      const c = conf.find(th => th.name === t.theme) || {};
+      return { theme: t.theme, label: `${c.emoji || ''} ${t.theme}` };
+    })
+  );
+
+  el.innerHTML = all.map(({ theme, label }) =>
+    `<button class="theme-tab${S.activeTheme === theme ? ' active' : ''}" data-theme="${theme ?? ''}">${label}</button>`
+  ).join('');
+
+  el.addEventListener('click', e => {
+    const btn = e.target.closest('.theme-tab');
+    if (!btn) return;
+    S.activeTheme = btn.dataset.theme || null;
+    updateThemeTabActive();
+    updateSparkActive();
+    renderTopics(S.activeTheme);
+  });
+}
+
+function updateThemeTabActive() {
+  document.querySelectorAll('.theme-tab').forEach(b =>
+    b.classList.toggle('active', (b.dataset.theme || null) === S.activeTheme)
+  );
+}
+
+function updateSparkActive() {
+  document.querySelectorAll('.spark-item').forEach(el =>
+    el.classList.toggle('active', el.dataset.theme === S.activeTheme)
+  );
+}
+
+// ─────────────────────────────────────────────
+// Topics
+// ─────────────────────────────────────────────
+function renderTopics(filterTheme) {
+  const el = document.getElementById('topics-body');
+  const topics = S.today?.topics;
+  const conf   = S.config?.themes || [];
+
+  if (!topics?.length) {
+    el.innerHTML = `<div class="empty">記事データがありません</div>`;
+    return;
+  }
+
+  const filtered = filterTheme ? topics.filter(t => t.theme === filterTheme) : topics;
+
+  el.innerHTML = filtered.map(topic => {
+    const c = conf.find(th => th.name === topic.theme) || {};
+    const articles = (topic.articles || []).map(a => articleCard(a)).join('');
+    return `
+      <div class="theme-section" style="margin-bottom:20px">
+        <div class="theme-heading">
+          <div class="theme-heading-left">
+            <div class="theme-title">${c.emoji || ''} ${esc(topic.theme)}</div>
+            <span class="trend-score-pill">スコア ${topic.trend_score ?? 0}</span>
+          </div>
+        </div>
+        <div class="theme-summary">${esc(topic.summary_short || '')}</div>
+        <div class="articles-grid">${articles}</div>
+      </div>`;
+  }).join('');
+
+  // Expand/collapse
+  el.addEventListener('click', e => {
+    const card = e.target.closest('.article-card');
+    if (!card) return;
+    // Don't toggle if clicking on a link
+    if (e.target.tagName === 'A') return;
+    card.classList.toggle('expanded');
+    const btn = card.querySelector('.art-expand-btn');
+    if (btn) btn.textContent = card.classList.contains('expanded') ? '▲ 閉じる' : '▼ 詳細を見る';
+  });
+}
+
+function articleCard(a) {
+  return `
+    <div class="article-card">
+      <div class="art-header">
+        <div class="art-title">
+          <a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a>
+        </div>
+        <div class="art-badges">
+          <span class="imp-badge imp-${a.importance || 1}">${a.importance || 1}</span>
+          <span class="src-badge">${esc(a.source || '')}</span>
+        </div>
+      </div>
+      <div class="art-short">${esc(a.summary_short || '')}</div>
+      <button class="art-expand-btn">▼ 詳細を見る</button>
+      <div class="art-detail">
+        <div class="art-long">${esc(a.summary_long || '')}</div>
+        <div class="art-source-link"><a href="${esc(a.url)}" target="_blank" rel="noopener">→ ${esc(a.source || a.url)}</a></div>
+      </div>
+    </div>`;
+}
+
+// ─────────────────────────────────────────────
+// Charts
+// ─────────────────────────────────────────────
+const charts = {};
+
+function destroyChart(id) {
+  if (charts[id]) { charts[id].destroy(); delete charts[id]; }
+}
+
+const CHART_DEFAULTS = {
+  responsive: true,
+  maintainAspectRatio: false,
+  interaction: { mode: 'index', intersect: false },
+  plugins: {
+    legend: { labels: { color: '#8b90a8', font: { size: 11 }, boxWidth: 12 } },
+    tooltip: { backgroundColor: '#1a1d27', borderColor: '#2e3147', borderWidth: 1, titleColor: '#e8eaf0', bodyColor: '#8b90a8' },
+  },
+  scales: {
+    x: {
+      ticks: { color: '#5c6080', maxTicksLimit: 7, font: { size: 10 } },
+      grid:  { color: 'rgba(46,49,71,.5)' },
+    },
+    y: {
+      ticks: { color: '#5c6080', font: { size: 10 } },
+      grid:  { color: 'rgba(46,49,71,.5)' },
+    },
+  },
+};
+
+function sliceDays(arr, days) {
+  return (arr || []).slice(-days);
+}
+
+function renderCharts() {
+  const m = S.metrics;
+  if (!m?.series) {
+    ['arxiv', 'gtrends', 'markets'].forEach(id => {
+      const el = document.getElementById('chart-' + id);
+      if (el) el.closest('.chart-section').querySelector('.chart-wrap').innerHTML =
+        '<div class="empty">データなし（Routine②を実行してください）</div>';
+    });
+    return;
+  }
+
+  const days = S.period;
+
+  // ── arXiv ──
+  destroyChart('arxiv');
+  const aiRaw = sliceDays(m.series.arxiv_ai?.data, days);
+  const qRaw  = sliceDays(m.series.arxiv_quantum?.data, days);
+  const labels = aiRaw.map(d => d.date.slice(5));  // MM-DD
+  charts['arxiv'] = new Chart(document.getElementById('chart-arxiv'), {
+    type: 'line',
+    data: {
+      labels,
+      datasets: [
+        { label: 'AI (cs.AI)', data: aiRaw.map(d => d.value), borderColor: '#5b8dee', backgroundColor: 'rgba(91,141,238,.08)', fill: true, tension: .3, pointRadius: 2 },
+        { label: '量子 (quant-ph)', data: qRaw.map(d => d.value), borderColor: '#3ecf8e', backgroundColor: 'rgba(62,207,142,.08)', fill: true, tension: .3, pointRadius: 2 },
+      ],
+    },
+    options: CHART_DEFAULTS,
+  });
+
+  // ── Google Trends ──
+  destroyChart('gtrends');
+  const trends = m.series.trends || {};
+  const tColors = ['#5b8dee', '#f6c90e', '#3ecf8e', '#f56565', '#a78bfa', '#f6ad55'];
+  const tKeys = Object.keys(trends);
+  const tLabels = tKeys.length ? sliceDays(trends[tKeys[0]]?.data, days).map(d => d.date.slice(5)) : [];
+  charts['gtrends'] = new Chart(document.getElementById('chart-gtrends'), {
+    type: 'line',
+    data: {
+      labels: tLabels,
+      datasets: tKeys.map((k, i) => ({
+        label: k,
+        data: sliceDays(trends[k]?.data, days).map(d => d.value),
+        borderColor: tColors[i % tColors.length],
+        tension: .3, pointRadius: 2,
+      })),
+    },
+    options: CHART_DEFAULTS,
+  });
+
+  // ── Markets ──
+  destroyChart('markets');
+  const nk = sliceDays(m.series.markets?.nikkei?.data, days);
+  const fx = sliceDays(m.series.markets?.usdjpy?.data, days);
+  const mkLabels = nk.map(d => d.date.slice(5));
+  charts['markets'] = new Chart(document.getElementById('chart-markets'), {
+    type: 'line',
+    data: {
+      labels: mkLabels,
+      datasets: [
+        { label: '日経平均（円）', data: nk.map(d => d.value), borderColor: '#f6c90e', tension: .3, pointRadius: 2, yAxisID: 'y' },
+        { label: 'USD/JPY',      data: fx.map(d => d.value), borderColor: '#3ecf8e', tension: .3, pointRadius: 2, yAxisID: 'y1' },
+      ],
+    },
+    options: {
+      ...CHART_DEFAULTS,
+      scales: {
+        ...CHART_DEFAULTS.scales,
+        y1: {
+          position: 'right',
+          ticks: { color: '#5c6080', font: { size: 10 } },
+          grid: { drawOnChartArea: false },
+        },
+      },
+    },
+  });
+}
+
+// Period buttons
+document.getElementById('period-row').addEventListener('click', e => {
+  const btn = e.target.closest('.period-btn');
+  if (!btn) return;
+  S.period = parseInt(btn.dataset.days);
+  document.querySelectorAll('.period-btn').forEach(b =>
+    b.classList.toggle('active', b.dataset.days === btn.dataset.days)
+  );
+  renderCharts();
+});
+
+// ─────────────────────────────────────────────
+// Archive
+// ─────────────────────────────────────────────
+function renderArchive() {
+  const el = document.getElementById('archive-body');
+  const reports = S.index?.reports || [];
+  if (!reports.length) {
+    el.innerHTML = '<div class="empty">過去レポートがありません</div>';
+    return;
+  }
+  el.innerHTML = '<div class="archive-list">' +
+    reports.map(r => `
+      <div class="archive-item" data-date="${r.date}">
+        <span class="archive-date">${r.date}</span>
+        <span class="archive-headline">${esc(r.headline || '')}</span>
+      </div>`).join('') +
+    '</div>';
+  el.addEventListener('click', async e => {
+    const item = e.target.closest('.archive-item');
+    if (!item) return;
+    await loadDate(item.dataset.date);
+    switchPage('home');
+  });
+}
+
+async function loadDate(date) {
+  const data = await getJSON('data/daily/' + date + '.json');
+  if (!data) { alert('データがありません: ' + date); return; }
+  S.today = data;
+  S.todayDate = date;
+  S.activeTheme = null;
+  renderMeta();
+  renderTopSummary();
+  renderSparklines();
+  renderThemeTabs();
+  renderTopics(null);
+}
+
+// ─────────────────────────────────────────────
+// Sources
+// ─────────────────────────────────────────────
+function renderSources() {
+  const el = document.getElementById('sources-body');
+  const sources = [...(S.index?.all_sources || [])].sort((a, b) => b.count - a.count);
+  if (!sources.length) {
+    el.innerHTML = '<div class="empty">ソースデータがありません</div>';
+    return;
+  }
+  el.innerHTML = '<div class="sources-list">' +
+    sources.map(s => `
+      <div class="source-item">
+        <span class="source-name"><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a></span>
+        <span class="source-count">${s.count} 件</span>
+      </div>`).join('') +
+    '</div>';
+}
+
+// ─────────────────────────────────────────────
+// Page routing
+// ─────────────────────────────────────────────
+document.getElementById('page-nav').addEventListener('click', e => {
+  const btn = e.target.closest('.page-nav-btn');
+  if (!btn) return;
+  switchPage(btn.dataset.page);
+});
+
+function switchPage(page) {
+  S.page = page;
+  document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+  document.getElementById('page-' + page)?.classList.add('active');
+  document.querySelectorAll('.page-nav-btn').forEach(b =>
+    b.classList.toggle('active', b.dataset.page === page)
+  );
+  if (page === 'trends')  renderCharts();
+  if (page === 'archive') renderArchive();
+  if (page === 'sources') renderSources();
+}
+
+// ─────────────────────────────────────────────
+// Utils
+// ─────────────────────────────────────────────
+function esc(s) {
+  return String(s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+// ─────────────────────────────────────────────
+// Boot
+// ─────────────────────────────────────────────
+boot();
+</script>
+</body>
+</html>

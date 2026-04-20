@@ -1,0 +1,116 @@
+{
+  "default_style": "journalist",
+  "styles": {
+    "journalist": {
+      "label": "📰 記者風",
+      "description": "新聞記者が書く簡潔・客観的な文体。事実と数値を中心に。",
+      "prompt_instruction": "新聞記者として、簡潔・客観的に事実と数値を中心に記述してください。語末は「〜した」「〜となった」など断定調で。各ハイライトは150字以内。"
+    },
+    "friendly": {
+      "label": "😊 フレンドリー",
+      "description": "信頼できる知人が話しかけるような親しみやすい文体。",
+      "prompt_instruction": "信頼できる知人が読者に話しかけるような文体で書いてください。「〜ですね」「〜みたいですよ」など親しみのある語尾で。各ハイライトは150字以内。"
+    },
+    "brief": {
+      "label": "📋 箇条書き",
+      "description": "要点のみ箇条書き。10行以内で全体を把握できる時短スタイル。",
+      "prompt_instruction": "箇条書きのみで記述してください。テーマごとに3点以内、全体10行以内。装飾的な表現は不要。"
+    },
+    "analytical": {
+      "label": "🔍 分析",
+      "description": "データ・背景・影響を重視する深い分析文体。",
+      "prompt_instruction": "データと根拠を重視し、背景・因果関係・今後の影響まで踏み込んで記述してください。各ハイライトは200字以内。"
+    }
+  },
+  "schedule": {
+    "daily_collect": "06:00",
+    "metrics_collect": "06:30",
+    "weekly_summary": "07:00",
+    "monthly_archive": "01:00"
+  },
+  "themes": [
+    {
+      "name": "最新AI情報",
+      "emoji": "🤖",
+      "category": "interested",
+      "keywords": [
+        "生成AI", "LLM", "AIエージェント", "Claude", "GPT", "Gemini",
+        "AI活用事例", "AI業務活用", "AIシステム開発", "AI運用",
+        "Anthropic", "OpenAI", "Google DeepMind"
+      ],
+      "rss": [
+        "https://zenn.dev/topics/ai/feed",
+        "https://zenn.dev/topics/llm/feed"
+      ],
+      "qiita_tags": ["LLM", "生成AI", "ChatGPT", "Claude", "AIエージェント"],
+      "exclude_keywords": ["NTTドコモ", "ドコモ"],
+      "importance_boost": 2
+    },
+    {
+      "name": "NTTドコモ",
+      "emoji": "📱",
+      "category": "interested",
+      "keywords": [
+        "NTTドコモ", "ドコモ", "dカード", "d払い", "dポイント",
+        "ドコモ口座", "暮らし活", "ドコモAI",
+        "NTTグループ AI"
+      ],
+      "rss": [
+        "https://www.docomo.ne.jp/info/news_release/rss/index.rss"
+      ],
+      "qiita_tags": [],
+      "importance_boost": 2,
+      "notes": "AI活用記事はこのテーマに優先的に振り分け"
+    },
+    {
+      "name": "量子コンピュータ",
+      "emoji": "⚛️",
+      "category": "interested",
+      "keywords": [
+        "量子コンピュータ", "量子コンピューティング", "量子超越性",
+        "量子アルゴリズム", "量子誤り訂正", "IBM Quantum",
+        "Google Quantum AI", "量子ユースケース"
+      ],
+      "rss": [
+        "https://arxiv.org/rss/quant-ph"
+      ],
+      "qiita_tags": ["量子コンピュータ"],
+      "arxiv_summary": "abstract_only",
+      "importance_boost": 1
+    },
+    {
+      "name": "金融決済",
+      "emoji": "💳",
+      "category": "interested",
+      "keywords": [
+        "フィンテック", "キャッシュレス", "デジタル決済", "CBDC",
+        "ステーブルコイン", "オープンバンキング", "BaaS",
+        "改正資金決済法", "改正銀行法", "金融規制",
+        "PayPay", "LINE Pay", "Apple Pay"
+      ],
+      "rss": [
+        "https://www.fsa.go.jp/rss/rss_news.xml",
+        "https://www.boj.or.jp/rss/rss_news.xml"
+      ],
+      "qiita_tags": ["Fintech", "決済"],
+      "importance_boost": 1
+    },
+    {
+      "name": "国内・社会",
+      "emoji": "🏢",
+      "category": "must_know",
+      "keywords": [],
+      "rss": [
+        "https://www3.nhk.or.jp/rss/news/cat0.xml"
+      ],
+      "qiita_tags": [],
+      "hatena_min_bookmarks": 500,
+      "importance_boost": 0
+    }
+  ],
+  "must_know": {
+    "sources": ["NHK", "日経新聞", "Reuters"],
+    "min_sources": 2,
+    "hatena_min_bookmarks": 500
+  }
+}

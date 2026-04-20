@@ -1,0 +1,174 @@
+{
+  "date": "2026-04-18",
+  "generated_at": "2026-04-18T06:05:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "Anthropicが自律型コーディングエージェント機能「Claude Code Routine」を正式リリースした。日銀は同日、追加利上げの可能性を示唆した。",
+      "highlights": [
+        { "theme": "最新AI情報", "text": "AnthropicがClaude Code Routineを正式リリース。スケジュール実行により開発業務の完全自動化が可能となった。" },
+        { "theme": "金融決済", "text": "日銀・植田総裁が追加利上げを示唆。来週の政策決定会合が焦点となっている。" }
+      ],
+      "must_read": {
+        "title": "AI時代のエンジニアのキャリア戦略",
+        "url": "https://example.com/article/ai-career",
+        "reason": "元Google・現Anthropicのエンジニアによる具体的な整理。実証的に良質な一次資料。",
+        "bookmark_count": 1840
+      }
+    },
+    "friendly": {
+      "lead": "今週もAI界隈が動きましたね！特にClaude Code Routineのリリースは注目です。",
+      "highlights": [
+        { "theme": "最新AI情報", "text": "Claude CodeがRoutine機能を出しましたよ！これ、かなり便利そうですね。自動でコーディング作業を毎朝こなしてくれます。" },
+        { "theme": "金融決済", "text": "日銀がまた動きそうですね。来週の会合を要チェックですよ。" }
+      ],
+      "must_read": {
+        "title": "AI時代のエンジニアのキャリア戦略",
+        "url": "https://example.com/article/ai-career",
+        "reason": "週末にじっくり読みたい一本。かなり具体的で参考になります。",
+        "bookmark_count": 1840
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        { "theme": "最新AI情報", "text": "・Claude Code Routine 正式リリース\n・OpenAI GPT-5ロールアウト継続" },
+        { "theme": "金融決済", "text": "・日銀追加利上げ示唆\n・円相場152円台" }
+      ],
+      "must_read": {
+        "title": "AI時代のエンジニアのキャリア戦略",
+        "url": "https://example.com/article/ai-career",
+        "reason": "はてな1,840件。必読。",
+        "bookmark_count": 1840
+      }
+    },
+    "analytical": {
+      "lead": "AI・経済・技術の3領域で注目動向が重なった一週間。特にClaude Code Routineのリリースはコーディングエージェント市場における自動化レイヤーの競争を加速させる可能性がある。",
+      "highlights": [
+        { "theme": "最新AI情報", "text": "Claude Code Routineのリリースは、コーディングエージェント市場における自動化レイヤーの競争を加速させる可能性がある。AnthropicはOpenAIとの差別化を「開発者生産性」に据えた戦略が明確化している。" },
+        { "theme": "金融決済", "text": "日銀の追加利上げ観測は日米金利差縮小を通じて円高圧力を生み、輸出企業の業績と株式市場への波及が注目される。政策決定会合の結果次第で為替市場が大きく動く可能性がある。" }
+      ],
+      "must_read": {
+        "title": "AI時代のエンジニアのキャリア戦略",
+        "url": "https://example.com/article/ai-career",
+        "reason": "AIによる業務代替と人間の役割について実証的に整理した良質な一次資料。",
+        "bookmark_count": 1840
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 87,
+      "trend_history": [72, 68, 75, 80, 82, 85, 87],
+      "summary_short": "Claude Code Routineが正式リリースされた。",
+      "summary_long": "Anthropicは2026年4月18日、自律型コーディングエージェント機能「Claude Code Routine」を正式リリースした。スケジュール実行により開発業務の自動化が可能となり、開発者の生産性向上が期待される。",
+      "articles": [
+        {
+          "title": "Claude Code Routine 正式リリース",
+          "url": "https://www.anthropic.com/news/claude-code-routine",
+          "source": "Anthropic",
+          "summary_short": "Anthropicがコーディング自動化機能を正式公開した。",
+          "summary_long": "毎朝スケジュール実行が可能となり、定型的な開発タスクをClaudeが自律的にこなせるようになった。ProプランでMax15回/日の実行が可能。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "OpenAI GPT-5ロールアウト継続中",
+          "url": "https://openai.com/blog/gpt5",
+          "source": "OpenAI",
+          "summary_short": "GPT-5が段階的にChatGPTユーザーへ展開されている。",
+          "summary_long": "OpenAIはGPT-5を引き続きChatGPT有料ユーザー向けに展開中。コーディング・数学・推論能力でGPT-4oを上回るとされている。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 42,
+      "trend_history": [38, 41, 39, 43, 40, 42, 42],
+      "summary_short": "ドコモがAIを活用した新サービスを発表した。",
+      "summary_long": "NTTドコモは2026年4月18日、生成AIを活用したカスタマーサポート自動化サービスを発表した。2026年夏より順次展開予定で、対応コスト約30%削減を見込む。",
+      "articles": [
+        {
+          "title": "ドコモ、生成AIでカスタマーサポートを自動化",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/04/18/",
+          "source": "NTTドコモ",
+          "summary_short": "ドコモが生成AI活用のサポート自動化を発表した。",
+          "summary_long": "NTTドコモは生成AI技術を活用したカスタマーサポート自動化システムを開発。2026年夏より展開し、対応コスト約30%削減を見込む。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 31,
+      "trend_history": [28, 30, 31, 29, 32, 30, 31],
+      "summary_short": "量子誤り訂正の新手法が発表された。",
+      "summary_long": "arXiv論文（quant-ph）にて、量子誤り訂正の新手法が発表された。従来比で誤り率を約40%低減できるとされており、実用的な量子コンピュータ実現に向けた重要な一歩とされている。",
+      "articles": [
+        {
+          "title": "Novel Quantum Error Correction Scheme Reduces Error Rate by 40%",
+          "url": "https://arxiv.org/abs/2604.12345",
+          "source": "arXiv",
+          "summary_short": "量子誤り訂正の新手法で誤り率が約40%低減された。",
+          "summary_long": "新しいサーフェスコード改良手法により、従来比で量子ビットの誤り率を約40%低減することに成功した。IBM Quantumシステムでの検証実験で有効性が確認されている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 55,
+      "trend_history": [48, 50, 52, 58, 56, 54, 55],
+      "summary_short": "日銀が追加利上げの可能性を示唆した。",
+      "summary_long": "日銀・植田総裁は2026年4月18日の講演で、物価上昇が持続する場合に追加利上げを行う可能性を示唆した。来週の金融政策決定会合が焦点となっており、市場では利上げ確率が約60%と織り込まれている。",
+      "articles": [
+        {
+          "title": "植田日銀総裁、追加利上げ示唆",
+          "url": "https://www.boj.or.jp/en/about/press/2026/",
+          "source": "日本銀行",
+          "summary_short": "植田総裁が物価持続なら追加利上げと発言した。",
+          "summary_long": "日銀・植田総裁が追加利上げの可能性を講演で言及した。来週の政策決定会合が注目され、市場の利上げ確率は約60%と算出されている。円相場は152円台で推移している。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 62,
+      "trend_history": [55, 58, 60, 63, 61, 62, 62],
+      "summary_short": "政府がAI規制の基本方針を閣議決定した。",
+      "summary_long": "日本政府は2026年4月18日、AI利活用促進と安全基準の両立を目的とした「AI利活用基本方針」を閣議決定した。企業のAI導入支援と高リスクAIへの規制強化が柱となっている。",
+      "articles": [
+        {
+          "title": "政府、AI利活用基本方針を閣議決定",
+          "url": "https://www.kantei.go.jp/jp/press/2026/04/18/",
+          "source": "首相官邸",
+          "summary_short": "政府がAI規制の基本方針を閣議決定した。",
+          "summary_long": "日本政府がAI利活用基本方針を閣議決定した。高リスクAIへの規制と企業支援の両立を目指す内容で、2026年度中に関連法整備を進める方針が示された。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": { "最新AI情報": 87, "NTTドコモ": 42, "量子コンピュータ": 31, "金融決済": 55, "国内・社会": 62 },
+    "source_distribution": { "Anthropic": 1, "OpenAI": 1, "NTTドコモ": 1, "arXiv": 1, "日本銀行": 1, "首相官邸": 1 },
+    "importance_distribution": { "1": 0, "2": 0, "3": 1, "4": 4, "5": 1 }
+  }
+}

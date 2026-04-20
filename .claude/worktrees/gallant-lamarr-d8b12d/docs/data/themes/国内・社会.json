@@ -1,7 +1,7 @@
 {
   "theme": "国内・社会",
-  "last_updated": "2026-04-20",
-  "trend_direction": "上昇トレンド",
+  "last_updated": "2026-04-19",
+  "trend_direction": "上昇",
   "weekly_highlights": [
     {
       "title": "ホルムズ海峡封鎖継続—日本の精製所稼働率67.7%に急落、国家備蓄70日分超放出",
@@ -26,17 +26,17 @@
     }
   ],
   "stats": {
-    "article_count": 6,
-    "avg_importance": 4.0,
-    "top_keywords": ["ホルムズ海峡封鎖", "高市内閣", "AI規制", "IMF", "予算"]
+    "article_count": 4,
+    "avg_importance": 4.25,
+    "top_keywords": ["ホルムズ海峡", "GDP", "AI規制", "予算", "IMF"]
   },
   "trend_series": [
+    { "date": "2026-04-13", "score": 58, "article_count": 0 },
     { "date": "2026-04-14", "score": 60, "article_count": 0 },
     { "date": "2026-04-15", "score": 63, "article_count": 0 },
     { "date": "2026-04-16", "score": 61, "article_count": 0 },
     { "date": "2026-04-17", "score": 62, "article_count": 0 },
     { "date": "2026-04-18", "score": 78, "article_count": 1 },
-    { "date": "2026-04-19", "score": 76, "article_count": 3 },
-    { "date": "2026-04-20", "score": 72, "article_count": 2 }
+    { "date": "2026-04-19", "score": 76, "article_count": 3 }
   ]
 }

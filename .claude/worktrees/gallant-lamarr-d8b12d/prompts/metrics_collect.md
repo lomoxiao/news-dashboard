@@ -45,3 +45,13 @@ docs/data/metrics/daily/YYYY-MM-DD.json と docs/data/metrics/master.json を更
 - 最大365件を保持（古いものから削除）
 
 以上の手順をすべて自律的に実行し、両ファイルの保存まで完了してください。
+
+## 最終ステップ: GitHubへ反映（省略禁止）
+全ファイルの保存が完了したら、以下のgitコマンドを実行してGitHub Pagesに反映すること。
+
+```bash
+cd d:/work/claude/news-dashboard
+git add docs/data/metrics/
+git commit -m "chore: metrics update $(date +%Y-%m-%d)"
+git push origin master
+```
