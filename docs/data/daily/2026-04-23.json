@@ -1,25 +1,29 @@
 {
   "date": "2026-04-23",
-  "generated_at": "2026-04-23T08:00:00+09:00",
+  "generated_at": "2026-04-23T18:00:00+09:00",
   "top_summary": {
     "journalist": {
-      "lead": "AnthropicはAIエージェント実行基盤「Claude Managed Agents」の公開ベータを4月8日に開始し、AIエージェント開発の参入障壁を大幅に低下させた。IMFは4月14日の世界経済見通しで2026年の世界成長率を3.1%と予測し、中東情勢を主要リスクとして指摘した。",
+      "lead": "AnthropicがClaude Codeを新規Pro加入者向けに停止してMax 5xプランへ移行させるとともに、OpenAIがChatGPTにCodex搭載ワークスペースエージェントを導入し、AIエージェント市場のプラットフォーム競争が4月22-23日に一段と激化した。",
       "highlights": [
         {
           "theme": "最新AI情報",
-          "text": "Anthropicは4月8日、AIエージェント実行基盤「Claude Managed Agents」を公開ベータとして提供開始した。サンドボックス化されたコード実行環境・状態管理・権限制御をクラウド上で一括提供する。セッションコストは0.08ドル/時間で、Python・TypeScript対応のSDKも公開された。"
+          "text": "AnthropicはClaude Codeを新規Pro加入者（月額20ドル）向けに停止し、月額100ドルのMax 5xプランへの移行を求めた。OpenAIは4月22日にChatGPTチームプラン向けにCodex搭載ワークスペースエージェントを公開し、エージェント市場でのプラットフォーム競争が激化した。"
         },
         {
           "theme": "NTTドコモ",
-          "text": "NTTドコモビジネスは4月17日、自由発話に対応するAI-IVR「docomo business ANCAR® Routing」とチャットボット「docomo business ANCAR® Chat」の提供を開始した。従来のキーパッド選択型IVRの課題を解消し、SaaS型で提供する。"
+          "text": "NTTドコモは2026年3月31日をもってFOMA・iモードを終了し、4月以降は3G端末での通話・通信が不可となった。ドコモビジネスは4月17日、自由発話対応のAI-IVR「ANCAR® Routing」とチャットボット「ANCAR® Chat」の提供を開始した。"
         },
         {
           "theme": "量子コンピュータ",
           "text": "NVIDIAは4月14日（世界量子デー）、オープンソース量子AIモデル「NVIDIA Ising」を発表した。量子エラー訂正デコーダの処理速度が従来比2.5倍、精度が3倍に向上した。Harvard大・Fermi研など主要研究機関が採用を表明し、量子関連株は発表後に急騰した。"
         },
         {
+          "theme": "金融決済",
+          "text": "日本銀行は4月27-28日の金融政策決定会合で政策金利（0.75%）を据え置く公算が大きく、6月以降の追加利上げ判断に先送りする見通しとなった。中東情勢の不確実性が継続するなか、市場の4月利上げ確率は31%と2週間前の57%から大幅に低下した。"
+        },
+        {
           "theme": "国内・社会",
-          "text": "IMFは4月14日に公表した世界経済見通しで、2026年の世界成長率を3.1%と予測した。中東情勢の悪化シナリオでは成長率が2.6%に落ち込むリスクを示し、世界インフレは4.4%に加速する見通しを示した。日本経済は原油・LNG高騰による貿易収支悪化が継続している。"
+          "text": "IMFは4月14日に2026年の世界成長率を3.1%と予測した。政府は4月21日、防衛装備移転3原則の運用指針を改正し完成品輸出を原則全面解禁する方針を閣議決定した。ドル円は159円台で推移し円安基調が継続している。"
         }
       ],
       "must_read": {
@@ -30,23 +34,27 @@
       }
     },
     "friendly": {
-      "lead": "AnthropicがAIエージェントをもっと手軽に使えるようにする基盤「Claude Managed Agents」をベータ公開しましたよ。AIエージェント開発のハードルがグッと下がりそうな、注目のニュースですね！",
+      "lead": "AnthropicがClaude CodeをProプランから外したニュースが話題ですね！月20ドルから月100ドルへの移行を求める内容で、開発者コミュニティでは反発の声も多いみたいですよ。一方でOpenAIもChatGPTにチーム向けエージェントを追加し、AI競争がますます熱くなってきましたね。",
       "highlights": [
         {
           "theme": "最新AI情報",
-          "text": "Anthropicが「Claude Managed Agents」という、AIエージェントを本番で動かすための仕組みをベータ公開しましたよ。サーバー管理や認証など面倒な部分を全部引き受けてくれるサービスで、料金は1時間0.08ドルくらいみたいですね。"
+          "text": "AnthropicがClaude CodeをProプラン（月20ドル）から外して、月100ドルのMax 5xプランに移行させましたよ。既存ユーザーへの影響はまだないようですが、新規加入者には5倍の料金が必要になりましたね。OpenAIはChatGPTにCodex搭載のワークスペースエージェントを追加して、チームで使えるエージェント機能を強化しましたよ！"
         },
         {
           "theme": "NTTドコモ",
-          "text": "ドコモビジネスが4月17日から新しいAI電話応対サービス「docomo business ANCAR® Routing」を始めましたよ。「1番を押してください」みたいな面倒な案内が不要になって、普通に話すだけで適切な窓口につないでくれるんですね。"
+          "text": "ドコモのFOMAとiモードが3月31日で終了して、4月以降は3G携帯での通話・通信ができなくなりましたよ。ガラケー利用中の方は4G/5Gへの移行が必要ですね。一方でドコモビジネスは4月17日から「普通に話すだけで適切な窓口につなぐ」AI電話サービスを始めましたよ！"
         },
         {
           "theme": "量子コンピュータ",
           "text": "NVIDIAが量子コンピュータ向けのAIモデル「Ising」を発表しましたよ。量子のエラー訂正を従来比2.5倍速く・3倍正確にできるということで、量子コンピュータの実用化を後押しする技術みたいですね。発表後に関連株が急騰したそうですよ。"
         },
         {
+          "theme": "金融決済",
+          "text": "日銀が今月27-28日に開く会合で利上げを見送りそうですね。中東情勢の不確実性が残るなか、次の判断は6月以降になりそうですよ。2週間前に57%だった利上げ確率が31%まで下がってしまいました。ドル円も159円台で円安が続いていますね。"
+        },
+        {
           "theme": "国内・社会",
-          "text": "IMFが世界経済の見通しを発表して、2026年の成長率は3.1%になるとのことですよ。中東情勢がさらに悪化したら2.6%まで落ち込む可能性があるそうで、日本経済への影響も心配ですね。"
+          "text": "IMFが2026年の世界成長率を3.1%と予測しましたよ。政府は防衛装備輸出のルールを改正して、完成品の全面輸出を原則解禁したんですね。また、ドル円は159円台と円安基調が続いていて、輸入品の価格上昇が続きそうです。"
         }
       ],
       "must_read": {
@@ -61,11 +69,11 @@
       "highlights": [
         {
           "theme": "最新AI情報",
-          "text": "・Anthropic「Claude Managed Agents」公開ベータ開始（4/8）\n・NII「LLM-jp-4」シリーズ公開（4/9）\n・公取委、生成AI実態調査報告書ver.2.0公表（4/16）"
+          "text": "・Anthropic Claude CodeをProプランから削除・新規加入者はMax 5x（月100ドル）必須（4/21-22）\n・OpenAI ChatGPTにCodex搭載ワークスペースエージェント追加（4/22）\n・Claude Managed Agents公開ベータ開始（4/8）・OpenAI ChatGPT Images 2.0発表（4/21）"
         },
         {
           "theme": "NTTドコモ",
-          "text": "・docomo business ANCAR® Routing/Chat、4/17提供開始\n・自由発話AI-IVRでキーパッド操作不要に"
+          "text": "・ドコモFOMA・iモード3/31終了・4月以降3G端末での通話不可\n・docomo business ANCAR® Routing/Chat、4/17提供開始"
         },
         {
           "theme": "量子コンピュータ",
@@ -73,11 +81,11 @@
         },
         {
           "theme": "金融決済",
-          "text": "・IMF国際金融安定性報告書公表（4/14）、中東リスクで金融市場に警告\n・日本フィンテック市場、2034年に326億ドル規模予測"
+          "text": "・日銀4月27-28日会合・利上げ見送り公算大・6月以降に判断先送り\n・IMF国際金融安定性報告書公表（4/14）、中東リスクで金融市場に警告\n・ドル円159円台・市場利上げ確率31%（2週間前57%から低下）"
         },
         {
           "theme": "国内・社会",
-          "text": "・IMF世界経済見通し：2026年成長率3.1%・中東悪化で2.6%シナリオも\n・大和総研：人手不足と金利ある世界の格差拡大が日本の課題"
+          "text": "・IMF世界経済見通し：2026年成長率3.1%・中東悪化で2.6%シナリオも\n・政府が防衛装備移転3原則改正・完成品輸出を原則解禁（4/21）"
         }
       ],
       "must_read": {
@@ -88,23 +96,27 @@
       }
     },
     "analytical": {
-      "lead": "AnthropicのClaude Managed AgentsによるAIエージェントのPaaS化と、NVIDIAのIsingモデルによる量子AIの融合進展は、2026年の技術産業における二つの主要構造変化を象徴している。一方、IMF世界経済見通しは中東起因のエネルギーリスクが実体経済・金融市場双方に波及することを数値的根拠とともに警告している。",
+      "lead": "AnthropicのClaude Code価格改定（Pro→Max 5x）とOpenAIのワークスペースエージェント導入はAIエージェント市場がコモディティ化フェーズから収益最大化フェーズへ移行したことを示し、同時に日銀が中東情勢を理由に4月利上げ見送りを確実にしたことで円安継続と輸入インフレ圧力の長期化が改めて示された。",
       "highlights": [
         {
           "theme": "最新AI情報",
-          "text": "Claude Managed Agentsは、企業が個別構築していたエージェント実行環境（サンドボックス、認証、状態管理）をPaaS化した。AIエージェント開発の「最後のマイル」問題を解消することで、エンタープライズ向けAIエージェント市場の急拡大が見込まれる。同時期の公取委報告はLLM市場の寡占進行を示しており、規制議論の本格化を示唆している。"
+          "text": "Claude CodeのPro削除は、Anthropicが急増する利用に対してプラン設計が追いつかなかったことを示す。月20ドルから月100ドルへの5倍の価格跳ね上がりは開発者に強いネガティブ反応を引き起こしたが、Claude Managed AgentsのPaaS化と組み合わせることでエンタープライズ向け収益最大化への明確なピボットを示す。OpenAIのワークスペースエージェントはCodex搭載で法人向けエージェント機能を強化し、差別化競争が技術軸からビジネスモデル軸へシフトしている。"
         },
         {
           "theme": "NTTドコモ",
-          "text": "docomo business ANCARは通信キャリアが保有する音声通話インフラとAIを融合したサービスだ。自由発話認識によりIVRの問題（ガイダンス階層の深さ、操作離脱率）を解消し、コールセンターの運用コスト削減と顧客体験向上を同時に実現する。カスタマーハラスメント対策としてEX向上も図る点が他社との差別化要因となる。"
+          "text": "FOMA・iモード終了はドコモの通信世代移行の完了を示すマイルストーンだ。4月以降、3G端末では通話・データ通信が不可となり、VoLTE未設定の4G端末も音声通話不可となる。ANCAR® Routingは通信キャリアの音声インフラとAIを融合したSaaS型サービスで、コールセンターのコスト削減とEX向上を同時実現する設計となっている。"
         },
         {
           "theme": "量子コンピュータ",
           "text": "NVIDIA Isingはエラー訂正速度2.5倍・精度3倍という具体的な数値改善を示した。量子プロセッサのキャリブレーションをAIが自律的に実行することで、量子コンピュータの稼働率と商用利用可能性が向上する。発表後の量子関連株急騰（CNBC報道）は、量子コンピューティングの実用化タイムラインの前倒しを市場が織り込み始めたことを示す。"
         },
         {
+          "theme": "金融決済",
+          "text": "日銀の4月利上げ見送りは、中東情勢によるエネルギーショックが金融政策の自由度を制約していることを示す。利上げ確率が57%から31%へ2週間で急低下したことは、市場の情勢判断の速さと政策の不確実性の高さを示す。6月以降に判断が先送りされた場合、円安・ドル高の基調が維持されると同時に、エネルギー輸入コスト上昇と家計の実質購買力の低下が続く。"
+        },
+        {
           "theme": "国内・社会",
-          "text": "IMF世界経済見通し（4/14）は2026年成長率を3.1%と予測した。「悪化シナリオ」では2.6%、「深刻シナリオ」では2%を下回る可能性を示した。カタール・ラス・ラッファン施設（世界LNG生産の93%相当）への攻撃による3〜5年の復旧期間見通しが、日本のエネルギーコスト上昇と円安圧力に直結している。"
+          "text": "IMFの世界経済見通し（3.1%）と防衛装備移転原則改正は、日本の経済・安全保障政策の転換を同時に示す。円安159円台は輸入コスト増加と国内物価の押し上げを継続させ、大和総研が指摘する家計間格差拡大と複合的に作用する。防衛装備輸出解禁は防衛産業の新たな市場参入機会を生み出す一方、輸出先の選定基準が外交上の課題となる。"
         }
       ],
       "must_read": {
@@ -119,10 +131,10 @@
     {
       "theme": "最新AI情報",
       "category": "interested",
-      "trend_score": 8,
-      "trend_history": [7, 9, 8, 9, 8],
-      "summary_short": "Anthropic Managed Agentsベータ開始・公取委生成AI調査公表",
-      "summary_long": "Anthropicが4月8日にAIエージェント実行基盤「Claude Managed Agents」を公開ベータとして提供開始した。国立情報学研究所は日本語LLM「LLM-jp-4」を公開し、公正取引委員会は4月16日に生成AI市場の寡占リスクを指摘する実態調査報告書ver.2.0を公表した。",
+      "trend_score": 9,
+      "trend_history": [7, 9, 8, 9, 9],
+      "summary_short": "Claude Code Proから削除・OpenAIワークスペースエージェント公開",
+      "summary_long": "Anthropicは4月21-22日にかけて新規Pro加入者向けClaude Codeの提供を停止し、月額100ドルのMax 5xプランへの移行を求めた。OpenAIは4月22日、Codex搭載のワークスペースエージェントをChatGPTチームプランに導入し、法人向けエージェント機能を強化した。Anthropicのエージェント実行基盤「Claude Managed Agents」公開ベータ（4/8）とOpenAIのChatGPT Images 2.0発表（4/21）も含め、AIエージェント市場の競争が一段と激化した。",
       "articles": [
         {
           "title": "AnthropicがClaude Managed Agentsを公開ベータ開始——AIエージェント導入時間を10倍短縮",
@@ -131,6 +143,24 @@
           "summary_short": "AIエージェント実行基盤をクラウド一括提供・開発期間10倍短縮",
           "summary_long": "Anthropicは4月8日、AIエージェント実行基盤「Claude Managed Agents」を公開ベータとして提供開始した。サンドボックス化されたコード実行環境・状態管理・権限制御を一括提供。セッションコストは0.08ドル/時間で、Python・TypeScript対応の公式SDKも公開された。",
           "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "AnthropicがClaude CodeをProプランから削除——新規加入者はMax 5x（月100ドル）が必須に",
+          "url": "https://aitoolly.com/ai-news/article/2026-04-22-anthropic-reportedly-removes-claude-code-from-20-monthly-pro-subscription-tier",
+          "source": "AIToolly",
+          "summary_short": "Claude CodeがProプランから削除・新規加入者は月100ドルへ移行必須",
+          "summary_long": "Anthropicは4月21-22日、新規Pro加入者（月額20ドル）へのClaude Code提供を停止した。利用継続には月額100ドルのMax 5xプランへの移行が必要となり、年間コストが240ドルから1,200ドルへ5倍増加する。既存加入者への影響は現時点でないが、公式ドキュメントは全世界向けにすでに更新された。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "OpenAI、Codex搭載「ワークスペースエージェント」をChatGPTチームプランに導入",
+          "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
+          "source": "OpenAI",
+          "summary_short": "OpenAIがCodex搭載の共有型エージェントをChatGPTチームに追加",
+          "summary_long": "OpenAIは4月22日、ChatGPTチームプラン向けにCodex搭載のワークスペースエージェントを公開した。チーム内で共有可能なエージェントを作成でき、レポート作成・コード生成・メッセージ応答などの長期タスクを自律実行する。GPTの進化版で、チーム横断の業務自動化に対応する。",
+          "importance": 4,
           "fetch_failed": false
         },
         {
@@ -150,6 +180,15 @@
           "summary_long": "公正取引委員会は4月16日、令和8年版「生成AIに関する実態調査報告書ver.2.0」を公表した。LLM市場における大手クラウドプロバイダーへの集中と、データ・計算資源の寡占が競争環境に与えるリスクを分析し、透明性確保と競争政策上の課題を指摘した。",
           "importance": 4,
           "fetch_failed": false
+        },
+        {
+          "title": "OpenAI、新画像生成AIモデル「ChatGPT Images 2.0」を発表——思考機能搭載・最大2K解像度対応",
+          "url": "https://www.sbbit.jp/article/cont1/184892",
+          "source": "ビジネスIT",
+          "summary_short": "OpenAIが思考機能搭載の画像生成AI新モデルを発表・最大2K解像度",
+          "summary_long": "OpenAIは4月21日、画像生成AIモデル「ChatGPT Images 2.0」を発表した。思考機能（Thinking capabilities）を導入し生成プロセス中にWeb検索を実行する。最大2K解像度・アスペクト比3:1〜1:3に対応し、日本語・中国語・韓国語などの非ラテン文字を正確に画像内に反映できる。",
+          "importance": 4,
+          "fetch_failed": false
         }
       ],
       "related": []
@@ -157,11 +196,20 @@
     {
       "theme": "NTTドコモ",
       "category": "interested",
-      "trend_score": 5,
-      "trend_history": [6, 7, 6, 5, 5],
-      "summary_short": "ANCAR Routing/Chat提供開始・自由発話でIVR課題を解消",
-      "summary_long": "NTTドコモビジネスは4月17日、AIを活用した顧客接点改善サービス「docomo business ANCAR®」の第一弾として、AI-IVR「ANCAR® Routing」とチャットボット「ANCAR® Chat」の提供を開始した。通信キャリアの音声インフラとAIを融合したSaaS型サービスで、カスタマーハラスメント対策にも対応する。",
+      "trend_score": 6,
+      "trend_history": [6, 7, 6, 5, 6],
+      "summary_short": "FOMA・iモード終了・ANCAR AI-IVRサービス開始",
+      "summary_long": "NTTドコモは2026年3月31日をもってFOMAおよびiモードのサービスを終了し、4月以降は3G端末での通話・データ通信が不可となった。ドコモビジネスは4月17日、AIを活用した顧客接点改善サービスとして、AI-IVR「docomo business ANCAR® Routing」とチャットボット「ANCAR® Chat」の提供を開始した。",
       "articles": [
+        {
+          "title": "ドコモFOMA・iモードが3月31日に終了——4月以降、3G端末での通話・通信が不可に",
+          "url": "https://www.docomo.ne.jp/info/3g_closed/",
+          "source": "NTTドコモ",
+          "summary_short": "FOMA・iモード終了で3G端末の通話・通信が4月以降不可に",
+          "summary_long": "NTTドコモは2026年3月31日をもってFOMAおよびiモードのサービスを終了した。4月1日以降、3G端末では通話・データ通信が不可となる。4G対応機種でもVoLTE未設定の場合は音声通話ができなくなるため、設定確認と機種変更の対応が継続的に必要となっている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
         {
           "title": "NTTドコモビジネス、AI-IVR「docomo business ANCAR® Routing」と「ANCAR® Chat」提供開始",
           "url": "https://www.ntt.com/about-us/information/info_20260417.html",
@@ -195,7 +243,7 @@
           "title": "NVIDIA Launches Ising, the World's First Open AI Models to Accelerate the Path to Useful Quantum Computers",
           "url": "https://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers",
           "source": "NVIDIA Newsroom",
-          "summary_short": "NVIDIAが世界初の量子AIオープンモデルIsingを発表・エラー訂正精度3倍",
+          "summary_short": "NVIDIAが世界初の量子AIオープンモデルIsingを発表・精度3倍",
           "summary_long": "NVIDIAは4月14日、量子プロセッサのキャリブレーション用VLM「Ising Calibration」と量子エラー訂正用3D CNNモデル「Ising Decoding」からなる「NVIDIA Ising」を公開した。エラー訂正速度は従来比2.5倍、精度は3倍。Harvard大・Fermi研など主要研究機関が採用を表明した。",
           "importance": 5,
           "fetch_failed": false
@@ -215,11 +263,20 @@
     {
       "theme": "金融決済",
       "category": "interested",
-      "trend_score": 4,
-      "trend_history": [4, 4, 5, 4, 4],
-      "summary_short": "IMF金融安定性報告が中東リスクによる市場変動を警告",
-      "summary_long": "IMFは4月14日に「国際金融安定性報告書」を公表し、中東情勢の悪化による原油高・LNG供給不安がグローバル金融市場の安定性に与えるリスクを分析した。日本のフィンテック市場は年平均13%成長で2034年に326億ドルへ拡大すると予測されており、キャッシュレス化推進が継続している。",
+      "trend_score": 6,
+      "trend_history": [4, 4, 5, 5, 6],
+      "summary_short": "日銀4月利上げ見送り確実化・円安159円台継続",
+      "summary_long": "日本銀行は4月27-28日の金融政策決定会合で政策金利（0.75%）を据え置く公算が大きく、中東情勢の不確実性を踏まえ追加利上げの判断を6月以降に先送りする見通しとなった。市場の4月利上げ確率は31%と2週間前の57%から大幅に低下した。IMFは4月14日に「国際金融安定性報告書」を公表し、中東情勢の悪化による原油高・LNG供給不安がグローバル金融市場の安定性に与えるリスクを分析した。",
       "articles": [
+        {
+          "title": "日銀、4月27-28日会合で利上げ見送りへ——中東情勢考慮し6月以降に判断先送り",
+          "url": "https://www.nikkei.com/article/DGXZQOUB2116H0R20C26A4000000/",
+          "source": "日本経済新聞",
+          "summary_short": "日銀が4月会合での利上げ見送りを確実化・6月以降の判断に先送り",
+          "summary_long": "日本銀行は4月27-28日に開催する金融政策決定会合で、政策金利0.75%を据え置く公算が大きい。中東情勢の不確実性が続くなか、市場の4月利上げ確率は11日時点の57%から23日時点の31%へ大幅に低下した。植田総裁は中東情勢のショック持続を踏まえた対応を示唆し、6月会合で改めて追加利上げの是非を判断する構えを崩していない。",
+          "importance": 4,
+          "fetch_failed": false
+        },
         {
           "title": "2026年4月「国際金融安定性報告書」——中東リスクで金融市場に警告",
           "url": "https://www.imf.org/ja/publications/gfsr/issues/2026/04/14/global-financial-stability-report-april-2026",
@@ -237,6 +294,15 @@
           "summary_long": "市場調査レポートによると、日本のフィンテック市場は2025年の105億ドルから2034年には326億ドルへ拡大すると予測された。年平均成長率は13.00%で、デジタル決済の普及拡大とキャッシュレス社会推進政策が主な成長要因となる。",
           "importance": 3,
           "fetch_failed": false
+        },
+        {
+          "title": "ドル円159円台で推移——野村証券が2026年末の見通しを152.5円に引き上げ",
+          "url": "https://www.nomura.co.jp/wealthstyle/article/0676/",
+          "source": "野村証券",
+          "summary_short": "ドル円159円台継続・野村が年末見通し152.5円に上方修正",
+          "summary_long": "ドル円は4月22日に159円40銭台で推移し、円安・ドル高基調が継続している。野村証券は中東情勢によるドル高圧力の強まりを受けて、2026年末のドル円見通しを152.5円に引き上げた。消費者物価指数は補助金効果剥落後の2026年後半に再び前年比2%を上回るリスクが指摘されている。",
+          "importance": 3,
+          "fetch_failed": false
         }
       ],
       "related": ["https://www.cnbc.com/2026/04/16/quantum-stocks-nvidia-ai-models.html"]
@@ -244,10 +310,10 @@
     {
       "theme": "国内・社会",
       "category": "must_know",
-      "trend_score": 6,
-      "trend_history": [5, 6, 6, 6, 6],
-      "summary_short": "IMFが世界成長率3.1%予測・中東悪化で下振れリスク拡大",
-      "summary_long": "IMFは4月14日の世界経済見通しで2026年の世界成長率を3.1%と予測した。中東情勢の悪化シナリオでは2.6%まで下振れるリスクを指摘し、世界インフレは4.4%に加速する見通しを示した。大和総研は4月21日付けの日本経済見通しで、人手不足と金利格差拡大を主要課題と分析した。",
+      "trend_score": 7,
+      "trend_history": [5, 6, 6, 6, 7],
+      "summary_short": "IMFが世界成長率3.1%予測・政府が防衛装備移転原則を改正",
+      "summary_long": "IMFは4月14日の世界経済見通しで2026年の世界成長率を3.1%と予測した。政府は4月21日、防衛装備移転3原則の運用指針を改正し、完成品の輸出を原則全面解禁する方針を閣議決定した。ドル円は159円台と円安基調が継続し、エネルギー輸入コスト増加による物価上昇圧力が続いている。",
       "articles": [
         {
           "title": "2026年4月「世界経済見通し」——中東情勢で成長率3.1%に下方修正",
@@ -275,6 +341,15 @@
           "summary_long": "IMFは4月9日、春季総会前のカーテンレイザースピーチを公表し、中東情勢の悪化によるエネルギーショックへの政策対応を主要議題とした。各国の財政・金融政策の協調と、エネルギー依存度低減に向けた構造改革の必要性を強調した。",
           "importance": 4,
           "fetch_failed": false
+        },
+        {
+          "title": "政府、防衛装備移転3原則の運用指針改正——完成品の全面輸出解禁を閣議決定",
+          "url": "https://www.jiji.com/jc/archives?g=pol_archive_0",
+          "source": "時事通信",
+          "summary_short": "政府が防衛装備移転3原則の指針を改正し完成品輸出を原則解禁",
+          "summary_long": "政府は4月21日、防衛装備移転3原則の運用指針を改正し、完成品の輸出を原則として全面解禁する方針を閣議決定した。輸出を制限していた「5類型」を廃止し、武器輸出規制を大幅緩和する。防衛産業の国際競争力強化と同盟国との防衛協力深化が目的とされる。",
+          "importance": 4,
+          "fetch_failed": true
         }
       ],
       "related": []
@@ -282,28 +357,35 @@
   ],
   "chart_data": {
     "trend_scores": {
-      "最新AI情報": 8,
-      "NTTドコモ": 5,
+      "最新AI情報": 9,
+      "NTTドコモ": 6,
       "量子コンピュータ": 7,
-      "金融決済": 4,
-      "国内・社会": 6
+      "金融決済": 6,
+      "国内・社会": 7
     },
     "source_distribution": {
       "BigGo": 1,
+      "AIToolly": 1,
+      "OpenAI": 1,
       "AIインサイト": 1,
       "公正取引委員会": 1,
+      "ビジネスIT": 1,
+      "NTTドコモ": 1,
       "NTTドコモビジネス": 2,
       "NVIDIA Newsroom": 1,
       "CNBC": 1,
+      "日本経済新聞": 1,
       "IMF": 3,
       "atpress": 1,
-      "大和総研": 1
+      "大和総研": 1,
+      "野村証券": 1,
+      "時事通信": 1
     },
     "importance_distribution": {
       "1": 0,
       "2": 0,
-      "3": 4,
-      "4": 5,
+      "3": 5,
+      "4": 11,
       "5": 3
     }
   }

@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-23T08:00:00+09:00",
+  "last_updated": "2026-04-23T14:00:00+09:00",
   "reports": [
-    { "date": "2026-04-23", "headline": "Anthropic Claude Managed Agentsベータ開始・NVIDIA Ising量子AIモデル発表・IMF世界成長率3.1%予測" },
+    { "date": "2026-04-23", "headline": "Claude Managed Agents・OpenAI ChatGPT Images 2.0発表・防衛装備移転原則改正・ドル円159円台" },
     { "date": "2026-04-22", "headline": "Amazon、Anthropicに最大250億ドル追加投資・ARR300億ドル突破・docomo Starlink Direct 4/27開始" },
     { "date": "2026-04-21", "headline": "Claude Design公開でFigma株6%下落・NVIDIA Ising発表で量子関連株急騰" },
     { "date": "2026-04-20", "headline": "ドコモStarlink Direct 4/27開始・Google Gemini MacアプリリリースでAI競争激化" },
@@ -25,7 +25,10 @@
     { "name": "CNBC", "url": "https://www.cnbc.com", "count": 1 },
     { "name": "BigGo", "url": "https://biggo.jp", "count": 1 },
     { "name": "AIインサイト", "url": "https://ai-insight.jp", "count": 1 },
-    { "name": "atpress", "url": "https://www.atpress.ne.jp", "count": 1 }
+    { "name": "atpress", "url": "https://www.atpress.ne.jp", "count": 1 },
+    { "name": "ビジネスIT", "url": "https://www.sbbit.jp", "count": 1 },
+    { "name": "NTTドコモ", "url": "https://www.docomo.ne.jp", "count": 1 },
+    { "name": "野村証券", "url": "https://www.nomura.co.jp", "count": 1 }
   ],
   "themes": ["最新AI情報", "NTTドコモ", "量子コンピュータ", "金融決済", "国内・社会"]
 }
