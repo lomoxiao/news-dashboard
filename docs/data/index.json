@@ -1,6 +1,7 @@
 {
-  "last_updated": "2026-04-23T14:00:00+09:00",
+  "last_updated": "2026-04-24T06:30:00+09:00",
   "reports": [
+    { "date": "2026-04-24", "headline": "政府がMBK牧野フライス買収に中止勧告・Claude有料サブスクリプション2倍超・NVIDIA Ising量子AIモデル発表" },
     { "date": "2026-04-23", "headline": "Claude Managed Agents・OpenAI ChatGPT Images 2.0発表・防衛装備移転原則改正・ドル円159円台" },
     { "date": "2026-04-22", "headline": "Amazon、Anthropicに最大250億ドル追加投資・ARR300億ドル突破・docomo Starlink Direct 4/27開始" },
     { "date": "2026-04-21", "headline": "Claude Design公開でFigma株6%下落・NVIDIA Ising発表で量子関連株急騰" },
@@ -11,14 +12,14 @@
   "all_sources": [
     { "name": "Anthropic", "url": "https://www.anthropic.com", "count": 2 },
     { "name": "OpenAI", "url": "https://openai.com", "count": 1 },
-    { "name": "NTTドコモ", "url": "https://www.docomo.ne.jp", "count": 2 },
+    { "name": "NTTドコモ", "url": "https://www.docomo.ne.jp", "count": 3 },
     { "name": "NTTドコモビジネス", "url": "https://www.ntt.com", "count": 2 },
     { "name": "arXiv", "url": "https://arxiv.org", "count": 1 },
     { "name": "日本銀行", "url": "https://www.boj.or.jp", "count": 1 },
     { "name": "首相官邸", "url": "https://www.kantei.go.jp", "count": 1 },
-    { "name": "日本経済新聞", "url": "https://www.nikkei.com", "count": 1 },
-    { "name": "NVIDIA", "url": "https://nvidianews.nvidia.com", "count": 2 },
-    { "name": "時事通信", "url": "https://www.jiji.com", "count": 2 },
+    { "name": "日本経済新聞", "url": "https://www.nikkei.com", "count": 4 },
+    { "name": "NVIDIA", "url": "https://nvidianews.nvidia.com", "count": 3 },
+    { "name": "時事通信", "url": "https://www.jiji.com", "count": 3 },
     { "name": "IMF", "url": "https://www.imf.org", "count": 3 },
     { "name": "大和総研", "url": "https://www.dir.co.jp", "count": 1 },
     { "name": "公正取引委員会", "url": "https://www.jftc.go.jp", "count": 1 },
@@ -27,8 +28,18 @@
     { "name": "AIインサイト", "url": "https://ai-insight.jp", "count": 1 },
     { "name": "atpress", "url": "https://www.atpress.ne.jp", "count": 1 },
     { "name": "ビジネスIT", "url": "https://www.sbbit.jp", "count": 1 },
-    { "name": "NTTドコモ", "url": "https://www.docomo.ne.jp", "count": 1 },
-    { "name": "野村証券", "url": "https://www.nomura.co.jp", "count": 1 }
+    { "name": "野村証券", "url": "https://www.nomura.co.jp", "count": 1 },
+    { "name": "The Register", "url": "https://www.theregister.com", "count": 1 },
+    { "name": "TechCrunch", "url": "https://techcrunch.com", "count": 1 },
+    { "name": "AIFOD", "url": "https://af.net", "count": 1 },
+    { "name": "DXマガジン", "url": "https://dxmagazine.jp", "count": 1 },
+    { "name": "XenoSpectrum", "url": "https://xenospectrum.com", "count": 1 },
+    { "name": "イノバトピア", "url": "https://innovatopia.jp", "count": 1 },
+    { "name": "SBIホールディングス", "url": "https://www.sbigroup.co.jp", "count": 1 },
+    { "name": "契約ウォッチ", "url": "https://keiyaku-watch.jp", "count": 1 },
+    { "name": "日経BOOKプラス", "url": "https://bookplus.nikkei.com", "count": 1 },
+    { "name": "外為どっとコム", "url": "https://www.gaitame.com", "count": 1 },
+    { "name": "マネービッツ", "url": "https://moneybits.jp", "count": 1 }
   ],
   "themes": ["最新AI情報", "NTTドコモ", "量子コンピュータ", "金融決済", "国内・社会"]
 }

@@ -1,0 +1,360 @@
+{
+  "date": "2026-04-24",
+  "generated_at": "2026-04-24T06:30:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "政府が外為法に基づきMBKパートナーズによる牧野フライス製作所の買収に中止勧告を発令した。AnthropicのClaude有料サブスクリプションは2倍超となり、NVIDIAは世界初のオープンソース量子AIモデル「Ising」を公開した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicのClaude有料サブスクリプションが2026年初頭に2倍超を記録した。スーパーボウル広告とClaude Codeの急増が主因で、OpenAI・Googleとの三社鼎立が顕在化した。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモのFOMA・iモードが2026年4月に完全終了した。3G端末のみ所有するユーザーは通話・メール利用が不可となり、4G/5G端末への移行が必要となった。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "NVIDIAは4月14日、世界初のオープンソース量子AIモデル「Ising」を発表した。エラー訂正速度は既存標準比2.5倍、精度は3倍を実現し、IonQ等複数企業が採用を開始した。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "SBIホールディングスとStartale Groupが日本初の信託型円建てステーブルコイン「JPYSC」を2026年4〜6月に提供開始すると発表した。改正資金決済法施行と合わせて円ステーブルコイン市場が始動する。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "政府は4月22日、外為法に基づきMBKパートナーズによる牧野フライス製作所の買収計画に中止勧告を発令した。翌23日には日系ファンドNSSKが対案を準備中と報じられた。"
+        }
+      ],
+      "must_read": {
+        "title": "政府がMBKパートナーズに牧野フライス買収中止勧告・経済安全保障を発動",
+        "url": "https://www.jiji.com/jc/article?k=2026042300446&g=eco",
+        "reason": "外為法に基づく買収中止勧告という異例の措置で、経済安全保障政策の実効性を示す重大な先例となった。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "今日は政府が外資系ファンドの工作機械企業買収に「待った」をかけるという大きな動きがありましたね。AIやステーブルコインのニュースも見逃せませんよ。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicのClaude有料ユーザーが今年に入って2倍以上に増えているみたいですよ。スーパーボウルのCMやClaude Codeの人気が後押しして、OpenAIやGoogleとの三つ巴がいよいよ本番になってきましたね。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモのFOMAとiモードがついに2026年4月に完全終了したんですね。まだガラケーを使っている方は、4G/5G対応スマートフォンへの買い替えが必要ですよ。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "NVIDIAが量子コンピュータ向けの「Ising」というAIモデルを無料公開しましたよ。エラー訂正が従来比2.5倍速くなっているそうで、量子コンピュータの実用化にぐっと近づいた感じがしますね。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "SBIが日本初の信頼できる形の円建てデジタル通貨「JPYSC」を今年4〜6月に出すみたいですよ。銀行の信託を裏付けにしているので安心感があり、企業間の送金などに使われる見込みですね。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "政府がアジア系ファンドMBKによる工作機械メーカー・牧野フライスの買収に中止勧告を出しましたね。防衛産業にも使われる機械を作る会社なので、安全保障上の問題があると判断されたみたいですよ。"
+        }
+      ],
+      "must_read": {
+        "title": "政府がMBKパートナーズに牧野フライス買収中止勧告・経済安全保障を発動",
+        "url": "https://www.jiji.com/jc/article?k=2026042300446&g=eco",
+        "reason": "外資による重要産業企業の買収に政府が「待った」をかけた異例の出来事で、今後の企業買収のルールづくりにも影響しそうですよ。",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Claude有料サブスクリプション2026年初頭に2倍超\n・AnthropicがProプランからClaude Code削除テストを実施\n・GPT-5.4・Gemini 3.1・Claude Sonnet 4.6のベンチマーク競争激化"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・FOMA・iモード2026年4月完全終了\n・MWC2026で個人向けAIエージェントサービス発表\n・全社員AIエージェント4段階評価の新人材制度「AI実践レベル判定」開始"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・NVIDIA Ising量子AIモデル発表（エラー訂正速度2.5倍・精度3倍）\n・IBMとシドニー大学の量子誤り訂正新手法がNature Physics掲載\n・マイクロソフト・QuEraが誤り訂正搭載量子コンピューターを2026年内提供予定"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・SBI・Startale「JPYSC」日本初信託型円建てステーブルコイン2026年Q2発行予定\n・改正資金決済法2026年施行・3ルートのステーブルコイン発行枠組み整備\n・国内キャッシュレス市場2024年に141兆円・前年比約11%増"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・政府がMBKパートナーズに牧野フライス買収中止勧告・経済安保発動\n・3月全国CPI前年比1.4%予想・コアCPI1.7%（4月24日発表）\n・4月月例経済報告で公共投資を「底堅い」から「堅調」に上方修正"
+        }
+      ],
+      "must_read": {
+        "title": "政府がMBKパートナーズに牧野フライス買収中止勧告・経済安全保障を発動",
+        "url": "https://www.jiji.com/jc/article?k=2026042300446&g=eco",
+        "reason": "外為法による大型買収阻止の先例となる。",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "経済安全保障政策の実効性が初めて大型M&Aで示された4月24日、AI市場のサブスクリプション競争加速と量子コンピューティングの商用化前夜を示すニュースが重なり、技術・規制・資本の三局面が同時に動いた。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Claude有料サブスクリプションの2倍超成長はAIアシスタント市場での収益競争が本格化したことを示す。同時期のProプランからClaude Code削除テストは低価格帯プランの収益性改善を模索する動きであり、開発者向けと一般消費者向けの価格設計が分岐する兆候と読める。GPT-5.4・Gemini 3.1・Claude Sonnet 4.6はそれぞれ異なるベンチマークで優位に立ち、汎用的な「最強モデル」が存在しない競争構造が定着しつつある。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "FOMA終了は国内3G通信インフラの完全撤廃を意味し、ドコモがネットワーク資源をすべて4G/5Gに集約できる経営上の転換点となる。同時期のMWC2026での個人向けAIエージェント発表とAI実践レベル判定制度の新設は、通信キャリアからAIプラットフォーム企業への転換を社内外で進めていることを示している。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "NVIDIA Isingのオープンソース公開は、量子コンピューター開発において半導体大手がエコシステム構築を主導し始めた構造変化を示す。Ising CalibrationがGemini 3.1 Pro・GPT 5.4を上回るQCalEvalスコアを記録したことは、ドメイン特化型量子AIモデルの実用性を裏付ける。IBM・Microsoft・QuEraが2026〜2028年に誤り訂正型量子コンピューターを順次提供する計画が重なっており、量子クラウドサービス競争が始まる前夜にある。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "JPYSCの2026年Q2発行は改正資金決済法施行と重なり、日本における機関投資家向けデジタル円決済の実用化を加速させる可能性がある。信託受益権型ステーブルコインは電子マネーと異なり企業間決済・トークン化資産決済に適しており、金融インフラの根本的な変革を促す法的・技術的基盤が2026年内に整う見通しだ。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "政府によるMBK中止勧告は経済安全保障法に基づく外為法審査の実効性を示す初の大型事例となり、外資による国内重要インフラ企業の買収リスクプレミアムを市場に織り込ませる効果がある。3月コアコアCPIが前回2.5%から2.4%へ小幅鈍化する予測は、日銀の追加利上げペース判断に影響を与える材料となり得る。"
+        }
+      ],
+      "must_read": {
+        "title": "政府がMBKパートナーズに牧野フライス買収中止勧告・経済安全保障を発動",
+        "url": "https://www.jiji.com/jc/article?k=2026042300446&g=eco",
+        "reason": "外為法に基づく大型M&A介入の先例として、今後の外資系ファンドによる国内重要産業への投資判断に広範な影響を及ぼすと考えられる。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 72,
+      "trend_history": [85, 82, 70, 72],
+      "summary_short": "Claude有料サブスクリプションが倍増し、GPT-5.4らとのベンチマーク競争が激化した。",
+      "summary_long": "AnthropicのClaude有料サブスクリプションが2026年初頭に2倍超となり、AI三社鼎立が明確化した。同時期にProプランからClaude Code削除テストが行われ、開発者・一般消費者向け価格設計の分岐が進んでいる。GPT-5.4・Gemini 3.1・Claude Sonnet 4.6はそれぞれ異なるベンチマークで優位に立つ競争構造が定着しつつある。",
+      "articles": [
+        {
+          "title": "AnthropicがProプランでClaude Code削除テストを実施・開発者コミュニティに反発",
+          "url": "https://www.theregister.com/2026/04/22/anthropic_removes_claude_code_pro/",
+          "source": "The Register",
+          "summary_short": "AnthropicがProプランでClaude Code削除テストを実施した。",
+          "summary_long": "Anthropicは4月22日、月額20ドルのProプランから新規ユーザー向けにClaude Codeを削除するテストを実施した。開発者コミュニティから反発が生じており、低価格帯サブスクリプションの収益性改善を模索するサービス差別化戦略の一環としてThe Register等複数メディアが報道した。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Claude有料サブスクリプション数が2026年初頭に2倍超・AI三社鼎立が鮮明に",
+          "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+          "source": "TechCrunch",
+          "summary_short": "Claude有料サブスクリプションが2026年初頭に2倍超となった。",
+          "summary_long": "TechCrunchの報道によると、AnthropicのClaude有料サブスクリプションが2026年1〜2月に過去最高の伸びを記録した。スーパーボウル広告キャンペーンとClaude Codeの普及が主因で、新規加入の大半はProプラン（月20ドル）。OpenAI・Googleとの三社鼎立が明確になりつつある。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "AI Model Wars 2026年4月：GPT-5.4・Gemini 3.1・Claude Sonnet 4.6ベンチマーク比較",
+          "url": "https://af.net/realtime/ai-model-benchmarks-april-2026-comparing-gpt-5-claude-4-6-gemini-3/",
+          "source": "AIFOD",
+          "summary_short": "主要3社AIモデルの2026年4月ベンチマーク比較で各社の強みが明確化された。",
+          "summary_long": "2026年4月時点の主要AIモデル比較では、GPT-5.4がOSWorld-Verified等コンピュータ操作ベンチマークで最高スコアを記録。Gemini 3.1 ProはGPQA Diamondで94.3%、Claude Sonnet 4.6はGDPval-AA Eloで1,633点をマーク。各社が異なる強みを持ち競争が継続している。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": [
+        "https://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers"
+      ]
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 58,
+      "trend_history": [52, 55, 60, 58],
+      "summary_short": "FOMA・iモードが4月に完全終了し、MWC2026でのAIエージェント発表が注目された。",
+      "summary_long": "NTTドコモのFOMA・iモードが2026年4月に完全終了し、3G通信インフラが完全撤退となった。同社はMWC2026で個人向けAIエージェントサービスを発表するなど、通信キャリアからAIプラットフォーム企業への転換を加速している。社内では全社員対象のAI活用度評価制度も新設された。",
+      "articles": [
+        {
+          "title": "NTTドコモのFOMA・iモードが2026年4月に完全終了・3G端末は通話・メール不可に",
+          "url": "https://dxmagazine.jp/news/2611to30/",
+          "source": "DXマガジン",
+          "summary_short": "NTTドコモのFOMA・iモードが2026年4月に完全終了した。",
+          "summary_long": "NTTドコモは第3世代（3G）携帯電話サービス「FOMA」とインターネットサービス「iモード」を2026年4月末に完全終了した。3G端末のみ所有するユーザーは解約扱いとなり通話・メール利用が不可となった。4G/5G端末への移行が必須となっており、日本の3G終了の最終段階を象徴する出来事となった。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモMWC2026で個人向けAIエージェントサービスを発表・暮らし全般を自律支援",
+          "url": "https://www.nikkei.com/article/DGXZQOUC011QP0R00C26A3000000/",
+          "source": "日本経済新聞",
+          "summary_short": "NTTドコモがMWC2026で個人向けAIエージェントサービスを発表した。",
+          "summary_long": "NTTドコモはMWC2026（スペイン・バルセロナ、3月2日開幕）にて、AIが自律的にタスクを実行する個人向けAIエージェントサービスを発表した。通信キャリアとしての顧客データを活用し、日常生活のさまざまな場面でAIが能動的に支援するサービスの展開を予定している。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモソリューションズがAI実践レベル判定制度を導入・全社員を4段階で評価",
+          "url": "https://www.nikkei.com/article/DGXZQOUC1252H0S6A310C2000000/",
+          "source": "日本経済新聞",
+          "summary_short": "NTTドコモ系が全社員のAI活用度を4段階で評価する新人材制度を開始した。",
+          "summary_long": "NTTドコモソリューションズ（旧NTTコムウェア）は全社員を対象に、AIエージェントによる客観評価でAI実践力を4段階で認定する「AI実践レベル判定」制度を導入した。AI活用を人材評価に組み込む国内通信キャリアの事例として注目されている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 78,
+      "trend_history": [60, 65, 75, 78],
+      "summary_short": "NVIDIAが量子AIモデルIsingを発表、エラー訂正速度2.5倍。IBMの新手法がNatureに掲載。",
+      "summary_long": "NVIDIAが4月14日に世界初のオープンソース量子AIモデル「Ising」を発表し、エラー訂正速度2.5倍・精度3倍を実現した。IBMとシドニー大学のゲージ理論を応用した量子誤り訂正新手法もNature Physicsに掲載された。マイクロソフトとQuEraは誤り訂正搭載量子コンピューターの2026年内提供を目指している。",
+      "articles": [
+        {
+          "title": "NVIDIAが世界初オープンソース量子AIモデル「Ising」を発表・エラー訂正速度2.5倍・精度3倍",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers",
+          "source": "NVIDIA",
+          "summary_short": "NVIDIAが世界初オープンソース量子AIモデルIsingを発表、エラー訂正速度2.5倍を実現。",
+          "summary_long": "NVIDIAは4月14日、量子コンピューターの実用化を加速するオープンソースAIモデルファミリー「NVIDIA Ising」を発表した。Ising Decodingは既存標準pyMatchingと比較してエラー訂正速度2.5倍・精度3倍を実現。Ising Calibrationは35BパラメータのVLMで量子プロセッサの較正を自動化し、作業時間を日単位から時間単位に短縮する。IonQ・IQM等複数企業が採用を開始した。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "IBMとシドニー大学がゲージ理論応用の量子誤り訂正新手法をNature Physicsに発表",
+          "url": "https://xenospectrum.com/quantum-error-correction-gauge-theory-ibm/",
+          "source": "XenoSpectrum",
+          "summary_short": "IBMとシドニー大学が量子誤り訂正の新手法をNature Physicsに発表した。",
+          "summary_long": "シドニー大学のWilliamson博士とIBMのYoder博士が共同開発した量子誤り訂正の新手法が学術誌Nature Physicsに掲載された。素粒子物理学のゲージ理論を応用し、量子コンピューターの実用スケールへの拡張コストを根本から削減することを実証した。IBMが2028年までに目指す大規模フォールト・トレラント量子コンピューター実現の技術的根拠となる成果として注目されている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "マイクロソフトとQuEraが誤り訂正機能搭載量子コンピューターを2026年内提供へ向け進展",
+          "url": "https://innovatopia.jp/quantum/quantum-news/75663/",
+          "source": "イノバトピア",
+          "summary_short": "マイクロソフトとQuEraが誤り訂正型量子コンピューターを2026年内に提供予定。",
+          "summary_long": "マイクロソフト・クアンタムはQuEraと協力し、量子ビットのエラーを検出・修正可能な「レベル2」量子コンピューターの2026年内提供を目指している。同社は量子コンピューティング進化を3段階に分類し、2026年を実用的小型量子マシン実現の年と位置づけている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 65,
+      "trend_history": [58, 60, 62, 65],
+      "summary_short": "SBIが日本初信託型円ステーブルコインJPYSCの2026年Q2発行を発表、改正決済法も施行。",
+      "summary_long": "SBIホールディングスとStartale Groupが日本初の信託型円建てステーブルコイン「JPYSC」の2026年4〜6月発行を発表した。改正資金決済法の2026年施行と合わせ、信託受益権型・前払式・資金移動業者型の3ルートでのステーブルコイン発行枠組みが整備された。国内キャッシュレス市場は2024年に141兆円と前年比約11%増を記録した。",
+      "articles": [
+        {
+          "title": "SBIとStartaleが日本初信託型円建てステーブルコイン「JPYSC」を2026年Q2に発行予定と発表",
+          "url": "https://www.sbigroup.co.jp/news/2026/0227_16153.html",
+          "source": "SBIホールディングス",
+          "summary_short": "SBIとStartaleが日本初信託型円建てステーブルコインJPYSCの2026年Q2発行を発表。",
+          "summary_long": "SBIホールディングスとStartale Groupは2026年2月27日、日本初の信託型円建てステーブルコイン「JPYSC」を2026年4〜6月に提供開始すると発表した。改正資金決済法に基づく3号電子決済手段として、新生信託銀行が発行体、SBI VCトレードが主要販売パートナー、Startaleが技術開発を担う体制となっている。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "改正資金決済法2026年施行・ステーブルコイン発行の法的枠組みと3ルートを整備",
+          "url": "https://keiyaku-watch.jp/media/hourei/2026-funds-settlement/",
+          "source": "契約ウォッチ",
+          "summary_short": "改正資金決済法が2026年に施行され、ステーブルコイン発行の法的枠組みが整備された。",
+          "summary_long": "2026年施行の改正資金決済法により、日本のステーブルコイン規制の枠組みが整備された。信託受益権型・前払式支払手段型・資金移動業者型の3つの適法発行ルートが確立され、仲介者にはAML/CFT要件・利用者保護・分別管理が義務付けられた。JPYCとJPYSCはそれぞれ異なるルートで適法発行される見通しとなっている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "日本のキャッシュレス決済市場2024年に141兆円・前年比約11%増で拡大継続",
+          "url": "https://bookplus.nikkei.com/atcl/column/020500658/020500022/",
+          "source": "日経BOOKプラス",
+          "summary_short": "国内キャッシュレス決済市場が2024年に141兆円、前年比約11%増となった。",
+          "summary_long": "日経BOOKプラスの「キャッシュレス決済の業界地図2026」によると、国内キャッシュレス決済市場は2024年に141兆円に達し、2023年比で約11%増加した。個人向け金融サービスの競争激化が背景にあり、2026年以降もステーブルコインや新決済手段の参入により市場拡大が続く見通しとなっている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": [
+        "https://www.gaitame.com/media/entry/2026/04/23/185638"
+      ]
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 70,
+      "trend_history": [62, 65, 68, 70],
+      "summary_short": "政府がMBKの牧野フライス買収に中止勧告を発令し、3月CPIは前年比1.4%と予測される。",
+      "summary_long": "政府は4月22日、外為法に基づきMBKパートナーズによる牧野フライス製作所の買収に中止勧告を発令した。日系ファンドNSSKが対案を準備中と報じられ、ニデックとの三者争奪戦に発展する可能性がある。4月24日発表の3月全国CPIは前年比1.4%が予想され、日銀の利上げペース判断に影響する材料として注目される。",
+      "articles": [
+        {
+          "title": "政府がMBKパートナーズに牧野フライス買収中止勧告・安全保障上の懸念で経済安保発動",
+          "url": "https://www.jiji.com/jc/article?k=2026042300446&g=eco",
+          "source": "時事通信",
+          "summary_short": "政府が外為法に基づきMBKの牧野フライス買収計画に中止勧告を発令した。",
+          "summary_long": "日本政府は2026年4月22日、アジア系投資ファンドMBKパートナーズに対し牧野フライス製作所の買収計画中止を外為法に基づき勧告した。同社の工作機械は防衛装備品生産に不可欠として経済安全保障上の懸念が理由とされた。翌23日には日系ファンドNSSKが買収提案を準備中と日本経済新聞等が報じた。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "日本3月全国CPI前年比1.4%予想・コアCPI1.7%予想・4月24日発表",
+          "url": "https://www.gaitame.com/media/entry/2026/04/23/185638",
+          "source": "外為どっとコム",
+          "summary_short": "4月24日発表の日本3月全国CPIは前年比1.4%予想、コアCPIは1.7%予想。",
+          "summary_long": "4月24日に発表される日本の2026年3月全国消費者物価指数（CPI）は前年比1.4%（前回1.3%）、生鮮食品除くコアCPIは1.7%（前回1.6%）が市場予想。コアコアCPIは2.4%（前回2.5%）と小幅鈍化が見込まれており、日銀の追加利上げペース判断に影響する材料として注目される。円相場は159円台で推移している。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "4月月例経済報告で公共投資を「底堅い」から「堅調」に上方修正・景気は「緩やかに回復」",
+          "url": "https://moneybits.jp/2026/04/23/japan-economy-april-outlook-2026/",
+          "source": "マネービッツ",
+          "summary_short": "4月月例経済報告で公共投資の景気判断が「底堅い」から「堅調」に上方修正された。",
+          "summary_long": "政府の2026年4月月例経済報告では公共投資の判断が「底堅い」から「堅調」に上方修正された。景気全体は「緩やかに回復」と評価され、インフラ関連支出が下支えとして機能していると分析された。中東情勢の不安定化に伴う原油価格上昇リスクについては引き続き注視するとしている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": [
+        "https://www.sbigroup.co.jp/news/2026/0227_16153.html"
+      ]
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 72,
+      "NTTドコモ": 58,
+      "量子コンピュータ": 78,
+      "金融決済": 65,
+      "国内・社会": 70
+    },
+    "source_distribution": {
+      "The Register": 1,
+      "TechCrunch": 1,
+      "AIFOD": 1,
+      "日本経済新聞": 3,
+      "DXマガジン": 1,
+      "NVIDIA": 1,
+      "XenoSpectrum": 1,
+      "イノバトピア": 1,
+      "SBIホールディングス": 1,
+      "契約ウォッチ": 1,
+      "日経BOOKプラス": 1,
+      "時事通信": 1,
+      "外為どっとコム": 1,
+      "マネービッツ": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 4,
+      "4": 8,
+      "5": 3
+    }
+  }
+}
