@@ -43,6 +43,7 @@
         "https://zenn.dev/topics/llm/feed"
       ],
       "qiita_tags": ["LLM", "生成AI", "ChatGPT", "Claude", "AIエージェント"],
+      "custom_sources": [],
       "exclude_keywords": ["NTTドコモ", "ドコモ"],
       "importance_boost": 2
     },
@@ -59,6 +60,7 @@
         "https://www.docomo.ne.jp/info/news_release/rss/index.rss"
       ],
       "qiita_tags": [],
+      "custom_sources": [],
       "importance_boost": 2,
       "notes": "AI活用記事はこのテーマに優先的に振り分け"
     },
@@ -75,6 +77,7 @@
         "https://arxiv.org/rss/quant-ph"
       ],
       "qiita_tags": ["量子コンピュータ"],
+      "custom_sources": [],
       "arxiv_summary": "abstract_only",
       "importance_boost": 1
     },
@@ -93,6 +96,7 @@
         "https://www.boj.or.jp/rss/rss_news.xml"
       ],
       "qiita_tags": ["Fintech", "決済"],
+      "custom_sources": [],
       "importance_boost": 1
     },
     {
@@ -104,6 +108,7 @@
         "https://www3.nhk.or.jp/rss/news/cat0.xml"
       ],
       "qiita_tags": [],
+      "custom_sources": [],
       "hatena_min_bookmarks": 500,
       "importance_boost": 0
     }
@@ -112,5 +117,10 @@
     "sources": ["NHK", "日経新聞", "Reuters"],
     "min_sources": 2,
     "hatena_min_bookmarks": 500
+  },
+  "collection": {
+    "articles_per_theme_min": 3,
+    "articles_per_theme_max": 15,
+    "min_importance_score": 3
   }
 }

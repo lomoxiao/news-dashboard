@@ -22,10 +22,24 @@
 ## 収集手順（必ずこの順番で実行すること）
 
 ### Step1: 設定読み込み
-`docs/config.json` を読み込み、themes[] のテーマ一覧とキーワードを確認する。
+`docs/config.json` を読み込み、以下を確認する。
+- themes[] のテーマ一覧・キーワード・rss・qiita_tags・custom_sources
+- collection.articles_per_theme_min（デフォルト3）
+- collection.articles_per_theme_max（デフォルト10）
+- collection.min_importance_score（デフォルト3）
 
 ### Step2: ソース収集
-各テーマのキーワードで Web Search を実行する。1テーマあたり最低3件・最大10件収集。
+各テーマについて以下のソースすべてから記事を収集する。
+1. テーマのキーワードで Web Search を実行する
+2. rss[] のRSSフィードを取得し、テーマキーワードでフィルタする
+3. qiita_tags[] がある場合はQiita APIで取得する
+4. custom_sources[] の各エントリを処理する:
+   - type="rss": rss[]と同様にフィードを取得し、キーワードフィルタを適用する
+   - type="url": ページを取得して記事リンクを抽出し、キーワードフィルタを適用する
+   - 取得した記事の source フィールドには label 値を設定する
+   - 同一URLが複数ソースから取得された場合は重複を排除する
+
+1テーマあたり最低 {collection.articles_per_theme_min} 件・最大 {collection.articles_per_theme_max} 件を収集目標とする。
 
 ### Step3: テーマ毎振り分け（優先順位順）
 1. NTTドコモ関連キーワードを含む記事
@@ -42,7 +56,7 @@
 - 数値・データが含まれている: +1点
 - 社会・経済・技術への影響が明確: +1点
 - 一次情報源（公式発表・論文）である: +1点
-スコア3点以上のみ採用する。
+スコア {collection.min_importance_score} 点以上のみ採用する。
 
 ### Step5: 本文fetch
 採用記事のURLをfetchして本文を取得する。
@@ -83,8 +97,9 @@
 - [ ] すべての summary_short が50字以内
 - [ ] 意見・推測表現が含まれていない
 - [ ] すべての記事にURLが含まれている
-- [ ] importance スコアが基準通り
+- [ ] importance スコアが {collection.min_importance_score} 点以上の記事のみ採用されている
 - [ ] テーマ間の重複本文がない
+- [ ] custom_sources から取得した記事の source フィールドが label 値になっている
 問題があれば修正してから出力すること。
 
 ### Step8: JSON出力・ファイル保存

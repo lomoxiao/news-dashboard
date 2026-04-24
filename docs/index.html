@@ -361,6 +361,44 @@
       .header-title { font-size: 14px; }
       .lead { font-size: 14px; }
     }
+
+    /* ── Source filter chips ── */
+    .source-filter-bar {
+      display: flex; gap: 4px; flex-wrap: wrap;
+      margin-bottom: 10px; padding: 6px 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .source-chip {
+      background: var(--surface2); border: 1px solid var(--border);
+      color: var(--text2); padding: 3px 10px; border-radius: 12px;
+      font-size: 11px; white-space: nowrap; cursor: pointer;
+      transition: all .12s; font-family: inherit;
+    }
+    .source-chip:hover { border-color: var(--text2); color: var(--text); }
+    .source-chip.active { border-color: var(--green); color: var(--green); background: rgba(62,207,142,.1); }
+    .source-chip-clear {
+      font-size: 11px; color: var(--text3); padding: 3px 8px;
+      background: none; border: none; cursor: pointer;
+      font-family: inherit; align-self: center;
+    }
+    .source-chip-clear:hover { color: var(--text2); }
+    .src-badge-btn {
+      cursor: pointer; border: none; font-family: inherit;
+      font-size: 10px; padding: 1px 6px; border-radius: 4px;
+      background: var(--surface3); color: var(--text2); white-space: nowrap;
+      transition: background .12s;
+    }
+    .src-badge-btn:hover { background: var(--border); color: var(--text); }
+
+    /* ── Load-more button ── */
+    .load-more-btn {
+      display: block; width: 100%; margin-top: 8px;
+      background: none; border: 1px dashed var(--border);
+      color: var(--text3); font-size: 12px; padding: 6px;
+      border-radius: 6px; cursor: pointer; font-family: inherit;
+      transition: all .12s;
+    }
+    .load-more-btn:hover { border-color: var(--accent); color: var(--accent); }
   </style>
 </head>
 <body>
@@ -410,6 +448,7 @@
       <div class="card" id="topics-card">
         <div class="card-label">記事一覧</div>
         <div class="theme-tabs" id="theme-tabs"></div>
+        <div class="source-filter-bar" id="source-filter-bar" style="display:none"></div>
         <div id="topics-body">
           <div class="empty"><span class="spinner"></span>読み込み中...</div>
         </div>
@@ -478,8 +517,9 @@ const S = {
   style:      (new URLSearchParams(location.search).get('style')) || localStorage.getItem('nd-style') || 'journalist',
   page:       'home',
   period:     30,
-  activeTheme: null,  // null = all
-  config:     null,
+  activeTheme:   null,  // null = all
+  activeSources: new Set(),
+  config:        null,
   today:      null,
   todayDate:  null,
   index:      null,
@@ -517,6 +557,45 @@ async function boot() {
   renderSparklines();
   renderThemeTabs();
   renderTopics(S.activeTheme);
+
+  // Source filter bar — registered once
+  document.getElementById('source-filter-bar').addEventListener('click', e => {
+    const chip = e.target.closest('.source-chip');
+    const clear = e.target.closest('.source-chip-clear');
+    if (clear) {
+      S.activeSources.clear();
+    } else if (chip) {
+      const src = chip.dataset.src;
+      if (S.activeSources.has(src)) S.activeSources.delete(src);
+      else S.activeSources.add(src);
+    } else return;
+    renderSourceFilterBar();
+    renderTopics(S.activeTheme);
+  });
+
+  // Topics body — all interactions delegated here, registered once
+  document.getElementById('topics-body').addEventListener('click', e => {
+    // Source badge → single-source filter
+    const srcBadge = e.target.closest('.src-badge-btn');
+    if (srcBadge) {
+      e.stopPropagation();
+      S.activeSources.clear();
+      S.activeSources.add(srcBadge.dataset.src);
+      renderSourceFilterBar();
+      renderTopics(S.activeTheme);
+      return;
+    }
+    // Load-more button
+    const moreBtn = e.target.closest('.load-more-btn');
+    if (moreBtn) { handleLoadMore(moreBtn); return; }
+    // Expand/collapse card
+    const card = e.target.closest('.article-card');
+    if (!card) return;
+    if (e.target.tagName === 'A') return;
+    card.classList.toggle('expanded');
+    const btn = card.querySelector('.art-expand-btn');
+    if (btn) btn.textContent = card.classList.contains('expanded') ? '▲ 閉じる' : '▼ 詳細を見る';
+  });
 }
 
 // ─────────────────────────────────────────────
@@ -681,10 +760,13 @@ function renderThemeTabs() {
     const btn = e.target.closest('.theme-tab');
     if (!btn) return;
     S.activeTheme = btn.dataset.theme || null;
+    S.activeSources.clear();
     updateThemeTabActive();
     updateSparkActive();
+    renderSourceFilterBar();
     renderTopics(S.activeTheme);
   });
+  renderSourceFilterBar();
 }
 
 function updateThemeTabActive() {
@@ -702,6 +784,8 @@ function updateSparkActive() {
 // ─────────────────────────────────────────────
 // Topics
 // ─────────────────────────────────────────────
+const DEFAULT_TOPIC_PAGE_SIZE = 6;
+
 function renderTopics(filterTheme) {
   const el = document.getElementById('topics-body');
   const topics = S.today?.topics;
@@ -716,7 +800,19 @@ function renderTopics(filterTheme) {
 
   el.innerHTML = filtered.map(topic => {
     const c = conf.find(th => th.name === topic.theme) || {};
-    const articles = (topic.articles || []).map(a => articleCard(a)).join('');
+    // Apply source filter
+    let articles = topic.articles || [];
+    if (S.activeSources.size > 0) {
+      articles = articles.filter(a => S.activeSources.has(a.source));
+    }
+    const shown = articles.slice(0, DEFAULT_TOPIC_PAGE_SIZE);
+    const remaining = articles.length - shown.length;
+    const articlesHtml = articles.length
+      ? shown.map(a => articleCard(a, topic.theme)).join('')
+      : `<div class="empty" style="padding:12px 0;font-size:12px">このソースの記事はありません</div>`;
+    const moreBtn = remaining > 0
+      ? `<button class="load-more-btn" data-theme="${esc(topic.theme)}" data-offset="${DEFAULT_TOPIC_PAGE_SIZE}">▼ さらに ${remaining} 件を表示</button>`
+      : '';
     return `
       <div class="theme-section" style="margin-bottom:20px">
         <div class="theme-heading">
@@ -726,23 +822,52 @@ function renderTopics(filterTheme) {
           </div>
         </div>
         <div class="theme-summary">${esc(topic.summary_short || '')}</div>
-        <div class="articles-grid">${articles}</div>
+        <div class="articles-grid" data-theme="${esc(topic.theme)}">${articlesHtml}</div>
+        ${moreBtn}
       </div>`;
   }).join('');
-
-  // Expand/collapse
-  el.addEventListener('click', e => {
-    const card = e.target.closest('.article-card');
-    if (!card) return;
-    // Don't toggle if clicking on a link
-    if (e.target.tagName === 'A') return;
-    card.classList.toggle('expanded');
-    const btn = card.querySelector('.art-expand-btn');
-    if (btn) btn.textContent = card.classList.contains('expanded') ? '▲ 閉じる' : '▼ 詳細を見る';
-  });
 }
 
-function articleCard(a) {
+function handleLoadMore(moreBtn) {
+  const offset = +moreBtn.dataset.offset;
+  const theme = moreBtn.dataset.theme;
+  const topic = S.today?.topics?.find(t => t.theme === theme);
+  if (!topic) return;
+  let articles = topic.articles || [];
+  if (S.activeSources.size > 0) {
+    articles = articles.filter(a => S.activeSources.has(a.source));
+  }
+  const next = articles.slice(offset, offset + DEFAULT_TOPIC_PAGE_SIZE);
+  const grid = moreBtn.previousElementSibling;
+  grid.insertAdjacentHTML('beforeend', next.map(a => articleCard(a, theme)).join(''));
+  const newOffset = offset + DEFAULT_TOPIC_PAGE_SIZE;
+  const remaining = articles.length - newOffset;
+  if (remaining <= 0) moreBtn.remove();
+  else {
+    moreBtn.dataset.offset = newOffset;
+    moreBtn.textContent = `▼ さらに ${remaining} 件を表示`;
+  }
+}
+
+function renderSourceFilterBar() {
+  const bar = document.getElementById('source-filter-bar');
+  const topics = S.today?.topics || [];
+  const visibleTopics = S.activeTheme
+    ? topics.filter(t => t.theme === S.activeTheme) : topics;
+  const sources = [...new Set(
+    visibleTopics.flatMap(t => (t.articles || []).map(a => a.source).filter(Boolean))
+  )].sort();
+
+  if (!sources.length) { bar.style.display = 'none'; return; }
+  bar.style.display = 'flex';
+  bar.innerHTML =
+    sources.map(s =>
+      `<button class="source-chip${S.activeSources.has(s) ? ' active' : ''}" data-src="${esc(s)}">${esc(s)}</button>`
+    ).join('') +
+    (S.activeSources.size ? `<button class="source-chip-clear">✕ 解除</button>` : '');
+}
+
+function articleCard(a, theme) {
   return `
     <div class="article-card">
       <div class="art-header">
@@ -751,7 +876,7 @@ function articleCard(a) {
         </div>
         <div class="art-badges">
           <span class="imp-badge imp-${a.importance || 1}">${a.importance || 1}</span>
-          <span class="src-badge">${esc(a.source || '')}</span>
+          <button class="src-badge-btn" data-src="${esc(a.source || '')}">${esc(a.source || '')}</button>
         </div>
       </div>
       <div class="art-short">${esc(a.summary_short || '')}</div>
@@ -916,6 +1041,7 @@ async function loadDate(date) {
   S.today = data;
   S.todayDate = date;
   S.activeTheme = null;
+  S.activeSources = new Set();
   renderMeta();
   renderTopSummary();
   renderSparklines();
