@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-25T06:30:00+09:00",
+  "last_updated": "2026-04-25T08:30:00+09:00",
   "reports": [
-    { "date": "2026-04-25", "headline": "OpenAI GPT-5.5公開・ドコモ橋梁診断AI「橋梁アセスタ」販売開始・PayPay6月から規約大幅変更" },
+    { "date": "2026-04-25", "headline": "OpenAI GPT-5.5公開・岩手大槌町山林火災延焼・春闘5.26%・ドコモ橋梁AI販売開始・3大メガバンクSC計画" },
     { "date": "2026-04-24", "headline": "政府がMBK牧野フライス買収に中止勧告・Claude有料サブスクリプション2倍超・NVIDIA Ising量子AIモデル発表" },
     { "date": "2026-04-23", "headline": "Claude Managed Agents・OpenAI ChatGPT Images 2.0発表・防衛装備移転原則改正・ドル円159円台" },
     { "date": "2026-04-22", "headline": "Amazon、Anthropicに最大250億ドル追加投資・ARR300億ドル突破・docomo Starlink Direct 4/27開始" },
@@ -45,7 +45,14 @@
     { "name": "ITmedia AIプラス", "url": "https://www.itmedia.co.jp", "count": 1 },
     { "name": "TradingKey", "url": "https://www.tradingkey.com", "count": 1 },
     { "name": "日経Xtech", "url": "https://xtech.nikkei.com", "count": 2 },
-    { "name": "Yahoo!ニュース エキスパート", "url": "https://news.yahoo.co.jp", "count": 1 }
+    { "name": "Yahoo!ニュース エキスパート", "url": "https://news.yahoo.co.jp", "count": 1 },
+    { "name": "AI Academy Note", "url": "https://note.com", "count": 1 },
+    { "name": "ロボスタ", "url": "https://robotstart.info", "count": 1 },
+    { "name": "理化学研究所", "url": "https://www.riken.jp", "count": 1 },
+    { "name": "東北大学", "url": "https://www.tohoku.ac.jp", "count": 1 },
+    { "name": "Crypto Trillion", "url": "https://www.gfa.co.jp", "count": 1 },
+    { "name": "ペイメントナビ", "url": "https://paymentnavi.com", "count": 1 },
+    { "name": "NHK", "url": "https://news.web.nhk/newsweb", "count": 3 }
   ],
   "themes": ["最新AI情報", "NTTドコモ", "量子コンピュータ", "金融決済", "国内・社会"]
 }

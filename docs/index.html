@@ -399,6 +399,43 @@
       transition: all .12s;
     }
     .load-more-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+    /* ── Source history modal ── */
+    .src-history-backdrop {
+      position: fixed; inset: 0; z-index: 500;
+      background: rgba(0,0,0,.65);
+      display: flex; align-items: center; justify-content: center;
+      padding: 16px;
+    }
+    .src-history-panel {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: 10px; width: 100%; max-width: 680px;
+      max-height: 80vh; display: flex; flex-direction: column; overflow: hidden;
+    }
+    .src-history-header {
+      display: flex; justify-content: space-between; align-items: center;
+      padding: 14px 16px; border-bottom: 1px solid var(--border);
+      font-weight: 600; font-size: 14px; flex-shrink: 0;
+    }
+    .src-history-header button {
+      background: none; border: none; color: var(--text2); font-size: 16px;
+      line-height: 1; padding: 2px 6px; border-radius: 4px;
+    }
+    .src-history-header button:hover { background: var(--surface2); color: var(--text); }
+    .src-history-body { overflow-y: auto; flex: 1; padding: 12px 16px; }
+    .src-history-footer { padding: 10px 16px; border-top: 1px solid var(--border); flex-shrink: 0; }
+    .src-history-date-group { margin-bottom: 16px; }
+    .src-history-date-label { font-size: 11px; color: var(--text3); margin-bottom: 6px; font-weight: 600; }
+    .src-history-article {
+      padding: 8px 10px; margin-bottom: 4px;
+      background: var(--surface2); border-radius: 6px; font-size: 13px;
+    }
+    .src-history-article a { color: var(--accent); }
+    .src-history-article a:hover { text-decoration: underline; }
+    .src-history-meta { font-size: 11px; color: var(--text2); margin-top: 3px; }
+    /* Sources page — row is clickable */
+    .source-item { cursor: pointer; transition: background .12s; }
+    .source-item:hover { background: var(--surface3); }
   </style>
 </head>
 <body>
@@ -509,6 +546,20 @@
   </footer>
 </div>
 
+<!-- Source history modal -->
+<div id="src-history-backdrop" class="src-history-backdrop" style="display:none">
+  <div class="src-history-panel">
+    <div class="src-history-header">
+      <span id="src-history-title"></span>
+      <button id="src-history-close" aria-label="閉じる">✕</button>
+    </div>
+    <div id="src-history-body" class="src-history-body"></div>
+    <div id="src-history-footer" class="src-history-footer" style="display:none">
+      <button id="src-history-load-more" class="load-more-btn"></button>
+    </div>
+  </div>
+</div>
+
 <script>
 // ─────────────────────────────────────────────
 // State
@@ -519,6 +570,7 @@ const S = {
   period:     30,
   activeTheme:   null,  // null = all
   activeSources: new Set(),
+  sourceHistory: { sourceName: null, allDates: [], loadedCount: 0, articles: [], loading: false },
   config:        null,
   today:      null,
   todayDate:  null,
@@ -595,6 +647,21 @@ async function boot() {
     card.classList.toggle('expanded');
     const btn = card.querySelector('.art-expand-btn');
     if (btn) btn.textContent = card.classList.contains('expanded') ? '▲ 閉じる' : '▼ 詳細を見る';
+  });
+
+  // Source history modal
+  document.getElementById('src-history-backdrop').addEventListener('click', e => {
+    if (e.target === e.currentTarget) closeSourceHistory();
+  });
+  document.getElementById('src-history-close').addEventListener('click', closeSourceHistory);
+  document.getElementById('src-history-load-more').addEventListener('click', () => loadSourceHistoryBatch());
+  document.getElementById('sources-body').addEventListener('click', e => {
+    if (e.target.tagName === 'A') return;
+    const item = e.target.closest('.source-item');
+    if (item) showSourceHistory(item.dataset.src);
+  });
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape') closeSourceHistory();
   });
 }
 
@@ -1061,11 +1128,91 @@ function renderSources() {
   }
   el.innerHTML = '<div class="sources-list">' +
     sources.map(s => `
-      <div class="source-item">
+      <div class="source-item" data-src="${esc(s.name)}">
         <span class="source-name"><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a></span>
         <span class="source-count">${s.count} 件</span>
       </div>`).join('') +
     '</div>';
+}
+
+// ─────────────────────────────────────────────
+// Source history modal
+// ─────────────────────────────────────────────
+const HISTORY_BATCH_SIZE = 7;
+
+async function showSourceHistory(sourceName) {
+  S.sourceHistory = {
+    sourceName,
+    allDates: (S.index?.reports || []).map(r => r.date),
+    loadedCount: 0, articles: [], loading: false
+  };
+  document.getElementById('src-history-title').textContent = sourceName + ' の過去記事';
+  document.getElementById('src-history-body').innerHTML =
+    '<div class="empty"><span class="spinner"></span>読み込み中...</div>';
+  document.getElementById('src-history-footer').style.display = 'none';
+  document.getElementById('src-history-backdrop').style.display = 'flex';
+  await loadSourceHistoryBatch();
+}
+
+async function loadSourceHistoryBatch() {
+  const sh = S.sourceHistory;
+  if (sh.loading) return;
+  sh.loading = true;
+  const dates = sh.allDates.slice(sh.loadedCount, sh.loadedCount + HISTORY_BATCH_SIZE);
+  if (!dates.length) { sh.loading = false; return; }
+  const results = await Promise.all(
+    dates.map(d => fetch(BASE + 'data/daily/' + d + '.json').then(r => r.ok ? r.json() : null).catch(() => null))
+  );
+  for (let i = 0; i < dates.length; i++) {
+    const data = results[i];
+    if (!data) continue;
+    for (const topic of (data.topics || [])) {
+      for (const art of (topic.articles || [])) {
+        if (art.source === sh.sourceName) {
+          sh.articles.push({ date: dates[i], theme: topic.theme, ...art });
+        }
+      }
+    }
+  }
+  sh.loadedCount += dates.length;
+  sh.loading = false;
+  renderSourceHistoryBody();
+}
+
+function renderSourceHistoryBody() {
+  const sh = S.sourceHistory;
+  const el = document.getElementById('src-history-body');
+  const footer = document.getElementById('src-history-footer');
+  if (!sh.articles.length && sh.loadedCount >= sh.allDates.length) {
+    el.innerHTML = `<div class="empty">この期間に ${esc(sh.sourceName)} の記事はありませんでした</div>`;
+    footer.style.display = 'none';
+    return;
+  }
+  const byDate = {};
+  for (const art of sh.articles) {
+    if (!byDate[art.date]) byDate[art.date] = [];
+    byDate[art.date].push(art);
+  }
+  el.innerHTML = Object.keys(byDate).sort().reverse().map(date => `
+    <div class="src-history-date-group">
+      <div class="src-history-date-label">${esc(date)}</div>
+      ${byDate[date].map(a => `
+        <div class="src-history-article">
+          <div><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a></div>
+          <div class="src-history-meta">重要度 ${a.importance} ・ ${esc(a.theme)} ・ ${esc(a.summary_short || '')}</div>
+        </div>`).join('')}
+    </div>`).join('');
+  const remaining = sh.allDates.length - sh.loadedCount;
+  if (remaining > 0) {
+    footer.style.display = '';
+    document.getElementById('src-history-load-more').textContent = `さらに読み込む（残り ${remaining} 日分）`;
+  } else {
+    footer.style.display = 'none';
+  }
+}
+
+function closeSourceHistory() {
+  document.getElementById('src-history-backdrop').style.display = 'none';
 }
 
 // ─────────────────────────────────────────────
