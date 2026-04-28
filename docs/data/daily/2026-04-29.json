@@ -1,0 +1,355 @@
+{
+  "date": "2026-04-29",
+  "generated_at": "2026-04-29T07:30:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "AnthropicはAIモデル「Claude Mythos Preview」のゼロデイ脆弱性発見能力が高すぎるとして一般公開を断念し、4月28日の日経平均株価は日銀早期利上げ観測で3日ぶりに反落して終値5万9917円となった。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Anthropicが4月7日に発表した「Claude Mythos Preview」は、主要OSやブラウザのゼロデイ脆弱性を自律発見できる能力が高すぎるとして一般公開を断念。「Project Glasswing」として防御用途に限定活用する。OpenAIも4月23日にGPT-5.5をリリースした。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモは4月27日、SpaceXの衛星を活用した「docomo Starlink Direct」を開始した。全料金プランの約2200万ユーザーが無料・申込不要で利用でき、対応84機種が日本全国土・領海をカバーする。山岳・離島・洋上での通信が可能となった。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "量子コンピューティング市場は2026年に22億ドル規模に達する見込みで（IQT Research）、IBM・Microsoft・富士通が牽引する。富士通と理研は3月に256量子ビット機のクラウドサービスを開始し、2026年内に1,000量子ビット機の設置を計画している。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "JPYCは4月20日に28億円を追加調達し累計約46億円規模となった。SBIとStartaleも80億円を調達してJPYSCの4〜6月ローンチに備えている。JR東日本は2026年秋にコード決済「teppay」を提供開始予定で、円建てデジタル決済基盤の整備が進んでいる。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "4月28日の東京株式市場で日経平均株価は前日比619円安の5万9917円に反落した。日銀の早期利上げを支持する審議委員が3人に増え、AI・半導体関連株が売られた。4月29日の昭和の日から国内株式市場はGW休場に入り、連休中には米FOMCが開催される。"
+        }
+      ],
+      "must_read": {
+        "title": "Anthropicが新AI「Claude Mythos Preview」を発表—危険すぎて非公開、Project Glasswingで防御活用",
+        "url": "https://www.gizmodo.jp/2026/04/anthropic_claude_mythos_preview.html",
+        "reason": "AnthropicのAI能力への安全規制が「モデルの非公開」という新たな形態を確立した点で、AI産業の規制・倫理・競争環境に対して転換点となる案件である。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "今日は昭和の日でGWスタートですね！昨日の日経平均は6万円台を割り込みましたけど、ドコモのStarlink DirectやAnthropicの新AI「Mythos」など今週も大きなニュースが続いていますよ。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicがClaude Mythos Previewを発表しましたが、主要OSのセキュリティ穴を自動で発見して悪用できるほど強力なため、一般公開を見送ったんですよ。「Project Glasswing」として防御目的だけに使うみたいです。OpenAIもGPT-5.5を出して「スーパーアプリ」方向に進んでいますね。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモのStarlink Directが4月27日から始まりましたよ！山でも離島でも洋上でもスマホが使えるようになって、2200万人が無料で使えるんです。対応機種は84機種で、日本の全国土をカバーするなんてすごいですね。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "量子コンピューティング市場が今年22億ドル規模になりそうですよ。富士通と理研も3月に256量子ビットのクラウドサービスを始めて、今年中には1,000量子ビット機も目指しているみたいです。日本の量子コンピュータ開発がかなり進んでいますね。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "JPYCが28億円を追加調達して累計46億円規模になりましたよ。SBIとStartaleもJPYSCの開発のために80億円を調達して、4〜6月ローンチを目指しているみたいです。JR東日本も秋にteppayっていうQR決済を始める予定ですよ。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "昨日の日経平均は619円下がって5万9917円になりましたよ。日銀で早期利上げ支持派が3人に増えたことが響きましたね。今日からGWで株式市場はお休みです。連休中に米FOMCもあるので、連休明けの相場が気になりますね。"
+        }
+      ],
+      "must_read": {
+        "title": "Anthropicが新AI「Claude Mythos Preview」を発表—危険すぎて非公開、Project Glasswingで防御活用",
+        "url": "https://www.gizmodo.jp/2026/04/anthropic_claude_mythos_preview.html",
+        "reason": "Claude Mythosの話はAIの未来がどこに向かっているのかを考えるうえで本当に重要なニュースですよ。強すぎるから非公開って、これは新しい時代のルールができた瞬間かもしれませんね。",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Anthropic：Claude Mythos Previewを発表、ゼロデイ脆弱性発見能力が高すぎて非公開、Project Glasswingで防御活用\n・OpenAI：GPT-5.5を4月23日リリース、ChatGPT・Codex統合の「スーパーアプリ」方向"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・docomo Starlink Direct：4月27日開始、全プラン約2200万人に当面無料・84機種対応・日本全国土カバー\n・山岳・離島・洋上など従来圏外での天気確認・SMS・位置情報共有が可能"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・量子コンピューティング市場：2026年22億ドル規模（IQT Research）、IBM・Microsoft・富士通が牽引\n・富士通・理研：256量子ビット超伝導量子コンピュータクラウドサービスを3月26日開始、2026年内に1,000量子ビット機設置へ"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・JPYC：28億円追加調達・累計46億円、JPYSC（SBI×Startale）：80億円調達・4〜6月ローンチ目標\n・JR東日本：2026年秋に「teppay」提供開始、Smart Code対応160万か所以上でコード決済"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・日経平均：4月28日終値5万9917円（前日比619円安）、3日ぶり反落・6万円割れ、日銀利上げ派3人に\n・4月29日：昭和の日でGW入り、国内株式市場休場、連休中に米FOMC開催"
+        }
+      ],
+      "must_read": {
+        "title": "Anthropicが新AI「Claude Mythos Preview」を発表—危険すぎて非公開、Project Glasswingで防御活用",
+        "url": "https://www.gizmodo.jp/2026/04/anthropic_claude_mythos_preview.html",
+        "reason": "・AI能力拡張と安全規制の矛盾が表面化、「危険すぎて非公開」という前例を業界に示した転換点",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "AnthropicによるClaude Mythos Previewの非公開化はAI能力拡張と社会安全インフラの競争関係が表面化した臨界点を示し、docomo Starlink Directの全国展開・円建てステーブルコインの調達加速・量子コンピューティング市場22億ドル到達とともに、AI・通信・金融・量子の基盤技術が相互に強化し合う2026年春の技術経済的転換を象徴している。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicのClaude Mythos Preview非公開化はLLM能力とサイバー攻撃能力が同期して拡大するという課題を正面から示した。「Project Glasswing」の防御専用活用モデルはAI規制論議に新たな枠組みを提示する。OpenAIのGPT-5.5「スーパーアプリ」構想と合わせ、2026年のAI競争軸は性能から安全な社会実装方式へ移行しつつある。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "docomo Starlink Directは衛星通信と地上移動体通信の融合を日本で大規模実証する取り組みである。約2200万の既存顧客基盤を当面無料で取り込む戦略は、山岳・離島・洋上での災害時通信という社会インフラ的意義と通信キャリアの差別化戦略が合致している。能登地震を教訓とした防災通信インフラとしての位置付けも重要であり、有料化後の収益基盤と公共価値の両立が問われる。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "量子コンピューティング市場の2026年22億ドル規模は、実用的用途への量子計算アクセスが研究機関から産業界に移行し始めたことを示す。富士通・理研の256量子ビット機クラウド提供は量子ハードウェアのSaaSモデルを確立する先行事例であり、1,000量子ビット機実現後には量子×AIのハイブリッド実装が金融・医療に本格展開される可能性がある。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "JPYCとJPYSCの同時期の大型資金調達は、個人向け資金移動業型（JPYC）と法人向け信託型（JPYSC）という2類型の円建てデジタル通貨基盤が並行整備される段階に入ったことを示す。JR東日本のteppayはSuicaとPASMOという交通インフラとコード決済の統合によって「交通系IC＝決済インフラ」の定義を拡張する試みであり、2026年はキャッシュレス基盤の多元的進化が加速する。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "4月28日の日経平均反落（前日比619円安の5万9917円）は、史上初6万円台到達後に早期利上げ観測という内部変数が台頭したことを示す。日銀の利上げ賛成委員が3人に増加したことは、次回6月会合での政策変更確率を市場が再評価し始めたシグナルである。GW中の米FOMC開催と連休明けの米雇用統計発表が日本株式市場の方向性を左右する外部変数として意識されている。"
+        }
+      ],
+      "must_read": {
+        "title": "Anthropicが新AI「Claude Mythos Preview」を発表—危険すぎて非公開、Project Glasswingで防御活用",
+        "url": "https://www.gizmodo.jp/2026/04/anthropic_claude_mythos_preview.html",
+        "reason": "LLM能力がサイバー攻撃能力と同期して拡大するという業界の構造的課題を初めて公式に認め、AI安全規制の新モデル「能力制限型活用」の先例を作った転換点である。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 85,
+      "trend_history": [80, 78, 82, 85],
+      "summary_short": "AnthropicがClaude Mythos Previewを発表し、高い危険性から非公開とした。",
+      "summary_long": "Anthropicは4月7日に「Claude Mythos Preview」の一般公開を断念した。OpenAIの4月23日GPT-5.5リリースとAnthropicのant CLI・Managed Agentsメモリのベータ公開が加わり、AIモデルの能力と社会実装の安全設計を巡る競争が激化している。",
+      "articles": [
+        {
+          "title": "Anthropicが新AI「Claude Mythos Preview」を発表—危険すぎて非公開、Project Glasswingで防御活用",
+          "url": "https://www.gizmodo.jp/2026/04/anthropic_claude_mythos_preview.html",
+          "source": "Gizmodo Japan",
+          "summary_short": "AnthropicがClaude Mythos Previewを発表し、危険すぎるとして一般公開を断念した。",
+          "summary_long": "Anthropicは4月7日、最新AIモデル「Claude Mythos Preview」を発表した。主要OSとWebブラウザのゼロデイ脆弱性を自律発見・悪用できる能力が確認されたため一般公開を断念。重要ソフトウェア保護のため「Project Glasswing」として限定活用する方針を示した。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "OpenAI、GPT-5.5を4月23日にリリース—「スーパーアプリ」構想の一歩、API提供も開始",
+          "url": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+          "source": "TechCrunch",
+          "summary_short": "OpenAIがGPT-5.5を4月23日にリリースし、4月24日にAPIでも提供を開始した。",
+          "summary_long": "OpenAIは4月23日にGPT-5.5をリリースした。Plus・Pro・Business・Enterpriseユーザー向けにChatGPTで展開し、4月24日にAPIでも提供開始。CEO Greg BrockmanはChatGPT・Codex・AIブラウザを統合した「スーパーアプリ」構想の一歩と位置付けている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Anthropicが「ant CLI」とManaged Agentsメモリをベータ公開—Claude APIの開発者機能を大幅強化",
+          "url": "https://releasebot.io/updates/anthropic",
+          "source": "Releasebot",
+          "summary_short": "AnthropicがClaude API向け「ant CLI」とManaged Agentsメモリを公開ベータで公開した。",
+          "summary_long": "AnthropicはClaude API向けコマンドラインクライアント「ant CLI」と、Claude Managed Agentsのメモリ機能を公開ベータで公開した。ant CLIはClaude APIとの高速対話とClaude Codeとのネイティブ統合が可能で、APIリソースのYAML管理もサポートする。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 76,
+      "trend_history": [70, 88, 72, 76],
+      "summary_short": "ドコモのStarlink Direct衛星直接通信が4月27日に開始し、約2200万人が無料利用可能となった。",
+      "summary_long": "NTTドコモは4月27日、SpaceXのStarlink衛星を活用した「docomo Starlink Direct」の提供を開始した。全プランの約2200万ユーザーが申込不要・当面無料で利用でき、対応84機種が山岳・離島・洋上など従来圏外でのSMS・位置情報共有を可能にした。",
+      "articles": [
+        {
+          "title": "Starlink衛星とスマートフォンの直接通信サービス「docomo Starlink Direct」を4月27日から提供開始",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/04/02_01.html",
+          "source": "NTTドコモ",
+          "summary_short": "ドコモが衛星直接通信「Starlink Direct」を4月27日に開始し、約2200万人に無料提供した。",
+          "summary_long": "NTTドコモは4月27日、SpaceXの衛星を活用した「docomo Starlink Direct」の提供を開始した。ahamo含む全料金プランの約2200万ユーザーを対象に当面無料・申込不要で利用可能。対応機種は衛星通信対応の84機種で、日本全国土と12海里の領海をカバーする。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモが4月27日よりStarlink衛星とスマートフォンの直接通信サービス「docomo Starlink Direct」を開始",
+          "url": "https://dime.jp/genre/2101058/",
+          "source": "@DIME",
+          "summary_short": "docomo Starlink Directが4月27日に開始し、対応84機種が日本全国土・領海をカバーする。",
+          "summary_long": "NTTドコモの「docomo Starlink Direct」が4月27日より開始した。SpaceXのStarlink衛星を経由してスマートフォンが直接通信できる仕組みで、山岳・離島・洋上などでもSMS・RCS・位置情報共有が可能となった。対応機種は84機種。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "ドコモ×Starlink、4月27日始動。スマホが「圏外」を克服する直接通信サービス",
+          "url": "https://dxmagazine.jp/news/2613ko63-2/",
+          "source": "DXマガジン",
+          "summary_short": "ドコモとStarlinkの衛星直接通信が始動し、山岳・離島・洋上での圏外解消が実現した。",
+          "summary_long": "NTTドコモとSpaceXのStarlink衛星を組み合わせた「docomo Starlink Direct」が4月27日に始動した。従来圏外だった山岳・離島・洋上でスマホが使える「真の圏内化」が日本全国に広がり、全プランユーザーが無料で体験できる。緊急速報メールや地震・津波警報も受信できる。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 72,
+      "trend_history": [68, 65, 68, 72],
+      "summary_short": "量子コンピューティング市場が2026年に22億ドル規模に達し、IBM・富士通が実用化競争を加速させた。",
+      "summary_long": "量子コンピューティング市場は2026年に22億ドル規模に達する見込みで、IBM・Microsoft・富士通が牽引する。富士通と理研は3月に256量子ビット超伝導量子コンピュータのクラウドサービスを開始し、2026年内に川崎で1,000量子ビット機の設置も計画している。",
+      "articles": [
+        {
+          "title": "量子コンピューティング市場、2026年22億ドルへ—IBM・Microsoft・富士通が牽引、金融・医療で実用化加速",
+          "url": "https://innovatopia.jp/quantum/quantum-news/52867/",
+          "source": "イノベトピア",
+          "summary_short": "量子コンピューティング市場が2026年に22億ドル規模に達し、金融・医療での実用化が加速している。",
+          "summary_long": "IQT Researchによると量子コンピューティング市場は2026年に22億ドル規模に達する見込みで、IBM・Microsoft・富士通が牽引する。金融・医療での実用化が加速し、量子×HPC×AIのハイブリッド実装への移行が始まっている。IBMは2026年末に従来スパコン超えの実証を目標としている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "富士通・理研が実現、世界最大級の256量子ビット超伝導量子コンピュータ—クラウドサービスを開始",
+          "url": "https://www.businessinsider.jp/article/2504-fujitsu-riken-new-quantum-computer/",
+          "source": "Business Insider Japan",
+          "summary_short": "富士通と理研が世界最大級の256量子ビット超伝導量子コンピュータのクラウド提供を開始した。",
+          "summary_long": "富士通と理化学研究所は2026年3月26日、世界最大級となる256量子ビット超伝導量子コンピュータのクラウドサービス（叡-Ⅱ）を開始した。従来機の4倍の実装密度を実現し、2026年内には川崎の量子棟に1,000量子ビット機の設置・公開も目指している。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "富士通、ANU（オーストラリア国立大学）と量子研究センター設立・256量子ビット機設置で合意",
+          "url": "https://cafe-dc.com/japan/fujitsu-signs-agreement-with-anu-for-quantum-research-center-and-256-qubit-system/",
+          "source": "Data Center Café",
+          "summary_short": "富士通がオーストラリア国立大学と量子研究センター設立と256量子ビット機設置で合意した。",
+          "summary_long": "富士通はオーストラリア国立大学（ANU）と共同量子研究センターの設立および256量子ビット超伝導量子コンピュータのオンプレミス設置について合意した。2025年以降の256量子ビット機提供に続き、2026年内には1,000量子ビット機の第2号機設置も計画される。日豪間の量子研究協力が加速している。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 74,
+      "trend_history": [62, 68, 75, 74],
+      "summary_short": "JPYCが28億円追加調達し、JPYSCも80億円調達で4〜6月ローンチを目指している。",
+      "summary_long": "JPYCが28億円追加調達（累計46億円）し、SBIとStartaleもJPYSC向けに80億円を調達した。個人向けのJPYCと法人向けのJPYSCで円建てデジタル決済基盤の整備が加速している。JR東日本も2026年秋にコード決済「teppay」を開始予定で、国内デジタル決済の多元化が進む。",
+      "articles": [
+        {
+          "title": "JPYCがシリーズBで28億円追加調達—M2M決済見据えステーブルコイン拡張、累計46億円規模に",
+          "url": "https://plus-web3.com/media/latestnews_1002_8715/",
+          "source": "Plus Web3 Media",
+          "summary_short": "JPYCがシリーズBで28億円を追加調達し、累計調達額が約46億円規模に拡大した。",
+          "summary_long": "JPYC株式会社は2026年4月20日、シリーズBラウンドのセカンドクローズとして28億円の追加調達を発表した。累計調達額は約46億円規模に拡大し、機器間（M2M）決済を見据えたステーブルコイン機能の拡張を進める。累計発行額21億円を突破し、13.7万ウォレットアドレスに普及している。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "スターテイルがSBIから80億円調達—JPYSC・トークン化資産の開発を加速",
+          "url": "https://coinchoice.net/jpysc-startale/",
+          "source": "CoinChoice",
+          "summary_short": "スターテイルがSBIから80億円を調達し、JPYSC・トークン化資産の開発を加速する。",
+          "summary_long": "Startale GroupはSBIホールディングスから80億円の資金調達を完了した。資金はJPYSC（信託型円ステーブルコイン）の開発とトークン化資産サービスの拡充に充当する。JPYSCの2026年4〜6月ローンチ目標に向け、発行体となる新生信託銀行との連携を含む開発・インフラ整備を加速させる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "JR東日本・パスモが「teppay」を2026年秋に提供開始—SuicaからQR決済、160万か所以上で利用可",
+          "url": "https://paymentnavi.com/paymentnews/168001.html",
+          "source": "ペイメントナビ",
+          "summary_short": "JR東日本が2026年秋にコード決済「teppay」を提供開始し、160万か所以上で利用可能となる。",
+          "summary_long": "JR東日本とパスモは2026年秋より、モバイルSuicaにコード決済機能「teppay（テッペイ）」を提供開始すると発表した。Smart Codeマーク対応の全国160万か所以上で利用可能で、2027年春にはモバイルPASMOでも提供予定。Suicaの2万円上限を超える決済も可能となる。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 68,
+      "trend_history": [60, 62, 80, 68],
+      "summary_short": "昭和の日の4月29日からGWが始まり、前日28日の日経平均は利上げ観測で3日ぶりに反落した。",
+      "summary_long": "4月29日は昭和の日でゴールデンウィーク連休が始まった。前日4月28日の日経平均株価は日銀の早期利上げ観測で3日ぶりに反落し、終値は前日比619円安の5万9917円となった。日銀審議委員のタカ派が3人に増え、AI・半導体関連株を中心に売りが広がった。",
+      "articles": [
+        {
+          "title": "日経平均が4月28日に3日ぶり反落—終値5万9917円、日銀早期利上げ観測で6万円台を割り込む",
+          "url": "https://www.nikkei.com/article/DGXZQOUB279ZDTX20C26A4000000/",
+          "source": "日本経済新聞",
+          "summary_short": "日経平均が4月28日に3日ぶり反落、終値5万9917円で史上初6万円台から一転した。",
+          "summary_long": "4月28日の東京株式市場で日経平均は3営業日ぶり反落し、終値は前日比619円安の5万9917円となった。日銀会合で追加利上げを支持する審議委員が3人に増加したことが重荷となった。SBG・アドバンテスト・東京エレクトロンなどAI・半導体関連株が売られた。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "昭和の日でGW突入・日本株休場—連休中に米FOMC開催、過去56年のGW明け相場データを分析",
+          "url": "https://jioinc.jp/investleaders/anomaly_gw/",
+          "source": "Invest Leaders",
+          "summary_short": "昭和の日の4月29日よりGWが始まり、連休中の米FOMC開催が連休明け相場に影響する。",
+          "summary_long": "4月29日（昭和の日）から国内のゴールデンウィーク休場が始まり、東京証券取引所の次の取引日は4月30日となる。暦の配置上、4月29日〜5月6日の最長8連休が実現する。連休中に米FOMCの政策決定が予定されており、連休明けの日本株式市場への影響が注目される。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "能登地震から15ヶ月、石川県が第35報公表—復興公営住宅整備と住まい再建支援を継続",
+          "url": "https://www.pref.ishikawa.lg.jp/saigai/202401jishin.html",
+          "source": "石川県",
+          "summary_short": "能登地震発生から約15ヶ月、石川県が第35報を公表し復興公営住宅の整備継続を発表した。",
+          "summary_long": "石川県は2026年4月23日、令和6年能登半島地震の被害状況に関する第35報を公表した。発生から約15ヶ月が経過し、復興公営住宅の整備と住まい再建支援が継続されている。国土交通省は2026年3月末時点での復旧・復興状況報告書を作成しており、インフラ復旧工事が進められている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 85,
+      "NTTドコモ": 76,
+      "量子コンピュータ": 72,
+      "金融決済": 74,
+      "国内・社会": 68
+    },
+    "source_distribution": {
+      "Gizmodo Japan": 1,
+      "TechCrunch": 1,
+      "Releasebot": 1,
+      "NTTドコモ": 1,
+      "@DIME": 1,
+      "DXマガジン": 1,
+      "イノベトピア": 1,
+      "Business Insider Japan": 1,
+      "Data Center Café": 1,
+      "Plus Web3 Media": 1,
+      "CoinChoice": 1,
+      "ペイメントナビ": 1,
+      "日本経済新聞": 1,
+      "Invest Leaders": 1,
+      "石川県": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 5,
+      "4": 7,
+      "5": 3
+    }
+  }
+}
