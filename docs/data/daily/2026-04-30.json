@@ -1,0 +1,403 @@
+{
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T07:30:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "日本銀行は4月28日の金融政策決定会合で2026年度のコアCPI見通しを1.9%から2.8%に引き上げ、成長率見通しを1.0%から0.5%に下方修正した。OpenAIのGPT-5.5とAnthropicのClaude Opus 4.7が相次いで公開され、AIエージェント競争が本格化した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "OpenAIが4月23日にGPT-5.5を発表した。100万トークンのコンテキストウィンドウを搭載しAPIは入力1Mトークンあたり5ドル。AnthropicはClaude Opus 4.7（4月16日）でSWE-bench Verifiedで87.6%を達成し、AnthropicのARRは300億ドルを突破した。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモビジネスが4月27日に半導体企業RapidusへGreen Nexcenter液冷データセンターを提供すると発表した。ドコモ調査ではAI活用率が2025年2月の27%から2026年2月に51%へ倍増した。橋梁診断AI「橋梁アセスタ」が4月23日に販売開始され、診断業務時間を最大80%削減する。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "東北大学と東京大学の研究チームが4月27日、量子スピン液体候補物質「三塩化ルテニウム」から電気的にスピン情報を抽出することに成功した。Google Quantum AIらの研究では楕円曲線暗号の解読に必要な量子ビット数が従来予測の約20分の1となることが判明した。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "三菱UFJ・三井住友・みずほの3メガバンクがProgmatを活用した円建てステーブルコインの共同発行実証を2025年11月から進めており、初期導入企業に三菱商事が参画する予定。PayPayは400以上の自治体と連携したキャンペーンを2026年6月以降に実施する。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "日銀が2026年度コアCPI見通しを2.8%に引き上げ、成長率を0.5%に下方修正した。国交省は軽自動車タクシーを2026年6月から解禁すると決定した。ドル円は原油高・中東情勢悪化で一時160円台を突破した。"
+        }
+      ],
+      "must_read": {
+        "title": "日銀、2026年度コアCPI見通しを2.8%に引き上げ—成長率も0.5%に下方修正、金利0.75%据え置き",
+        "url": "https://www.nikkei.com/article/DGXZQOUB2116H0R20C26A4000000/",
+        "reason": "物価と成長の見通しが同時に悪化するスタグフレーション的局面を数値として示し、6月利上げ判断・為替・企業収益への波及が最も広範な経済指標ニュースである。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "今日は4月30日でGW中ですね！AIモデルの大型リリースが相次いで競争が激しくなっていますよ。日銀の物価見通し引き上げや円安の動きも気になるところです。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "OpenAIがGPT-5.5を出しましたよ！自律型エージェントとして自分でアプリをまたいで作業してくれます。AnthropicもClaude Opus 4.7を公開してSWE-benchで87.6%を達成しましたよ。Claudeには旅行・グルメ・税務など15種の新コネクターも追加されました。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモビジネスが半導体企業RapidusにAI向けの液冷データセンターを提供するんですよ。ドコモの調査ではAIを使っている人が1年間で27%から51%に増えたみたいです。橋梁診断AIも始まって、診断業務が80%も速くなるらしいですよ。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "東北大学と東大のチームが量子スピン液体の測定に成功したんですよ！トポロジカル量子コンピュータへの大きな一歩ですね。Googleのチームは暗号解読に必要な量子ビット数が従来予測の1/20と判明したと発表しましたよ。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "三大メガバンクが円ステーブルコインの共同発行に向けて実証実験を続けていますよ。PayPayも400以上の自治体と6月から大きなキャンペーンをやるみたいです。JPYCも追加出資を受けて拡大が続いていますね。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "日銀が物価の見通しを2.8%に引き上げましたよ。同時に成長率も0.5%に下げたんです。ドル円は一時160円台になりましたし、軽自動車タクシーも6月から解禁されますよ。花王が台湾で半導体向け洗浄センターを動かし始めたのも注目ですね。"
+        }
+      ],
+      "must_read": {
+        "title": "日銀、2026年度コアCPI見通しを2.8%に引き上げ—成長率も0.5%に下方修正、金利0.75%据え置き",
+        "url": "https://www.nikkei.com/article/DGXZQOUB2116H0R20C26A4000000/",
+        "reason": "物価が上がるのに経済成長が鈍るって家計にダブルパンチですよね。6月の日銀会合で利上げするかどうかは円相場や住宅ローンにも直接影響しますよ。",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・OpenAI：GPT-5.5発表（4/23）、100万トークン対応・$5/1M入力、自律型エージェント機能\n・Anthropic：Claude Opus 4.7（4/16）、SWE-bench 87.6%・xhigh推論レベル追加\n・Claude：15種コネクター追加（Uber・Spotify他）、対応総数200超"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・Rapidus液冷DC：ドコモビジネスが4/27発表、次世代半導体の計算処理を支援\n・AI活用率：27%→51%（2025年2月→2026年2月）ドコモ調査\n・橋梁アセスタ：4/23販売開始、診断業務を最大80%削減"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・東北大・東大：量子スピン液体の電気的測定に成功（4/27）\n・Google Quantum AI：楕円曲線暗号解読に必要な量子ビット数を従来比1/20に修正"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・三大メガバンク：円建てSC共同発行実証継続中、初期導入は三菱商事\n・PayPay：400以上の自治体と6月以降1,000件超のキャンペーン実施"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・日銀：2026年度コアCPI 2.8%（前回1.9%）・成長率0.5%（前回1.0%）、政策金利0.75%据え置き\n・国交省：軽自動車タクシーを6月から解禁\n・ドル円：一時160円台突破"
+        }
+      ],
+      "must_read": {
+        "title": "日銀、2026年度コアCPI見通しを2.8%に引き上げ—成長率も0.5%に下方修正、金利0.75%据え置き",
+        "url": "https://www.nikkei.com/article/DGXZQOUB2116H0R20C26A4000000/",
+        "reason": "・CPI2.8%上昇と成長率0.5%の同時悪化は6月利上げ判断と為替・物価の行方に直結する",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "日銀が2026年度CPI見通しを2.8%・成長率を0.5%へ同時修正した局面は、AIモデルの大量投入（GPT-5.5・Claude Opus 4.7）・量子暗号解読リスクの上昇・円建てステーブルコイン基盤整備と同時進行しており、技術的生産性向上の期待と金融的不確実性増大が拮抗する経済・技術転換点を示している。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "GPT-5.5（4/23）とClaude Opus 4.7（4/16）の同月公開はLLM性能競争が収束する一方でエージェント型実装競争が本格化したことを示す。AnthropicのARR300億ドル突破とChatGPTシェアの86.7%→64.5%低下は、AI産業の勢力図が再編される段階に入ったことを示す。日本国内のAI活用率が27%から51%へ倍増した点も、生成AIが主流インフラへ転換しつつある証左である。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "Rapidus液冷DC参画・AIOWN展開・橋梁診断AI販売・AI活用率51%の一連の動向は、NTTグループがAIインフラ（データセンター）・AI適用（業務特化AIエージェント）・AI組織（人材評価制度）の三層でAI展開を統合的に推進していることを示す。2029年度下半期の液冷AIデータセンター稼働計画は今後3年の重要な設備投資見通しとなる。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "東北大・東大の量子スピン液体電気測定成功はトポロジカル量子コンピュータへの材料科学的アプローチを確立した成果である。同時に、Google Quantum AIらによる暗号解読必要量子ビット数の1/20修正は現在の公開鍵暗号インフラへの現実的脅威を早め、金融機関のポスト量子暗号移行を急かす要因となる。両成果は量子技術が基礎研究と実用脅威の両面で同時進行する段階にあることを示す。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "三大メガバンクの円SC共同発行実証はProgmatという共通プラットフォームを通じた国内金融機関の協調を実証している。PayPayの自治体連携拡大とJPYCの追加出資拡大を合わせると、国内キャッシュレス基盤は公的決済（自治体）×法人決済（信託型SC）×個人決済（JPYC）の三層で同時拡充される段階に達した。量子暗号リスクの高まりはこれらデジタル決済基盤のセキュリティ要件を引き上げる外部要因となる。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "日銀のCPI2.8%・成長率0.5%への同時修正はインフレと成長鈍化が並立するスタグフレーション的局面の可能性を示唆する。軽自動車タクシー解禁は地方交通のUX改善と運転手確保の同時解決を図る規制緩和であり、AI・ライドシェアとの親和性も高い。花王・味の素の台湾・半導体材料投資は日本製造業がAI半導体バリューチェーンの上流側にシフトしていることを示す重要指標である。"
+        }
+      ],
+      "must_read": {
+        "title": "日銀、2026年度コアCPI見通しを2.8%に引き上げ—成長率も0.5%に下方修正、金利0.75%据え置き",
+        "url": "https://www.nikkei.com/article/DGXZQOUB2116H0R20C26A4000000/",
+        "reason": "CPI2.8%への引き上げと成長率0.5%への引き下げは、円安・原油高・内需鈍化が複合した構造的圧力を定量的に示しており、6月の追加利上げ判断・為替・国内企業設備投資見通しに対して最も広範な影響を持つ経済指標的ニュースである。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 88,
+      "trend_history": [78, 82, 85, 88],
+      "summary_short": "GPT-5.5とClaude Opus 4.7が同月公開、AIエージェント競争が本格化した。",
+      "summary_long": "2026年4月はOpenAIがGPT-5.5、AnthropicがClaude Opus 4.7を相次いで公開した。両モデルとも自律型エージェント機能を強化し、ベンチマーク競争が激化した。AnthropicのARRが300億ドルを突破し、ChatGPTの市場シェアが86.7%から64.5%に低下するなど業界の勢力図に変化が生じた。",
+      "articles": [
+        {
+          "title": "OpenAI、最新AIモデル「GPT-5.5」発表—エージェンティックAIとして大幅進化、API提供も開始",
+          "url": "https://gihyo.jp/article/2026/04/gpt-5-5",
+          "source": "gihyo.jp",
+          "summary_short": "OpenAIがGPT-5.5を公開、自律型AIエージェントとして大幅進化した。",
+          "summary_long": "OpenAIは2026年4月23日にGPT-5.5を発表した。100万トークンのコンテキストウィンドウを搭載し、APIは入力100万トークンあたり5ドル・出力30ドルに設定された。自律型エージェント機能として複数アプリを跨ぐ作業を処理し、ChatGPTとCodexに直接組み込まれた。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "Anthropic、最新モデル「Claude Opus 4.7」を提供開始—SWE-bench 87.6%、xhigh推論追加",
+          "url": "https://aismiley.co.jp/ai_news/anthropic-claude-opus-4-7/",
+          "source": "AIsmiley",
+          "summary_short": "AnthropicがClaude Opus 4.7を公開、SWE-bench Verified 87.6%を達成した。",
+          "summary_long": "Anthropicは2026年4月16日にClaude Opus 4.7を公開した。SWE-bench Verifiedで87.6%、SWE-bench Proで64.3%を達成した。最大解像度が2,576ピクセルに向上し、推論深度にxhighレベルが追加された。Amazon Bedrockほか複数プラットフォームで即日提供を開始した。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "Claude AIが個人の生活へ進出—旅行・グルメ・税務など15種の新アプリコネクターを追加",
+          "url": "https://biggo.jp/news/202604270250_Claude-15-new-app-connectors-2026",
+          "source": "BigGo",
+          "summary_short": "ClaudeにUber・Spotify含む15種コネクター追加、対応数が200超に拡大した。",
+          "summary_long": "Anthropicは2026年4月24日、ClaudeにUber・Spotify・Booking.comなど日常生活向け15種のコネクターを追加した。対応コネクター総数は200を超えた。全プランで利用可能で、接続データはAI学習に使用しないとしている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "国立情報学研究所が日本語LLM「LLM-jp-4」シリーズを公開—デジタル庁「源内」の候補モデルに",
+          "url": "https://ai-insight.jp/news/llm-jp4-20260409/",
+          "source": "AIインサイト",
+          "summary_short": "国立情報学研究所が日本語LLM「LLM-jp-4」シリーズを公開した。",
+          "summary_long": "国立情報学研究所は2026年4月3日、日本語に特化した大規模言語モデル「LLM-jp-4」シリーズを公開した。デジタル庁のガバメントAI「源内」の試用モデル候補として、PFN製「PLaMo」とともに検討されている。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "AI業界動向2026—AnthropicのARR300億ドル突破、ChatGPT市場シェアが64.5%に低下",
+          "url": "https://renue.co.jp/posts/ai-industry-state-2026-world-2-5t-japan-94b-llm-3-giants-5-trends",
+          "source": "renue",
+          "summary_short": "AnthropicのARRが300億ドルを突破し、ChatGPTのシェアが64.5%に低下した。",
+          "summary_long": "2026年に入りAI業界の競争が激化した。AnthropicのARRが300億ドルを突破しOpenAIを上回った。ChatGPTの市場シェアは2025年初頭の86.7%から64.5%に低下し、GoogleのGeminiは5.7%から21.5%へと4倍超に成長した。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 78,
+      "trend_history": [88, 72, 76, 78],
+      "summary_short": "RapidusへのDC提供やAI活用率51%急増など、ドコモのAI展開が加速している。",
+      "summary_long": "NTTドコモビジネスは4月27日にRapidusへ液冷データセンターを提供すると発表した。同グループの調査ではAI活用率が1年で27%から51%に急増し、橋梁診断AIの販売やAIネイティブインフラ「AIOWN」展開など、グループ全体でAI活用が本格化している。",
+      "articles": [
+        {
+          "title": "ドコモビジネスの液冷データセンター、Rapidusの次世代半導体開発に提供",
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/2105025.html",
+          "source": "ケータイ Watch",
+          "summary_short": "ドコモビジネスがRapidusに液冷データセンターを提供、半導体開発を支援する。",
+          "summary_long": "NTTドコモビジネスは2026年4月27日、次世代半導体企業Rapidusに液冷型データセンター「Green Nexcenter」を提供すると発表した。Rapidusの設計・検証・製造プロセスで必要な大規模計算処理を高速かつ安定的に支援し、生産時間の短縮が期待される。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "生成AI利用率、1年で27%→51%に急増—ドコモ調査",
+          "url": "https://www.itmedia.co.jp/aiplus/articles/2604/06/news078.html",
+          "source": "ITmedia AIプラス",
+          "summary_short": "NTTドコモ調査でAI活用率が1年で27%から51%に急増した。",
+          "summary_long": "NTTドコモが実施した調査によると、15〜69歳の日本国民のAI活用率は2025年2月の27%から2026年2月には51%へと倍増した。民間企業での活用は46%、企業での利用は38%に達した。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "橋梁診断支援AI「橋梁アセスタ」を開発し、販売を開始",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/04/23_00.html",
+          "source": "NTTドコモ",
+          "summary_short": "ドコモが橋梁診断AIを販売開始、作業時間を最大80%削減できる。",
+          "summary_long": "NTTドコモソリューションズは2026年4月23日、橋梁診断支援AI「橋梁アセスタ」の販売を開始した。点検票を入力すると診断調書案を自動生成し、実証検証で作業時間を最大80%削減できることが確認された。全国約73万橋の高齢化対策として、自治体・建設コンサルタント向けにSaaS提供する。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTグループがAI利活用環境を提供するAIネイティブインフラ「AIOWN」を展開",
+          "url": "https://www.nttdata.com/global/ja/news/topics/2026/042700/",
+          "source": "NTTデータグループ",
+          "summary_short": "NTTグループがAIネイティブインフラ「AIOWN」の展開を発表した。",
+          "summary_long": "NTT・NTTデータグループ・NTTドコモビジネスは2026年4月27日、AIネイティブインフラ「AIOWN」の展開を発表した。東京都心部に液冷対応AIデータセンターを建設し、2029年度下半期にサービス提供開始を予定している。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモ系、社員のAI活用度を4段階で評価する新人材制度を導入",
+          "url": "https://www.nikkei.com/article/DGXZQOUC1252H0S6A310C2000000/",
+          "source": "日本経済新聞",
+          "summary_short": "ドコモ系がAI活用度を4段階で評価する人材制度を導入した。",
+          "summary_long": "NTTドコモ関連企業は2026年3月、社員のAI活用度を4段階で評価する新たな人材制度を導入した。AI活用率51%を記録する調査結果と合わせ、従業員のAI能力向上を組織的に推進する体制を整備した。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 68,
+      "trend_history": [65, 68, 72, 68],
+      "summary_short": "東北大が量子スピン液体の電気的測定に成功、暗号解読リスクも早まる見通しだ。",
+      "summary_long": "東北大学と東京大学の研究チームが量子スピン液体の電気的測定に成功し、トポロジカル量子コンピュータ実現への新手法を提示した。一方、Google Quantum AIらの研究では暗号解読に必要な量子ビット数が従来予測の1/20と判明し、現実的な脅威として再評価されている。",
+      "articles": [
+        {
+          "title": "東北大など、トポロジカル量子計算の鍵「量子スピン液体」を電気的に測定",
+          "url": "https://news.mynavi.jp/techplus/article/20260427-4393818/",
+          "source": "マイナビニュース",
+          "summary_short": "東北大と東大がトポロジカル量子計算の鍵となる量子スピン液体の測定に成功した。",
+          "summary_long": "東北大学と東京大学の研究チームは2026年4月27日、量子スピン液体候補物質「三塩化ルテニウム」に白金を接合したデバイスを開発し、内部のスピン情報を電気的に抽出することに成功した。トポロジカル量子コンピュータの実現に向けてデバイス集積化への道を開く成果と評価される。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "量子コンピュータによる暗号解読、必要な量子ビット数が従来予測の20分の1に—Google Quantum AI・Stanford共同研究",
+          "url": "https://theconversation.com/quantum-computers-are-coming-to-break-our-codes-faster-than-anyone-expected-280303",
+          "source": "The Conversation",
+          "summary_short": "Google Quantum AIが暗号解読に必要な量子ビット数は従来予測の1/20と発表した。",
+          "summary_long": "Google Quantum AI・Ethereum財団・スタンフォード大が2026年3月に共同発表した研究によると、楕円曲線暗号の解読に必要な物理量子ビット数は従来推定の約20分の1となることが判明した。現実的な量子コンピュータによる暗号解読リスクが従来予測より早期に到来する可能性が示された。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "量子AIがエンタープライズ戦略を変革—IBM・Google・McKinseyが2026年の動向を解説",
+          "url": "https://business20channel.tv/how-quantum-ai-is-reshaping-enterprise-strategy-in-2026-according-to-ibm-google-and-mckinsey-22-04-2026",
+          "source": "Business 2.0 News",
+          "summary_short": "IBM・Google・McKinseyが量子AIのエンタープライズ活用戦略を共同解説した。",
+          "summary_long": "IBM、Google、McKinseyは2026年4月22日、量子AIがエンタープライズ戦略に与える影響を解説した報告書を公開した。量子・HPC・AIは競合ではなく補完関係にあるとし、特定の最適化領域での活用が進んでいると指摘した。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 72,
+      "trend_history": [68, 75, 74, 72],
+      "summary_short": "三大メガバンクが円ステーブルコイン共同発行を推進、PayPayも自治体連携を拡大する。",
+      "summary_long": "三菱UFJ・三井住友・みずほの3メガバンクが円建てステーブルコインの共同発行に向けた実証を進めている。PayPayは400以上の地方自治体と連携したキャンペーンを2026年6月以降に1,000件以上実施する計画を発表し、キャッシュレス化がさらに拡大する見通しだ。",
+      "articles": [
+        {
+          "title": "三菱UFJ・三井住友・みずほの3メガバンク、共同で円建てステーブルコイン発行へ",
+          "url": "https://www.gfa.co.jp/crypto/news/market-news/news-2108/",
+          "source": "Crypto Trillion",
+          "summary_short": "三大メガバンクが共同で円建てステーブルコイン発行へ、Progmat基盤を活用する。",
+          "summary_long": "三菱UFJ・三井住友・みずほの3行は、三菱UFJ信託銀行のProgmatを活用した円建てステーブルコインを共同発行する計画を進めている。2025年11月から実証実験を開始し、企業決済の効率化と取引コスト削減を目的とする。初期導入企業として三菱商事が参画する予定。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "地方自治体とPayPayが連携して取り組むキャンペーン、2026年6月以降に実施する施策が決定",
+          "url": "https://paypay.ne.jp/notice/20260415/cp-jichitai/",
+          "source": "PayPay",
+          "summary_short": "PayPayが400以上の自治体と連携し6月以降1,000件以上のキャンペーンを実施する。",
+          "summary_long": "PayPayは2026年4月15日、400以上の地方自治体との連携によるキャンペーン施策1,000件以上を2026年6月以降に実施すると発表した。2020年以来の自治体連携の実績を踏まえ、キャッシュレス化の地域展開をさらに拡大する。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "日本初の円建てステーブルコイン発行JPYC社に追加出資—累計調達が拡大",
+          "url": "https://www.atpress.ne.jp/news/8491473",
+          "source": "atPress",
+          "summary_short": "日本初の円建てステーブルコイン発行のJPYCに追加出資が決定した。",
+          "summary_long": "JPYC社は2025年8月に改正資金決済法に基づく資金移動業者として金融庁から登録を受け、2025年10月から日本初の円建てステーブルコインの本格的な発行・償還を開始した。複数の投資家から追加出資を受け、普及拡大を図っている。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": [
+        "https://theconversation.com/quantum-computers-are-coming-to-break-our-codes-faster-than-anyone-expected-280303"
+      ]
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 73,
+      "trend_history": [62, 80, 68, 73],
+      "summary_short": "日銀がCPI見通しを2.8%に引き上げ、円安継続や軽タクシー解禁など動向が続く。",
+      "summary_long": "日本銀行は2026年4月28日の会合で2026年度のCPI見通しを2.8%に引き上げたが、政策金利は0.75%に据え置いた。円安は一時160円台に達し、国交省は軽自動車タクシーの6月解禁を決定した。AI半導体特需は花王など消費財メーカーにも波及している。",
+      "articles": [
+        {
+          "title": "日銀、4月利上げ見送りへ—2026年度コアCPI見通し1.9%→2.8%、成長率1.0%→0.5%に修正",
+          "url": "https://www.nikkei.com/article/DGXZQOUB2116H0R20C26A4000000/",
+          "source": "日本経済新聞",
+          "summary_short": "日銀が2026年度CPI見通しを1.9%から2.8%に引き上げ、成長率は0.5%に下方修正した。",
+          "summary_long": "日本銀行は2026年4月28日の金融政策決定会合で、2026年度のコアCPI見通しを前回の1.9%から2.8%に引き上げた。一方、成長率見通しは1.0%から0.5%に引き下げた。政策金利は0.75%に据え置き、追加利上げの判断は6月会合に持ち越された。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "軽タクシー6月解禁、地方の交通空白解消—女性ドライバー掘り起こし、国交省が方針決定",
+          "url": "https://www.nikkei.com/article/DGXZQOUA238UD0T20C26A4000000/",
+          "source": "日本経済新聞",
+          "summary_short": "国交省が軽自動車タクシーを2026年6月から解禁、交通空白の解消を図る。",
+          "summary_long": "国土交通省は2026年4月23日、軽自動車を使ったタクシーサービスを2026年6月から解禁すると発表した。地方での運転手不足と高齢化に対応するため、軽自動車を利用しやすい女性ドライバーを掘り起こし、交通空白の解消を図る。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "円160円突破も売り続かず—介入リスク瀬踏み、日銀利上げ観測も重荷",
+          "url": "https://www.nikkei.com/article/DGXZQOUB014UN0R00C26A4000000/",
+          "source": "日本経済新聞",
+          "summary_short": "ドル円が一時160円台を突破、原油高と中東情勢悪化が円安圧力となっている。",
+          "summary_long": "2026年4月、ドル円相場は一時1カ月ぶりに160円台を突破した。イラン情勢の緊迫による原油価格上昇が貿易収支を悪化させ、円安圧力が強まった。日銀の利上げ見送り観測も重なり、当局による為替介入への警戒が高まっている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "消費財メーカーにAI特需—花王が台湾に半導体用洗浄センターを稼働、味の素も設備投資を加速",
+          "url": "https://www.nikkei.com/article/DGXZQOUC245IF0U6A220C2000000/",
+          "source": "日本経済新聞",
+          "summary_short": "花王が台湾で半導体用洗浄センターを稼働、味の素も半導体材料の設備投資を加速した。",
+          "summary_long": "花王は台湾現地法人内に「洗浄センター」を本格稼働させ、AI半導体向け洗浄剤の開発・量産を始めた。味の素も半導体パッケージ基板向け絶縁フィルムの安定生産に向け設備投資を加速している。AI半導体需要の増大が消費財・素材メーカーへも波及した。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 88,
+      "NTTドコモ": 78,
+      "量子コンピュータ": 68,
+      "金融決済": 72,
+      "国内・社会": 73
+    },
+    "source_distribution": {
+      "日本経済新聞": 5,
+      "gihyo.jp": 1,
+      "AIsmiley": 1,
+      "BigGo": 1,
+      "AIインサイト": 1,
+      "renue": 1,
+      "ケータイ Watch": 1,
+      "ITmedia AIプラス": 1,
+      "NTTドコモ": 1,
+      "NTTデータグループ": 1,
+      "マイナビニュース": 1,
+      "The Conversation": 1,
+      "Business 2.0 News": 1,
+      "Crypto Trillion": 1,
+      "PayPay": 1,
+      "atPress": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 4,
+      "4": 7,
+      "5": 9
+    }
+  }
+}
