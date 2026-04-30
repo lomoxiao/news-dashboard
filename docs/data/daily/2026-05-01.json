@@ -1,0 +1,388 @@
+{
+  "date": "2026-05-01",
+  "generated_at": "2026-05-01T07:00:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "中国DeepSeekは2026年4月24日にV4 Flash・V4 Proを公開した。V4-ProはLiveCodeBenchで93.5%を記録し、入力価格はV4-Flashが100万トークンあたり$0.14とGPT-5.5比約35分の1となった。米国でGENIUS法が成立し、ステーブルコイン発行体に準備資産管理と開示義務が課された。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "DeepSeekは2026年4月24日にV4 Flash・V4 ProをPreview公開した。V4-ProはLiveCodeBenchで93.5%を記録し、入力価格はV4-Flashが$0.14/Mトークンと競合の約30分の1となった。AnthropicのClaude Mythosはサイバーセキュリティリスクにより一般非公開となった初のClaudeモデルとなった。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモは3月末に9,000万超の利用者対象のモバイルコアネットワーク完全仮想化を完了した。4月27日には全プラン向けの衛星直接通信「docomo Starlink Direct」が開始された。5月2日には東京ドームで井上尚弥と中谷潤人のタイトルマッチがLeminoで中継される。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "マイクロソフトとQuEraが100論理量子ビットのエラー訂正量子コンピュータを2026年中にクラウド提供する計画を発表した。QuEraはGPU加速オープンソースシミュレータ「Tsim」も公開した。金融庁はメガバンク・地銀にポスト量子暗号移行対応を要請し、2030年完了ロードマップを策定中だ。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "米国でGENIUS法が成立しステーブルコイン発行体に準備資産の管理・開示義務が課された。国内では2026年施行の改正資金決済法で電子決済手段仲介業が新設され、三菱UFJ信託銀行が電子決済手段として国内初のステーブルコイン発行を準備している。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "気象当局は2026年5月1日に関東地方で千葉120mm・神奈川100mm・東京80mmの警報級大雨を予測した。日経平均は4月30日に632円安で続落し、原油高とAI関連売りが重荷となった。GW期間の国内旅行者数は2,447万人・消費額1兆2,876億円と予測されている。"
+        }
+      ],
+      "must_read": {
+        "title": "DeepSeek V4 Preview発表—V4-ProがLiveCodeBench 93.5%で首位、V4-Flashは入力$0.14/Mトークンの衝撃価格",
+        "url": "https://codezine.jp/news/detail/24108",
+        "reason": "V4-ProのLiveCodeBench 93.5%による性能上位と入力$0.14/Mトークンの価格設定は、LLM API市場の価格競争を新段階に引き上げ、国内企業のAI調達コスト設計に直接影響する最重要技術・経済指標ニュースである。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "ゴールデンウィーク初日ですね！AI業界では中国のDeepSeekが驚きの低価格でトップ性能のV4を発表して注目を集めていますよ。ただ関東は大雨が予想されているので、お出かけの際はお気をつけください。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "DeepSeek V4が登場して、強力なAIモデルを入力$0.14/Mトークンという驚きの低価格で使えるようになりましたよ！一方でAnthropicのClaude Mythosは高い性能ゆえのセキュリティリスクがあるとして、初めて一般非公開になったんです。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモが9,000万人以上のネットワークを完全仮想化して信頼性が上がりましたよ。衛星通信のStarlink Directも始まって圏外でも通信できるようになりましたね！明日5/2は東京ドームで井上尚弥vs中谷潤人のボクシングもLeminoで見られますよ。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "マイクロソフトとQuEraが今年中にエラー訂正できる量子コンピュータをクラウドで使えるようにすると発表しましたよ！金融庁もメガバンクにポスト量子暗号の準備を求めていて、量子の話が業界を超えて広がっていますね。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "アメリカでステーブルコインの法律（GENIUS法）が成立して、発行ルールがしっかり整備されましたよ。日本でも改正資金決済法が施行されて、三菱UFJ信託銀行が国内初のステーブルコイン発行を準備しているみたいです！"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "5月1日は関東で大雨が来そうですよ、移動には気をつけてくださいね。日経平均も昨日632円下がって厳しい状況ですね。GWは旅行者2,447万人が動く見込みで、消費は活発になりそうです。"
+        }
+      ],
+      "must_read": {
+        "title": "DeepSeek V4 Preview発表—V4-ProがLiveCodeBench 93.5%で首位、V4-Flashは入力$0.14/Mトークンの衝撃価格",
+        "url": "https://codezine.jp/news/detail/24108",
+        "reason": "GPT並みの性能をGPTの約30分の1の価格で使えるようになる可能性があって、AIを活用したい企業にとってとても重要なニュースですよ！",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・DeepSeek V4 Pro/Flash発表、LiveCodeBenchで93.5%首位、入力$0.14/Mトークンの低価格\n・Claude MythosがセキュリティリスクでAnthropicの初一般非公開モデルに\n・デジタル庁が2026年夏に国産LLM（LLM-jp-4・PLaMo）の試験導入を開始予定"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・ドコモがモバイルコアネット完全仮想化完了（9,000万超利用者対象）\n・docomo Starlink Direct 4/27開始、全プラン当面無料\n・5/2 東京ドームで井上尚弥vs中谷潤人 LeminoでLIVE配信"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・マイクロソフトとQuEraが2026年内に100論理量子ビットのフォールトトレラント機をクラウド提供予定\n・QuEraがGPU加速オープンソースシミュレータ「Tsim」を公開\n・金融庁がメガバンク・地銀にPQC移行対応を要請"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・米GENIUS法が成立、ステーブルコイン発行体に準備資産管理・開示義務\n・2026年施行の改正資金決済法で電子決済手段仲介業が新設\n・三菱UFJ信託銀行が電子決済手段として国内初のステーブルコイン発行を準備"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・5/1 関東で警報級大雨（千葉120mm・神奈川100mm・東京80mm）\n・日経平均 4/30 632円安続落、AI関連売り・原油高が重荷\n・GW2026 旅行者数2,447万人・消費額1兆2,876億円予測（JTB）"
+        }
+      ],
+      "must_read": {
+        "title": "DeepSeek V4 Preview発表—V4-ProがLiveCodeBench 93.5%で首位、V4-Flashは入力$0.14/Mトークンの衝撃価格",
+        "url": "https://codezine.jp/news/detail/24108",
+        "reason": "・本日最重要：DeepSeek V4、競合比約30分の1の低価格でLLM性能首位",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "DeepSeek V4のLiveCodeBench首位獲得と入力$0.14/Mトークン価格設定はLLM API市場の限界費用競争を新段階に引き上げ、米GENIUS法の成立と改正資金決済法の施行はデジタル通貨の法的インフラを日米同時に確立した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "DeepSeek V4-Proの入力$1.74/Mトークンという価格設定は、GPT-5.5（$5.00）・Claude Opus 4.7（$15.00）の1/3〜1/10水準であり、LLM APIの限界費用競争が本格化したことを示す。同時にClaude Mythosが「ゼロデイ脆弱性の自律的発見能力」を理由に一般非公開となったことは、フロンティアAIの安全管理が単なる政策議論から実際的制約として機能し始めた最初の事例として位置付けられる。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "モバイルコアネットワーク完全仮想化の完了は、2005年の基礎研究から20年をかけた技術転換の終着点であり、オートヒーリングによる9,000万超利用者の通信信頼性向上と消費電力削減を同時に達成した。Starlink Direct開始はカバレッジの空白域解消という明確な社会課題に対応し、5G/6G基盤確立と合わせてNTTグループのネットワークインフラ投資が成果を示した段階といえる。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "マイクロソフト×QuEraのフォールトトレラント量子コンピュータ2026年提供計画は、量子誤り訂正が研究段階から商用段階へ移行したことを意味する。金融庁によるPQC移行要請は、Google Quantum AIが示した暗号解読必要量子ビット数の1/20修正と直接連動しており、量子技術が「将来の脅威」から「現行規制要件」に格上げされた転換点と評価できる。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "米GENIUS法の成立とFSB国際ガイドライン整備により、ステーブルコインは暗号資産の一形態から「規制された金融インフラ」へ法的に格上げされた。日本でも2026年施行の改正資金決済法が電子決済手段仲介業を新設し、三菱UFJ信託銀行の国内初SC発行へ道を開いた。米国がCBDCではなくステーブルコインへ軸足を移した決定は、日本のデジタル円構想の優先順位にも影響を与える。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "日経平均の4月30日632円安は、中東情勢悪化による原油高とFRBパウエル議長交代観測が重なった複合的な売り要因による。FRBの次期議長候補としてトランプ大統領に近いハセット氏が浮上していることは、2026年下半期の米金融政策の方向性への不確実性を高める。GW国内旅行2,447万人・消費額1兆2,876億円は消費拡大の一方、関東大雨がGW初日から移動に影響する形となった。"
+        }
+      ],
+      "must_read": {
+        "title": "DeepSeek V4 Preview発表—V4-ProがLiveCodeBench 93.5%で首位、V4-Flashは入力$0.14/Mトークンの衝撃価格",
+        "url": "https://codezine.jp/news/detail/24108",
+        "reason": "DeepSeek V4のAPI価格設定は、垂直統合型クラウドAI収益モデルへの構造的圧力となり得る。LLM API市場の限界費用収束が加速することで、モデルの差別化は価格から応用特化・安全性・SLA品質へ移行することが予測される。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 85,
+      "trend_history": [82, 85, 88, 85],
+      "summary_short": "DeepSeek V4が価格革命を起こし、Claude Mythosが一般非公開となった。",
+      "summary_long": "2026年4月24日、DeepSeekがV4 Flash・V4 Proを公開した。V4-ProはLiveCodeBenchで93.5%と競合最高水準を記録し、APIの入力価格はV4-Flashが$0.14/Mトークンと大幅に安価だ。AnthropicはClaude Mythosをサイバーセキュリティリスクを理由に一般非公開とした。デジタル庁も国産LLMの試験導入に向け動き出した。",
+      "articles": [
+        {
+          "title": "DeepSeek V4 Preview発表—V4-ProがLiveCodeBench 93.5%で首位、V4-Flashは入力$0.14/Mトークン",
+          "url": "https://codezine.jp/news/detail/24108",
+          "source": "CodeZine",
+          "summary_short": "DeepSeek V4 Proが性能首位を獲得、V4-Flashは入力$0.14/Mトークンの低価格を実現した。",
+          "summary_long": "DeepSeekは2026年4月24日にV4 FlashとV4 Proを発表した。V4-ProはLiveCodeBenchで93.5%を記録しGemini 3.1 ProとClaude Opus 4.7を上回った。APIの価格はV4-Flashが入力$0.14・V4-Proが入力$1.74（100万トークンあたり）とGPT-5.5の1/3〜1/35に設定された。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "Anthropicが新AI「Claude Mythos」を発表—ゼロデイ脆弱性検出能力高く一般非公開の初事例",
+          "url": "https://www.gizmodo.jp/2026/04/anthropic_claude_mythos_preview.html",
+          "source": "Gizmodo Japan",
+          "summary_short": "AnthropicがClaude Mythosを発表、セキュリティリスクで初の一般非公開モデルとなった。",
+          "summary_long": "Anthropicは2026年4月7日に「Claude Mythos Preview」を発表した。コーディング・多言語・マルチモーダル処理で全ベンチマーク上位を達成したが、OSやブラウザのゼロデイ脆弱性を自律的に検出する能力が非常に高いとされ、セキュリティパートナー企業のみへの限定提供となった。一般非公開の初のClaudeモデルとなる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "デジタル庁「ガバメントAI」向け国産LLMを2026年夏に試験導入—NII「LLM-jp-4」とPFN「PLaMo」が候補",
+          "url": "https://xtech.nikkei.com/atcl/nxt/news/24/03008/",
+          "source": "日経Xtech",
+          "summary_short": "デジタル庁が2026年夏に国産LLMの試験導入を開始、LLM-jpとPLaMoが候補となっている。",
+          "summary_long": "デジタル庁はガバメントAI「源内」向けの国産LLMを公募し、2026年夏をめどに選定モデルの試験導入を開始する方針だ。候補にはNIIのLLM-jp-4とPFNのPLaMoが挙がっている。国産LLMが政府情報システムへ本格採用される見通しで、5月から他府省庁への展開も始まる予定だ。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Athena Technologies、常陽銀行向けに機密情報を外部送信しないローカルLLMエージェントを提供",
+          "url": "https://prtimes.jp/main/html/rd/p/000000021.000141002.html",
+          "source": "PR TIMES",
+          "summary_short": "AthenaがローカルLLMで常陽銀行の業務特化型AIエージェントを提供開始した。",
+          "summary_long": "松尾研究所発スタートアップのAthena Technologiesは、常陽銀行向けにクラウドに機密情報を送信しないローカルLLMを使用した業務特化型エージェント「JOYO AI AGENT」を開発・提供した。銀行の専門知識を持つAIが証券・投資等の業務を支援し、機密情報の保護と業務効率化を両立する。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 80,
+      "trend_history": [72, 76, 78, 80],
+      "summary_short": "ドコモがコアネット完全仮想化を完了し、Starlink Directも開始された。",
+      "summary_long": "NTTドコモは2026年3月末に9,000万超の利用者を対象にモバイルコアネットワークの完全仮想化を完了した。4月27日には全プランで当面無料の衛星通信サービス「docomo Starlink Direct」が開始された。5月2日には東京ドームでNTTドコモ presents Lemino BOXINGが開催される予定だ。",
+      "articles": [
+        {
+          "title": "NTTドコモ、モバイルコアネットワークの完全仮想化を完了—9,000万超の利用者に対し自動復旧機能を実現",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/04/02_00.html",
+          "source": "NTTドコモ",
+          "summary_short": "ドコモが9,000万超の利用者対象にモバイルコアネットワークの完全仮想化を完了した。",
+          "summary_long": "NTTドコモは2026年3月末、9,000万を超える利用者のモバイルコアネットワークの完全仮想化を完了した。専用ハードウェアから汎用サーバ上のソフトウェアへ移行し、オートヒーリング機能による自動復旧と消費電力削減を実現した。シスコシステムズ・デル・NECなどと協力し、2005年の基礎研究から約20年での完成となった。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "ドコモ「docomo Starlink Direct」提供開始—Pixel 9以降対応・全プランで当面無料",
+          "url": "https://jetstream.blog/2026/04/26/docomo-starlink-direct-launch-soon/",
+          "source": "jetstream.blog",
+          "summary_short": "docomo Starlink Directが4月27日より提供開始、当面は無料で利用できる。",
+          "summary_long": "NTTドコモは2026年4月27日から「docomo Starlink Direct」の提供を開始した。全料金プランで当面無料で利用でき、Google Pixel 9シリーズ以降が対応する。衛星とスマートフォンが直接接続することで、基地局の圏外でもメッセージ・通話が可能となった。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモ presents Lemino BOXING、5月2日東京ドームで井上尚弥と中谷潤人が世界Sバンタム級4団体統一戦",
+          "url": "https://lemino.docomo.ne.jp/ft/0000002/",
+          "source": "Lemino",
+          "summary_short": "5月2日に東京ドームで井上尚弥vs中谷潤人の世界Sバンタム級4団体統一戦が開催される。",
+          "summary_long": "NTTドコモがスポンサーのLemino BOXINGが2026年5月2日、東京ドームで世界スーパーバンタム級4団体統一タイトルマッチを開催する。世界統一王者の井上尚弥と3階級制覇の中谷潤人が対戦し、PPV視聴料は事前購入6,050円・当日7,150円。Leminoでライブ配信される。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモビジネスとフリュー、エンタメ業界初の電子署名「docomo business SIGN」をプリントシール機に実証開始",
+          "url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0416.html",
+          "source": "NTTドコモビジネス",
+          "summary_short": "ドコモビジネスとフリューがプリントシール機に電子署名の実証実験を開始した。",
+          "summary_long": "NTTドコモビジネスとフリューは2026年4月16日、電子署名サービス「docomo business SIGN™」を活用したプリントシール機へのセキュリティ実証実験を開始した。エンタメ業界での電子署名活用は国内初となり、設置店舗管理のデジタル化と契約業務の効率化を目指す。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 66,
+      "trend_history": [68, 72, 68, 66],
+      "summary_short": "マイクロソフトとQuEraが2026年内のフォールトトレラント量子機提供を発表した。",
+      "summary_long": "マイクロソフトとQuEra Computingは100論理量子ビットのエラー訂正量子コンピュータを2026年中にクラウド提供する計画を発表した。QuEraはGPU加速オープンソースシミュレータ「Tsim」も公開した。金融庁はメガバンク・地銀にポスト量子暗号（PQC）移行対応を要請しており、2030年完了ロードマップが策定中だ。",
+      "articles": [
+        {
+          "title": "マイクロソフトとQuEra、エラー訂正機能搭載の量子コンピューター2026年提供へ—100論理量子ビット目標",
+          "url": "https://innovatopia.jp/quantum/quantum-news/75663/",
+          "source": "イノバトピア",
+          "summary_short": "マイクロソフトとQuEraがエラー訂正量子コンピュータを2026年中に提供すると発表した。",
+          "summary_long": "マイクロソフトとQuEra Computingは、100論理量子ビットのエラー訂正機能を備えたフォールトトレラント量子コンピュータを2026年中にクラウド提供する計画を発表した。QuEraは中性原子を使った冷却原子方式の量子プロセッサで、物理量子ビット数あたりの論理量子ビット効率が高い。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "QuEra、量子誤り訂正研究向けオープンソースGPU加速Tゲートシミュレータ「Tsim」をリリース",
+          "url": "https://quantumbusinessmagazine.com/2026/04/03/quera%E3%80%81%E8%AA%A4%E3%82%8A%E8%A8%82%E6%AD%A3%E7%A0%94%E7%A9%B6%E5%90%91%E3%81%91%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9gpu%E5%8A%A0%E9%80%9Ft%E3%82%B2%E3%83%BC%E3%83%88/",
+          "source": "量子ビジネスマガジン",
+          "summary_short": "QuEraが量子誤り訂正研究向けのオープンソースGPU加速シミュレータを公開した。",
+          "summary_long": "QuEra Computingは2026年4月3日、量子誤り訂正プロトコル開発向けのオープンソースGPU加速シミュレータ「Tsim」をリリースした。量子回路の大規模な統計解析を高速化し、フォールトトレラント量子コンピュータの研究加速を支援する技術的ギャップを解消する。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "IBMの研究者「量子コンピューターはもう実現している」—年末Nighthawkデバイスをクラウド提供へ",
+          "url": "https://www.gizmodo.jp/2026/04/interview-with-ibm-researchers-on-quantum-computing-qh2.html",
+          "source": "Gizmodo Japan",
+          "summary_short": "IBMが2026年末に量子デバイスNighthawkをクラウド提供すると発表した。",
+          "summary_long": "IBMのジェリー・チャウ氏は2026年4月のインタビューで「量子優位性とは古典的リソースと組み合わせてより安く速く正確に問題を解くこと」と述べた。IBMは約300人の量子ネットワークを構築しており、年末には新デバイス「Nighthawk」をユーザーに提供する予定だ。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "2026年、金融機関のポスト量子暗号（PQC）移行が本格化—金融庁がメガバンク・地銀に対応要請",
+          "url": "https://arpable.com/technology/quantum-computer/quantum-computing-latest-trends-2025/",
+          "source": "arpable.com",
+          "summary_short": "金融庁がメガバンク・地銀にPQC移行を要請、2030年完了ロードマップが策定中だ。",
+          "summary_long": "金融庁は2026年、メガバンクと地銀に対してポスト量子暗号（PQC）への移行対応を要請している。政府は2030年を目途に重要インフラ優先システムでのPQC対応完了ロードマップとガイドラインを策定中だ。Google Quantum AIらが示した暗号解読必要量子ビット数の1/20修正を受け、移行が急務となっている。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 76,
+      "trend_history": [75, 74, 72, 76],
+      "summary_short": "米GENIUS法成立と改正資金決済法施行でデジタル通貨の法整備が国際的に加速した。",
+      "summary_long": "米国でGENIUS法が成立しステーブルコイン発行体に準備資産の管理・開示義務が課された。日本でも2026年施行の改正資金決済法が電子決済手段仲介業を新設した。三菱UFJ信託銀行が電子決済手段として国内初のステーブルコイン発行を準備しており、国内外でデジタル通貨の制度整備が本格化している。",
+      "articles": [
+        {
+          "title": "米国GENIUS法成立、ステーブルコイン発行体に準備資産管理と開示義務—日本含む国際的影響も",
+          "url": "https://www.fidx.co.jp/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91%E3%82%B9%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%82%B3%E3%82%A4%E3%83%B3%E8%A6%8F%E5%88%B6%E3%81%AE%E5%85%A8%E8%B2%8C%E3%80%82%E5%B8%82%E5%A0%B4/",
+          "source": "フィデックス",
+          "summary_short": "米国GENIUS法が成立、ステーブルコインに厳格な準備資産管理と開示義務が課された。",
+          "summary_long": "米国でGENIUS法案が上下両院で可決されトランプ大統領が署名して成立した。ステーブルコイン発行体に準備資産の管理・開示義務が課され、世界最大の暗号資産市場での規制整備が確立した。米国がCBDCではなくステーブルコインへ軸足を移した決定は、日本など他国のCBDC構想にも影を投げかけている。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "2026年施行の改正資金決済法、「電子決済手段・暗号資産サービス仲介業」を新設—ステーブルコイン取扱い制度が整備",
+          "url": "https://keiyaku-watch.jp/media/hourei/2026-funds-settlement/",
+          "source": "契約ウォッチ",
+          "summary_short": "2026年施行の改正資金決済法でSC仲介業が新設され、ステーブルコイン普及の法整備が整う。",
+          "summary_long": "2025年6月成立・2026年施行の改正資金決済法は、ステーブルコインの「媒介のみ」を業務とする新たな仲介業として「電子決済手段・暗号資産サービス仲介業」を創設した。信託型ステーブルコインの定義も改正され、要求払預貯金以外での信託財産管理が一定条件下で認められる。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "三菱UFJ信託銀行、電子決済手段として国内初のステーブルコイン発行へ—Progmat基盤を活用",
+          "url": "https://coinpost.jp/?p=606026",
+          "source": "CoinPost",
+          "summary_short": "三菱UFJ信託銀行が電子決済手段として国内初のステーブルコイン発行を準備中だ。",
+          "summary_long": "三菱UFJ信託銀行は改正資金決済法に基づき、電子決済手段としての法的地位を持つ国内初のステーブルコインを発行する準備を進めている。三菱UFJフィナンシャル・グループが開発するProgmatプラットフォームを活用し、三大メガバンクの円建てSC共同発行実証と並行して進められている。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": [
+        "https://arpable.com/technology/quantum-computer/quantum-computing-latest-trends-2025/"
+      ]
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 70,
+      "trend_history": [80, 68, 73, 70],
+      "summary_short": "GW旅行者2,447万人予測・関東大雨警報・日経平均632円安が並んだ。",
+      "summary_long": "気象当局は2026年5月1日に関東地方で警報級の大雨を予測した。日経平均は4月30日に632円安で続落し、原油高とFRBパウエル議長交代観測が重荷となった。JTB総合研究所はGW2026の旅行者数を2,447万人・消費額を1兆2,876億円と予測しており、国内消費への期待が高まっている。",
+      "articles": [
+        {
+          "title": "GW2026の旅行者数は2,447万人・消費額1兆2,876億円の見通し—JTB総合研究所が予測を発表",
+          "url": "https://www.tourism.jp/news/2026/04/tourism-trend-gw2026/",
+          "source": "JTB総合研究所",
+          "summary_short": "GW2026の旅行者数は2,447万人、消費額1兆2,876億円との予測が発表された。",
+          "summary_long": "JTB総合研究所は2026年ゴールデンウィーク（4月25日〜5月7日）の旅行者数を対前年比101.9%の2,447万人、消費額を1兆2,876億円と予測した。2026年のGWは5月2〜6日の5連休が確定しており、国内旅行を中心に消費活動の拡大が見込まれている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "関東地方に5月1日、警報級の大雨—24時間雨量は千葉120mm、神奈川100mm、東京80mm予測",
+          "url": "https://news.livedoor.com/topics/detail/31128585/",
+          "source": "ライブドアニュース",
+          "summary_short": "5月1日に関東で警報級大雨、千葉120mm・神奈川100mm・東京80mmの予測が出た。",
+          "summary_long": "気象当局は2026年5月1日、関東地方を中心に警報級の大雨になると予測した。24時間雨量は千葉県120mm、神奈川県100mm、東京都80mmが予測されており、GW前半の移動にも影響が出る見込みだ。土砂災害や河川増水への警戒が呼びかけられている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "日経平均4月30日は632円安で続落—原油高とAI関連売り、FRBパウエル議長交代観測も重荷",
+          "url": "https://www.nikkei.com/news/category/economy/",
+          "source": "日本経済新聞",
+          "summary_short": "日経平均は4月30日に632円安で続落、原油高とAI関連株への売りが拡大した。",
+          "summary_long": "東京証券取引所の4月30日の日経平均株価は前日比632円安で続落した。中東情勢悪化による原油価格上昇を懸念してAI関連株に売りが入った。FRBのパウエル議長の2026年5月任期満了を前に、後任候補としてトランプ大統領に近いハセット氏が浮上しており、市場の不確実性が高まっている。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": [
+        "https://lemino.docomo.ne.jp/ft/0000002/"
+      ]
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 85,
+      "NTTドコモ": 80,
+      "量子コンピュータ": 66,
+      "金融決済": 76,
+      "国内・社会": 70
+    },
+    "source_distribution": {
+      "CodeZine": 1,
+      "Gizmodo Japan": 2,
+      "日経Xtech": 1,
+      "PR TIMES": 1,
+      "NTTドコモ": 1,
+      "jetstream.blog": 1,
+      "Lemino": 1,
+      "NTTドコモビジネス": 1,
+      "イノバトピア": 1,
+      "量子ビジネスマガジン": 1,
+      "arpable.com": 1,
+      "フィデックス": 1,
+      "契約ウォッチ": 1,
+      "CoinPost": 1,
+      "JTB総合研究所": 1,
+      "ライブドアニュース": 1,
+      "日本経済新聞": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 3,
+      "4": 9,
+      "5": 5
+    }
+  }
+}
