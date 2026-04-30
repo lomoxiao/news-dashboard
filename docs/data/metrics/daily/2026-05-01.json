@@ -1,0 +1,15 @@
+{
+  "date": "2026-05-01",
+  "arxiv_ai": 48,
+  "arxiv_quantum": 51,
+  "trends": {
+    "最新AI情報": 95,
+    "NTTドコモ": 68,
+    "量子コンピュータ": 72,
+    "金融決済": 63
+  },
+  "markets": {
+    "nikkei": null,
+    "usdjpy": null
+  }
+}
