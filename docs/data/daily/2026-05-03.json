@@ -1,0 +1,363 @@
+{
+  "date": "2026-05-03",
+  "generated_at": "2026-05-03T07:00:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "太陽石油がサハリン2経由でロシア産原油をホルムズ海峡封鎖後初めて調達し、憲法記念日には高市首相が来年の通常国会での改憲発議に意欲を示した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicのClaude Opus 4.7が4月16日に一般提供開始。SWE-bench Proで64.3%を達成し前世代比10.9pt向上。Agent Teams 2.0で最大10エージェント並列実行が可能になり、Task Budgetsでループ全体のトークン予算管理にも対応した。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモとベトナムのDatVietグループが設立したVie BOARDが、ホーチミン市でデジタルサイネージ（DOOH）の運用を4月27日に開始した。ドコモとして初の海外DOOH事業参画となる。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMは年末に新チップ「Nighthawk」を公開し2026年末までに量子優位性達成を目標とすると発表した。富士通・理研も2026年度中に1,000量子ビット超伝導量子コンピュータを川崎市の新棟で公開予定。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "三井住友フィナンシャルグループはSakana AIと組み、法人向け提案書作成を従来1〜2週間から数十分〜数時間に短縮するシステムを4月30日に発表した。2026〜28年度のIT投資は3年で1兆円規模を計画。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "太陽石油がサハリン2経由のロシア産原油を調達し、ホルムズ海峡封鎖後初の国内受け入れとなった。高市首相は憲法記念日のビデオメッセージで9条改正の発議に意欲を示し、ベトナム・豪州歴訪でFOIP強化を表明した。"
+        }
+      ],
+      "must_read": {
+        "title": "太陽石油、サハリン2のロシア産原油を調達—ホルムズ封鎖後初",
+        "url": "https://www.nikkei.com/article/DGXZQOUC01A110R00C26A5000000/",
+        "reason": "ホルムズ海峡封鎖という前例のないエネルギー危機下で、米欧制裁対象外のサハリン2経由でロシア産原油が日本に届いた。日本の石油供給網の脆弱性と代替ルートの実証という両面で、エネルギー安全保障上の重要な転換点となる。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "憲法記念日ですね。GW後半は大雨が心配ですが、経済や技術の面では動きの多い一日になっていますよ。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Anthropicが4月16日にClaude Opus 4.7を出しましたよ。コーディング性能がぐっと上がって、最大10個のAIエージェントを同時に動かせるようになりました。AIが自分で仕事を分担しながら動く時代が着実に近づいていますね。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモがベトナムのホーチミン市でデジタルサイネージ事業を始めましたよ。海外でのDOOH事業はドコモ初とのことで、海外展開が着々と進んでいる様子ですね。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMが今年末に新しい量子チップ「Nighthawk」を出すと予告しています。富士通と理研も今年度中に世界最大級の1,000量子ビットマシンを公開予定みたいですよ。量子コンピュータが一気に身近になりそうですね。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "三井住友FGがSakana AIと組んで、法人向け提案書の作成を1〜2週間から数時間に短縮するシステムを発表しましたよ。AIが金融の現場をどんどん変えていますね。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "太陽石油がロシア産原油を調達したことが明らかになりました。ホルムズ海峡封鎖後初めてとのことで、日本のエネルギー調達のリアルな苦労が伝わってきますね。"
+        }
+      ],
+      "must_read": {
+        "title": "太陽石油、サハリン2のロシア産原油を調達—ホルムズ封鎖後初",
+        "url": "https://www.nikkei.com/article/DGXZQOUC01A110R00C26A5000000/",
+        "reason": "ホルムズ封鎖という異例の状況でのエネルギー調達の話で、日本の供給網の現状がよくわかりますよ。",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Claude Opus 4.7がSWE-bench Pro 64.3%、Agent Teams 2.0対応\n・GPT-5.5が実務特化で複数指標でClaude超え\n・MCP公式サーバー200個超え、Notion/Slack/GitHub対応"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・ドコモ初の海外DOOH事業、ベトナム・ホーチミン市で開始\n・dポイント/d払い自治体キャンペーン5月スタート"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・IBM Nighthawk年末公開、2026年末に量子優位性達成目標\n・富士通・理研が2026年度中に1,000量子ビット公開予定"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・三井住友FG×Sakana AI、提案書作成を数時間に短縮\n・SMBC IT投資3年で1兆円計画、接客アバター導入"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・太陽石油、サハリン2経由でロシア産原油調達（ホルムズ封鎖後初）\n・高市首相が憲法記念日に9条改正発議に意欲\n・GW後半5月3〜4日に警報級大雨の恐れ"
+        }
+      ],
+      "must_read": {
+        "title": "太陽石油、サハリン2のロシア産原油を調達—ホルムズ封鎖後初",
+        "url": "https://www.nikkei.com/article/DGXZQOUC01A110R00C26A5000000/",
+        "reason": "エネルギー安全保障の転換点。",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "AIフラグシップモデルの競争がコーディング・エージェント性能で加速する中、日本では憲法改正論議とロシア産原油調達再開が重なり、エネルギー・政治・技術の三軸が同時に動いた一日となった。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Claude Opus 4.7のAgent Teams 2.0（最大10エージェント並列）とGPT-5.5の実務特化強化は、AIが単体から集合体として機能する段階への転換を示す。MCP公式サーバー200個超えと合わせると、AIエージェントが外部サービスと統合されたエコシステムが急速に形成されつつある。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ベトナムでのDOOH事業参画は、ドコモの海外展開をデータ・広告プラットフォームに拡張する戦略の一環と見られる。国内では5G成熟期を迎え、付加価値サービスの海外展開で収益源の多様化を図る方向性が鮮明になっている。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMのNighthawk（今年末）と富士通・理研の1,000量子ビット（2026年度中）が重なる形で実現すれば、日米双方で量子実機の規模が急拡大する。量子誤り訂正が成熟する2027〜28年に向けた基盤整備が着実に進んでいると評価できる。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "三井住友FGがSakana AIとの協業で提案書作成を1〜2週間から数時間に短縮したことは、金融フロント業務へのAI適用が実証段階から実運用に移行した証左である。3年1兆円のIT投資枠が背景にあり、他メガバンクへの波及が見込まれる。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "太陽石油によるサハリン2原油調達は、ホルムズ海峡封鎖という前例のない供給途絶に対し日本企業が米欧制裁の例外枠を活用した現実的対応を取ったことを示す。憲法改正論議が具体的スケジュールを伴い始めた点と合わせて、日本の安全保障・エネルギー政策が転換期を迎えていると言える。"
+        }
+      ],
+      "must_read": {
+        "title": "太陽石油、サハリン2のロシア産原油を調達—ホルムズ封鎖後初",
+        "url": "https://www.nikkei.com/article/DGXZQOUC01A110R00C26A5000000/",
+        "reason": "ホルムズ封鎖後の代替調達ルート開拓は日本のエネルギー安全保障の実証データとなり、今後の政策立案・企業戦略に影響を与える。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 82,
+      "trend_history": [78, 80, 75, 82, 85, 80, 82],
+      "summary_short": "Claude Opus 4.7とGPT-5.5が競い合い、エージェント・コーディング性能で新段階へ",
+      "summary_long": "AnthropicがClaude Opus 4.7を4月16日に一般提供開始し、SWE-bench Proで64.3%を記録した。GPT-5.5は実務特化で複数指標をClaude超えとし、AIエージェントが外部サービスと統合されるMCPエコシステムも急拡大している。Gemini 3.5はDeep Research正式版を提供開始し、Web情報を自動収集して構造化レポートを出力する機能が実用化された。",
+      "articles": [
+        {
+          "title": "Claude Opus 4.7とは？新機能・性能・料金を徹底解説",
+          "url": "https://www.ai-souken.com/article/what-is-claude-opus-4-7",
+          "source": "AI総合研究所",
+          "summary_short": "Claude Opus 4.7がSWE-bench Pro 64.3%でコーディング性能を大幅更新",
+          "summary_long": "Anthropicは4月16日にClaude Opus 4.7を一般提供開始した。SWE-bench Proで64.3%（前版53.4%）を達成し、Agent Teams 2.0で最大10エージェントの並列実行が可能になった。画像解像度も1.15MPから3.75MPに拡大し、Task Budgetsでエージェントループ全体のトークン予算管理に対応した。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "【速報】GPT-5.5が登場｜Claude Opus 4.7超えの実務特化AIの性能・料金・使い方を解説",
+          "url": "https://digirise.ai/chaen-ai-lab/gpt-5-5/",
+          "source": "チャエンのAI研究所",
+          "summary_short": "GPT-5.5が4月23日リリース、実務特化で複数指標でClaude Opus 4.7超え",
+          "summary_long": "OpenAIは4月23日にGPT-5.5とGPT-5.5 Proを発表した。ツール使用・音声・マルチモーダルの総合力でClaude Opus 4.7を複数指標で上回り、「チャットAIから実務AIへの転換点」と評された。Web検索標準搭載とTasks機能（スケジュール上限100件）が実務活用を支える。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "【2026年5月版】AIアップデートまとめ｜Claude Opus 4.7・GPT-5.3・Gemini 3.5の新機能比較",
+          "url": "https://www.worktypeslab.com/ai-update-2026-may-summary/",
+          "source": "WorkTypes Lab",
+          "summary_short": "Gemini 3.5がDeep Research正式版を提供、Web情報を自動収集し構造化レポートを出力",
+          "summary_long": "Google Gemini 3.5はDeep Research正式版を提供開始し、数十件のWeb情報を自動収集して構造化レポートを出力する。Gemini FlashはAI無料版が実質回数無制限に拡充された。またMCP公式サーバーが200個を超え、Notion・Slack・GitHub・Figmaなど主要サービス対応が一気に進んだ。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "AI Updates Today (May 2026) – Latest AI Model Releases",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats",
+          "summary_short": "MCP公式サーバーが200個超え、主要ビジネスツールとのAI連携が急拡大",
+          "summary_long": "2026年5月時点でAnthropicのMCP（Model Context Protocol）公式サーバーが200個を超えた。Notion・Slack・GitHub・Figmaなど主要サービスが対応し、AIエージェントが外部サービスと連携する統合エコシステムが急速に形成されている。業務自動化の基盤インフラとして定着しつつある。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 55,
+      "trend_history": [60, 58, 62, 55, 60, 57, 55],
+      "summary_short": "ドコモが初の海外DOOH事業をベトナムで開始、dポイント自治体キャンペーンも5月開始",
+      "summary_long": "NTTドコモはベトナムのDatVietグループと設立したVie BOARDを通じてホーチミン市でデジタルサイネージ事業を開始し、海外DOOH事業に初参入した。国内ではdポイント・d払いの自治体キャンペーンが5月より開始され、地域連携サービスの拡充が続いている。",
+      "articles": [
+        {
+          "title": "ドコモとDatVietグループが設立したVie BOARDがベトナムのホーチミン市でデジタルサイネージ運用を開始",
+          "url": "https://www.docomo.ne.jp/binary/pdf/info/news_release/topics_260427_g1.pdf",
+          "source": "NTTドコモ",
+          "summary_short": "ドコモ初の海外DOOH事業、ベトナム・ホーチミン市で4月27日に運用開始",
+          "summary_long": "NTTドコモとベトナムのDatVietグループが合弁設立したVie BOARDが、ホーチミン市でデジタルサイネージ（DOOH）の運用を2026年4月27日に開始した。ドコモにとって初の海外DOOH事業参画となる。データ活用と広告プラットフォームを海外に展開する戦略の一環と位置づけられる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "5月開始の「dポイント」「d払い」自治体キャンペーン",
+          "url": "https://www.docomo.ne.jp/binary/pdf/info/news_release/topics_260427_x1.pdf",
+          "source": "NTTドコモ",
+          "summary_short": "dポイント・d払いの自治体キャンペーンが5月より順次開始",
+          "summary_long": "NTTドコモは2026年4月27日、dポイント・d払いを活用した自治体連携キャンペーンを5月から順次開始すると発表した。地域消費の活性化を目的とし、自治体とのキャッシュレス推進連携を拡充する。地方自治体向けのサービス展開強化が続いている。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "ドコモとDatVietグループがベトナムで初のDOOH事業参画（週刊アスキー解説）",
+          "url": "https://weekly.ascii.jp/elem/000/004/381/4381322/",
+          "source": "週刊アスキー",
+          "summary_short": "ドコモのネットワーク・データ技術が海外DOOH事業運営を支える構造",
+          "summary_long": "週刊アスキーはドコモのベトナムDOOH参入を「ネットワーク・データ技術の海外展開」として解説した。5Gとデータ分析技術を広告配信に活用するモデルで、東南アジア市場での存在感を高める戦略と評価される。国内通信市場の成熟を背景に、海外での新収益源開拓が急務となっている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 72,
+      "trend_history": [68, 70, 65, 72, 75, 70, 72],
+      "summary_short": "IBM Nighthawkが年末公開予定、富士通・理研も1,000量子ビット機を2026年度中に公開へ",
+      "summary_long": "IBMは新量子チップ「Nighthawk」を2026年末に公開し、同時期の量子優位性達成を目標とすると宣言した。国内では富士通と理化学研究所が川崎市の新棟で1,000量子ビット超伝導量子コンピュータを2026年度中に公開する計画を進めている。IBM研究者は量子優位性を段階的なものと再定義し、古典コンピュータとの組み合わせによる実用化を強調した。",
+      "articles": [
+        {
+          "title": "IBM、新たな量子チップ「Nighthawk」による2026年末の量子優位性達成と2029年の究極量子コンピュータ開発を宣言",
+          "url": "https://xenospectrum.com/ibm-unveils-vision-for-the-future-of-quantum-computing",
+          "source": "XenoSpectrum",
+          "summary_short": "IBM Nighthawkが年末公開、2026年末に量子優位性達成を目標と宣言",
+          "summary_long": "IBMは120量子ビットの正方形格子構造を持つ新チップ「Nighthawk」を2026年末に公開すると発表した。Nighthawkの有効回路深度はHeronの約16倍とされ、2026年末までに量子優位性の達成を目標とする。さらに2029年に「究極の量子コンピュータ」開発を宣言し、医療・エネルギーなど複数分野への応用を見込んでいる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "富士通に量子棟を建設。2026年度、1,000量子ビットコンピュータを設置・公開します！",
+          "url": "https://note.com/fujitsu_pr/n/na57a82e09652",
+          "source": "富士通広報note",
+          "summary_short": "富士通・理研が川崎市の新棟で2026年度中に1,000量子ビット機を公開予定",
+          "summary_long": "富士通と理化学研究所は神奈川県川崎市の「Fujitsu Technology Park」に量子棟を建設し、2026年度中に1,000量子ビット超伝導量子コンピュータを設置・公開する計画を進めている。2025年4月に世界最大級256量子ビット機の開発に成功した実績を踏まえ、さらなる規模拡大を目指す。長期的には1万量子ビット超の研究開発も開始している。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "IBMの研究者はかく語りき。「量子コンピューターはもう実現しているよ」",
+          "url": "https://www.gizmodo.jp/2026/04/interview-with-ibm-researchers-on-quantum-computing-qh2.html",
+          "source": "Gizmodo Japan",
+          "summary_short": "IBM研究者が量子優位性を段階的と再定義、特定問題での実用化は既に実現と主張",
+          "summary_long": "IBM Quantumのディレクター Jerry Chow氏は「量子コンピューターは未来のものではなく既に実在する」と述べた。量子優位性を古典コンピュータとの置き換えではなく、問題ごとの「安く・速く・正確に」解ける段階的なものと再定義した。年末のNighthawk公開後、医療・ライフサイエンス・エネルギー分野での応用探索が本格化する見通し。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 68,
+      "trend_history": [65, 62, 68, 70, 65, 67, 68],
+      "summary_short": "三井住友FGがSakana AIと提携し法人提案書作成を数時間に短縮、IT投資3年1兆円計画",
+      "summary_long": "三井住友フィナンシャルグループはSakana AIと協業し、法人向け提案書作成を従来1〜2週間から数十分〜数時間に短縮するシステムを4月30日に発表した。2026〜28年度のIT投資総額は3年で1兆円規模とし、接客アバターや生成AI活用を金融フロント業務に本格展開する。",
+      "articles": [
+        {
+          "title": "三井住友FG、数時間で顧客企業に戦略提案 Sakana AIと組み作成",
+          "url": "https://www.nikkei.com/article/DGXZQOUB2713R0X20C26A4000000/",
+          "source": "日本経済新聞",
+          "summary_short": "三井住友FGとSakana AIが提携、法人向け提案書作成を1〜2週間から数時間に短縮",
+          "summary_long": "三井住友フィナンシャルグループはAI開発企業Sakana AIと協業し、法人顧客向け提案書の作成時間を従来の1〜2週間から数十分〜数時間に短縮するシステムを2026年4月30日に発表した。三井住友銀行の本社部門で大企業向け提案を担う数十人が利用開始し、対象部署・グループ会社への拡大も検討中。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "三井住友FGが新中計を発表、IT投資3年で1兆円規模 AI活用加速",
+          "url": "https://xtech.nikkei.com/atcl/nxt/news/24/03160/",
+          "source": "日経クロステック",
+          "summary_short": "三井住友FGがIT投資3年1兆円計画、接客アバターや生成AI活用を全社展開",
+          "summary_long": "三井住友フィナンシャルグループは2026〜28年度の3年間でIT投資に約1兆円を投じる新中期経営計画を発表した。生成AIを活用した接客アバターを店舗に設置するなど、個人・法人向け営業や広範なサービスへの展開を加速する。2029年3月期までに500億円を投じた独自AIシステムの成果が業務効率化に反映され始めている。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 75,
+      "trend_history": [70, 72, 68, 75, 78, 72, 75],
+      "summary_short": "ロシア産原油がホルムズ封鎖後初めて日本に到着、高市首相が憲法記念日に改憲意欲",
+      "summary_long": "太陽石油がサハリン2経由のロシア産原油をホルムズ海峡封鎖後初めて調達し、日本のエネルギー代替調達ルートが実証された。憲法記念日には高市首相が9条改正について来年の国会での発議に意欲を示した。また5月3〜4日にかけて九州・四国・東海を中心に警報級の大雨が予想されており、GW後半の行楽に影響が出ている。",
+      "articles": [
+        {
+          "title": "太陽石油、サハリン2のロシア産原油を調達—ホルムズ海峡封鎖後初めて",
+          "url": "https://www.nikkei.com/article/DGXZQOUC01A110R00C26A5000000/",
+          "source": "日本経済新聞",
+          "summary_short": "太陽石油がサハリン2のロシア産原油をホルムズ封鎖後初めて愛媛県で受け入れ",
+          "summary_long": "石油元売り4位の太陽石油は、ロシア極東の「サハリン2」で生産した原油をスポット調達し、愛媛県今治市の製油所で受け入れることを5月1日に明らかにした。ホルムズ海峡封鎖後、ロシア産原油を日本が調達するのは初めて。サハリン2は米欧の対ロ制裁対象外として日本企業が継続参画しており、エネルギー安全保障の観点から注目が集まっている。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "憲法記念日 高市首相が改憲発議に意欲—来年の通常国会での発議を視野",
+          "url": "https://go2senkyo.com/articles/2026/05/01/134524.html",
+          "source": "選挙ドットコム",
+          "summary_short": "高市首相が憲法記念日に9条改正の来年発議を視野に強い意欲を表明",
+          "summary_long": "高市首相は5月3日の「公開憲法フォーラム」向けビデオメッセージで、憲法9条改正に強い意欲を示し、来年の通常国会での発議を念頭に置くと表明した。自民党内では9条2項維持・自衛隊明記案と2項削除・国防軍創設案が対立している。前回の安倍元首相の同フォーラム発言が改憲論議の起爆剤になった前例があり、各党の反応が注目される。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "高市首相、ハノイ首脳会談でFOIP進化を表明—ベトナム・豪州歴訪",
+          "url": "https://8and.jp/2026/05/02/%E9%AB%98%E5%B8%82%E9%A6%96%E7%9B%B8-%E6%9C%AC%E6%97%A55-2%E3%83%8F%E3%83%8E%E3%82%A4%E3%81%A7%E9%A6%96%E8%84%B3%E4%BC%9A%E8%AB%87-%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%EF%BC%86/",
+          "source": "8and",
+          "summary_short": "高市首相が5月2日ハノイで首脳会談、FOIP強化・レアアース連携を表明",
+          "summary_long": "高市首相は5月2日、ベトナムのハノイで首脳会談を行い、「自由で開かれたインド太平洋（FOIP）」の深化を表明した。中国の海洋進出に対抗する安全保障協力の枠組み強化と、レアアース供給網での連携拡大が主要議題となった。その後オーストラリアも歴訪し、日豪共同訓練の拡充と防衛装備品の共同開発も焦点となる。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "3日〜4日は全国で雨風強まる 警報級の大雨の恐れも—GW後半",
+          "url": "https://tenki.jp/forecaster/t_yoshida/2026/05/01/38762.html",
+          "source": "tenki.jp",
+          "summary_short": "5月3〜4日に九州・四国・東海で警報級大雨の恐れ、GW後半に広範な荒天",
+          "summary_long": "日本気象協会は5月3〜4日にかけて低気圧と前線が本州付近を通過し、九州・四国・東海を中心に警報級の大雨となる恐れがあると発表した。1時間雨量30〜50ミリの激しい雨が予想され、土砂災害・河川増水・交通障害のリスクが高まっている。GW後半の行楽・帰省への影響が広範に出る見通し。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 82,
+      "NTTドコモ": 55,
+      "量子コンピュータ": 72,
+      "金融決済": 68,
+      "国内・社会": 75
+    },
+    "source_distribution": {
+      "日本経済新聞": 3,
+      "NTTドコモ": 2,
+      "AI総合研究所": 1,
+      "WorkTypes Lab": 1,
+      "チャエンのAI研究所": 1,
+      "LLM Stats": 1,
+      "XenoSpectrum": 1,
+      "富士通広報note": 1,
+      "Gizmodo Japan": 1,
+      "日経クロステック": 1,
+      "選挙ドットコム": 1,
+      "8and": 1,
+      "週刊アスキー": 1,
+      "tenki.jp": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 5,
+      "4": 7,
+      "5": 2
+    }
+  }
+}
