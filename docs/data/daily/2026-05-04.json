@@ -1,0 +1,382 @@
+{
+  "date": "2026-05-04",
+  "generated_at": "2026-05-04T07:00:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "AnthropicはAdobe Creative Cloud・Blender等8社のクリエイティブツールとClaudeを連携する「Claude for Creative Work」を4月28日に発表し、AIによるクリエイティブ業界への本格参入を示した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicはAdobe・Blender等8社と連携した「Claude for Creative Work」を4月28日に発表した。50以上のツールに対応し、RISD等デザインスクール3校でパイロット開始。Claude Securityも企業向けコードベース脆弱性スキャンの公開ベータを同時期に開始した。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "docomo Starlink Directが4月27日に提供開始し、衛星とスマートフォンが直接通信できる国内初サービスが始まった。橋梁診断支援AI「橋梁アセスタ」の販売開始（4月23日）など産業向けAI展開も続いている。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMの2026年ロードマップにKookaburra（1,386量子ビット、3チップ連結で4,158量子ビット）が登場した。NEDOは量子コンピュータ開発環境を無償提供するプログラムを開始し、国内開発環境の整備が進んでいる。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "ゆうちょ銀行が2026年度中にDCJPY（トークン化預金）の取り扱いを導入する計画を発表した。三菱UFJ・みずほ・三井住友の3メガバンクのステーブルコイン実証継続と合わせ、改正資金決済法の2026年内施行に向けた準備が加速している。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "高市内閣の支持率が74.2%（前月比+2.7pt）に上昇した。5月3日の憲法記念日には改憲派・護憲派がそれぞれ集会を開催し、2027年春の改憲発議をめぐる議論が続いている。"
+        }
+      ],
+      "must_read": {
+        "title": "AnthropicがAdobe・Blender等8社のクリエイティブツールとClaude連携—「Claude for Creative Work」発表",
+        "url": "https://www.anthropic.com/news/claude-for-creative-work",
+        "reason": "AIが「クリエイティブツール」そのものへと溶け込む転換点となる発表で、Adobe Creative Cloud（50以上のツール）・Blender・Abletonなど8社との連携によりデザイン・映像・音楽制作の業務プロセスが大きく変わる可能性がある。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "みどりの日ですが、AI業界は動きっぱなしですよ。AnthropicがAdobeやBlenderと組んで、クリエイティブ作業にClaudeが使えるようになりましたね！",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicがAdobeやBlenderと手を組んで、クリエイティブ作業でClaudeが使えるようになりましたよ。50種類以上のツールに対応で、デザイナーや映像クリエイターの仕事がまた変わりそうですね。Claude Securityというコード診断ツールも公開ベータが始まっています。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "docomo Starlink Directが先週27日から始まりましたよ。衛星と直接スマホで通信できるサービスで、山間部やへき地でもつながりやすくなりそうですね。橋梁診断AIも販売開始で、ドコモはAI活用をいろんな方向に広げています。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMが2026年の量子コンピュータロードマップで「Kookaburra」チップを発表しています。1,386量子ビット×3チップで4,158量子ビット相当になる予定とのこと。量子の規模感がどんどん大きくなっていますね。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "ゆうちょ銀行が今年度中にトークン化預金（DCJPY）を導入する予定みたいですよ。三菱UFJや三井住友も独自のステーブルコインを試験中で、日本のデジタルマネー環境がじわじわ整ってきていますね。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "高市内閣の支持率が74.2%まで上がりましたよ。憲法記念日には改憲・護憲のそれぞれの集会が開かれていて、来年の国会での改憲発議に向けた動きが続いていますね。"
+        }
+      ],
+      "must_read": {
+        "title": "AnthropicがAdobe・Blender等8社のクリエイティブツールとClaude連携—「Claude for Creative Work」発表",
+        "url": "https://www.anthropic.com/news/claude-for-creative-work",
+        "reason": "AdobeやBlenderと組んで、クリエイターの仕事のど真ん中にClaudeが入ってきましたよ。50種以上のツールに対応で、AI活用の幅がぐっと広がりましたね！",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Claude for Creative Work発表（Adobe/Blender等8社連携）\n・Claude Securityがエンタープライズ向け公開ベータ開始\n・Code with Claude 2026 東京6月10日開催決定"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・docomo Starlink Direct 4月27日から提供開始\n・橋梁診断支援AI「橋梁アセスタ」販売開始（4月23日）"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・IBM Kookaburra（1,386量子ビット）2026年ロードマップ発表\n・NEDOが量子コンピュータ開発環境を無償提供"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・ゆうちょ銀行がDCJPY（トークン化預金）を2026年度中に導入予定\n・3メガバンクのステーブルコイン発行実証を継続"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・高市内閣支持率74.2%（前月比+2.7pt）に上昇\n・憲法記念日に改憲派・護憲派が集会\n・GW2026の旅行予定者が前年比2.5pt増（23.4%）"
+        }
+      ],
+      "must_read": {
+        "title": "AnthropicがAdobe・Blender等8社のクリエイティブツールとClaude連携—「Claude for Creative Work」発表",
+        "url": "https://www.anthropic.com/news/claude-for-creative-work",
+        "reason": "AI×クリエイティブ業界への本格参入。Adobe等8社連携。",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "AIがクリエイティブ・セキュリティ・エンタープライズ領域へ多角的に展開する中、高市内閣の支持率上昇と量子コンピュータの大規模化ロードマップが国内外の技術・政治動向を同時に形成している。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Claude for Creative WorkはAdobe・Blender等8社との統合によりAIが「道具の使い手」から「道具そのもの」へと溶け込む段階への移行を示す。RISD・Ringling Collegeでのパイロット開始は教育機関での定着を加速させ、クリエイティブ業界の商慣習と著作権モデルへの影響が出始めると予測される。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "docomo Starlink Directの提供開始は衛星通信が補助手段から主要通信手段に昇格する転換点になり得る。橋梁アセスタのような産業向けAI販売は、5G・エッジAIの産業インフラ化という長期戦略の具体化であり、通信以外の収益源構築が着実に進んでいる。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBM KookaburraはqLDPCメモリを実装する最初のモジュールとして2029年の耐障害性量子コンピュータ達成ロードマップの核心をなす。NEDOの開発環境無償提供は国内スタートアップの参入障壁を下げ、日本の量子産業競争力強化の施策として意義がある。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "ゆうちょ銀行がDCJPYを2026年度に導入することで約5,550万口座がブロックチェーン基盤に接続され、国民規模のデジタル通貨インフラに近い規模になる。改正資金決済法の2026年内施行と並行し、信託型・資金移動業型・銀行型の3ルートが立ち上がることでデジタル通貨エコシステムが多極化する。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "高市内閣の支持率74.2%は高水準であり、憲法記念日での改憲発議意欲表明と相まって2027年春の改正国民投票実施に向けた政治的環境が整いつつある。GW旅行需要の回復（前年比+2.5pt）は個人消費の緩やかな回復を示しており、エネルギーコスト上昇との綱引きが続く国内経済の状況を反映している。"
+        }
+      ],
+      "must_read": {
+        "title": "AnthropicがAdobe・Blender等8社のクリエイティブツールとClaude連携—「Claude for Creative Work」発表",
+        "url": "https://www.anthropic.com/news/claude-for-creative-work",
+        "reason": "Adobe CC・Blender等8社との統合はAIの「道具として利用」から「創作プロセスに統合」へのシフトを意味し、クリエイティブ業界のワークフロー・著作権モデル・教育カリキュラムへの波及が見込まれる。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 81,
+      "trend_history": [80, 75, 82, 85, 80, 82, 81],
+      "summary_short": "ClaudeがAdobe等8社連携でクリエイティブ業界に進出、Security機能公開ベータも開始",
+      "summary_long": "AnthropicはAdobe Creative Cloud・Blender・Autodesk Fusion・Ableton等8社との連携を発表し、クリエイター向けAI活用を大幅に拡張した。企業向けコードベース脆弱性スキャン「Claude Security」の公開ベータも同時期に開始。Anthropicは開発者カンファレンス「Code with Claude 2026」の東京開催（6月10日）も発表した。",
+      "articles": [
+        {
+          "title": "AnthropicがAdobe・Blender等8社のクリエイティブツールとClaude連携—「Claude for Creative Work」発表",
+          "url": "https://www.anthropic.com/news/claude-for-creative-work",
+          "source": "Anthropic",
+          "summary_short": "AnthropicがAdobe等8社連携「Claude for Creative Work」を発表",
+          "summary_long": "AnthropicはAdobe Creative Cloud（Photoshop・Premiere等50以上のツール）、Blender、Autodesk Fusion、Ableton、Affinity等8社のクリエイティブツールとの連携を2026年4月28日に発表した。RISD・Ringling College・Goldsmiths大学でパイロット開始し、教育機関にもAI活用が拡大している。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "Claude SecurityがEnterprise向け公開ベータ開始—コードベース脆弱性スキャン機能を提供",
+          "url": "https://releasebot.io/updates/anthropic",
+          "source": "Releasebot",
+          "summary_short": "Claude SecurityがEnterprise向け公開ベータ、コード脆弱性スキャンに対応",
+          "summary_long": "AnthropicはClaude Enterprise顧客向けに「Claude Security」の公開ベータ提供を2026年4月23日に開始した。コードベースをスキャンして脆弱性を検出し、影響度・再現経路・修正案を提示する機能を持つ。開発者のセキュリティ診断ワークフローへのAI統合が本格化している。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Code with Claude 2026、東京6月10日開催決定─Anthropicの開発者カンファレンスが3都市同時展開",
+          "url": "https://innovatopia.jp/ai/ai-news/100258/",
+          "source": "イノバトピア",
+          "summary_short": "AnthropicがCode with Claude 2026東京開催発表、6月10日3都市同時展開",
+          "summary_long": "Anthropicは開発者カンファレンス「Code with Claude 2026」を東京・ロンドン・サンフランシスコの3都市で同時開催すると発表した。東京は6月10日に開催予定。2025年10月のアジア太平洋初の東京オフィス開設に続く日本市場強化策であり、クラウド・AI開発者コミュニティとの連携拡大を目指す。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "GPT-5.5とDeepSeek-V4 Max版が4月23日同日リリース—次世代AIの競争が加速",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats",
+          "summary_short": "GPT-5.5・DeepSeek-V4 Max版が4月23日同日リリース、大手AIの競争が加速",
+          "summary_long": "OpenAIはGPT-5.5とGPT-5.5 Proを2026年4月23日にリリースし、ツール使用・音声・マルチモーダル性能を強化した。同日DeepSeekもDeepSeek-V4 Flash MaxとPro Maxを公開し、オープンソース陣営が低コストで高性能を実現する形で大手に追随している。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Claude Managed Agents Memory機能が公開ベータ開始—長時間エージェント作業の状態保持が可能に",
+          "url": "https://platform.claude.com/docs/en/release-notes/overview",
+          "source": "Anthropic",
+          "summary_short": "Claude Managed Agents Memory機能ベータ開始、エージェント作業の状態を保持",
+          "summary_long": "AnthropicはClaude Managed Agentsにメモリ機能を追加し、2026年4月23日から公開ベータ提供を開始した。エージェントが複数セッションにまたがって状態・文脈を保持できるようになり、長時間のタスク実行や複数工程の自動化がより安定して実行できるようになる。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": ["https://mainichi.jp/articles/20260503/k00/00m/040/100000c"]
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 57,
+      "trend_history": [58, 62, 55, 60, 57, 55, 57],
+      "summary_short": "Starlink Direct開始・橋梁診断AI販売・コアネット完全仮想化と多面的な発表続く",
+      "summary_long": "NTTドコモは4月27日にdocomo Starlink Directの提供を開始し、衛星とスマートフォンの直接通信サービスが国内初で始まった。4月23日には橋梁診断支援AI「橋梁アセスタ」の販売を開始し、産業向けAIビジネスも拡大している。4月2日にはモバイルコアネットワークの完全仮想化完了も発表した。",
+      "articles": [
+        {
+          "title": "Starlink衛星とスマートフォンの直接通信サービス「docomo Starlink Direct」を4月27日から提供開始",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/04/02_01.html",
+          "source": "NTTドコモ",
+          "summary_short": "docomo Starlink Directが4月27日から提供開始、衛星とスマホの直接通信が国内初",
+          "summary_long": "NTTドコモは2026年4月27日から、SpaceXのStarlink衛星と対応スマートフォンが直接通信できるサービス「docomo Starlink Direct」の提供を開始した。基地局が届かない山間部・離島・海上などでも通信が可能になり、防災・緊急時の通信手段として注目される。国内での衛星直接通信サービスは初めてとなる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "橋梁診断支援AI「橋梁アセスタ」を開発し、販売を開始",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/04/23_00.html",
+          "source": "NTTドコモ",
+          "summary_short": "ドコモが橋梁診断支援AI「橋梁アセスタ」の販売を4月23日に開始、インフラ保守に活用",
+          "summary_long": "NTTドコモは橋梁の劣化・損傷を画像AIで診断する支援ツール「橋梁アセスタ」の販売を2026年4月23日に開始した。国内の高齢化インフラ問題に対応し、点検コストと人手不足の課題解決を目指す。熟練技術者不足を補う産業向けAI販売として、インフラ分野への事業拡大を加速する。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "モバイルコアネットワークの完全仮想化を完了",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/04/02_00.html",
+          "source": "NTTドコモ",
+          "summary_short": "ドコモがモバイルコアネットワークの完全仮想化を4月2日に完了、世界で初めて達成",
+          "summary_long": "NTTドコモは2026年4月2日、モバイルコアネットワークの完全仮想化を完了したと発表した。全国の4G・5Gコアネットワークをソフトウェア化・クラウド化することで、ネットワーク構成の柔軟変更やコスト削減が可能になる。商用ネットワークとしての完全仮想化達成は世界初とされる。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 70,
+      "trend_history": [70, 65, 72, 75, 70, 72, 70],
+      "summary_short": "IBM Kookaburraが2026年ロードマップに登場、NEDO量子開発環境の無償提供も開始",
+      "summary_long": "IBMの2026年量子ロードマップにKookaburra（1,386量子ビット、3チップ連結で4,158量子ビット）が設定されており、qLDPCメモリを実装する最初のモジュールとなる見込みだ。NEDOは量子コンピュータ開発環境の無償提供プログラムを開始し、国内スタートアップの参入障壁を下げる施策を進めている。金融機関を中心にポスト量子暗号（PQC）への移行も本格化している。",
+      "articles": [
+        {
+          "title": "IBM Quantum Kookaburra—1,386量子ビット+3チップ連結で4,158量子ビット実現へ",
+          "url": "https://www.ibm.com/roadmaps/quantum/2026/",
+          "source": "IBM",
+          "summary_short": "IBM Kookaburraが1,386量子ビット×3チップで4,158量子ビット相当の実現目指す",
+          "summary_long": "IBMの量子ロードマップには2026年のマイルストーンとして「Kookaburra」チップが設定されている。1,386量子ビットの単一チップをチップ間カプラーで3枚連結し、合計4,158量子ビットの量子システムを構成する設計で、qLDPCメモリにエンコードされた情報を論理処理ユニット（LPU）で処理できる初のモジュールとなる予定。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "NEDOが懸賞金活用型プログラムで量子コンピュータ開発環境を無償提供",
+          "url": "https://www.nedo.go.jp/news/press/AA5_101894.html",
+          "source": "NEDO",
+          "summary_short": "NEDOが懸賞金活用型プログラムで量子コンピュータ開発環境を無償提供、6月成果提出予定",
+          "summary_long": "NEDOは懸賞金活用型研究プログラムの一環として、量子コンピュータの開発環境を参加者に無償提供することを発表した。2026年6月頃の成果提出を目標とし、国内スタートアップや研究機関が量子アルゴリズム開発に参加しやすい環境を整備する。日本の量子産業競争力強化に向けた官民連携施策の一部として位置づけられる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "実用的な量子コンピューターの実現は2030年代か—ポスト量子暗号移行が金融機関で本格化",
+          "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/103101883/",
+          "source": "日経クロステック",
+          "summary_short": "金融機関でポスト量子暗号（PQC）への移行が2026年に本格化、標準化規格も確定",
+          "summary_long": "量子コンピュータの実用化に備え、現行の公開鍵暗号を解読されうるリスクに対応するポスト量子暗号（PQC）への移行が2026年に本格化している。NISTはPQC標準規格（FIPS 203〜205）を2024年8月に確定しており、金融機関を中心にシステム更改計画が進んでいる。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": ["https://www.fidx.co.jp/2026年最新ステーブルコイン規制の全貌"]
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 66,
+      "trend_history": [62, 68, 70, 65, 67, 68, 66],
+      "summary_short": "ゆうちょ銀行DCJPYと3メガバンクSCで日本のデジタル通貨インフラが多極化へ",
+      "summary_long": "ゆうちょ銀行は2026年度中にDCJPY（トークン化預金）の導入を予定しており、約5,550万口座がブロックチェーン基盤に接続される見込みだ。三菱UFJ・みずほ・三井住友の3メガバンクもステーブルコイン発行実証を継続中で、令和7年成立の改正資金決済法の2026年内施行とともに、日本のデジタル通貨エコシステムが多極化しつつある。",
+      "articles": [
+        {
+          "title": "ゆうちょ銀行「トークン化預金」26年度に導入、「郵貯トークン」に期待できる役割は？",
+          "url": "https://diamond.jp/articles/-/372885",
+          "source": "ダイヤモンド・オンライン",
+          "summary_short": "ゆうちょ銀行がトークン化預金「DCJPY」を2026年度中に導入予定と明らかに",
+          "summary_long": "ゆうちょ銀行は2026年度中に「DCJPY（ディーカレットジャパンイエン）」のトークン化預金サービスを導入する計画を発表した。1円＝1DCJPYで交換可能なデジタル通貨で、ゆうちょの約5,550万口座をディーカレットDCPのブロックチェーン基盤に接続する。国民規模のデジタル通貨インフラに近い規模となる見込み。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "三菱UFJ信託銀行、電子決済手段としては国内初のステーブルコイン発行へ",
+          "url": "https://coinpost.jp/?p=606026",
+          "source": "CoinPost",
+          "summary_short": "三菱UFJ・みずほ・三井住友の3メガバンクがステーブルコイン実証実験を継続中",
+          "summary_long": "三菱UFJ銀行・みずほ銀行・三井住友銀行の3行は円建てステーブルコインの発行とクロスボーダー決済に係る実証実験を継続中で、金融庁「FinTech実証実験ハブ」の支援対象として採択されている。三菱UFJ信託銀行が国内初の電子決済手段型ステーブルコインの発行主体になる見通しで、2026年内の本格展開が予想される。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "【2026年施行予定】資金決済法改正とは？ステーブルコイン・仲介業創設など規制変更のポイント",
+          "url": "https://keiyaku-watch.jp/media/hourei/2026-funds-settlement/",
+          "source": "契約ウォッチ",
+          "summary_short": "改正資金決済法が2026年内施行予定、信託型ステーブルコインの裏付資産運用が柔軟化",
+          "summary_long": "令和7年5月に成立した改正資金決済法は2026年内の施行が予定されている。信託型ステーブルコインの裏付資産管理・運用の柔軟化、暗号資産交換業者との取引仲介のみを行う仲介業（登録制）の創設などを規定する。デジタル通貨エコシステムの多様化を後押しする制度整備として金融業界に広く影響を与える。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": ["https://xtech.nikkei.com/atcl/nxt/column/18/00138/103101883/"]
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 73,
+      "trend_history": [72, 68, 75, 78, 72, 75, 73],
+      "summary_short": "高市内閣支持率74.2%・憲法記念日の改憲論議・GW旅行回復と国内動向が注目",
+      "summary_long": "高市内閣の支持率が74.2%（前月比+2.7pt）に上昇し高水準を維持している。憲法記念日（5月3日）には改憲派・護憲派がそれぞれ集会を開催し、2027年春の改憲発議をめぐる議論が続いている。JTBの調査ではGW2026の旅行予定者が前年比2.5ポイント増の23.4%となり、観光需要の回復傾向が確認された。",
+      "articles": [
+        {
+          "title": "高市内閣の支持率74.2%に上昇—前月比2.7ポイント増（TBS NEWS DIG世論調査）",
+          "url": "https://newsdig.tbs.co.jp/",
+          "source": "TBS NEWS DIG",
+          "summary_short": "高市内閣の支持率が74.2%に上昇、前月比2.7ポイント増で高水準を維持",
+          "summary_long": "TBS NEWS DIGが5月3日に公表した世論調査によると、高市内閣の支持率は74.2%で前月比2.7ポイント上昇した。憲法改正については「期限を設けず議論すべき」が47%、「来年春までに発議すべき」が28%、「改正の必要はない」が19%という結果だった。",
+          "importance": 5,
+          "fetch_failed": true
+        },
+        {
+          "title": "憲法記念日 「改正を」「守ろう」それぞれの立場の人が集会 | NHKニュース",
+          "url": "https://news.web.nhk/newsweb/na/na-k10015114001000",
+          "source": "NHK",
+          "summary_short": "憲法記念日に改憲派・護憲派が集会、9条改正・発議タイムラインで立場が分かれる",
+          "summary_long": "2026年5月3日の憲法記念日、改憲派は都内で「公開憲法フォーラム」を開催し高市首相のビデオメッセージが紹介された。護憲派も各地で集会を開き9条改正・緊急事態条項創設に反対した。高市首相は2027年の通常国会での改憲発議を目指す姿勢を明確にしており、各党の議会対応が焦点となっている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "2026年ゴールデンウィーク（4月25日～5月7日）の旅行動向 | JTBグループ",
+          "url": "https://www.jtbcorp.jp/jp/newsroom/2026/04/02_jtb_2026gw-travel-trend-outlook.html",
+          "source": "JTBグループ",
+          "summary_short": "JTB調査: 2026年GW旅行予定者は前年比2.5pt増の23.4%、国内旅行が回復傾向",
+          "summary_long": "JTBグループが2026年4月に実施した調査によると、GW期間中に旅行を予定している人の割合は23.4%（前年比2.5ポイント増）となった。特に国内旅行の回復が目立ち、大阪・関西万博後の観光需要が継続している。一方で中東情勢に伴う燃料費上昇や物価高が一部の旅行計画を抑制している。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "「好戦的だ」陸自部隊のロゴに批判続出、隊員が生成AIで作成し使用中止",
+          "url": "https://mainichi.jp/articles/20260503/k00/00m/040/100000c",
+          "source": "毎日新聞",
+          "summary_short": "陸上自衛隊部隊のロゴに生成AIを使用、「好戦的」と批判を受け使用を中止",
+          "summary_long": "陸上自衛隊の部隊が生成AIを利用して作成したロゴが「好戦的だ」として批判を受け、使用を中止したことが明らかになった。隊員が業務に生成AIを活用した初の公表事例の一つとなり、防衛省・自衛隊のAI利用ポリシーの整備が急務となっている。",
+          "importance": 4,
+          "fetch_failed": true
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 81,
+      "NTTドコモ": 57,
+      "量子コンピュータ": 70,
+      "金融決済": 66,
+      "国内・社会": 73
+    },
+    "source_distribution": {
+      "Anthropic": 3,
+      "NTTドコモ": 3,
+      "Releasebot": 1,
+      "イノバトピア": 1,
+      "LLM Stats": 1,
+      "IBM": 1,
+      "NEDO": 1,
+      "日経クロステック": 1,
+      "ダイヤモンド・オンライン": 1,
+      "CoinPost": 1,
+      "契約ウォッチ": 1,
+      "TBS NEWS DIG": 1,
+      "NHK": 1,
+      "JTBグループ": 1,
+      "毎日新聞": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 2,
+      "4": 11,
+      "5": 2
+    }
+  }
+}
