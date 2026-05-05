@@ -1,120 +1,596 @@
 {
-  "last_updated": "2026-05-04T07:00:00+09:00",
+  "last_updated": "2026-05-05T07:00:00+09:00",
   "reports": [
-    { "date": "2026-05-04", "headline": "Claude for Creative Work（Adobe等8社連携）・高市内閣支持率74.2%・IBM Kookaburra量子ロードマップ・ゆうちょ銀行DCJPY2026年度導入・docomo Starlink Direct開始" },
-    { "date": "2026-05-03", "headline": "太陽石油サハリン2原油調達（ホルムズ封鎖後初）・高市首相が憲法記念日に9条改正発議意欲・Claude Opus 4.7一般提供・IBM Nighthawk年末公開・三井住友FG×Sakana AI" },
-    { "date": "2026-05-02", "headline": "政府・日銀円買い介入でドル155円台急騰・DeepSeek V4競合比1,786分の1価格実現・IBM量子優位性宣言・錦織圭引退・JR西日本りそな提携" },
-    { "date": "2026-05-01", "headline": "DeepSeek V4 GPT比1/30価格でLiveCodeBench首位・Claude Mythos一般非公開・ドコモコアネット完全仮想化・米GENIUS法成立・関東大雨警報" },
-    { "date": "2026-04-30", "headline": "日銀CPI2.8%・成長率0.5%に下方修正・GPT-5.5とClaude Opus 4.7同月公開・ドコモRapidusに液冷DC提供・3メガバンク円SC発行継続・軽タクシー6月解禁" },
-    { "date": "2026-04-29", "headline": "昭和の日GW突入・日経平均4月28日5万9917円に反落・Claude Mythos Preview非公開・docomo Starlink Direct開始・JPYC28億円調達" },
-    { "date": "2026-04-28", "headline": "日経平均終値で史上初の6万円台・日銀4月0.75%据え置き・Google→Anthropic最大400億ドル追加投資・QuEra量子誤り訂正10⁻¹³達成" },
-    { "date": "2026-04-27", "headline": "docomo Starlink Direct本日開始・日銀4月利上げ見送り・MCPが業界標準に定着・JPYSCが2026年Q2提供開始予定" },
-    { "date": "2026-04-26", "headline": "Google・Anthropicに最大400億ドル投資・docomo Starlink Direct明日開始・岩手大槌山林火災730ha延焼・3メガバンクステーブルコイン実証開始" },
-    { "date": "2026-04-25", "headline": "OpenAI GPT-5.5公開・岩手大槌町山林火災延焼・春闘5.26%・ドコモ橋梁AI販売開始・3大メガバンクSC計画" },
-    { "date": "2026-04-24", "headline": "政府がMBK牧野フライス買収に中止勧告・Claude有料サブスクリプション2倍超・NVIDIA Ising量子AIモデル発表" },
-    { "date": "2026-04-23", "headline": "Claude Managed Agents・OpenAI ChatGPT Images 2.0発表・防衛装備移転原則改正・ドル円159円台" },
-    { "date": "2026-04-22", "headline": "Amazon、Anthropicに最大250億ドル追加投資・ARR300億ドル突破・docomo Starlink Direct 4/27開始" },
-    { "date": "2026-04-21", "headline": "Claude Design公開でFigma株6%下落・NVIDIA Ising発表で量子関連株急騰" },
-    { "date": "2026-04-20", "headline": "ドコモStarlink Direct 4/27開始・Google Gemini MacアプリリリースでAI競争激化" },
-    { "date": "2026-04-19", "headline": "Claude Opus 4.7リリース・長期金利2.275%で27年ぶり高水準" },
-    { "date": "2026-04-18", "headline": "Claude Code Routine正式リリース・日銀追加利上げ示唆" }
+    {
+      "date": "2026-05-05",
+      "headline": "IBM Think 2026開幕（AI・量子）・3メガSC共同実証開始・高市首相ベトナム・豪帰国・中国4社コーディングAI集中公開"
+    },
+    {
+      "date": "2026-05-04",
+      "headline": "Claude for Creative Work（Adobe等8社連携）・高市内閣支持率74.2%・IBM Kookaburra量子ロードマップ・ゆうちょ銀行DCJPY2026年度導入・docomo Starlink Direct開始"
+    },
+    {
+      "date": "2026-05-03",
+      "headline": "太陽石油サハリン2原油調達（ホルムズ封鎖後初）・高市首相が憲法記念日に9条改正発議意欲・Claude Opus 4.7一般提供・IBM Nighthawk年末公開・三井住友FG×Sakana AI"
+    },
+    {
+      "date": "2026-05-02",
+      "headline": "政府・日銀円買い介入でドル155円台急騰・DeepSeek V4競合比1,786分の1価格実現・IBM量子優位性宣言・錦織圭引退・JR西日本りそな提携"
+    },
+    {
+      "date": "2026-05-01",
+      "headline": "DeepSeek V4 GPT比1/30価格でLiveCodeBench首位・Claude Mythos一般非公開・ドコモコアネット完全仮想化・米GENIUS法成立・関東大雨警報"
+    },
+    {
+      "date": "2026-04-30",
+      "headline": "日銀CPI2.8%・成長率0.5%に下方修正・GPT-5.5とClaude Opus 4.7同月公開・ドコモRapidusに液冷DC提供・3メガバンク円SC発行継続・軽タクシー6月解禁"
+    },
+    {
+      "date": "2026-04-29",
+      "headline": "昭和の日GW突入・日経平均4月28日5万9917円に反落・Claude Mythos Preview非公開・docomo Starlink Direct開始・JPYC28億円調達"
+    },
+    {
+      "date": "2026-04-28",
+      "headline": "日経平均終値で史上初の6万円台・日銀4月0.75%据え置き・Google→Anthropic最大400億ドル追加投資・QuEra量子誤り訂正10⁻¹³達成"
+    },
+    {
+      "date": "2026-04-27",
+      "headline": "docomo Starlink Direct本日開始・日銀4月利上げ見送り・MCPが業界標準に定着・JPYSCが2026年Q2提供開始予定"
+    },
+    {
+      "date": "2026-04-26",
+      "headline": "Google・Anthropicに最大400億ドル投資・docomo Starlink Direct明日開始・岩手大槌山林火災730ha延焼・3メガバンクステーブルコイン実証開始"
+    },
+    {
+      "date": "2026-04-25",
+      "headline": "OpenAI GPT-5.5公開・岩手大槌町山林火災延焼・春闘5.26%・ドコモ橋梁AI販売開始・3大メガバンクSC計画"
+    },
+    {
+      "date": "2026-04-24",
+      "headline": "政府がMBK牧野フライス買収に中止勧告・Claude有料サブスクリプション2倍超・NVIDIA Ising量子AIモデル発表"
+    },
+    {
+      "date": "2026-04-23",
+      "headline": "Claude Managed Agents・OpenAI ChatGPT Images 2.0発表・防衛装備移転原則改正・ドル円159円台"
+    },
+    {
+      "date": "2026-04-22",
+      "headline": "Amazon、Anthropicに最大250億ドル追加投資・ARR300億ドル突破・docomo Starlink Direct 4/27開始"
+    },
+    {
+      "date": "2026-04-21",
+      "headline": "Claude Design公開でFigma株6%下落・NVIDIA Ising発表で量子関連株急騰"
+    },
+    {
+      "date": "2026-04-20",
+      "headline": "ドコモStarlink Direct 4/27開始・Google Gemini MacアプリリリースでAI競争激化"
+    },
+    {
+      "date": "2026-04-19",
+      "headline": "Claude Opus 4.7リリース・長期金利2.275%で27年ぶり高水準"
+    },
+    {
+      "date": "2026-04-18",
+      "headline": "Claude Code Routine正式リリース・日銀追加利上げ示唆"
+    }
   ],
   "all_sources": [
-    { "name": "Anthropic", "url": "https://www.anthropic.com", "count": 5 },
-    { "name": "OpenAI", "url": "https://openai.com", "count": 1 },
-    { "name": "NTTドコモ", "url": "https://www.docomo.ne.jp", "count": 21 },
-    { "name": "NTTドコモビジネス", "url": "https://www.ntt.com", "count": 3 },
-    { "name": "arXiv", "url": "https://arxiv.org", "count": 1 },
-    { "name": "日本銀行", "url": "https://www.boj.or.jp", "count": 1 },
-    { "name": "首相官邸", "url": "https://www.kantei.go.jp", "count": 1 },
-    { "name": "日本経済新聞", "url": "https://www.nikkei.com", "count": 25 },
-    { "name": "NVIDIA", "url": "https://nvidianews.nvidia.com", "count": 3 },
-    { "name": "NVIDIA Japan Blog", "url": "https://blogs.nvidia.co.jp", "count": 1 },
-    { "name": "時事通信", "url": "https://www.jiji.com", "count": 6 },
-    { "name": "IMF", "url": "https://www.imf.org", "count": 3 },
-    { "name": "大和総研", "url": "https://www.dir.co.jp", "count": 1 },
-    { "name": "公正取引委員会", "url": "https://www.jftc.go.jp", "count": 1 },
-    { "name": "CNBC", "url": "https://www.cnbc.com", "count": 1 },
-    { "name": "BigGo", "url": "https://biggo.jp", "count": 2 },
-    { "name": "AIインサイト", "url": "https://ai-insight.jp", "count": 4 },
-    { "name": "atpress", "url": "https://www.atpress.ne.jp", "count": 2 },
-    { "name": "ビジネスIT", "url": "https://www.sbbit.jp", "count": 3 },
-    { "name": "野村証券", "url": "https://www.nomura.co.jp", "count": 1 },
-    { "name": "The Register", "url": "https://www.theregister.com", "count": 1 },
-    { "name": "TechCrunch", "url": "https://techcrunch.com", "count": 2 },
-    { "name": "AIFOD", "url": "https://af.net", "count": 2 },
-    { "name": "DXマガジン", "url": "https://dxmagazine.jp", "count": 3 },
-    { "name": "XenoSpectrum", "url": "https://xenospectrum.com", "count": 2 },
-    { "name": "イノバトピア", "url": "https://innovatopia.jp", "count": 5 },
-    { "name": "SBIホールディングス", "url": "https://www.sbigroup.co.jp", "count": 2 },
-    { "name": "契約ウォッチ", "url": "https://keiyaku-watch.jp", "count": 4 },
-    { "name": "日経BOOKプラス", "url": "https://bookplus.nikkei.com", "count": 4 },
-    { "name": "外為どっとコム", "url": "https://www.gaitame.com", "count": 2 },
-    { "name": "マネービッツ", "url": "https://moneybits.jp", "count": 2 },
-    { "name": "Gizmodo Japan", "url": "https://www.gizmodo.jp", "count": 7 },
-    { "name": "ITmedia AIプラス", "url": "https://www.itmedia.co.jp", "count": 2 },
-    { "name": "gihyo.jp", "url": "https://gihyo.jp", "count": 1 },
-    { "name": "AIsmiley", "url": "https://aismiley.co.jp", "count": 1 },
-    { "name": "renue", "url": "https://renue.co.jp", "count": 1 },
-    { "name": "ケータイ Watch", "url": "https://k-tai.watch.impress.co.jp", "count": 1 },
-    { "name": "NTTデータグループ", "url": "https://www.nttdata.com", "count": 1 },
-    { "name": "The Conversation", "url": "https://theconversation.com", "count": 1 },
-    { "name": "Business 2.0 News", "url": "https://business20channel.tv", "count": 1 },
-    { "name": "PayPay", "url": "https://paypay.ne.jp", "count": 2 },
-    { "name": "TradingKey", "url": "https://www.tradingkey.com", "count": 1 },
-    { "name": "日経Xtech", "url": "https://xtech.nikkei.com", "count": 6 },
-    { "name": "Yahoo!ニュース エキスパート", "url": "https://news.yahoo.co.jp", "count": 1 },
-    { "name": "AI Academy Note", "url": "https://note.com", "count": 1 },
-    { "name": "ロボスタ", "url": "https://robotstart.info", "count": 2 },
-    { "name": "理化学研究所", "url": "https://www.riken.jp", "count": 1 },
-    { "name": "東北大学", "url": "https://www.tohoku.ac.jp", "count": 3 },
-    { "name": "Crypto Trillion", "url": "https://www.gfa.co.jp", "count": 2 },
-    { "name": "ペイメントナビ", "url": "https://paymentnavi.com", "count": 2 },
-    { "name": "NHK", "url": "https://news.web.nhk.newsweb", "count": 9 },
-    { "name": "PR TIMES", "url": "https://prtimes.jp", "count": 3 },
-    { "name": "マイナビニュース", "url": "https://news.mynavi.jp", "count": 2 },
-    { "name": "au PAY", "url": "https://media.aupay.wallet.auone.jp", "count": 1 },
-    { "name": "日本テレビ", "url": "https://www.ntv.co.jp", "count": 1 },
-    { "name": "Yahoo!ニュース（Forbes JAPAN）", "url": "https://news.yahoo.co.jp/articles", "count": 2 },
-    { "name": "Medium", "url": "https://medium.com", "count": 1 },
-    { "name": "The Quantum Insider", "url": "https://thequantuminsider.com", "count": 1 },
-    { "name": "AIメディア", "url": "https://ai-media.co.jp", "count": 1 },
-    { "name": "BUSINESS LAWYERS", "url": "https://www.businesslawyers.jp", "count": 1 },
-    { "name": "DGフィナンシャルテクノロジー", "url": "https://www.dgft.jp", "count": 1 },
-    { "name": "Releasebot", "url": "https://releasebot.io", "count": 2 },
-    { "name": "@DIME", "url": "https://dime.jp", "count": 1 },
-    { "name": "Business Insider Japan", "url": "https://www.businessinsider.jp", "count": 1 },
-    { "name": "Data Center Café", "url": "https://cafe-dc.com", "count": 1 },
-    { "name": "Plus Web3 Media", "url": "https://plus-web3.com", "count": 1 },
-    { "name": "CoinChoice", "url": "https://coinchoice.net", "count": 1 },
-    { "name": "Invest Leaders", "url": "https://jioinc.jp", "count": 1 },
-    { "name": "石川県", "url": "https://www.pref.ishikawa.lg.jp", "count": 1 },
-    { "name": "CodeZine", "url": "https://codezine.jp", "count": 1 },
-    { "name": "jetstream.blog", "url": "https://jetstream.blog", "count": 1 },
-    { "name": "Lemino", "url": "https://lemino.docomo.ne.jp", "count": 1 },
-    { "name": "量子ビジネスマガジン", "url": "https://quantumbusinessmagazine.com", "count": 1 },
-    { "name": "arpable.com", "url": "https://arpable.com", "count": 1 },
-    { "name": "フィデックス", "url": "https://www.fidx.co.jp", "count": 2 },
-    { "name": "CoinPost", "url": "https://coinpost.jp", "count": 2 },
-    { "name": "JTB総合研究所", "url": "https://www.tourism.jp", "count": 1 },
-    { "name": "ライブドアニュース", "url": "https://news.livedoor.com", "count": 1 },
-    { "name": "Zenn", "url": "https://zenn.dev", "count": 3 },
-    { "name": "Sustainable Japan", "url": "https://sustainablejapan.jp", "count": 1 },
-    { "name": "AI総合研究所", "url": "https://www.ai-souken.com", "count": 1 },
-    { "name": "チャエンのAI研究所", "url": "https://digirise.ai", "count": 1 },
-    { "name": "WorkTypes Lab", "url": "https://www.worktypeslab.com", "count": 1 },
-    { "name": "LLM Stats", "url": "https://llm-stats.com", "count": 2 },
-    { "name": "富士通広報note", "url": "https://note.com/fujitsu_pr", "count": 1 },
-    { "name": "選挙ドットコム", "url": "https://go2senkyo.com", "count": 1 },
-    { "name": "8and", "url": "https://8and.jp", "count": 1 },
-    { "name": "週刊アスキー", "url": "https://weekly.ascii.jp", "count": 1 },
-    { "name": "tenki.jp", "url": "https://tenki.jp", "count": 1 },
-    { "name": "IBM", "url": "https://www.ibm.com", "count": 1 },
-    { "name": "NEDO", "url": "https://www.nedo.go.jp", "count": 1 },
-    { "name": "ダイヤモンド・オンライン", "url": "https://diamond.jp", "count": 1 },
-    { "name": "TBS NEWS DIG", "url": "https://newsdig.tbs.co.jp", "count": 1 },
-    { "name": "JTBグループ", "url": "https://www.jtbcorp.jp", "count": 1 },
-    { "name": "毎日新聞", "url": "https://mainichi.jp", "count": 1 }
+    {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com",
+      "count": 5
+    },
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com",
+      "count": 1
+    },
+    {
+      "name": "NTTドコモ",
+      "url": "https://www.docomo.ne.jp",
+      "count": 21
+    },
+    {
+      "name": "NTTドコモビジネス",
+      "url": "https://www.ntt.com",
+      "count": 4
+    },
+    {
+      "name": "arXiv",
+      "url": "https://arxiv.org",
+      "count": 1
+    },
+    {
+      "name": "日本銀行",
+      "url": "https://www.boj.or.jp",
+      "count": 1
+    },
+    {
+      "name": "首相官邸",
+      "url": "https://www.kantei.go.jp",
+      "count": 1
+    },
+    {
+      "name": "日本経済新聞",
+      "url": "https://www.nikkei.com",
+      "count": 26
+    },
+    {
+      "name": "NVIDIA",
+      "url": "https://nvidianews.nvidia.com",
+      "count": 3
+    },
+    {
+      "name": "NVIDIA Japan Blog",
+      "url": "https://blogs.nvidia.co.jp",
+      "count": 1
+    },
+    {
+      "name": "時事通信",
+      "url": "https://www.jiji.com",
+      "count": 6
+    },
+    {
+      "name": "IMF",
+      "url": "https://www.imf.org",
+      "count": 3
+    },
+    {
+      "name": "大和総研",
+      "url": "https://www.dir.co.jp",
+      "count": 1
+    },
+    {
+      "name": "公正取引委員会",
+      "url": "https://www.jftc.go.jp",
+      "count": 1
+    },
+    {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com",
+      "count": 1
+    },
+    {
+      "name": "BigGo",
+      "url": "https://biggo.jp",
+      "count": 2
+    },
+    {
+      "name": "AIインサイト",
+      "url": "https://ai-insight.jp",
+      "count": 4
+    },
+    {
+      "name": "atpress",
+      "url": "https://www.atpress.ne.jp",
+      "count": 2
+    },
+    {
+      "name": "ビジネスIT",
+      "url": "https://www.sbbit.jp",
+      "count": 3
+    },
+    {
+      "name": "野村証券",
+      "url": "https://www.nomura.co.jp",
+      "count": 1
+    },
+    {
+      "name": "The Register",
+      "url": "https://www.theregister.com",
+      "count": 1
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com",
+      "count": 2
+    },
+    {
+      "name": "AIFOD",
+      "url": "https://af.net",
+      "count": 2
+    },
+    {
+      "name": "DXマガジン",
+      "url": "https://dxmagazine.jp",
+      "count": 3
+    },
+    {
+      "name": "XenoSpectrum",
+      "url": "https://xenospectrum.com",
+      "count": 2
+    },
+    {
+      "name": "イノバトピア",
+      "url": "https://innovatopia.jp",
+      "count": 5
+    },
+    {
+      "name": "SBIホールディングス",
+      "url": "https://www.sbigroup.co.jp",
+      "count": 2
+    },
+    {
+      "name": "契約ウォッチ",
+      "url": "https://keiyaku-watch.jp",
+      "count": 4
+    },
+    {
+      "name": "日経BOOKプラス",
+      "url": "https://bookplus.nikkei.com",
+      "count": 5
+    },
+    {
+      "name": "外為どっとコム",
+      "url": "https://www.gaitame.com",
+      "count": 2
+    },
+    {
+      "name": "マネービッツ",
+      "url": "https://moneybits.jp",
+      "count": 2
+    },
+    {
+      "name": "Gizmodo Japan",
+      "url": "https://www.gizmodo.jp",
+      "count": 7
+    },
+    {
+      "name": "ITmedia AIプラス",
+      "url": "https://www.itmedia.co.jp",
+      "count": 2
+    },
+    {
+      "name": "gihyo.jp",
+      "url": "https://gihyo.jp",
+      "count": 1
+    },
+    {
+      "name": "AIsmiley",
+      "url": "https://aismiley.co.jp",
+      "count": 1
+    },
+    {
+      "name": "renue",
+      "url": "https://renue.co.jp",
+      "count": 1
+    },
+    {
+      "name": "ケータイ Watch",
+      "url": "https://k-tai.watch.impress.co.jp",
+      "count": 1
+    },
+    {
+      "name": "NTTデータグループ",
+      "url": "https://www.nttdata.com",
+      "count": 1
+    },
+    {
+      "name": "The Conversation",
+      "url": "https://theconversation.com",
+      "count": 1
+    },
+    {
+      "name": "Business 2.0 News",
+      "url": "https://business20channel.tv",
+      "count": 1
+    },
+    {
+      "name": "PayPay",
+      "url": "https://paypay.ne.jp",
+      "count": 2
+    },
+    {
+      "name": "TradingKey",
+      "url": "https://www.tradingkey.com",
+      "count": 1
+    },
+    {
+      "name": "日経Xtech",
+      "url": "https://xtech.nikkei.com",
+      "count": 6
+    },
+    {
+      "name": "Yahoo!ニュース エキスパート",
+      "url": "https://news.yahoo.co.jp",
+      "count": 1
+    },
+    {
+      "name": "AI Academy Note",
+      "url": "https://note.com",
+      "count": 1
+    },
+    {
+      "name": "ロボスタ",
+      "url": "https://robotstart.info",
+      "count": 2
+    },
+    {
+      "name": "理化学研究所",
+      "url": "https://www.riken.jp",
+      "count": 1
+    },
+    {
+      "name": "東北大学",
+      "url": "https://www.tohoku.ac.jp",
+      "count": 3
+    },
+    {
+      "name": "Crypto Trillion",
+      "url": "https://www.gfa.co.jp",
+      "count": 3
+    },
+    {
+      "name": "ペイメントナビ",
+      "url": "https://paymentnavi.com",
+      "count": 2
+    },
+    {
+      "name": "NHK",
+      "url": "https://news.web.nhk.newsweb",
+      "count": 9
+    },
+    {
+      "name": "PR TIMES",
+      "url": "https://prtimes.jp",
+      "count": 4
+    },
+    {
+      "name": "マイナビニュース",
+      "url": "https://news.mynavi.jp",
+      "count": 2
+    },
+    {
+      "name": "au PAY",
+      "url": "https://media.aupay.wallet.auone.jp",
+      "count": 1
+    },
+    {
+      "name": "日本テレビ",
+      "url": "https://www.ntv.co.jp",
+      "count": 1
+    },
+    {
+      "name": "Yahoo!ニュース（Forbes JAPAN）",
+      "url": "https://news.yahoo.co.jp/articles",
+      "count": 2
+    },
+    {
+      "name": "Medium",
+      "url": "https://medium.com",
+      "count": 1
+    },
+    {
+      "name": "The Quantum Insider",
+      "url": "https://thequantuminsider.com",
+      "count": 1
+    },
+    {
+      "name": "AIメディア",
+      "url": "https://ai-media.co.jp",
+      "count": 1
+    },
+    {
+      "name": "BUSINESS LAWYERS",
+      "url": "https://www.businesslawyers.jp",
+      "count": 2
+    },
+    {
+      "name": "DGフィナンシャルテクノロジー",
+      "url": "https://www.dgft.jp",
+      "count": 1
+    },
+    {
+      "name": "Releasebot",
+      "url": "https://releasebot.io",
+      "count": 2
+    },
+    {
+      "name": "@DIME",
+      "url": "https://dime.jp",
+      "count": 1
+    },
+    {
+      "name": "Business Insider Japan",
+      "url": "https://www.businessinsider.jp",
+      "count": 1
+    },
+    {
+      "name": "Data Center Café",
+      "url": "https://cafe-dc.com",
+      "count": 1
+    },
+    {
+      "name": "Plus Web3 Media",
+      "url": "https://plus-web3.com",
+      "count": 1
+    },
+    {
+      "name": "CoinChoice",
+      "url": "https://coinchoice.net",
+      "count": 1
+    },
+    {
+      "name": "Invest Leaders",
+      "url": "https://jioinc.jp",
+      "count": 1
+    },
+    {
+      "name": "石川県",
+      "url": "https://www.pref.ishikawa.lg.jp",
+      "count": 1
+    },
+    {
+      "name": "CodeZine",
+      "url": "https://codezine.jp",
+      "count": 1
+    },
+    {
+      "name": "jetstream.blog",
+      "url": "https://jetstream.blog",
+      "count": 2
+    },
+    {
+      "name": "Lemino",
+      "url": "https://lemino.docomo.ne.jp",
+      "count": 1
+    },
+    {
+      "name": "量子ビジネスマガジン",
+      "url": "https://quantumbusinessmagazine.com",
+      "count": 1
+    },
+    {
+      "name": "arpable.com",
+      "url": "https://arpable.com",
+      "count": 1
+    },
+    {
+      "name": "フィデックス",
+      "url": "https://www.fidx.co.jp",
+      "count": 2
+    },
+    {
+      "name": "CoinPost",
+      "url": "https://coinpost.jp",
+      "count": 3
+    },
+    {
+      "name": "JTB総合研究所",
+      "url": "https://www.tourism.jp",
+      "count": 1
+    },
+    {
+      "name": "ライブドアニュース",
+      "url": "https://news.livedoor.com",
+      "count": 1
+    },
+    {
+      "name": "Zenn",
+      "url": "https://zenn.dev",
+      "count": 3
+    },
+    {
+      "name": "Sustainable Japan",
+      "url": "https://sustainablejapan.jp",
+      "count": 1
+    },
+    {
+      "name": "AI総合研究所",
+      "url": "https://www.ai-souken.com",
+      "count": 1
+    },
+    {
+      "name": "チャエンのAI研究所",
+      "url": "https://digirise.ai",
+      "count": 1
+    },
+    {
+      "name": "WorkTypes Lab",
+      "url": "https://www.worktypeslab.com",
+      "count": 1
+    },
+    {
+      "name": "LLM Stats",
+      "url": "https://llm-stats.com",
+      "count": 2
+    },
+    {
+      "name": "富士通広報note",
+      "url": "https://note.com/fujitsu_pr",
+      "count": 1
+    },
+    {
+      "name": "選挙ドットコム",
+      "url": "https://go2senkyo.com",
+      "count": 1
+    },
+    {
+      "name": "8and",
+      "url": "https://8and.jp",
+      "count": 1
+    },
+    {
+      "name": "週刊アスキー",
+      "url": "https://weekly.ascii.jp",
+      "count": 1
+    },
+    {
+      "name": "tenki.jp",
+      "url": "https://tenki.jp",
+      "count": 1
+    },
+    {
+      "name": "IBM",
+      "url": "https://www.ibm.com",
+      "count": 5
+    },
+    {
+      "name": "NEDO",
+      "url": "https://www.nedo.go.jp",
+      "count": 1
+    },
+    {
+      "name": "ダイヤモンド・オンライン",
+      "url": "https://diamond.jp",
+      "count": 1
+    },
+    {
+      "name": "TBS NEWS DIG",
+      "url": "https://newsdig.tbs.co.jp",
+      "count": 1
+    },
+    {
+      "name": "JTBグループ",
+      "url": "https://www.jtbcorp.jp",
+      "count": 2
+    },
+    {
+      "name": "毎日新聞",
+      "url": "https://mainichi.jp",
+      "count": 1
+    },
+    {
+      "name": "Quantum Zeitgeist",
+      "url": "https://quantumzeitgeist.com",
+      "count": 1
+    },
+    {
+      "name": "Air Street Press",
+      "url": "https://press.airstreet.com",
+      "count": 1
+    },
+    {
+      "name": "Fortune",
+      "url": "https://fortune.com",
+      "count": 1
+    },
+    {
+      "name": "The Hacker News",
+      "url": "https://thehackernews.com",
+      "count": 1
+    },
+    {
+      "name": "EdTech Innovation Hub",
+      "url": "https://www.edtechinnovationhub.com",
+      "count": 1
+    },
+    {
+      "name": "外務省",
+      "url": "https://www.mofa.go.jp",
+      "count": 1
+    },
+    {
+      "name": "エキサイトニュース",
+      "url": "https://www.excite.co.jp",
+      "count": 1
+    }
   ],
-  "themes": ["最新AI情報", "NTTドコモ", "量子コンピュータ", "金融決済", "国内・社会"]
+  "themes": [
+    "最新AI情報",
+    "NTTドコモ",
+    "量子コンピュータ",
+    "金融決済",
+    "国内・社会"
+  ]
 }

@@ -1,0 +1,403 @@
+{
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05T07:00:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "IBM Think 2026が5月5日に開幕し、アービン・クリシュナCEOが企業向けAIと量子コンピューティングの融合戦略を発表した。同週IBMは量子クラウド10周年を迎え、Heron r3の156量子ビット・エラー率10分の1低減の達成を公表した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "IBM Think 2026が5/5に開幕し、エンタープライズAIのパイロットから全社展開への移行とKookaburra量子展開計画を同時に公表した。中国4社（Z.ai・MiniMax・Moonshot・DeepSeek）が12日間以内に競合コーディングAIを一斉公開し、欧米モデルと同水準の性能を大幅な低コストで実現したと報告されている。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTグループは4月27日にAIネイティブインフラ「AIOWN（エーアイオン）」を発表し、2033年度にデータセンターIT電力を現状の300MWから約1GWへ3倍超に拡大する計画を示した。5月のd払い・dポイントキャンペーンも各社との連携で開始された。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMが量子クラウド公開10周年を記念し、現行機Heron r3の156量子ビット・エラー率1.17×10⁻³（初期比10分の1以下）を公表した。IBM Think 2026ではKookaburra（2026年内リリース予定）を含む量子ロードマップが確認された。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "三菱UFJ・三井住友・みずほの3メガバンクが金融庁の承認を受け、円建てステーブルコイン（SC）の共同実証実験を開始した。三菱UFJ信託銀行も改正資金決済法に基づく国内初の電子決済手段SC発行を計画している。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "高市早苗首相が5月1日〜5日のベトナム・オーストラリア訪問を終えて帰国した。オーストラリアとの首脳会談ではレアアース開発の優先6事業に投資・助成金を明記した共同声明に署名した。"
+        }
+      ],
+      "must_read": {
+        "title": "IBM Think 2026開幕—クリシュナCEOがAI・量子の企業戦略を80カ国5000人の前に発表",
+        "url": "https://newsroom.ibm.com/2026-05-04-media-alert-ibm-ceo-arvind-krishna-to-open-ibm-think-2026",
+        "reason": "5/5開幕の年次カンファレンスでIBMが企業AIの本格展開とKookaburra量子プロセッサの2026年内リリース計画を同時に提示した。AI×量子融合の産業実装が加速する転換点の発表となった。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "こどもの日ですね！でもAI・量子の世界は休日返上で動いていますよ。IBM Think 2026が今日から始まって、量子クラウド10周年という節目も重なりました。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "IBM Think 2026が今日5/5から開幕しましたよ。AIと量子の話が満載です！中国の4社が12日間に次々とコーディングAIを出してきているのも注目ですね。Googleの社員さんたちが軍事AI契約への反対書状を出したのも話題になっています。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTグループがAIネイティブインフラ「AIOWN」を先週発表しましたよ。データセンターの電力を2033年度に3倍超にする大計画です。5月のd払いキャンペーンもスタートしているので、お得にポイントを貯めるチャンスですね。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMが量子コンピュータをクラウドで公開して10年経ちましたよ。今の機械は156量子ビットで、初期と比べてエラーが10分の1以下になっているそうです。MITとIBMが共同研究拠点も新しく開いたみたいで、量子×AIの研究がさらに加速しそうですね！"
+        },
+        {
+          "theme": "金融決済",
+          "text": "三菱UFJ・三井住友・みずほの3メガバンクが円建てステーブルコインの共同実証を始めましたよ。日本のデジタルお金の環境がいよいよ本格的に整ってきましたね。手形・小切手も今年度末でなくなるみたいです。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "高市首相がベトナムとオーストラリアへの5日間の外遊を終えて今日帰国しましたよ。オーストラリアとはレアアース開発での協力を共同声明にまとめましたね。GWの旅行者数も2447万人と好調みたいです！"
+        }
+      ],
+      "must_read": {
+        "title": "IBM Think 2026開幕—クリシュナCEOがAI・量子の企業戦略を80カ国5000人の前に発表",
+        "url": "https://newsroom.ibm.com/2026-05-04-media-alert-ibm-ceo-arvind-krishna-to-open-ibm-think-2026",
+        "reason": "今日開幕の世界最大規模の技術カンファレンスで、AIと量子のこれからの方向性が一気に見えてくる内容ですよ！",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・IBM Think 2026開幕（AI・量子融合戦略を発表）\n・中国4社が12日間以内にコーディングAIを集中公開\n・Google Gemini軍事利用に社員約600名が反対書状"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・NTTグループがAIネイティブインフラ「AIOWN」発表（2033年DC電力3倍超へ）\n・5月のd払い・dポイントキャンペーン開始"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・IBM量子クラウド10周年（156量子ビット・エラー率10倍改善）\n・IBM Think 2026でKookaburra展開計画確認\n・MITとIBMがAI×量子の共同研究拠点を開設"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・3メガバンクが金融庁承認で円SC共同実証開始\n・三菱UFJ信託銀行が国内初の電子決済手段SC発行へ\n・手形・小切手が2026年度末に全廃予定"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・高市首相がベトナム・豪訪問を終え帰国（こどもの日）\n・日豪首脳会談でレアアース6事業の共同声明署名\n・GW旅行者数2447万人見込み（前年比101.9%）"
+        }
+      ],
+      "must_read": {
+        "title": "IBM Think 2026開幕—クリシュナCEOがAI・量子の企業戦略を80カ国5000人の前に発表",
+        "url": "https://newsroom.ibm.com/2026-05-04-media-alert-ibm-ceo-arvind-krishna-to-open-ibm-think-2026",
+        "reason": "AI×量子融合の産業実装フェーズへ移行する転換点の発表。Kookaburra年内リリースも確認。",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "IBM Think 2026の開幕と量子クラウド10周年が重なり、AI×量子のハイブリッド実装という新産業フェーズへの移行が明示された。国内では3メガバンクのSC実証開始と高市外交成果が、技術・金融・地政学の各軸で日本の方向性を同時に示した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "IBM Think 2026での発表はエンタープライズAIの「パイロット」から「全社展開」への転換を示す節目となる。中国4社が12日間に競合コーディングAIを一斉公開した事実は、基盤モデルの「コモディティ化」速度が想定以上であることを示しており、差別化軸がモデル能力よりエコシステム・統合・信頼性へと移行している兆候と分析できる。Gemini軍事契約への社員反発はAI企業の内部統治リスクを可視化した。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTグループのAIOWNは単なるDC拡張ではなく、GPU・ネットワーク・電力をAI用途に動的最適化するインフラレイヤーの再定義である。2033年DC電力1GW達成は国内AI需要増の直接的な反映であり、NTTグループが国内AI基盤の「デファクト標準」を目指す戦略的投資と位置付けられる。d払いキャンペーンは既存決済インフラのロイヤルティ強化策として機能している。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBM量子クラウド10周年の振り返りは、研究から産業利用への移行が完了したことを示す節目である。Kookaburra（qLDPCメモリ実装）はエラー訂正の実用化を目指す最初の製品であり、2029年FTQC実現ロードマップの中核となる。MITとのAI×量子共同研究拠点開設は理論→応用加速を意図した投資であり、量子機械学習・量子最適化分野の実装加速が期待される。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "3メガバンクによる円SC共同実証は、競合関係を超えた業界横断的なデジタル通貨インフラ構築を意味する。改正資金決済法の施行準備と並行してトラストアンカーが3社共通となることで、クロスボーダー決済・DeFi接続の信頼性基盤が形成される。手形全廃（2026年度末）と並行した電子化推進は決済インフラの構造転換を加速させる。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "高市首相のベトナム・豪訪問でFOIPの進化方針を対外的に発信したことは、米中対立下での同志国連携の実態的な深化を示す。日豪でのレアアース優先6事業共同声明は資源安全保障における供給網多様化戦略であり、中国依存低減の具体的な成果として評価できる。GW旅行者数2447万人（前年比+1.9%）は個人消費の回復傾向を示しており、物価高の中でも旅行需要が持続していることを確認した。"
+        }
+      ],
+      "must_read": {
+        "title": "IBM Think 2026開幕—クリシュナCEOがAI・量子の企業戦略を80カ国5000人の前に発表",
+        "url": "https://newsroom.ibm.com/2026-05-04-media-alert-ibm-ceo-arvind-krishna-to-open-ibm-think-2026",
+        "reason": "エンタープライズAIの全社展開フェーズ移行とKookaburra量子プロセッサの2026年内リリース計画が同時に明示された。AI×量子ハイブリッド実装という次の産業フェーズへの最も明確な指針を提供する発表として、投資・技術・経営の各視点から精読する価値がある。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 83,
+      "trend_history": [78, 80, 75, 82, 85, 81, 83],
+      "summary_short": "IBM Think 2026開幕、中国4社コーディングAIを集中公開",
+      "summary_long": "IBM Think 2026が5月5日に開幕し、クリシュナCEOが企業AI戦略と量子コンピューティングの融合ビジョンを発表した。中国のZ.ai・MiniMax・Moonshot・DeepSeek4社が12日間以内に競合コーディングAIを一斉公開し、欧米前線モデルと同水準の性能を大幅低コストで実現した。Google Geminiの米国防総省AI契約に対し社員約600名が反対書状を提出した。",
+      "articles": [
+        {
+          "title": "IBM CEO アービン・クリシュナが IBM Think 2026 を開幕—AI と量子が企業の競争優位を定義すると表明",
+          "url": "https://newsroom.ibm.com/2026-05-04-media-alert-ibm-ceo-arvind-krishna-to-open-ibm-think-2026",
+          "source": "IBM newsroom",
+          "summary_short": "IBM Think 2026開幕。クリシュナCEOがAI・量子融合戦略を発表",
+          "summary_long": "IBMの年次カンファレンスIBM Think 2026が2026年5月5日に開幕した。アービン・クリシュナCEOが基調講演で、エンタープライズAIと量子コンピューティングの融合戦略を発表した。80カ国以上から5000人超のビジネス・技術リーダーが参加。Db2 Genius Hub、Enterprise Advantage、IBM Cyber Fraudなどの新機能も発表された。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "State of AI May 2026：中国4社が12日間以内にオープン型コーディングAIを集中公開",
+          "url": "https://press.airstreet.com/p/state-of-ai-may-2026",
+          "source": "Air Street Press",
+          "summary_short": "中国4社が12日間でオープンコーディングAIを集中公開",
+          "summary_long": "Z.aiの「GLM-5.1」、MiniMaxの「M2.7」、Moonshotの「Kimi K2.6」、DeepSeekの「V4」が2026年5月初頭の12日間以内に相次いでオープン公開された。いずれもエージェント型エンジニアリングで欧米最前線モデルに匹敵する性能を、大幅に低い推論コストで実現したと報告されている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Google Gemini の米国防総省AI契約に対し社員約600名が反対の公開書状",
+          "url": "https://fortune.com/2026/05/04/google-employee-backlash-pentagon-ai-contract-power-waned-since-project-maven/",
+          "source": "Fortune",
+          "summary_short": "GoogleのGemini軍事利用に社員約600名が反対書状",
+          "summary_long": "GoogleがGeminiモデルを米軍の機密ネットワーク内で「合法的な目的全般」に使用することを認める契約を締結した。これに対し社員約600名が反対の公開書状に署名した。2018年のProject Maven以降、AI企業の内部倫理統治が再度問われる状況となっている。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "IBM調査：AI時代に合わせてCEOがC-suiteの役割を再設計—グローバルCEO調査2026",
+          "url": "https://newsroom.ibm.com/2026-05-04-ibm-study-ceos-are-reshaping-c-suite-roles-for-the-ai-era",
+          "source": "IBM newsroom",
+          "summary_short": "IBM調査：CEOがAI時代に合わせてC-suite構造を再設計中",
+          "summary_long": "IBMビジネス価値研究所が発表したグローバルCEO調査によると、AIの加速に伴いCEOがC-suiteの役割構造を再設計していることが明らかになった。企業全体のビジネス影響を高めるため、従来の職能別縦割り構造からAI主導の横断的意思決定体制への移行が進んでいる。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "2026年はAI支援型サイバー攻撃が急増—CVE公開後24時間以内の悪用が28.3%",
+          "url": "https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html",
+          "source": "The Hacker News",
+          "summary_short": "AI支援型サイバー攻撃が急増。CVE悪用が24時間以内に28.3%",
+          "summary_long": "2026年のサイバーセキュリティ動向として、AI支援型攻撃が急増している。CVEの28.3%が公開後24時間以内に悪用されており、パッチ前に悪用が到達するケースが常態化している。攻撃者側のAI活用がディフェンダー側を上回る「攻守の非対称化」が進行していると分析されている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 62,
+      "trend_history": [58, 62, 60, 65, 70, 65, 62],
+      "summary_short": "AIOWN発表・5月d払いキャンペーン開始など多角展開継続",
+      "summary_long": "NTT・NTTデータグループ・NTTドコモビジネスの3社が4月27日にAIネイティブインフラ「AIOWN」を発表し、2033年度にデータセンターIT電力を3倍超の約1GWへ拡大する計画を示した。5月のd払い・dポイントキャンペーンも各社連携で開始され、一部では最大3万ポイントの還元が実施されている。",
+      "articles": [
+        {
+          "title": "NTTグループがAIネイティブインフラ「AIOWN」を発表—2033年度にDCのIT電力を3倍超の約1GWへ",
+          "url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0427_3.html",
+          "source": "NTTドコモビジネス",
+          "summary_short": "NTTグループがAIネイティブインフラ「AIOWN」発表",
+          "summary_long": "NTT・NTTデータグループ・NTTドコモビジネスの3社が2026年4月27日、AIネイティブインフラ「AIOWN（エーアイオン）」を発表した。GPU・ネットワーク・電力をAI用途に最適化し、エッジデバイスまで含めたセキュアな統合環境を実現する基盤。現状300MWのIT電力容量を2033年度に約1GWへ拡大する計画が示された。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "5月開始の「dポイント」「d払い」キャンペーン—一部で最大3万ポイント還元",
+          "url": "https://prtimes.jp/main/html/rd/p/000000192.000141840.html",
+          "source": "PR TIMES",
+          "summary_short": "5月のd払い・dポイントキャンペーン開始。最大3万pt還元も",
+          "summary_long": "NTTドコモが2026年5月分のd払い・dポイントキャンペーンを開始した。エディオン・and ST・花キューピット等の提携各社で開催され、一部では最大3万ポイントの高額還元も実施。dポイントカードとd払いの組み合わせ利用でポイント二重取りが可能となっている。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "ドコモ「docomo 5G」サービスエリアマップを5月4日付けで更新—2026年10月末予定分まで公開",
+          "url": "https://jetstream.blog/2026/05/04/docomo-5g-area-map-update-20260504/",
+          "source": "jetstream.blog",
+          "summary_short": "ドコモが5Gエリアマップを5/4更新。10月末予定分まで掲載",
+          "summary_long": "NTTドコモが2026年5月4日付けで「docomo 5G」サービスエリアマップを更新した。2026年4月26日時点の実績エリアに加え、2026年7月末・10月末予定のエリア拡充情報も公開。段階的なカバレッジ拡大の進捗が可視化された。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 80,
+      "trend_history": [68, 72, 70, 75, 78, 78, 80],
+      "summary_short": "IBM量子クラウド10周年。Think 2026でKookaburra展開計画確認",
+      "summary_long": "IBMが量子コンピュータのクラウド公開から10周年を迎え、現行Heron r3の156量子ビット・エラー率10分の1以下の達成を発表した。IBM Think 2026（5/5開幕）ではKookaburraの2026年内リリースを含む量子ロードマップが公開された。MITとIBMはAI×量子の共同研究拠点を新設した。",
+      "articles": [
+        {
+          "title": "IBM 量子コンピュータのクラウド公開10周年—Heron r3が156量子ビット・エラー率を10分の1以下に低減",
+          "url": "https://newsroom.ibm.com/2026-05-04-ibm-a-decade-of-quantum-on-the-cloud",
+          "source": "IBM newsroom",
+          "summary_short": "IBM量子クラウド10周年。Heron r3は156量子ビット達成",
+          "summary_long": "IBMが2016年5月4日に世界初の量子コンピュータをクラウド公開してから10周年を迎えた。現行のIBM Quantum Heron r3は156量子ビットで、2量子ビットエラー率は初期比10分の1以下（1.17×10⁻³）に改善。累計1,121量子ビットチップも実現しており、量子コンピューティングが研究から産業利用へ移行したと総括された。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "IBM Think 2026でKookaburraを含む量子展開ロードマップを公開—2026年末の量子優位性実現を確認",
+          "url": "https://quantumzeitgeist.com/ibm-think-2026-showcase-deployments/",
+          "source": "Quantum Zeitgeist",
+          "summary_short": "IBM Think 2026でKookaburra年内リリースと量子優位性を確認",
+          "summary_long": "IBM Think 2026（5月5日開幕）においてIBMが量子コンピューティングの実展開を紹介した。Kookaburraは2026年内のリリースを予定しており、初のqLDPCメモリ搭載モジュラー型量子誤り訂正（QEC）プロセッサとなる。2026年末までにユーザーが古典コンピュータより優位な量子計算を実現できると発表された。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "IBM 2026年量子ロードマップ—7500ゲート・360量子ビット目標。Kookaburraが初のQEC機へ",
+          "url": "https://www.ibm.com/roadmaps/quantum/2026/",
+          "source": "IBM",
+          "summary_short": "IBM、2026年内に7500ゲート・360量子ビット目標を公表",
+          "summary_long": "IBMの2026年量子ロードマップによると、同年内に最大360量子ビットで7,500ゲートの実行が可能な品質改善を目指す。Kookaburraは初めてqLDPCコードで情報を保存・処理するモジュラー型プロセッサで、フォールトトレラント量子コンピュータへの移行を担う中核機と位置付けられている。2029年の耐障害性量子コンピュータ実現に向けた重要マイルストーンとなる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "MITとIBMがAI×量子コンピューティングの共同研究拠点を開設",
+          "url": "https://www.edtechinnovationhub.com/news/mit-and-ibm-expand-research-partnership-to-combine-ai-and-quantum-computing",
+          "source": "EdTech Innovation Hub",
+          "summary_short": "MITとIBMがAI×量子の共同研究拠点を開設",
+          "summary_long": "MITとIBMが新たな共同研究施設を開設し、AI・量子コンピューティングの融合研究を推進する。IBMが量子ハードウェア・ソフトウェアを提供し、MITの研究力と組み合わせることで量子機械学習・量子最適化などの実用化を加速させる計画。IBM Think 2026に合わせた発表となった。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 74,
+      "trend_history": [65, 68, 72, 70, 74, 72, 74],
+      "summary_short": "3メガSC共同実証スタート。手形廃止も年度末に向け加速",
+      "summary_long": "三菱UFJ・三井住友・みずほの3メガバンクが金融庁の承認を受けて円建てステーブルコイン（SC）の共同実証実験を開始した。三菱UFJ信託銀行も国内初の電子決済手段SCの発行を計画している。2025年改正資金決済法の施行準備が進む中、2026年度末の手形・小切手全廃に向けた企業の電子化対応が加速している。",
+      "articles": [
+        {
+          "title": "三菱UFJ・三井住友・みずほが金融庁承認で円建てSC共同実証を開始—三菱商事が初期導入企業に",
+          "url": "https://www.gfa.co.jp/crypto/news/market-news/news-2318/",
+          "source": "Crypto Trillion",
+          "summary_short": "3メガが金融庁承認の下で円SC共同実証を開始",
+          "summary_long": "三菱UFJ銀行・三井住友銀行・みずほ銀行の3メガバンクが「Payment Innovation Project」として円建てステーブルコインの共同実証実験を開始した。金融庁が正式支援。Progmat Coin基盤を使い複数ブロックチェーンで発行予定。初期導入企業として三菱商事が内部決済に採用する計画が明らかにされた。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "三菱UFJ信託銀行、電子決済手段として国内初のステーブルコイン発行へ—改正資金決済法対応",
+          "url": "https://coinpost.jp/?p=606026",
+          "source": "CoinPost",
+          "summary_short": "三菱UFJ信託銀行が国内初の電子決済手段SCを発行へ",
+          "summary_long": "三菱UFJ信託銀行が2025年改正資金決済法の電子決済手段として国内初となるステーブルコインを発行すると報道された。円建てのトークン化預金型で、企業間送金や商取引決済の効率化を目指す。Progmat基盤を活用した複数チェーンでの展開を検討中。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "2025年改正資金決済法の概要と実務対応—施行準備段階に入り暗号資産・SC規制整備が進行",
+          "url": "https://www.businesslawyers.jp/articles/1476",
+          "source": "BUSINESS LAWYERS",
+          "summary_short": "改正資金決済法が施行準備段階。SC・暗号資産の規制整備進行",
+          "summary_long": "2025年6月公布の改正資金決済法が1年以内の施行に向けて準備段階に入っている。暗号資産・ステーブルコインの規制枠組みを整理し、電子決済手段の発行・管理に関するルールを明確化。金融機関・FinTech企業の実務対応が本格化している。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "キャッシュレス決済市場2024年141兆円・2026年度末に手形・小切手が全廃",
+          "url": "https://bookplus.nikkei.com/atcl/column/020500658/020500022/",
+          "source": "日経BOOKプラス",
+          "summary_short": "2024年のキャッシュレス市場141兆円。手形は年度末に全廃",
+          "summary_long": "2024年の国内キャッシュレス決済市場は前年比11%増の141兆円に拡大した。消費者の61%が「キャッシュレス派」と自認している。紙の約束手形・小切手は2026年度末をもって全面電子化（廃止）される予定で、企業の決済インフラ整備が加速している。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 60,
+      "trend_history": [55, 58, 56, 60, 62, 58, 60],
+      "summary_short": "高市首相がベトナム・豪訪問から帰国。日豪でレアアース共同声明",
+      "summary_long": "高市早苗首相が5月1〜5日のベトナム・オーストラリア訪問を終え帰国した。日豪首脳会談ではレアアース開発の優先6事業に投資・助成金を明記した共同声明に署名した。GWの旅行者数は2447万人（前年比101.9%）が見込まれ、JAPAN JAM 2026は強風のため5月4日の公演を中止した。",
+      "articles": [
+        {
+          "title": "高市首相がベトナム・オーストラリア訪問を終え帰国—FOIP進化方針を対外的に表明",
+          "url": "https://www.mofa.go.jp/mofaj/kaidan/s_takaichi/pageit_000001_02904.html",
+          "source": "外務省",
+          "summary_short": "高市首相がベトナム・豪訪問を終え帰国。FOIP進化を表明",
+          "summary_long": "高市早苗首相は5月1日から5日の日程でベトナムとオーストラリアを訪問した。ベトナムでは「自由で開かれたインド太平洋（FOIP）」の進化を含む外交政策スピーチを実施し、同志国との実務的協力枠組みを重視する新外交方針を表明した。オーストラリアではアルバニージー首相と会談し、レアアース開発等での安全保障・経済分野の協力強化を確認した。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "日豪首脳会談：レアアース開発の優先6事業に投資・助成金を明記した共同声明に署名",
+          "url": "https://www.nikkei.com/article/DGXZQOUA306M60Q6A430C2000000/",
+          "source": "日本経済新聞",
+          "summary_short": "日豪首脳がレアアース6事業の投資・助成明記の共同声明署名",
+          "summary_long": "高市首相とアルバニージー豪首相の首脳会談において、レアアース開発に関する優先6事業を明記した共同声明に署名した。両国が投資と助成金を拠出することを確認。日豪友好協力基本条約署名50周年の節目に「特別な戦略的パートナーシップ」の格上げを図った。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "JTB予測：2026年GW旅行者数は2447万人（前年比101.9%）・消費額1兆994億円見込み",
+          "url": "https://www.jtbcorp.jp/jp/newsroom/2026/04/02_jtb_2026gw-travel-trend-outlook.html",
+          "source": "JTBグループ",
+          "summary_short": "GW旅行者数2447万人の見込み。消費額は1兆994億円を予測",
+          "summary_long": "JTBが発表したGW（4月25日〜5月7日）旅行動向予測によると、総旅行者数は前年比101.9%の2447万人。うち国内旅行が2390万人、海外旅行が57.2万人（前年比108.5%）。旅行消費額は1兆994億円（前年比99.5%）の見込み。物価高の中でも費用を抑えながら旅行を楽しむ傾向が続いている。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "JAPAN JAM 2026が強風のため5月4日（月祝）公演を中止—安全確保が困難と判断",
+          "url": "https://www.excite.co.jp/news/article/FNN_1423830539436343318/",
+          "source": "エキサイトニュース（FNN）",
+          "summary_short": "JAPAN JAM 2026が強風で5/4公演を中止。安全確保困難と判断",
+          "summary_long": "屋外音楽フェスティバル「JAPAN JAM 2026」は5月4日（月・祝）の公演中止を発表した。強風の影響により「会場内の安全確保が困難と判断」したとして、3日目の公演が全日程取りやめとなった。交通の乱れも重なり、多くの来場予定者に影響が出た。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 83,
+      "NTTドコモ": 62,
+      "量子コンピュータ": 80,
+      "金融決済": 74,
+      "国内・社会": 60
+    },
+    "source_distribution": {
+      "IBM newsroom": 3,
+      "IBM": 1,
+      "Air Street Press": 1,
+      "Fortune": 1,
+      "The Hacker News": 1,
+      "NTTドコモビジネス": 1,
+      "PR TIMES": 1,
+      "jetstream.blog": 1,
+      "Quantum Zeitgeist": 1,
+      "EdTech Innovation Hub": 1,
+      "Crypto Trillion": 1,
+      "CoinPost": 1,
+      "BUSINESS LAWYERS": 1,
+      "日経BOOKプラス": 1,
+      "外務省": 1,
+      "日本経済新聞": 1,
+      "JTBグループ": 1,
+      "エキサイトニュース（FNN）": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 10,
+      "4": 6,
+      "5": 4
+    }
+  }
+}
