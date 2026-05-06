@@ -1,6 +1,10 @@
 {
-  "last_updated": "2026-05-05T07:00:00+09:00",
+  "last_updated": "2026-05-06T07:05:00+09:00",
   "reports": [
+    {
+      "date": "2026-05-06",
+      "headline": "DeepSeek450億ドル調達交渉・金融庁ステーブルコイン課新設・日印量子協力・子ども人口45年連続最少"
+    },
     {
       "date": "2026-05-05",
       "headline": "IBM Think 2026開幕（AI・量子）・3メガSC共同実証開始・高市首相ベトナム・豪帰国・中国4社コーディングAI集中公開"
@@ -88,7 +92,7 @@
     {
       "name": "NTTドコモ",
       "url": "https://www.docomo.ne.jp",
-      "count": 21
+      "count": 23
     },
     {
       "name": "NTTドコモビジネス",
@@ -113,7 +117,7 @@
     {
       "name": "日本経済新聞",
       "url": "https://www.nikkei.com",
-      "count": 26
+      "count": 29
     },
     {
       "name": "NVIDIA",
@@ -128,7 +132,7 @@
     {
       "name": "時事通信",
       "url": "https://www.jiji.com",
-      "count": 6
+      "count": 7
     },
     {
       "name": "IMF",
@@ -278,7 +282,7 @@
     {
       "name": "PayPay",
       "url": "https://paypay.ne.jp",
-      "count": 2
+      "count": 3
     },
     {
       "name": "TradingKey",
@@ -408,7 +412,7 @@
     {
       "name": "CoinChoice",
       "url": "https://coinchoice.net",
-      "count": 1
+      "count": 2
     },
     {
       "name": "Invest Leaders",
@@ -523,7 +527,7 @@
     {
       "name": "IBM",
       "url": "https://www.ibm.com",
-      "count": 5
+      "count": 6
     },
     {
       "name": "NEDO",
@@ -538,7 +542,7 @@
     {
       "name": "TBS NEWS DIG",
       "url": "https://newsdig.tbs.co.jp",
-      "count": 1
+      "count": 2
     },
     {
       "name": "JTBグループ",
@@ -583,6 +587,36 @@
     {
       "name": "エキサイトニュース",
       "url": "https://www.excite.co.jp",
+      "count": 1
+    },
+    {
+      "name": "Bloomberg",
+      "url": "https://www.bloomberg.com",
+      "count": 1
+    },
+    {
+      "name": "Seoul Economic Daily",
+      "url": "https://en.sedaily.com",
+      "count": 1
+    },
+    {
+      "name": "Samsung Japan",
+      "url": "https://news.samsung.com/jp",
+      "count": 1
+    },
+    {
+      "name": "MIT",
+      "url": "https://news.mit.edu",
+      "count": 1
+    },
+    {
+      "name": "CNN Business",
+      "url": "https://www.cnn.com",
+      "count": 1
+    },
+    {
+      "name": "IG証券",
+      "url": "https://www.ig.com/jp",
       "count": 1
     }
   ],

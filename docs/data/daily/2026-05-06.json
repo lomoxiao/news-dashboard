@@ -1,0 +1,362 @@
+{
+  "date": "2026-05-06",
+  "generated_at": "2026-05-06T07:05:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "中国国家半導体基金がDeepSeekへの約450億ドル規模の出資交渉を主導していることが英フィナンシャル・タイムズにより報じられ、AI覇権をめぐる米中競争の資本面での激化が鮮明となった。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "中国のBig Fundが450億ドル評価額でDeepSeekへの出資交渉を主導していることが報じられた。同週、トランプ政権はAnthropicの「Mythos」への懸念を受けAI事前審査制度の導入検討を開始し、米国防総省はAnthropicを除くAI大手8社と政府向け契約を締結した。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "Samsung Galaxy全30製品がdocomo Starlink Directの対応機種となった。4月27日開始の同サービスは約2200万人の全プラン加入者が当面無料で利用可能で、山間部・離島・災害時の通信手段として活用される。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "日本とインドが量子技術協力文書を締結する方向で調整が進んでいることが明らかとなった。IBMは量子クラウド公開10周年に合わせてHeron r3の156量子ビット・エラー率1.17×10⁻³達成を公表し、MITとの共同研究所も始動した。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "金融庁は2026年夏の組織再編で「暗号資産・ステーブルコイン課」を新設する方針を示した。2018年以来8年ぶりの大規模再編で、3メガバンクのステーブルコイン共同発行を支援する体制を整える。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "総務省が発表した4月1日現在の15歳未満の子ども人口は1329万人で前年比35万人減となり、45年連続の減少で1950年以降の過去最少を更新した。総人口に占める割合も10.8%と過去最低となった。"
+        }
+      ],
+      "must_read": {
+        "title": "DeepSeek、中国Big Fundが450億ドル評価額で出資交渉を主導",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/deepseek-nears-45-billion-valuation-055621463.html",
+        "reason": "中国国家ファンドが主導するDeepSeekへの資金投入はAI覇権競争の資本面での分岐点となる。テンセント・アリババも参加検討中で、成立すれば世界のAI産業構造に大きな変化をもたらす。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "GW明け初日、AI関連で大きなニュースが動いていますよ！中国がDeepSeekに巨額の資金を投じようとしているみたいです。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "中国の国家系半導体ファンドがDeepSeekへの大型出資を検討しているみたいですよ。評価額は約450億ドル（約6.6兆円！）とのことです。テンセントとアリババも参加を検討中で、中国のAI投資が一気に加速しそうですね。トランプ政権もAI規制を本格検討し始めました。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "Samsung Galaxy全30製品がdocomo Starlink Directに対応しましたよ！4月27日に始まったこのサービス、山や島など電波が届きにくい場所でも通信できる仕組みですね。全プランで申込不要・当面無料で使えるみたいです。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "日本とインドが量子コンピュータで協力する文書を結ぶ予定みたいですよ。日本の国産量子コンピューターをインドに導入してもらう働きかけもあるとのことで、国際展開が広がってきましたね！IBMも量子クラウド10周年で大きな節目を迎えています。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "金融庁が今年の夏に「暗号資産・ステーブルコイン課」という新しい部署を作るみたいですよ。2018年以来8年ぶりの大きな組織改編で、3大メガバンクのデジタル円コインの共同発行を後押しする体制が整いますね。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "総務省が「こどもの日」に合わせて発表した15歳未満の子どもの人口が1329万人で、なんと45年連続で減少しているそうです。総人口の10.8%で過去最低ということで、少子化の深刻さを改めて示すデータになっています。"
+        }
+      ],
+      "must_read": {
+        "title": "DeepSeek、中国Big Fundが450億ドル評価額で出資交渉を主導",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/deepseek-nears-45-billion-valuation-055621463.html",
+        "reason": "中国のAI戦略が資本調達の面でも本格化してきましたよ！これが成立すれば世界のAI競争の構図が大きく変わりそうで、非常に注目ですね。",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・DeepSeek、中国Big Fundが450億ドル評価額で資金調達交渉を主導（Bloomberg/FT）\n・トランプ政権がAI事前審査制度の導入を検討開始（Mythosが契機）\n・米国防総省がAI大手8社と契約締結・Anthropicは除外"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・Samsung Galaxy全30製品がdocomo Starlink Direct対応に追加\n・docomo 5Gエリアマップを5月4日付で更新（7月・10月末予定も公開）"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・日本・インドが量子技術協力文書を締結予定（国産量子機導入を推進）\n・IBMが量子クラウド10周年・Heron r3で156量子ビット・エラー率1/10達成\n・MIT・IBM Computing Research Labが始動"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・金融庁、2026年夏に「暗号資産・ステーブルコイン課」新設（8年ぶり大規模再編）\n・3メガバンクのステーブルコイン共同発行、金融庁が支援対象に採択\n・PayPayカード規約改定、6月2日から適用"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・子ども人口1329万人・45年連続減で過去最少（総務省）\n・高市内閣支持率74.2%・先月比2.7ポイント上昇（JNN世論調査）"
+        }
+      ],
+      "must_read": {
+        "title": "DeepSeek、中国Big Fundが450億ドル評価額で出資交渉を主導",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/deepseek-nears-45-billion-valuation-055621463.html",
+        "reason": "・AI覇権競争の資本調達面での新展開\n・テンセント・アリババも参加検討中",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "中国国家ファンドによるDeepSeek出資交渉は、AIの技術競争が資本調達・国家安全保障の次元へ拡大したことを示す事象であり、米国の防衛AI契約再編やトランプ政権の規制検討と並行して、AI産業の地政学的再編が加速している。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "中国Big FundによるDeepSeekへの約450億ドル出資交渉は、オープンウェイト型LLMへの国家的資本投下という新展開を示す。テンセント・アリババの参加検討が加われば中国AI産業のエコシステムが資本面で結束する。一方、米国防総省はAnthropicを除外しAI8社と契約締結し、AI利用の軍事・政府領域における陣営分化が進行している。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "Samsung Galaxy全30製品がdocomo Starlink Directに対応したことで対象デバイスが大幅拡大した。SpaceXのStarlink Mobileを活用した衛星直結通信は約2200万人の全プラン加入者が申込不要・当面無料で利用可能で、山間部・離島・海上や災害被災エリアでの通信確保という社会インフラとしての意義が高い。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "日本・インド間の量子技術協力文書締結は、量子の外交的優位性確保という新たな次元を示し、国産量子コンピューターのインド輸出という産業・安保両面での布石となる。IBM Heron r3は156量子ビット・エラー率1.17×10⁻³を達成し、実用量子アドバンテージの実証が2026年内に見込まれる段階に至っている。MIT・IBM共同研究所の始動は量子×AIの研究加速を示す。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "金融庁の「暗号資産・ステーブルコイン課」新設は、3メガバンクSC共同発行への本格的な監督体制整備を意味する。改正資金決済法施行・暗号資産申告分離課税（2028年、約20%）と合わせて、デジタル通貨政策の制度基盤が段階的に整備されており、中央銀行・民間銀行・フィンテックが共存するデジタル通貨エコシステムの輪郭が明確になってきた。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "子ども人口1329万人・総人口比10.8%は、人口4000万人以上の38ヶ国中韓国に次ぐ2番目に低い水準であり、労働力・社会保障・経済成長の各領域で長期的な構造問題が継続することを示す。高市内閣の支持率74.2%は外交（ベトナム・豪訪問）や安保政策への評価が反映されたものと分析される。GW明けの市場ではホルムズ海峡封鎖長期化と円高リスクが注視される。"
+        }
+      ],
+      "must_read": {
+        "title": "DeepSeek、中国Big Fundが450億ドル評価額で出資交渉を主導",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/deepseek-nears-45-billion-valuation-055621463.html",
+        "reason": "AI産業における国家主導の資本形成という構造変化の始点として、中長期的な技術覇権競争の趨勢を左右する可能性を持つ案件である。テンセント・アリババを含む民間資本との連携構造が確立された場合、中国AIエコシステムの競争力が一段と強化される。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 95,
+      "trend_history": [94, 95, 93, 95, 95],
+      "summary_short": "DeepSeek450億ドル調達交渉・米AI規制検討・国防省AI8社契約",
+      "summary_long": "中国国家半導体基金がDeepSeekへの約450億ドル評価額での出資を主導する交渉を開始した。トランプ政権はAnthropicのMythosへの懸念からAI事前審査制度を検討。米国防総省はAnthropicを除くAI大手8社と政府向け契約を締結した。",
+      "articles": [
+        {
+          "title": "DeepSeek、中国Big Fundが450億ドル評価額で出資交渉を主導",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/deepseek-nears-45-billion-valuation-055621463.html",
+          "source": "Bloomberg",
+          "summary_short": "中国Big Fundが450億ドル評価額でDeepSeekへの出資交渉を主導",
+          "summary_long": "英フィナンシャル・タイムズが4人の関係者の証言に基づき報じた。中国の「中国集成電路産業投資基金（Big Fund）」がDeepSeekの初回外部資金調達を約450億ドルの企業評価額で主導する交渉を進めている。テンセントとアリババも参加を検討中で、成立すれば世界のAI産業構造に変化をもたらす。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "トランプ政権、AnthropicのMythosに警戒しAI事前審査制度の導入を検討",
+          "url": "https://en.sedaily.com/finance/2026/05/05/alarmed-by-mythos-trump-pushes-ai-pre-release-vetting",
+          "source": "Seoul Economic Daily",
+          "summary_short": "米政権がAI事前審査制度を検討、Mythosへの懸念が政策転換の契機に",
+          "summary_long": "ホワイトハウスはAI作業部会を設立し、Anthropicの強力なモデルMythosへの懸念から政府によるAI事前審査制度の検討を開始した。国防総省は連邦・州政府向けAIの安全性テスト義務化も検討中。OpenAI・Anthropic・Googleは米国のイノベーション競争力への悪影響を懸念している。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "米国防総省、AI大手8社と企業向け契約を締結・Anthropicは軍事利用条件で除外",
+          "url": "https://www.cnn.com/2026/05/01/tech/pentagon-ai-anthropic",
+          "source": "CNN Business",
+          "summary_short": "米国防総省がAI8社と契約締結、Anthropicは軍事利用条件で除外",
+          "summary_long": "米国防総省は大手テック企業8社とAI活用に関する契約を締結した。Anthropicとは「自律兵器・大規模監視への利用を含む全合法目的での利用」という条件で折り合わず除外となった。連邦裁判所は政府によるAnthropicへの圧力を一時的に差し止めている。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "LINEヤフー川辺健太郎会長、6月退任後にAI従業員のみの「AIソロプレナー」として起業",
+          "url": "https://www.nikkei.com/article/DGXZQOUC090YJ0Z00C26A2000000/",
+          "source": "日本経済新聞",
+          "summary_short": "LINEヤフー川辺会長が6月退任、AI従業員のみで起業へ",
+          "summary_long": "LINEヤフー株式会社の川辺健太郎会長（51歳）が2026年6月の定時株主総会をもって退任し、AIを活用して人間従業員を雇わない「AIソロプレナー」として起業する。生成AIの登場で事業環境が激変していること、ヤフーとLINEの統合効果にめどが立ったことを理由に挙げた。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 60,
+      "trend_history": [65, 63, 62, 62, 60],
+      "summary_short": "Samsung Galaxy 30製品がStarlink Direct対応、5Gエリア拡充",
+      "summary_long": "Samsung Galaxy全30製品がdocomo Starlink Directの対応機種に追加され、衛星直結通信の対象デバイスが拡大した。NTTドコモは5月4日に5Gサービスエリアマップを更新し、2026年7月・10月末の拡充予定エリアを公開した。",
+      "articles": [
+        {
+          "title": "Samsung Galaxy全30製品がdocomo Starlink Directに対応開始",
+          "url": "https://news.samsung.com/jp/docomo-starlink-direct",
+          "source": "Samsung Japan",
+          "summary_short": "Samsung Galaxy全30製品がdocomo Starlink Directの対応機種に追加",
+          "summary_long": "NTTドコモとSamsungが連携し、Samsung Galaxy全30製品を衛星直結通信サービス「docomo Starlink Direct」の対応機種として追加した。4月27日開始の同サービスはSpaceXのStarlink Mobileを活用し、山間部・離島・海上や災害時の非常用通信手段として全プラン加入者が申込不要・当面無料で利用可能。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "docomo 5Gサービスエリアマップを2026年5月4日付で更新",
+          "url": "https://jetstream.blog/2026/05/04/docomo-5g-area-map-update-20260504/",
+          "source": "NTTドコモ",
+          "summary_short": "docomo 5Gエリアマップ更新、7月・10月末予定の拡充エリアも公開",
+          "summary_long": "NTTドコモは2026年5月4日付で5Gサービスエリアマップを更新し、4月26日時点の実提供エリアおよび2026年7月末・10月末予定のエリア拡充計画を公開した。エリア拡充予定レイヤーから今後の5G対応エリアを事前確認できる。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "ドコモMAX・ドコモ ポイ活MAX会員限定、USJスタジオ・パスを毎月プレゼントするキャンペーン開始",
+          "url": "https://www.docomo.ne.jp/info/news_release/topics/",
+          "source": "NTTドコモ",
+          "summary_short": "ドコモ最上位プラン会員限定でUSJパスを毎月1枚プレゼント開始",
+          "summary_long": "NTTドコモは2026年4月30日から「ドコモ MAX」「ドコモ ポイ活 MAX」の契約者限定で、ユニバーサル・スタジオ・ジャパンのスタジオ・パスを毎月1枚プレゼントするキャンペーンを開始した。最上位プランの価値訴求を強化するサービス拡充策の一環。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 80,
+      "trend_history": [75, 77, 78, 78, 80],
+      "summary_short": "日印量子協力文書締結へ、IBM量子10周年・MIT共同研究所始動",
+      "summary_long": "日本とインドが量子技術協力文書の締結に向けて動き、国産量子コンピューターのインド導入を働きかける計画が明らかになった。IBMは量子クラウド公開10周年に合わせてHeron r3の156量子ビット・エラー率1.17×10⁻³達成を公表し、MITとの共同研究所も始動した。",
+      "articles": [
+        {
+          "title": "日本・インドが量子技術協力文書を締結へ、国産機の導入を働きかけ",
+          "url": "https://www.nikkei.com/article/DGXZQOUA012100R00C26A5000000/",
+          "source": "日本経済新聞",
+          "summary_short": "日本とインドが量子技術協力文書を締結予定、国産量子機導入を推進",
+          "summary_long": "小野田紀美経済安全保障相がインド訪問時にジテンドラ・シン科学技術相と量子技術協力文書を締結する予定であることが明らかとなった。両国間で研究者・企業による知見共有の場を定期的に設け、日本は次世代国産量子コンピューターのインド導入を働きかける計画。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "IBM量子クラウド10周年、Heron r3が156量子ビット・エラー率1.17×10⁻³を達成",
+          "url": "https://newsroom.ibm.com/2026-05-04-ibm-a-decade-of-quantum-on-the-cloud",
+          "source": "IBM",
+          "summary_short": "IBMが量子クラウド公開10周年、Heron r3は156量子ビットを達成",
+          "summary_long": "2016年5月4日に量子コンピューターをクラウド公開してから10周年を迎えたIBMは、現行機Heron r3の156量子ビット・エラー率1.17×10⁻³（初期比10分の1以下）の達成を発表した。IBM Think 2026（5月5日開幕）でIBM CEOは2026年内の量子アドバンテージ実現を目標として示した。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "MITとIBMがAI・量子の共同研究所「MIT-IBM Computing Research Lab」を開設",
+          "url": "https://news.mit.edu/2026/mit-ibm-computing-research-lab-launches-0429",
+          "source": "MIT",
+          "summary_short": "MIT・IBM共同のAI×量子研究所が始動、次世代計算基盤の開発を目指す",
+          "summary_long": "マサチューセッツ工科大学とIBMは、AIと量子コンピューティングを融合した研究を行う「MIT-IBM Computing Research Lab」を設立した。古典的なシステムの限界を超える新たな計算アプローチの実現を目指す。2026年4月29日に発表、量子×AIの研究加速に向けた組織的な連携が始まった。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 65,
+      "trend_history": [62, 63, 63, 64, 65],
+      "summary_short": "金融庁がSC課新設・3メガSC共同発行支援・PayPay規約改定",
+      "summary_long": "金融庁は2026年夏に「暗号資産・ステーブルコイン課」を新設する大規模組織再編を行う。3メガバンクのステーブルコイン共同発行も金融庁の支援対象に採択済み。PayPayカードは2026年6月2日から主要機能のポイント付与を縮小する規約改定を実施する。",
+      "articles": [
+        {
+          "title": "金融庁、2026年夏に「暗号資産・ステーブルコイン課」を新設・8年ぶり大規模組織再編",
+          "url": "https://coinchoice.net/fsa-new-crypto-stablecoin-division-2026-reorganization/",
+          "source": "CoinChoice",
+          "summary_short": "金融庁が夏に暗号資産・ステーブルコイン課を新設、8年ぶりの組織再編",
+          "summary_long": "金融庁は2026年夏の組織再編で「暗号資産・ステーブルコイン課」を新設する方針を示した。2018年の検査局廃止以来8年ぶりの大規模再編で、現行の「暗号資産・ブロックチェーン・イノベーション参事官」を正式な「課」へ昇格させる。2027年以降の金商法改正施行、2028年の暗号資産申告分離課税（約20%）適用に向けた行政体制整備の一環。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "3メガバンクのステーブルコイン共同発行、金融庁が支援対象に採択",
+          "url": "https://www.nikkei.com/article/DGXZQOUB301QG0Q5A031C2000000/",
+          "source": "日本経済新聞",
+          "summary_short": "三菱UFJ・三井住友・みずほのSC共同発行が金融庁の支援採択を受ける",
+          "summary_long": "三菱UFJ銀行・三井住友銀行・みずほ銀行による円建てステーブルコインの共同発行実証実験が金融庁の支援対象に採択された。三菱UFJ信託銀行が発行体となりフィンテックのProgmat基盤を活用する計画で、改正資金決済法に基づく国内初の大手銀行連合による電子決済手段発行となる見通し。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "PayPayカード規約改定、2026年6月2日からチャージや公共料金のポイント付与を縮小",
+          "url": "https://okanenokyoyolabo.hatenablog.jp/entry/2026/02/08/050507",
+          "source": "PayPay",
+          "summary_short": "PayPayカードが6月2日から規約改定、チャージへのポイント付与を廃止",
+          "summary_long": "PayPayカードおよびPayPayカード ゴールドは2026年6月2日から規約を改定し、モバイルSuica・PASMO・ANA Pay・JAL Pay・ファミペイへのチャージのポイント付与対象外化、公共料金のポイント還元率を0.5%へ引き下げる。PayPayポイントを支払いに充当する場合のポイント付与も廃止となる。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 55,
+      "trend_history": [52, 54, 56, 54, 55],
+      "summary_short": "子ども人口45年連続減で最少1329万人、高市内閣支持率74.2%",
+      "summary_long": "総務省が4月1日現在の15歳未満の子ども人口を1329万人と発表し、45年連続の減少で過去最少を更新した。JNN世論調査では高市内閣の支持率が74.2%となり先月比2.7ポイント上昇した。GW最終日の5月6日は株式市場が休場で、7日の取引再開に向けて為替・中東情勢が注目される。",
+      "articles": [
+        {
+          "title": "子ども人口1329万人・45年連続減で過去最少、総人口比10.8%も過去最低",
+          "url": "https://news.infoseek.co.jp/article/jiji_2026050400367/",
+          "source": "時事通信",
+          "summary_short": "15歳未満の子ども人口1329万人、45年連続減で過去最少を更新",
+          "summary_long": "総務省が5月4日に発表した4月1日現在の15歳未満の子ども人口は1329万人で前年比35万人減となり、45年連続の減少で1950年以降の過去最少を更新した。総人口に占める割合は10.8%（前年比0.3ポイント低下）で52年連続の低下。人口4000万人以上の38ヶ国中、韓国の10.2%に次ぐ2番目に低い水準。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "高市内閣の支持率74.2%、JNN世論調査で先月比2.7ポイント上昇",
+          "url": "https://news.infoseek.co.jp/article/tbs_2641261/",
+          "source": "TBS NEWS DIG",
+          "summary_short": "高市内閣支持率74.2%、不支持率24.3%（JNN世論調査）",
+          "summary_long": "TBSのJNN世論調査（5月2日〜3日、全国18歳以上2976人対象・有効回答1026人）によると、高市内閣の支持率は74.2%で先月比2.7ポイント上昇した。不支持率は24.3%。政党支持率は自民党33.9%（前月比1.6ポイント低下）、支持政党なし37.7%（前月比1.8ポイント上昇）。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "GW明け5月7日に日本株市場が再開、円高リスクと中東情勢が焦点",
+          "url": "https://www.ig.com/jp/news-and-trade-ideas/nikkei225-fails-to-stay-on-60000yen-as-jpy-gets-strengthened-260502",
+          "source": "IG証券",
+          "summary_short": "GW明け5月7日に日本株市場再開、円高リスクと中東情勢が焦点",
+          "summary_long": "ゴールデンウィーク最終日の5月6日は東京証券取引所が休場で、7日から通常取引が再開される。4月30日の政府による為替介入とみられる動きで円高が進行しており、ホルムズ海峡封鎖の長期化とあわせてGW明けの日経平均への影響が市場参加者に注視されている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 95,
+      "NTTドコモ": 60,
+      "量子コンピュータ": 80,
+      "金融決済": 65,
+      "国内・社会": 55
+    },
+    "source_distribution": {
+      "Bloomberg": 1,
+      "Seoul Economic Daily": 1,
+      "CNN Business": 1,
+      "日本経済新聞": 3,
+      "Samsung Japan": 1,
+      "NTTドコモ": 2,
+      "IBM": 1,
+      "MIT": 1,
+      "CoinChoice": 1,
+      "PayPay": 1,
+      "時事通信": 1,
+      "TBS NEWS DIG": 1,
+      "IG証券": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 9,
+      "4": 6,
+      "5": 1
+    }
+  }
+}
