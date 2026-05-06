@@ -1,0 +1,366 @@
+{
+  "date": "2026-05-07",
+  "generated_at": "2026-05-07T07:00:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "AnthropicがGoldman Sachs等とエンタープライズAI合弁会社を設立し金融業界向けAIエージェント10種を公開した。米国防総省はGoogle・Microsoft・xAIの未公開AIモデルへの政府事前審査プログラムを拡大し、AI安全規制の制度化が進展した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicがGoldman Sachs・Blackstone等との合弁会社設立と金融業界向けAIエージェント10種の公開を発表し、AIエージェント自己改善機能「Dreaming」も公開した。米政府はGoogle・Microsoft・xAIのAI新モデルを公開前に審査するプログラムを拡大した。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモとベトナムのDatVietグループが設立したVieBOARDがホーチミン市でDOOH運用を開始した。docomo business SIGNのAI時代対応セキュリティ機能強化、フリューとのプリントシール機セキュリティ実証実験も進行中。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "GoogleのQuantum AI研究で50万量子ビット未満での楕円曲線暗号解読の可能性が示された。IBM CEOは2026年内の量子アドバンテージ初実証を宣言し、量子コンピュータ業界は実用化前夜の転換点にある。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "金融庁が暗号資産を「金融商品」として金融商品取引法の対象とする法改正案を2026年国会に提出する見通しであることが明らかになった。改正資金決済法の2026年内施行に向けた実務対応が注目されている。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "彬子さまが5月7日から三笠宮邸に移居し宮家当主として祭祀を担う。GW最終日5月6日に磐越道でマイクロバス事故が発生し北越高校17歳男子生徒が死亡、26人がけがをした。東京株式市場はGW明けに5月7日再開した。"
+        }
+      ],
+      "must_read": {
+        "title": "Anthropic、金融業界向けに10種のAIエージェントテンプレートを公開・Microsoft 365統合発表",
+        "url": "https://www.itmedia.co.jp/news/articles/2605/06/news023.html",
+        "reason": "金融大手8社の本番導入実績と10種テンプレート・MS365統合の同時発表は、AnthropicがエンタープライズAI市場でOpenAIに対し明確な産業特化戦略で先行していることを示す。Vals AI指標64.37%首位という数値が競合優位を裏付けた。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "GW明けの5月7日、Anthropicが金融業界向けのAIエージェントで大きな動きを見せましたよ！",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicがGoldman SachsやBlackstoneと合弁会社を作って金融業界にAIを普及させようとしているみたいですよ！しかもAIエージェントが自分で過去の仕事を振り返って学習する「Dreaming」機能まで発表されました。米政府もGoogleやMicrosoftのAIモデルを事前チェックし始めるとのことで、AI規制が急速に形になってきていますね。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモがベトナムのDatViet社と作ったVieBOARDというデジタル広告会社がホーチミン市で運用を開始したみたいですよ！アジア事業の展開が続いていますね。国内ではdocomo business SIGNのAI・IoT対応機能も強化されて、企業向けサービスもアップデートが続いています。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "Googleの研究で、量子コンピュータが現在の暗号技術（楕円曲線暗号）を解読できる可能性が示されたそうですよ。IBMのCEOは「2026年中に量子コンピュータが古典コンピュータを超える場面を実証する」と宣言して、いよいよ本格的な実用化が近づいている感じですね。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "金融庁が暗号資産（仮想通貨）を「金融商品」として株や債券と同じルールで扱う法改正を国会に出す予定みたいですよ！これが成立すると、仮想通貨の税金や規制の枠組みが大きく変わります。改正資金決済法の施行も今年中に予定されていて、フィンテック環境が一気に変わりそうですね。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "今日5月7日から彬子さまが三笠宮邸に引っ越しして宮家の当主になられましたよ。また、GW最終日の昨日、磐越道でマイクロバスの事故があって高校生が亡くなりました（17歳）。GW明けの株式市場が今日から再開して、円高がどう影響するか注目されています。"
+        }
+      ],
+      "must_read": {
+        "title": "Anthropic、金融業界向けに10種のAIエージェントテンプレートを公開・Microsoft 365統合発表",
+        "url": "https://www.itmedia.co.jp/news/articles/2605/06/news023.html",
+        "reason": "JPMorganやGoldman Sachsといった大手金融機関が実際に本番導入しているClaudeが10種のテンプレートで使いやすくなったのは、AIが金融業務の当たり前になってきたサインですね！",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Anthropic、金融AIエージェント10種テンプレート公開・MS365統合発表（5/5）\n・Anthropic「Dreaming」機能：AIエージェントのセッション間自己改善プレビュー公開（5/6）\n・米政府、Google・Microsoft・xAIのAI新モデルへの公開前審査プログラム拡大（5/5）"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・docomo×DatViet設立のVieBOARDがベトナム・ホーチミン市でDOOH運用開始\n・docomo business SIGNがAI・IoT拡大に対応したセキュリティ機能を強化"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・Google Quantum AI、50万量子ビット未満での楕円曲線暗号解読可能性を研究発表\n・IBM CEO、2026年内に量子アドバンテージ初実証を宣言"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・金融庁、暗号資産を金融商品とする法改正案を2026年国会提出予定\n・改正資金決済法2026年内施行へ、実務対応の焦点が鮮明に"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・彬子さま、5月7日から三笠宮邸に移居・宮家当主に就く\n・磐越道マイクロバス事故（5/6）：北越高校17歳男子生徒死亡・26人けが\n・GW明け5月7日に東京株式市場が再開"
+        }
+      ],
+      "must_read": {
+        "title": "Anthropic、金融業界向けに10種のAIエージェントテンプレートを公開・Microsoft 365統合発表",
+        "url": "https://www.itmedia.co.jp/news/articles/2605/06/news023.html",
+        "reason": "・Vals AI Finance Agent指標64.37%で業界首位\n・MS365との統合で金融業務への実装が加速",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "AnthropicによるGoldman等との合弁会社設立・金融AIエージェント10種公開は、AI産業がモデル競争から業界特化実装サービスへの構造転換を象徴し、量子コンピュータによる暗号解読リスクは金融インフラ・安全保障の双方における政策立案を加速させている。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicによるGoldman Sachs・Blackstone等との合弁会社設立は、AIがモデルAPIの提供業からシステム実装・コンサルティング業へと競争軸を移していることを示す。金融AIエージェント10種テンプレートとMS365統合の同時発表はエンタープライズ市場への参入深化戦略であり、Vals AIベンチマーク64.37%首位という定量根拠が競合差異化を支えている。Dreaming機能の付加はエージェントの継続学習サイクルを可能にし、企業ロックインを強化する設計意図がある。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "VieBOARDによるベトナムDOOH参入はNTTドコモのアジア収益多角化戦略の具体化であり、通信インフラを基盤に広告・メディア領域への事業展開を示す。docomo business SIGNのAI・IoT対応強化は、企業向けゼロトラストセキュリティ需要の高まりを背景に、B2B領域での差別化ポイントを構築する方向性を示している。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "Google Quantum AIの楕円曲線暗号解読研究（50万量子ビット未満での実現可能性）は、RSAや楕円曲線暗号に依存するTLS・デジタル署名・金融決済インフラへの脅威タイムラインを前倒しする内容であり、ポスト量子暗号（PQC）への移行計画策定が急務であることを示す。IBM CEOの2026年量子アドバンテージ宣言は、NISTのPQC標準化と並行してHybrid Quantum-Classicalシステムの商用展開加速を示唆する。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "金融庁の暗号資産「金融商品」再定義法改正案は、ETF承認・信託設定・機関投資家参入などの法的根拠整備を意味し、改正資金決済法（2026年施行）・暗号資産申告分離課税（2028年）とあわせて日本のデジタル資産市場の制度基盤が段階的に完成する見通しとなる。3メガバンクSC共同発行とJPYSCの流通開始と連動し、トークン化金融エコシステムの構築が本格化する。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "磐越道での高校生死亡事故はGW遠征移動中の発生であり、部活動の長距離移動における安全管理の課題が改めて浮上した。彬子さまの宮家当主就任は皇室典範に基づく継承制度の実例であり、女性皇族の役割について社会的議論の契機となりうる。GW明け5月7日の株式市場再開はGW期間中の円高進行・中東情勢を反映した値動きが注目される。"
+        }
+      ],
+      "must_read": {
+        "title": "Anthropic、金融業界向けに10種のAIエージェントテンプレートを公開・Microsoft 365統合発表",
+        "url": "https://www.itmedia.co.jp/news/articles/2605/06/news023.html",
+        "reason": "金融AIエージェントの産業特化展開はOpenAIとの差別化戦略の具体化であり、GPT-5.5対比でのベンチマーク優位（64.37%対53%程度）と合弁会社による実装サービス化は、エンタープライズAI市場における勢力図を塗り替える可能性を持つ。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 95,
+      "trend_history": [95, 93, 95, 95, 95],
+      "summary_short": "AnthropicFinanceエージェント10種発表・Dreaming機能・政府AI審査",
+      "summary_long": "AnthropicはGoldman Sachs・Blackstone等との合弁会社設立と金融業界向けAIエージェント10種の公開、AIエージェント自己改善機能「Dreaming」の研究プレビュー公開を発表した。米政府はGoogle・Microsoft・xAIのAI新モデルを公開前に審査するプログラムを拡大し、AI安全規制の制度化が進んでいる。",
+      "articles": [
+        {
+          "title": "Anthropic、金融業界向けに10種のAIエージェントテンプレートを公開・Microsoft 365統合発表",
+          "url": "https://www.itmedia.co.jp/news/articles/2605/06/news023.html",
+          "source": "ITmedia AIプラス",
+          "summary_short": "AnthropicがFinanceエージェント10種を公開、Vals AI指標64%首位",
+          "summary_long": "Anthropicが2026年5月5日、金融業界向けにピッチブック作成・KYCスクリーニング等10種のAIエージェントテンプレートを公開した。Claude Managed AgentsおよびMicrosoft 365（Excel・PowerPoint・Word・Outlook）との統合も発表。推奨モデルClaude Opus 4.7がVals AI Finance Agentベンチマークで業界最高64.37%を達成した。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "Anthropic、AIエージェントのセッション間自己改善機能「Dreaming」を研究プレビュー公開",
+          "url": "https://money.usnews.com/investing/news/articles/2026-05-06/anthropic-unveils-dreaming-feature-to-help-its-ai-agents-self-improve",
+          "source": "US News",
+          "summary_short": "AnthropicがAIエージェントの自己改善機能「Dreaming」をプレビュー公開",
+          "summary_long": "Anthropicは2026年5月6日のサンフランシスコ開発者会議に合わせ、AIエージェントが過去のセッションを振り返りパターンを発見して自己改善する「Dreaming」機能を研究プレビューとして公開した。エージェントはセッション間に作業をレビューしユーザー設定ファイルを更新できる。Harvey社での完了率約6倍向上などの成功事例も示された。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "トランプ政権、Google・Microsoft・xAIのAIモデルを公開前に政府審査するプログラムに参加",
+          "url": "https://www.cnn.com/2026/05/05/tech/microsoft-google-xai-government-test-ai-models",
+          "source": "CNN Business",
+          "summary_short": "米政府がGoogle・MS・xAIのAI新モデルを公開前にセキュリティ審査へ",
+          "summary_long": "トランプ政権は2026年5月5日、Google・Microsoft・xAIが未公開のAIモデルを米商務省のAI標準・革新センター（CAISI）に提出し国家安全保障・公衆安全への影響を公開前に審査するプログラムへの参加を発表した。OpenAI・AnthropicはすでにCAISIと連携済みで、AI安全審査の義務化に向けた政策が具体化している。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Anthropic、Goldman Sachs・Blackstone・H&Fとエンタープライズ向けAIサービス合弁会社を設立",
+          "url": "https://fortune.com/2026/05/05/anthropic-wall-street-financial-services-agents-jamie-dimon/",
+          "source": "Fortune",
+          "summary_short": "AnthropicがGoldman等とエンタープライズAI導入の合弁会社を設立",
+          "summary_long": "Anthropicは2026年5月5日、Goldman Sachs・Blackstone・Hellman & Friedmanの3社と合弁でエンタープライズAIサービス会社を設立すると発表した。中堅企業（1000〜10000人規模）向けにClaudeを業務に導入するサービスを提供する。エンタープライズAIがモデル提供からシステム実装ビジネスへ移行していることを示す事例として注目される。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 52,
+      "trend_history": [63, 62, 62, 60, 52],
+      "summary_short": "docomo×ベトナムDOOH運用開始・business SIGN機能強化",
+      "summary_long": "NTTドコモとベトナムのDatVietグループが設立したVieBOARDがホーチミン市でDOOH（デジタル屋外広告）の運用を開始した。docomo business SIGNにAI・IoT時代に対応したセキュリティ・コネクティビティ機能の強化が発表され、フリューとのプリントシール機を対象とした実証実験も進行中。",
+      "articles": [
+        {
+          "title": "ドコモとDatViet設立のVieBOARDがベトナム・ホーチミン市でDOOH運用開始",
+          "url": "https://www.docomo.ne.jp/binary/pdf/info/news_release/topics_260427_g1.pdf",
+          "source": "NTTドコモ",
+          "summary_short": "docomo×DatVietのVieBOARDがベトナムでDOOH運用を開始",
+          "summary_long": "NTTドコモとベトナムのDatVietグループが共同設立したVieBOARDは、2026年4月27日にベトナム・ホーチミン市でDOOH（デジタル屋外広告）の運用を開始した。NTTドコモのアジア事業多角化の一環として、デジタル広告市場への新たな参入となる。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "docomo business SIGN、AI時代のIoT拡大に対応したセキュリティ・コネクティビティ機能を強化",
+          "url": "https://www.atpress.ne.jp/news/583504",
+          "source": "NTTドコモビジネス",
+          "summary_short": "docomo business SIGNがAI・IoT対応のセキュリティ機能を強化",
+          "summary_long": "NTTドコモビジネスは「docomo business SIGN」のセキュリティ・コネクティビティ機能を強化すると発表した。AI時代のIoTデバイス拡大に対応した新機能を追加し、企業の通信インフラのセキュリティ確保と接続性強化を図る。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "フリューとNTTドコモビジネス、エンタメ業界初のdocomo business SIGNによるプリントシール機のセキュリティ実証実験を開始",
+          "url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0416.html",
+          "source": "NTTドコモビジネス",
+          "summary_short": "フリューとdocomo business SIGNでプリントシール機のセキュリティ実証開始",
+          "summary_long": "フリューとNTTドコモビジネスは2026年4月16日、エンターテインメント業界として初となる「docomo business SIGN」を活用したプリントシール機のセキュリティ実証実験を開始した。IoT機器のセキュリティ管理にdocomo business SIGNを活用する新たなユースケースの検証を行う。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 78,
+      "trend_history": [77, 78, 78, 80, 78],
+      "summary_short": "Google量子暗号解読研究・IBM CEO2026年内量子優位性を宣言",
+      "summary_long": "Google Quantum AIの研究で50万量子ビット未満での楕円曲線暗号解読の可能性が示され、現行の暗号インフラへの脅威タイムラインが前倒しされた。IBM CEOは2026年内の量子アドバンテージ初実証を宣言し、量子コンピュータ業界は実用化前夜の転換点にある。",
+      "articles": [
+        {
+          "title": "Google Quantum AI、50万量子ビット未満で楕円曲線暗号を解読可能との研究を発表",
+          "url": "https://theconversation.com/quantum-computers-are-coming-to-break-our-codes-faster-than-anyone-expected-280303",
+          "source": "The Conversation",
+          "summary_short": "GoogleのQuantum AI、楕円曲線暗号の量子解読リスクを研究発表",
+          "summary_long": "2026年3月にGoogle Quantum AIチームが発表した研究では、50万量子ビット未満の量子コンピュータで楕円曲線暗号を数分以内に解読できる可能性が示された。TLS・デジタル署名・金融決済インフラへの影響は大きく、ポスト量子暗号（PQC）への移行計画策定が急務となっている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "IBM CEO「2026年内に量子アドバンテージを初実証する」と宣言・Nighthawk 120量子ビット機が鍵",
+          "url": "https://thequantuminsider.com/2026/04/30/ibms-krishna-predicts-first-real-world-quantum-advantage-in-2026/",
+          "source": "The Quantum Insider",
+          "summary_short": "IBM CEO「2026年内に量子アドバンテージを実証」と宣言",
+          "summary_long": "IBMのArvind Krishna CEOは2026年4月30日、量子コンピュータが古典コンピュータを超える実世界での初事例を2026年内に実証すると宣言した。現行Heron r3の156量子ビット・エラー率1.17×10⁻³達成を踏まえ、年末公開予定の120量子ビットNighthawkプロセッサを活用して量子優位性を示す計画。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "量子コンピュータ業界地図2026：黎明期から実用化前夜へ開発競争が加熱",
+          "url": "https://bookplus.nikkei.com/atcl/column/020500658/020500004/",
+          "source": "日経BOOKプラス",
+          "summary_short": "量子コンピュータ業界が黎明期から実用化前夜へ転換・2026年業界地図",
+          "summary_long": "2026年の量子コンピュータ業界は「量子ビット数の競争」から「誤り訂正の精度競争」へ焦点が移行した転換期にある。IBM・Google・富士通・IBMなど主要各社がロードマップを更新し、量子×HPC×AIのハイブリッド実装が始まっており、国内では富士通・理化学研究所が1000量子ビット目標の開発を進めている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 63,
+      "trend_history": [63, 63, 64, 65, 63],
+      "summary_short": "金融庁が暗号資産金融商品化法改正案を2026年国会提出予定",
+      "summary_long": "金融庁が暗号資産を金融商品取引法の対象とする法改正案を2026年国会に提出する見通しであることが明らかになった。2025年成立の改正資金決済法の2026年内施行と相まって、日本の暗号資産・デジタル通貨の制度環境が整備される。",
+      "articles": [
+        {
+          "title": "金融庁、暗号資産を「金融商品」へ再定義する金融商品取引法改正案を2026年国会提出予定",
+          "url": "https://coinpost.jp/?p=677752",
+          "source": "CoinPost",
+          "summary_short": "金融庁、暗号資産を金融商品とする法改正案を2026年国会に提出へ",
+          "summary_long": "金融庁が暗号資産（仮想通貨）を従来の「決済手段」から「金融商品」へ再定義し金融商品取引法の対象とする法改正案を2026年の通常国会に提出する見通しであることが明らかになった。ETF承認・機関投資家参入の法的根拠が整備される。2028年には申告分離課税（約20%）の適用も予定されている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "2025年改正資金決済法の概要と実務対応・ステーブルコイン規制の焦点",
+          "url": "https://www.businesslawyers.jp/articles/1476",
+          "source": "BUSINESS LAWYERS",
+          "summary_short": "改正資金決済法の2026年施行に向け実務対応の焦点が鮮明に",
+          "summary_long": "2025年6月に成立した改正資金決済法は2026年内の施行が予定されており、信託型ステーブルコインの裏付資産管理・運用の柔軟化と暗号資産仲介業（登録制）の創設が主要変更点となる。3メガバンクによる円建てステーブルコイン共同発行の実現に向けた制度基盤として機能する。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "PayPayのようにはいかない…中央銀行デジタル通貨「CBDC」が普及しない構造的な障壁",
+          "url": "https://www.sbbit.jp/article/fj/184266",
+          "source": "ビジネスIT",
+          "summary_short": "PayPay対比でCBDCが普及困難な設計上の障壁と課題を分析",
+          "summary_long": "日本銀行が検討するCBDC（中央銀行デジタル通貨）は、PayPay・Suicaなど民間電子決済との棲み分けと既存金融システムとの統合設計が課題となっている。決済利便性では既存サービスが先行しており、CBDCの独自価値としてプログラマブルマネーや相互運用性の設計が問われている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": [
+        "https://www.itmedia.co.jp/news/articles/2605/06/news023.html"
+      ]
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 58,
+      "trend_history": [54, 56, 54, 55, 58],
+      "summary_short": "磐越道事故17歳死亡・彬子さま宮家当主・GW明け市場再開",
+      "summary_long": "GW最終日5月6日に磐越道でマイクロバスが事故を起こし北越高校17歳男子生徒が死亡、26人がけがをした。彬子さまが5月7日から三笠宮邸に移居し宮家当主として祭祀を担う役割に就いた。GW明け5月7日に東京株式市場が再開し、連休期間中の円高進行と中東情勢を反映した取引が注目された。",
+      "articles": [
+        {
+          "title": "磐越道でマイクロバスなど3台が絡む事故、北越高校17歳男子生徒が死亡・26人けが",
+          "url": "https://news.web.nhk/newsweb/na/na-k10015115221000",
+          "source": "NHK",
+          "summary_short": "磐越道でマイクロバスが事故、高校生1人死亡・26人けが",
+          "summary_long": "2026年5月6日午前7時40分ごろ、福島県郡山市の磐越自動車道上り線でマイクロバスがガードレールに衝突しワゴン車が追突する事故が発生した。ソフトテニス部の遠征中だった新潟市の北越高校の男子生徒稲垣尋斗さん（17）が車外に投げ出され失血死、26人がけがをした。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "彬子さま、7日から三笠宮邸に移居・宮家当主として祭祀を担う",
+          "url": "https://news.yahoo.co.jp/articles/50de7100127e06fd570fe7887fa66f7cb9494237",
+          "source": "時事通信",
+          "summary_short": "彬子さまが三笠宮邸に移居、宮家当主として祭祀を担う",
+          "summary_long": "彬子さま（44歳）は2026年5月7日、東京・港区の赤坂御用地内の三笠宮邸に移居した。2025年9月に三笠宮家当主となった彬子さまが三代の霊を奉斎するため移居したもので、妹の瑶子さまは引き続き三笠宮東邸に居住する。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "GW明け5月7日に東京株式市場再開、連休中の円高進行と中東情勢を反映",
+          "url": "https://shikiho.toyokeizai.net/news/0/943383",
+          "source": "会社四季報オンライン",
+          "summary_short": "GW明け5月7日に東京株式市場が再開、円高懸念で推移",
+          "summary_long": "東京証券取引所は5月3日〜6日のゴールデンウィーク休場を経て5月7日に取引を再開した。GW期間中の政府・日銀の円買い介入とみられる動きにより円高が進行しており、ホルムズ海峡封鎖の長期化懸念とあわせて輸出企業株への影響が注目された。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 95,
+      "NTTドコモ": 52,
+      "量子コンピュータ": 78,
+      "金融決済": 63,
+      "国内・社会": 58
+    },
+    "source_distribution": {
+      "ITmedia AIプラス": 1,
+      "US News": 1,
+      "CNN Business": 1,
+      "Fortune": 1,
+      "NTTドコモ": 1,
+      "NTTドコモビジネス": 2,
+      "The Conversation": 1,
+      "The Quantum Insider": 1,
+      "日経BOOKプラス": 1,
+      "CoinPost": 1,
+      "BUSINESS LAWYERS": 1,
+      "ビジネスIT": 1,
+      "時事通信": 1,
+      "NHK": 1,
+      "会社四季報オンライン": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 8,
+      "4": 7,
+      "5": 1
+    }
+  }
+}
