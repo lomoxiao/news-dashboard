@@ -1,6 +1,10 @@
 {
-  "last_updated": "2026-05-07T07:00:00+09:00",
+  "last_updated": "2026-05-08T07:00:00+09:00",
   "reports": [
+    {
+      "date": "2026-05-08",
+      "headline": "日経平均6万2833円史上最高値更新・Anthropic×SpaceX計算契約締結・IBM Kookaburra2026年公開・PayPay6月ポイント廃止・国家情報会議法案参院審議入り"
+    },
     {
       "date": "2026-05-07",
       "headline": "AnthropicがGoldman等と金融AI合弁会社・10種エージェント公開・Google量子暗号解読研究・磐越道事故17歳死亡"
@@ -101,7 +105,7 @@
     {
       "name": "NTTドコモビジネス",
       "url": "https://www.ntt.com",
-      "count": 4
+      "count": 5
     },
     {
       "name": "arXiv",
@@ -121,7 +125,7 @@
     {
       "name": "日本経済新聞",
       "url": "https://www.nikkei.com",
-      "count": 29
+      "count": 31
     },
     {
       "name": "NVIDIA",
@@ -241,7 +245,7 @@
     {
       "name": "Gizmodo Japan",
       "url": "https://www.gizmodo.jp",
-      "count": 7
+      "count": 8
     },
     {
       "name": "ITmedia AIプラス",
@@ -301,7 +305,7 @@
     {
       "name": "Yahoo!ニュース エキスパート",
       "url": "https://news.yahoo.co.jp",
-      "count": 1
+      "count": 2
     },
     {
       "name": "AI Academy Note",
@@ -336,12 +340,12 @@
     {
       "name": "NHK",
       "url": "https://news.web.nhk.newsweb",
-      "count": 9
+      "count": 10
     },
     {
       "name": "PR TIMES",
       "url": "https://prtimes.jp",
-      "count": 4
+      "count": 5
     },
     {
       "name": "マイナビニュース",
@@ -391,7 +395,7 @@
     {
       "name": "Releasebot",
       "url": "https://releasebot.io",
-      "count": 2
+      "count": 3
     },
     {
       "name": "@DIME",
@@ -451,12 +455,12 @@
     {
       "name": "arpable.com",
       "url": "https://arpable.com",
-      "count": 1
+      "count": 2
     },
     {
       "name": "フィデックス",
       "url": "https://www.fidx.co.jp",
-      "count": 2
+      "count": 3
     },
     {
       "name": "CoinPost",
@@ -521,7 +525,7 @@
     {
       "name": "週刊アスキー",
       "url": "https://weekly.ascii.jp",
-      "count": 1
+      "count": 2
     },
     {
       "name": "tenki.jp",
@@ -531,7 +535,7 @@
     {
       "name": "IBM",
       "url": "https://www.ibm.com",
-      "count": 6
+      "count": 7
     },
     {
       "name": "NEDO",
@@ -596,7 +600,7 @@
     {
       "name": "Bloomberg",
       "url": "https://www.bloomberg.com",
-      "count": 1
+      "count": 2
     },
     {
       "name": "Seoul Economic Daily",
@@ -621,6 +625,16 @@
     {
       "name": "IG証券",
       "url": "https://www.ig.com/jp",
+      "count": 1
+    },
+    {
+      "name": "GIGAZINE",
+      "url": "https://gigazine.net",
+      "count": 1
+    },
+    {
+      "name": "KSI政策ニュース",
+      "url": "https://www.policynews.jp",
       "count": 1
     }
   ],

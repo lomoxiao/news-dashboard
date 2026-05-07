@@ -1,0 +1,356 @@
+{
+  "date": "2026-05-08",
+  "generated_at": "2026-05-08T07:00:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "日経平均株価が5月7日の終値6万2833円で史上最高値を更新し、上げ幅3320円（5.58%）は過去最大となった。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicはSpaceX Colossus 1の全計算容量（GPU22万基超・300MW超）を利用する契約を5月6日に締結し、Claude CodeとAPIの利用制限を倍増した。消費者向け機能強化にも着手した。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTグループはAI活用量に応じたリソース最適化を実現するAIネイティブインフラ「AIOWN」の展開を4月27日に発表した。d払い・dポイントでの5月キャンペーンも実施中だ。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMは2026年内にKookaburra（1386量子ビット）を公開する計画でフォールトトレラント量子計算への道筋を示している。国内ではポスト量子暗号（PQC）移行が金融機関を中心に本格化している。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayは6月2日から本人確認未完了ユーザーへのポイント付与を廃止する。国内初の円建てステーブルコインJPYCが2026年秋にも発行される見通しで、改正資金決済法の2026年施行と合わせて国内のデジタル通貨環境が整備される。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "日経平均株価が5月7日の終値6万2833円で史上最高値を更新し、上げ幅は過去最大の3320円（5.58%）となった。国家情報会議創設法案が5月8日から参院で審議入りした。"
+        }
+      ],
+      "must_read": {
+        "title": "日経平均終値6万2833円、最高値を更新 上げ幅は最大の3320円",
+        "url": "https://www.nikkei.com/article/DGXZQOFL071CYTX00C26A5000000/",
+        "reason": "GW明け最初の取引日に日本株が史上最高値を更新した数値として、日本経済の現状を端的に示す最重要指標となった。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "GW明けの5月7日、日経平均が史上最高値を更新して上げ幅も過去最大になりましたね！",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicがSpaceXと組んでGPU22万基超の巨大な計算インフラを確保しましたよ！Claude Codeの制限が倍増されて、これからより活発に使えそうですね。消費者向け機能も強化中みたいです。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモグループがAI需要に自動対応するインフラ「AIOWN」を発表しましたね。d払い・dポイントでは5月も色々なキャンペーンが続いていますよ。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMが1386量子ビットの「Kookaburra」を2026年内に出す予定なんですよ！量子コンピュータの実用化がまた一歩近づきましたね。企業でのポスト量子暗号対応も始まっています。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayは6月2日から本人確認が済んでいない人へのポイント付与をなくすそうなので注意が必要ですよ。円建てのステーブルコインJPYCも今年の秋ごろには発行されそうですね。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "GW明けの株式市場で日経平均が史上最高値を更新しましたね！上げ幅も過去最大の3320円で嬉しいニュースです。国家情報会議の法案も参院で審議が始まりましたよ。"
+        }
+      ],
+      "must_read": {
+        "title": "日経平均終値6万2833円、最高値を更新 上げ幅は最大の3320円",
+        "url": "https://www.nikkei.com/article/DGXZQOFL071CYTX00C26A5000000/",
+        "reason": "GW明け最初の取引日に日本株が史上最高値を更新した数値として、日本経済が分かる最重要ニュースですよ！",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Anthropic×SpaceX Colossus 1契約（GPU22万基超・300MW）でClaude利用制限倍増（5/6）\n・AnthropicがClaude消費者向け機能強化に着手・コネクター200種超に拡張（5/7）"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・NTTグループがAIネイティブインフラ「AIOWN」展開発表（4/27）\n・d払い・dポイント5月キャンペーン実施中（〜5/31）"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・IBM Kookaburra（1386量子ビット）2026年内公開予定\n・国内PQC移行が金融機関中心に本格化"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・PayPayが6月2日から本人確認未完了ユーザーのポイント廃止\n・JPYC円建てSC2026年秋発行見通し・改正資金決済法2026年施行"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・日経平均5月7日終値6万2833円で史上最高値更新・上げ幅3320円は過去最大\n・国家情報会議創設法案5月8日参院審議入り・岩手八幡平でクマ被害女性死亡"
+        }
+      ],
+      "must_read": {
+        "title": "日経平均終値6万2833円、最高値を更新 上げ幅は最大の3320円",
+        "url": "https://www.nikkei.com/article/DGXZQOFL071CYTX00C26A5000000/",
+        "reason": "・史上最高値・上げ幅過去最大の最重要指標",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "Anthropicのインフラ増強と日経平均の史上最高値更新は、AI産業への投資拡大と日本市場における半導体・テクノロジー銘柄への期待が連動している構造的トレンドを示している。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicによるSpaceX Colossus 1の計算契約（300MW超・GPU22万基超）は、Claude APIの需要急増に対応した先行投資であり、Amazon・Google・Microsoftに続くインフラ多様化戦略の具体化だ。消費者向け機能強化への着手は企業特化から消費者市場への展開というAnthropicの戦略転換を意味する。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTグループのAIOWN展開は通信キャリアがAIリソース管理業者として事業領域を拡大する動きであり、クラウドとエッジの自律的な最適配分は5G収益の次なるモデルを形成する可能性がある。d払いキャンペーンは自社決済エコシステムの維持と競争力確保を目的としたユーザー維持施策だ。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBM Kookaburraの1386量子ビット・マルチチップ設計は量子メモリとLPUの統合による論理量子ビットの実用規模実装を目指すものだ。国内PQC移行が金融機関中心に本格化している背景には、Google Quantum AIが示した楕円曲線暗号の量子解読リスクがあり、2026年は量子セキュリティ対応元年となる。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayの6月改定はdカードへの誘導強化と競合他社カード依存からの脱却を図る戦略の一環だ。JPYCの円建てステーブルコイン発行と改正資金決済法の施行が重なる2026年秋は、日本のデジタル通貨エコシステムが制度・市場の両面で本格始動する転換点となる。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "日経平均の史上最高値更新（+5.58%）はGW明け初日の需給改善と世界的な半導体株高・日銀利上げ一時停止観測が複合的に作用した結果だ。国家情報会議創設法案の参院審議入りは情報収集・分析の司令塔機能強化を目指すもので、防衛・外交・経済安全保障の連携体制構築という安全保障政策の構造転換を示す。"
+        }
+      ],
+      "must_read": {
+        "title": "日経平均終値6万2833円、最高値を更新 上げ幅は最大の3320円",
+        "url": "https://www.nikkei.com/article/DGXZQOFL071CYTX00C26A5000000/",
+        "reason": "GW明け初日に日本株が史上最高値を更新した数値として、半導体・テクノロジー銘柄への期待と日本経済の構造的変化を示す最重要指標だ。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 90,
+      "trend_history": [93, 95, 95, 95, 90],
+      "summary_short": "Anthropic×SpaceX計算契約締結でClaude利用制限倍増・消費者機能強化着手",
+      "summary_long": "AnthropicはSpaceXとColossus 1の全計算容量（GPU22万基超・300MW超）の利用契約を5月6日に締結しClaude Code・APIの利用制限を倍増した。消費者向け機能強化にも着手し、コネクターは200種超に拡大している。",
+      "articles": [
+        {
+          "title": "AnthropicとSpaceXがColossus 1全計算容量を利用する契約を締結、Claude利用制限を倍増",
+          "url": "https://gigazine.net/news/20260507-anthropic-deal-with-spacex-raises-claude-code-limits/",
+          "source": "GIGAZINE",
+          "summary_short": "AnthropicがSpaceXと300MW計算契約を締結、Claude利用制限を倍増した。",
+          "summary_long": "AnthropicはSpaceXのColossus 1データセンター全容量（300MW超・GPU22万基超）を利用する契約を5月6日に締結した。Claude Code・APIの利用制限が倍増し、ピーク時の制限も撤廃された。民主主義国の安全なインフラとして選定された。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "AnthropicがClaude消費者向け機能強化に着手、健康・旅行・レシピへの対応を拡充",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-07/anthropic-is-making-claude-chatbot-more-appealing-to-consumers",
+          "source": "Bloomberg",
+          "summary_short": "Anthropicが個人向け健康・旅行・レシピ対応を優先し消費者機能強化に本格着手した。",
+          "summary_long": "企業向けが中心だったAnthropicは2025年末より個人向け機能強化にリソースを配置し、健康・旅行・レシピなど日常的な質問への対応品質向上を優先する方針に転換したとBloombergが5月7日に報じた。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "ClaudeがAllTrails・Instacart・Uber・Spotify等を含む200種超のコネクターに対応",
+          "url": "https://releasebot.io/updates/anthropic/claude",
+          "source": "Releasebot",
+          "summary_short": "Claudeが生活系アプリを含む200種超のコネクターを追加しディレクトリを拡充した。",
+          "summary_long": "AnthropicはClaudeのコネクターを業務ツール以外にも拡大し、AllTrails・Instacart・Audible・Tripadvisor・Uber・Spotifyなど生活系アプリを含む200種超のコネクターをディレクトリに追加した。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 48,
+      "trend_history": [62, 62, 60, 52, 48],
+      "summary_short": "NTTグループがAIOWNを発表・d払い5月キャンペーン実施中",
+      "summary_long": "NTTグループは4月27日、AI活用量に応じてリソースを自動最適化するAIネイティブインフラ「AIOWN」の展開を発表した。d払い・dポイントでは5月31日までアプリストアのキャリア決済を通じた2000万ポイント山分けキャンペーンを実施している。",
+      "articles": [
+        {
+          "title": "NTTグループがAI活用に応じたリソース最適化を実現するAIネイティブインフラ「AIOWN」を展開",
+          "url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0427_3.html",
+          "source": "NTTドコモビジネス",
+          "summary_short": "NTTグループがAI需要に最適化したAIネイティブインフラ「AIOWN」の展開を発表した。",
+          "summary_long": "NTT・NTTデータグループ・NTTドコモビジネスは2026年4月27日、AI活用量に応じてネットワーク・クラウド・エッジのリソースを自動最適化するAIネイティブインフラ「AIOWN」の展開を発表した。法人向けAIサービスの安定提供基盤として機能する。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "d払い・dポイント5月キャンペーン：アプリストアのキャリア決済でdポイント2000万ポイント山分け",
+          "url": "https://prtimes.jp/main/html/rd/p/000000192.000141840.html",
+          "source": "PR TIMES",
+          "summary_short": "ドコモがアプリストアのキャリア決済でdポイント2000万ポイント山分けキャンペーンを実施中。",
+          "summary_long": "NTTドコモは2026年4月23日から5月31日まで、Google PlayとApp Storeのアプリストア内でキャリア決済を合計5000円以上利用したユーザーを対象に、dポイント（期間・用途限定）を合計2000万ポイント山分けするキャンペーンを実施している。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "d払い、NEXCO中日本のSA・PA対象店舗でdポイントを6倍に増額するキャンペーンを5月開始",
+          "url": "https://ascii.jp/elem/000/004/397/4397723/",
+          "source": "週刊アスキー",
+          "summary_short": "d払いがNEXCO中日本のSA・PAでdポイント6倍増額キャンペーンを5月から実施中。",
+          "summary_long": "NTTドコモは2026年5月から、NEXCO中日本のサービスエリアやパーキングエリア対象店舗でd払いを利用しdポイントを1ポイント以上獲得したユーザー向けにdポイントを6倍に増額するキャンペーンを開始した。ポイント上限は1万ポイントまで。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 72,
+      "trend_history": [78, 78, 80, 78, 72],
+      "summary_short": "IBM Kookaburra（1386量子ビット）2026年内公開・国内PQC移行本格化",
+      "summary_long": "IBMは2026年内にKookaburra（1386量子ビット・マルチチップ4158量子ビット）を公開する計画で、フォールトトレラント量子計算への移行ロードマップを明確化している。国内では2030年目標のポスト量子暗号（PQC）移行計画の具体化が金融機関を中心に進んでいる。",
+      "articles": [
+        {
+          "title": "IBM Kookaburra（1386量子ビット・マルチチップ接続4158量子ビット）を2026年内に公開予定",
+          "url": "https://www.ibm.com/roadmaps/quantum/2026/",
+          "source": "IBM",
+          "summary_short": "IBMが2026年内にKookaburra（1386量子ビット）公開計画、量子優位性実証に接近中。",
+          "summary_long": "IBMは2026年内にKookaburra（1386量子ビット、マルチチップ接続で4158量子ビット相当）を公開する計画を示している。量子メモリとLPU（論理処理ユニット）を統合した初の設計で、2029年予定のフォールトトレラント型「Starling」への前段階として位置づけられている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "ポスト量子暗号（PQC）移行が2026年に国内金融機関で本格化、政府が2030年完了目標のロードマップを策定",
+          "url": "https://arpable.com/technology/quantum-computer/quantum-computing-latest-trends-2025/",
+          "source": "arpable.com",
+          "summary_short": "ポスト量子暗号（PQC）移行が金融機関中心に本格化、政府が2030年完了目標を策定中。",
+          "summary_long": "日本政府は重要インフラのポスト量子暗号（PQC）対応を2030年を目途に完了するロードマップを策定中で、2026年は金融機関を中心にPQC移行計画の具体化が進んでいる。NISTのPQC標準化（2024年完了）を受けて国内実装が加速している。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "IBMの研究者が量子コンピュータの現在地と2026年量子優位性実証計画をGizmodo Japanで解説",
+          "url": "https://www.gizmodo.jp/2026/04/interview-with-ibm-researchers-on-quantum-computing-qh2.html",
+          "source": "Gizmodo Japan",
+          "summary_short": "IBMの研究者が量子コンピュータの現在地と2026年内の量子優位性実証計画を解説した。",
+          "summary_long": "Gizmodo Japanは2026年4月、IBMの量子コンピュータ研究者インタビューを公開した。研究者はHeron r3の誤り率1.17×10⁻³達成と2026年末のKookaburra公開計画を示し、量子コンピュータの実用段階への移行が現実化していると解説した。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 68,
+      "trend_history": [63, 64, 65, 63, 68],
+      "summary_short": "PayPay6月2日ポイント廃止・JPYC円建てSC2026年秋発行見通し",
+      "summary_long": "PayPayは2026年6月2日から本人確認未完了ユーザーへのポイント付与を廃止し公共料金の還元率も変更する。JPYC株式会社が2026年秋にも国内初の資金決済法準拠円建てステーブルコインを発行する見通しで、2026年施行の改正資金決済法と合わせデジタル通貨環境が整備される。",
+      "articles": [
+        {
+          "title": "PayPayが2026年6月2日から本人確認未完了ユーザーへのポイント付与を廃止、公共料金還元率も変更",
+          "url": "https://news.yahoo.co.jp/expert/articles/58b0025881a2f9941ebf998018e8c7c88d3b94b3",
+          "source": "Yahoo!ニュース エキスパート",
+          "summary_short": "PayPayが6月2日から本人確認未完了ユーザーのポイント付与を廃止、公共料金還元率も変更。",
+          "summary_long": "PayPayは2026年6月2日から、本人確認（eKYC）が完了していないユーザーをPayPayステップのポイント付与カウント対象外とする。またPayPayカード・PayPayカードゴールドでの電気・ガス・水道料金支払いの基本ポイント付与率も変更される。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "JPYC、国内初の資金決済法準拠円建てステーブルコインを2026年秋にも発行へ",
+          "url": "https://www.nikkei.com/article/DGXZQOUB146U80U5A810C2000000/",
+          "source": "日本経済新聞",
+          "summary_short": "JPYCが2026年秋にも国内初の資金決済法準拠円建てステーブルコインを発行する見通し。",
+          "summary_long": "JPYC株式会社は2026年秋にも国内初の資金決済法に準拠した円建てステーブルコインを発行する見通しであると日本経済新聞が報じた。同社は2025年8月に資金移動業者の認可を取得済みで、金融庁の承認を受けて本格稼働に向けて準備を進めている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "2025年改正資金決済法が2026年施行へ、ステーブルコインと大口送金の規制体系を整備",
+          "url": "https://www.fidx.co.jp/2026%E5%B9%B4%E6%9C%80%E6%96%B0-%E3%82%B9%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%82%B3%E3%82%A4%E3%83%B3%E8%A6%8F%E5%88%B6/",
+          "source": "フィデックス",
+          "summary_short": "2025年成立の改正資金決済法が2026年施行、ステーブルコインと大口送金規制を整備。",
+          "summary_long": "2025年6月に成立した改正資金決済法が2026年内に施行される。ステーブルコイン（電子決済手段）の発行主体を銀行・資金移動業者・信託会社に限定し、1000万円超の大口送金の利用者保護規制も強化される。3メガバンクの円建てステーブルコイン共同発行の法的根拠が整う。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": [
+        "https://fortune.com/2026/05/05/anthropic-wall-street-financial-services-agents-jamie-dimon/"
+      ]
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 72,
+      "trend_history": [56, 54, 55, 58, 72],
+      "summary_short": "日経平均5月7日終値6万2833円で史上最高値更新・国家情報会議法案参院審議入り",
+      "summary_long": "5月7日の東京株式市場でGW明け初日の日経平均株価が終値6万2833円で史上最高値を更新し、上げ幅3320円（5.58%）は過去最大となった。国家情報会議創設法案が5月8日から参院審議入りし、岩手八幡平では山菜採りの女性がクマに襲われ死亡した。",
+      "articles": [
+        {
+          "title": "日経平均終値6万2833円、最高値を更新 上げ幅は最大の3320円",
+          "url": "https://www.nikkei.com/article/DGXZQOFL071CYTX00C26A5000000/",
+          "source": "日本経済新聞",
+          "summary_short": "日経平均が5月7日終値6万2833円で史上最高値、上げ幅3320円（5.58%）は過去最大。",
+          "summary_long": "5月7日の東京株式市場でGW明け初日の日経平均株価は終値6万2833円84銭となり史上最高値を更新した。前営業日（5月1日）比で3320円72銭（5.58%）高で過去最大の上げ幅を記録した。世界的な半導体株高と日本の成長期待が牽引した。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "国家情報会議創設法案が5月8日に参院で審議入り、内閣情報調査室の改組を目指す",
+          "url": "https://www.policynews.jp/schedule/2026/005.html",
+          "source": "KSI政策ニュース",
+          "summary_short": "国家情報会議創設法案が5月8日参院審議入り、衆院は4月23日に可決済み。",
+          "summary_long": "政府の情報収集・分析機能強化を目的とした国家情報会議創設法案が2026年5月8日から参院で審議入りした。同法案は4月23日に衆院を通過済みで、成立すれば内閣情報調査室を改組した国家情報会議が新設される。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "岩手県八幡平でクマに山菜採りの女性が襲われ死亡、東北地方でクマ被害が相次ぐ",
+          "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-0001538",
+          "source": "NHK",
+          "summary_short": "岩手県八幡平で山菜採りの女性がクマに襲われ死亡、東北地方のクマ被害が相次いでいる。",
+          "summary_long": "岩手県八幡平で山菜採りに出かけた女性がツキノワグマに襲われ死亡した。春のクマの行動活発期を迎えて東北地方各地でクマによる人身被害が相次いでおり、農林水産省が山菜採りや登山者へ注意を呼びかけている。",
+          "importance": 3,
+          "fetch_failed": true
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 90,
+      "NTTドコモ": 48,
+      "量子コンピュータ": 72,
+      "金融決済": 68,
+      "国内・社会": 72
+    },
+    "source_distribution": {
+      "GIGAZINE": 1,
+      "Bloomberg": 1,
+      "Releasebot": 1,
+      "NTTドコモビジネス": 1,
+      "PR TIMES": 1,
+      "週刊アスキー": 1,
+      "IBM": 1,
+      "arpable.com": 1,
+      "Gizmodo Japan": 1,
+      "Yahoo!ニュース エキスパート": 1,
+      "日本経済新聞": 2,
+      "フィデックス": 1,
+      "KSI政策ニュース": 1,
+      "NHK": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 8,
+      "4": 5,
+      "5": 2
+    }
+  }
+}
