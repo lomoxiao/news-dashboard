@@ -1,0 +1,363 @@
+{
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09T07:00:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "Claudeの米国AIシェアが1月比で1.5%から13.1%に急伸し、ChatGPTが38.1%に低下。プロジェクト・イレブンが量子コンピュータによる暗号解読Q-Dayを2030〜2033年到来と予測した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicがClaude Managed Agentsに3機能を追加。4月の米国シェア調査でClaudeが13.1%に急伸し、ChatGPTは38.1%に低下した。OpenAIはGPT-5.5 Instantをデフォルトモデルとし、ハルシネーションを52.5%削減した。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモは5月8日、2025年度決算・2026年度業績予想を発表した。NTTドコモ・フィナンシャルグループは7月1日事業開始で、元金融庁長官の栗田照久氏が取締役会長に就任する体制が決まった。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "プロジェクト・イレブンが5月6日に2026年版Q-Dayレポートを公表し、ビットコイン暗号解読に必要な論理量子ビット数を約1,200個・処理9分と試算。Q-Day到来を楽観シナリオ2030年・標準想定2033年と予測した。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayと三井住友カードの包括提携により、6,900万ユーザーと39兆円GMVが一体運営される。VpointとPayPayポイントの相互交換、三井住友カード利用手数料の免除など7項目が実現する。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "国家情報会議設置法案が5月8日から参院で審議入りし、今国会での成立が見込まれる。世界卓球2026ロンドンで日本男女がともに準決勝に進み、メダルを確定させた。"
+        }
+      ],
+      "must_read": {
+        "title": "量子コンピュータが暗号を破るQ-Day、2030年代前半に到来か",
+        "url": "https://news.yahoo.co.jp/articles/40512c281ac8bcf1e24845ae91efbe738ad68e51",
+        "reason": "Q-Day到来を2030〜2033年と期限を明示し、ビットコイン等の暗号インフラへの影響が金融・技術両面で最も広範と判断した。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "今日はAIの勢力図が大きく動いていますよ。ClaudeのシェアがわずかひとシーズンでChatGPTの3分の1超まで急伸したみたいです！",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicがClaude Managed Agentsに「Dreaming」「Outcomes」「Multiagent Orchestration」という3機能を追加しましたよ。Claudeの米国シェアが1.5%から13.1%へと急増していて、ChatGPTは38.1%にじわじわ下がっています。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモが2025年度の決算と新しいフィナンシャルグループの経営陣を発表しましたよ。7月からの新体制では元金融庁長官の栗田照久さんが会長に就くみたいです。金融事業に本腰が入りそうですね。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "量子コンピュータが現代の暗号を破る「Q-Day」が2030〜2033年ごろに来るという最新レポートが出ましたよ。ビットコインの暗号なら理論上1,200量子ビットで9分あれば破れるとのことで、対策が急務みたいですね。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayと三井住友カードの提携がいよいよ本格化していますよ。6,900万ユーザーと3,900万枚のカードが一緒になって、ポイントも互換になるのは便利ですね。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "国家情報会議設置法案が参院での審議に入りましたね。世界卓球では日本男女がともに準決勝に進み、メダルが確定したといううれしいニュースもあります！"
+        }
+      ],
+      "must_read": {
+        "title": "量子コンピュータが暗号を破るQ-Day、2030年代前半に到来か",
+        "url": "https://news.yahoo.co.jp/articles/40512c281ac8bcf1e24845ae91efbe738ad68e51",
+        "reason": "デジタル資産や金融インフラを守る暗号が破られる時期が具体的に示されたので、投資している方はぜひ読んでおきたいですよ。",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Claude Managed Agentsに3新機能追加（Dreaming/Outcomes/Multiagent）\n・Claudeの米国シェアが1月比1.5%→13.1%急伸、ChatGPTは38.1%に低下\n・GPT-5.5 InstantがChatGPTデフォルトモデルに（ハルシネーション52.5%削減）"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・ドコモ2025年度決算・2026年度業績予想を5月8日発表\n・NTTドコモ・フィナンシャルグループ経営体制発表（7月1日事業開始）\n・元金融庁長官・栗田照久氏が取締役会長に就任"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・Q-Day到来予測：楽観2030年・標準2033年（プロジェクト・イレブン2026版レポート）\n・ビットコインECC-256解読に1,200論理量子ビット・9分と試算\n・量子耐性暗号への移行を「不可欠」と警告（移行期間4〜13年）"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・PayPay×三井住友カード提携本格展開（6,900万ユーザー×39兆円GMV統合）\n・VpointとPayPayポイントが相互交換可能に"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・国家情報会議設置法案、参院審議入り（5月8日〜、今国会成立見込み）\n・世界卓球2026ロンドン：日本男女ともに準決勝進出・メダル確定\n・日経平均終値6万2713円（5月8日、3日ぶり反落）・ドル円156.26円"
+        }
+      ],
+      "must_read": {
+        "title": "量子コンピュータが暗号を破るQ-Day、2030年代前半に到来か",
+        "url": "https://news.yahoo.co.jp/articles/40512c281ac8bcf1e24845ae91efbe738ad68e51",
+        "reason": "Q-Day到来時期の具体的予測と暗号インフラへの影響を示した重要レポート",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "Claude急伸とQ-Day脅威が同時進行するなか、NTTドコモの金融分社化がデジタル金融の競争構造を変えつつあり、暗号・決済インフラの見直し圧力が高まっている。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Apptopiaデータで米国Claude急伸（1.5%→13.1%）はManaged Agentsの企業導入拡大と連動している。GPT-5.5 Instantのハルシネーション52.5%削減は金融・医療での導入障壁を下げ、エンタープライズAI競争の主戦場が「精度」へ移行したことを示す。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモ・フィナンシャルグループ設立（7月1日）は、ドコモがキャリアから総合金融事業者への転換を制度的に確立する布石となる。元金融庁長官が会長の体制は規制対応力を高め、ドコモ経済圏でのBaaS展開を加速させる可能性がある。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "プロジェクト・イレブンがQ-Dayを2030〜2033年と限定したことで、ビットコインや現行TLSの脆弱期間が明確化された。移行期間4〜13年を逆算すると2026〜2027年に量子耐性暗号移行を開始しなければ間に合わないシステムが多数存在する。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayと三井住友カードの提携により、QR決済とクレジットカードの2大決済手段が同一経済圏に統合された。6,900万ユーザー×39兆円GMVの規模は競合に段差的な優位をもたらし、今後の加盟店交渉力と手数料設定に影響を与える。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "国家情報会議設置法案は与野党の一定合意により今国会成立が見込まれる。安全保障情報一元管理を目的とするが、プライバシー侵害への懸念が解消されないまま審議が進む構造的課題が残る。"
+        }
+      ],
+      "must_read": {
+        "title": "量子コンピュータが暗号を破るQ-Day、2030年代前半に到来か",
+        "url": "https://news.yahoo.co.jp/articles/40512c281ac8bcf1e24845ae91efbe738ad68e51",
+        "reason": "2030〜2033年という具体的期限は、金融・通信・政府インフラ全体の暗号移行計画を見直す根拠データとなり、今後数年の投資・政策優先度を左右する。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 95,
+      "trend_history": [95, 93, 95, 95, 95, 95, 95],
+      "summary_short": "Claudeシェア急伸・GPT-5.5 Instant登場でAI競争が激化",
+      "summary_long": "Claudeの米国生成AIシェアが1月比で1.5%から13.1%に急伸し、ChatGPTは38.1%に低下した。AnthropicはClaude Managed Agentsに3機能を追加し、OpenAIはGPT-5.5 InstantをChatGPTのデフォルトモデルとした。",
+      "articles": [
+        {
+          "title": "AnthropicがClaude Managed Agentsに3機能追加（Dreaming・Outcomes・Multiagent Orchestration）",
+          "url": "https://9to5mac.com/2026/05/07/anthropic-updates-claude-managed-agents-with-three-new-features/",
+          "source": "9to5Mac",
+          "summary_short": "Claudeエージェントに自己改善・品質評価・複数エージェント連携を追加",
+          "summary_long": "AnthropicはClaude Managed Agentsに「Dreaming」（過去セッションの自己改善）・「Outcomes」（品質評価ルーブリック）・「Multiagent Orchestration」（専門エージェント分業）の3機能を追加した。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "ChatGPTシェア4割切る、Claudeが急伸し生成AI三極化の兆し",
+          "url": "https://www.itmedia.co.jp/enterprise/articles/2605/08/news033.html",
+          "source": "ITmedia",
+          "summary_short": "Claudeが13.1%に急伸、ChatGPTは38.1%に低下",
+          "summary_long": "Apptopiaの調査で2026年4月の米国AIチャットボット市場シェアはChatGPTが38.1%、Geminiが約25%、Claudeが13.1%となり、生成AI市場の三極化が進んでいる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "OpenAI、GPT-5.5 InstantをChatGPTの新デフォルトモデルに—ハルシネーション52.5%削減",
+          "url": "https://www.itmedia.co.jp/aiplus/articles/2605/06/news022.html",
+          "source": "ITmedia AIプラス",
+          "summary_short": "GPT-5.5 InstantがChatGPTのデフォルトに、高リスク分野の精度向上",
+          "summary_long": "OpenAIは5月5日にGPT-5.5 InstantをChatGPTのデフォルトモデルとして展開開始した。高リスク質問でのハルシネーションを52.5%削減し、AIME 2025では81.2点を記録した。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Anthropic、BlackstoneらとClaude中小企業導入加速の新会社設立へ",
+          "url": "https://www.itmedia.co.jp/news/articles/2605/05/news023.html",
+          "source": "ITmedia NEWS",
+          "summary_short": "Anthropicが金融大手と提携し中小企業向けClaude導入新会社を設立",
+          "summary_long": "Anthropicは5月5日、BlackstoneらとClaude導入を中小企業に広げる新会社設立計画を発表した。金融サービス・保険業界向けエージェントテンプレート10種も同時公開した。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 70,
+      "trend_history": [65, 62, 62, 60, 58, 57, 70],
+      "summary_short": "ドコモ2025年度決算とフィナンシャルグループ新設を発表",
+      "summary_long": "NTTドコモは5月8日、2025年度決算と2026年度業績予想を発表するとともに、NTTドコモ・フィナンシャルグループの経営体制を公表した。フィナンシャルグループは2026年7月1日に事業を開始する。",
+      "articles": [
+        {
+          "title": "2025年度決算および2026年度業績予想について",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/05/08_01.html",
+          "source": "NTTドコモ",
+          "summary_short": "ドコモが2025年度決算と2026年度業績予想を5月8日に発表",
+          "summary_long": "NTTドコモは2025年度決算と2026年度業績予想を2026年5月8日に公表した。詳細は別添のIR資料として投資家向けに開示されている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモ・フィナンシャルグループの経営体制について",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/05/08_02.html",
+          "source": "NTTドコモ",
+          "summary_short": "ドコモFG取締役会長に元金融庁長官・栗田照久氏、7月1日事業開始",
+          "summary_long": "NTTドコモ・フィナンシャルグループは2026年7月1日に事業開始し、元金融庁長官の栗田照久氏が取締役会長、廣井孝史氏が代表取締役社長に就任する体制が発表された。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "ドコモ前田社長「ahamoだけ遅いということはない」、SNSの噂を否定",
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/2107176.html",
+          "source": "ケータイ Watch",
+          "summary_short": "前田社長がahamoの通信速度低下説を5月8日決算会見で否定",
+          "summary_long": "NTTドコモの前田義晃社長は5月8日の決算会見で、ahamoの通信速度が他プランより遅いとするSNS上の噂を「そのようなことはない」と明確に否定した。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 88,
+      "trend_history": [78, 78, 80, 82, 83, 83, 88],
+      "summary_short": "Q-Day到来を最短2030年と予測、ビットコイン暗号への脅威が明確化",
+      "summary_long": "プロジェクト・イレブンが2026年版レポートでQ-Dayを楽観的シナリオ2030年・標準的想定2033年と予測した。ビットコインのECC-256解読には論理量子ビット1,200個・処理9分が必要と試算され、量子耐性暗号移行の緊急性が高まっている。",
+      "articles": [
+        {
+          "title": "量子コンピュータが暗号を破る「Q-Day」、2030年代前半に到来か",
+          "url": "https://news.yahoo.co.jp/articles/40512c281ac8bcf1e24845ae91efbe738ad68e51",
+          "source": "Yahoo!ニュース（あたらしい経済）",
+          "summary_short": "Q-Day最短2030年、ビットコイン解読に1,200量子ビット・9分と試算",
+          "summary_long": "プロジェクト・イレブンの2026年版レポートでQ-Dayは楽観的シナリオ2030年・標準2033年と予測。グーグル×スタンフォード研究でビットコインECC-256解読に論理量子ビット約1,200個・9分が必要と試算された。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "量子コンピュータで楕円曲線暗号15ビット鍵の解読成功、Q-Dayプライズ1BTC授与",
+          "url": "https://news.yahoo.co.jp/articles/881674196a9ceb964c40cf2fb100967d5d40ae36",
+          "source": "Yahoo!ニュース（あたらしい経済）",
+          "summary_short": "15ビットECC鍵の量子解読成功、Q-Dayプライズ1BTC授与",
+          "summary_long": "プロジェクト・イレブンが設けたQ-Dayプライズで研究者がショアアルゴリズムを使い公開量子コンピュータ上で15ビットECC鍵の解読に成功し、賞金1ビットコインが授与された。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "IBMが世界初の大規模フォールト・トレラント量子コンピューター構築に着手、Kookaburraで実現へ",
+          "url": "https://jp.newsroom.ibm.com/2025-06-11-IBM-Sets-the-Course-to-Build-Worlds-First-Large-Scale,-Fault-Tolerant-Quantum-Computer-at-New-IBM-Quantum-Data-Center",
+          "source": "IBM",
+          "summary_short": "IBM Kookaburraで2026年公開予定、フォールトトレラント量子計算実現へ",
+          "summary_long": "IBMは2026年公開予定のKookaburraでqLDPCメモリと論理演算を統合した初のモジュラー型量子プロセッサを実現し、2029年までの大規模フォールトトレラント量子計算への道筋を示している。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 60,
+      "trend_history": [62, 63, 64, 65, 65, 66, 60],
+      "summary_short": "PayPay×三井住友カード提携が本格展開、キャッシュレス圏が拡大",
+      "summary_long": "PayPayと三井住友カードの包括提携により、6,900万ユーザーと3,900万枚・39兆円GMVが統合された。VpointとPayPayポイントの相互交換および三井住友カード利用手数料免除など7項目が具体化した。",
+      "articles": [
+        {
+          "title": "PayPayと三井住友カードが組むと何が変わるか？キャッシュレス大手の7つのメリット",
+          "url": "https://www.businessinsider.jp/article/2505-paypay-smcc-softbank/",
+          "source": "Business Insider Japan",
+          "summary_short": "PayPay×三井住友の提携でVpoint・PayPayポイント相互交換が実現",
+          "summary_long": "ソフトバンク・PayPay・三井住友カードが包括業務提携を締結し、6,900万ユーザーのPayPayと3,900万枚のSMCCカード・39兆円GMVが連携。VpointとPayPayポイントの相互交換と三井住友カード手数料免除が実現した。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "三井住友FGが生成AIを活用した次世代デジタルバンキングを発表",
+          "url": "https://news.yahoo.co.jp/articles/b8145b4d95707f672edf7ae1799cb63acc0abde7",
+          "source": "Yahoo!ニュース",
+          "summary_short": "三井住友FGがAIによる24時間資産運用相談サービスを展開",
+          "summary_long": "三井住友フィナンシャルグループが生成AIを活用した次世代デジタルバンキングを発表し、顧客の資産運用相談をAIが24時間対応するサービスを展開している。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "FIN/SUM NEXT 2026：AI×ブロックチェーンが創る新金融エコシステム開幕",
+          "url": "https://www.finsum.jp/",
+          "source": "FIN/SUM",
+          "summary_short": "金融庁・日経主催FIN/SUM 2026が3月に開催、AI×ブロックチェーンを議論",
+          "summary_long": "金融庁と日本経済新聞社が主催するFIN/SUM NEXT 2026が2026年3月3〜6日に東京・丸ビルで開催され、AI×ブロックチェーンによる次世代金融エコシステムが4日間議論された。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 65,
+      "trend_history": [55, 58, 60, 62, 60, 63, 65],
+      "summary_short": "国家情報会議法案参院審議入り・世界卓球で日本がメダル確定",
+      "summary_long": "国家情報会議設置法案が5月8日から参院で審議入りし、今国会での成立が見込まれる。世界卓球2026ロンドンで日本男女が準決勝に進みメダルを確定した。日経平均は5月8日終値6万2713円。",
+      "articles": [
+        {
+          "title": "「情報会議」法案が参院審議入り、今国会成立公算大",
+          "url": "https://www.jiji.com/jc/article?k=2026042300112&g=pol",
+          "source": "時事通信",
+          "summary_short": "国家情報会議設置法案が5月8日参院審議入り、今国会成立へ",
+          "summary_long": "国家情報会議設置法案は4月23日の衆院本会議で与党・中道改革連合・国民民主の賛成多数で可決し、5月8日から参院で審議入りした。首相を議長とする同会議は安全保障情報の一元管理を担う。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "世界卓球2026ロンドン、日本男女ともに準決勝進出でメダル確定",
+          "url": "https://news.web.nhk/newsweb/na/na-k10015116381000",
+          "source": "NHK",
+          "summary_short": "日本男女が世界卓球で準決勝進出、男子は2022年以来2大会ぶりメダル",
+          "summary_long": "世界卓球2026ロンドン大会（4月28日〜5月10日）で日本男子は準々決勝でドイツを3-1で下し準決勝に進出。女子も準々決勝を勝利し、男女ともにメダルを確定させた。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "日経平均終値6万2713円、3日ぶり反落（5月8日）",
+          "url": "https://www.nikkei.com/markets/worldidx/chart/nk225/",
+          "source": "日本経済新聞",
+          "summary_short": "日経平均終値6万2713円、3日ぶり反落・ドル円156.26円",
+          "summary_long": "5月8日の東京株式市場で日経平均株価は3日ぶりに反落し終値6万2713円となった。中東情勢の不透明感や半導体株の下落が重荷となった。ドル円相場は156.26円で推移した。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 95,
+      "NTTドコモ": 70,
+      "量子コンピュータ": 88,
+      "金融決済": 60,
+      "国内・社会": 65
+    },
+    "source_distribution": {
+      "9to5Mac": 1,
+      "ITmedia": 1,
+      "ITmedia AIプラス": 1,
+      "ITmedia NEWS": 1,
+      "NTTドコモ": 2,
+      "ケータイ Watch": 1,
+      "Yahoo!ニュース（あたらしい経済）": 2,
+      "IBM": 1,
+      "Business Insider Japan": 1,
+      "Yahoo!ニュース": 1,
+      "FIN/SUM": 1,
+      "時事通信": 1,
+      "NHK": 1,
+      "日本経済新聞": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 7,
+      "4": 8,
+      "5": 1
+    }
+  }
+}
