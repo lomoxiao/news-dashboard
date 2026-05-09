@@ -1,6 +1,10 @@
 {
-  "last_updated": "2026-05-09T07:00:00+09:00",
+  "last_updated": "2026-05-10T07:00:00+09:00",
   "reports": [
+    {
+      "date": "2026-05-10",
+      "headline": "Anthropic×Google 3.5GW計算インフラ確保・NTT決算14.4兆円・量子3社大型調達・世界卓球日本男女決勝"
+    },
     {
       "date": "2026-05-09",
       "headline": "Claude米国AIシェア13.1%に急伸・Q-Day最短2030年到来予測・NTTドコモFG7月新設・世界卓球日本男女メダル確定"
@@ -94,7 +98,7 @@
     {
       "name": "Anthropic",
       "url": "https://www.anthropic.com",
-      "count": 5
+      "count": 6
     },
     {
       "name": "OpenAI",
@@ -104,7 +108,7 @@
     {
       "name": "NTTドコモ",
       "url": "https://www.docomo.ne.jp",
-      "count": 23
+      "count": 25
     },
     {
       "name": "NTTドコモビジネス",
@@ -129,7 +133,7 @@
     {
       "name": "日本経済新聞",
       "url": "https://www.nikkei.com",
-      "count": 31
+      "count": 32
     },
     {
       "name": "NVIDIA",
@@ -144,7 +148,7 @@
     {
       "name": "時事通信",
       "url": "https://www.jiji.com",
-      "count": 7
+      "count": 8
     },
     {
       "name": "IMF",
@@ -164,7 +168,7 @@
     {
       "name": "CNBC",
       "url": "https://www.cnbc.com",
-      "count": 1
+      "count": 3
     },
     {
       "name": "BigGo",
@@ -229,7 +233,7 @@
     {
       "name": "契約ウォッチ",
       "url": "https://keiyaku-watch.jp",
-      "count": 4
+      "count": 5
     },
     {
       "name": "日経BOOKプラス",
@@ -379,7 +383,7 @@
     {
       "name": "The Quantum Insider",
       "url": "https://thequantuminsider.com",
-      "count": 1
+      "count": 3
     },
     {
       "name": "AIメディア",
@@ -462,6 +466,31 @@
       "count": 2
     },
     {
+      "name": "NTT",
+      "url": "https://group.ntt",
+      "count": 1
+    },
+    {
+      "name": "QNews Channel",
+      "url": "https://note.com/qnews_channel",
+      "count": 1
+    },
+    {
+      "name": "PayPayカード",
+      "url": "https://www.paypay-card.co.jp",
+      "count": 1
+    },
+    {
+      "name": "CoinDesk Japan",
+      "url": "https://www.coindeskjapan.com",
+      "count": 1
+    },
+    {
+      "name": "gorospace",
+      "url": "https://gorospace.com",
+      "count": 1
+    },
+    {
       "name": "フィデックス",
       "url": "https://www.fidx.co.jp",
       "count": 3
@@ -509,7 +538,7 @@
     {
       "name": "LLM Stats",
       "url": "https://llm-stats.com",
-      "count": 2
+      "count": 3
     },
     {
       "name": "富士通広報note",
@@ -639,7 +668,7 @@
     {
       "name": "KSI政策ニュース",
       "url": "https://www.policynews.jp",
-      "count": 1
+      "count": 2
     }
   ],
   "themes": [
