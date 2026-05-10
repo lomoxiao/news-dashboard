@@ -1,6 +1,10 @@
 {
-  "last_updated": "2026-05-10T07:00:00+09:00",
+  "last_updated": "2026-05-11T07:00:00+09:00",
   "reports": [
+    {
+      "date": "2026-05-11",
+      "headline": "ベッセント訪日で円安協議・Claude MA 3機能追加・Q-Day 2030年予測・日銀トークン化実証・世界卓球日本男女銀"
+    },
     {
       "date": "2026-05-10",
       "headline": "Anthropic×Google 3.5GW計算インフラ確保・NTT決算14.4兆円・量子3社大型調達・世界卓球日本男女決勝"
@@ -108,12 +112,12 @@
     {
       "name": "NTTドコモ",
       "url": "https://www.docomo.ne.jp",
-      "count": 25
+      "count": 27
     },
     {
       "name": "NTTドコモビジネス",
       "url": "https://www.ntt.com",
-      "count": 5
+      "count": 6
     },
     {
       "name": "arXiv",
@@ -133,7 +137,7 @@
     {
       "name": "日本経済新聞",
       "url": "https://www.nikkei.com",
-      "count": 32
+      "count": 34
     },
     {
       "name": "NVIDIA",
@@ -233,7 +237,7 @@
     {
       "name": "契約ウォッチ",
       "url": "https://keiyaku-watch.jp",
-      "count": 5
+      "count": 6
     },
     {
       "name": "日経BOOKプラス",
@@ -253,7 +257,7 @@
     {
       "name": "Gizmodo Japan",
       "url": "https://www.gizmodo.jp",
-      "count": 8
+      "count": 9
     },
     {
       "name": "ITmedia AIプラス",
@@ -313,7 +317,7 @@
     {
       "name": "Yahoo!ニュース エキスパート",
       "url": "https://news.yahoo.co.jp",
-      "count": 2
+      "count": 3
     },
     {
       "name": "AI Academy Note",
@@ -348,7 +352,7 @@
     {
       "name": "NHK",
       "url": "https://news.web.nhk.newsweb",
-      "count": 10
+      "count": 11
     },
     {
       "name": "PR TIMES",
@@ -668,7 +672,37 @@
     {
       "name": "KSI政策ニュース",
       "url": "https://www.policynews.jp",
-      "count": 2
+      "count": 3
+    },
+    {
+      "name": "9to5Mac",
+      "url": "https://9to5mac.com",
+      "count": 1
+    },
+    {
+      "name": "窓の杜",
+      "url": "https://forest.watch.impress.co.jp",
+      "count": 1
+    },
+    {
+      "name": "ailead Blog",
+      "url": "https://www.ailead.app",
+      "count": 1
+    },
+    {
+      "name": "EnterpriseZine",
+      "url": "https://enterprisezine.jp",
+      "count": 1
+    },
+    {
+      "name": "NEC",
+      "url": "https://jpn.nec.com",
+      "count": 1
+    },
+    {
+      "name": "久兵衛の暮らしのニュース",
+      "url": "https://news.isotop.jp",
+      "count": 1
     }
   ],
   "themes": [
