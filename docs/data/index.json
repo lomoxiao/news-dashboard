@@ -1,6 +1,10 @@
 {
-  "last_updated": "2026-05-11T07:00:00+09:00",
+  "last_updated": "2026-05-12T07:00:00+09:00",
   "reports": [
+    {
+      "date": "2026-05-12",
+      "headline": "ベッセント長官が高市首相と会談・Anthropic前年比80倍成長発表・EU AI法高リスク適用延期・MUFG×Google AIペイメント構想・トヨタ売上50兆円突破"
+    },
     {
       "date": "2026-05-11",
       "headline": "ベッセント訪日で円安協議・Claude MA 3機能追加・Q-Day 2030年予測・日銀トークン化実証・世界卓球日本男女銀"
@@ -137,7 +141,7 @@
     {
       "name": "日本経済新聞",
       "url": "https://www.nikkei.com",
-      "count": 34
+      "count": 35
     },
     {
       "name": "NVIDIA",
@@ -312,7 +316,7 @@
     {
       "name": "日経Xtech",
       "url": "https://xtech.nikkei.com",
-      "count": 6
+      "count": 9
     },
     {
       "name": "Yahoo!ニュース エキスパート",
@@ -362,7 +366,7 @@
     {
       "name": "マイナビニュース",
       "url": "https://news.mynavi.jp",
-      "count": 2
+      "count": 4
     },
     {
       "name": "au PAY",
@@ -477,7 +481,7 @@
     {
       "name": "QNews Channel",
       "url": "https://note.com/qnews_channel",
-      "count": 1
+      "count": 3
     },
     {
       "name": "PayPayカード",
@@ -522,7 +526,7 @@
     {
       "name": "Sustainable Japan",
       "url": "https://sustainablejapan.jp",
-      "count": 1
+      "count": 2
     },
     {
       "name": "AI総合研究所",
@@ -637,7 +641,7 @@
     {
       "name": "Bloomberg",
       "url": "https://www.bloomberg.com",
-      "count": 2
+      "count": 4
     },
     {
       "name": "Seoul Economic Daily",
@@ -702,6 +706,26 @@
     {
       "name": "久兵衛の暮らしのニュース",
       "url": "https://news.isotop.jp",
+      "count": 1
+    },
+    {
+      "name": "アスピレイション",
+      "url": "https://aspirationcorp.com",
+      "count": 1
+    },
+    {
+      "name": "MoneyGlobe",
+      "url": "https://www.money-globe.com",
+      "count": 1
+    },
+    {
+      "name": "Car Watch",
+      "url": "https://car.watch.impress.co.jp",
+      "count": 1
+    },
+    {
+      "name": "任天堂",
+      "url": "https://www.nintendo.co.jp",
       "count": 1
     }
   ],
