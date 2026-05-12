@@ -1,0 +1,371 @@
+{
+  "date": "2026-05-13",
+  "generated_at": "2026-05-13T07:00:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "ニデックでモーター部品1000件超の品質不正疑いが判明し、5月13日に外部弁護士による調査委員会が設置された。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Anthropicが企業価値9000億ドルでの500億ドル調達を検討中と報じられた。年間収益は300億ドルを突破しOpenAI（8520億ドル）を上回る評価が視野に入っている。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモはdカードに「スキップ払い」を2026年5月18日から導入すると発表した。1回払い明細の支払い月を最長6か月先まで変更でき、3000万ポイント山分けキャンペーンも実施する。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMはQuantum Heronで156量子ビット・エラー率1/10以下を達成し、量子コンピューターが実用フェーズに入ったと宣言した。2016年の5量子ビット公開から10年でのマイルストーンとなった。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayは2026年3月期決算で純利益3倍・売上27%増を達成し、ナスダック上場後初の決算として時価総額約1.9兆円を記録した。米国GENIUS法の施行規則は2026年7月が期限を迎える。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "ニデックでモーター部品など1000件超の品質不正疑いが判明し調査委員会が5月13日に設置された。ソフトバンクグループの2026年3月期決算説明会が本日16時30分に開催される。"
+        }
+      ],
+      "must_read": {
+        "title": "ニデック、モーター部品など品質不正疑い1000件超——外部調査委員会を5月13日に設置",
+        "url": "https://www.nikkei.com/article/DGXZQOUF091AR0Z00C26A5000000/",
+        "reason": "品質不正が1000件超に及ぶ見通しで、家電・自動車向けモーター部品サプライチェーンへの波及が懸念される。8月末の全容解明まで影響が長期化する可能性がある。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "今日もニュースが盛りだくさんですよ！ニデックの品質問題が大きく報じられた一方、Anthropicの巨大調達やPayPayの好決算など注目情報が揃っています。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicがOpenAIを超える9000億ドル評価での調達を検討中なんですよ。年間収益が300億ドルを突破したというニュースも出て、AI産業の成長ぶりに驚きますね。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "dカードに「スキップ払い」が5月18日から始まりますよ！1回払いの支払い月を最長6か月後ろにずらせるサービスで、3000万ポイント山分けキャンペーンも同時開催なんです。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMが「量子コンピューターはもう実用段階ですよ」と宣言しましたね。156量子ビットでエラー率を1/10以下にしたそうで、創薬・材料分野での活用が広がりそうですね。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayの決算がすごかったですよ！純利益が3倍になって、ナスダック上場後の初決算で好印象を与えましたよ。米国のステーブルコイン規制も7月に本格化しそうですね。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "ニデックでモーター部品の品質不正疑いが1000件超も見つかったのは気になりますね。今日から調査委員会が設立されるそうです。SBGの決算説明会も今日16:30にありますよ。"
+        }
+      ],
+      "must_read": {
+        "title": "ニデック、モーター部品など品質不正疑い1000件超——外部調査委員会を5月13日に設置",
+        "url": "https://www.nikkei.com/article/DGXZQOUF091AR0Z00C26A5000000/",
+        "reason": "品質不正が1000件超というのはかなりの規模で、製品を使っているメーカーへの影響が気になりますね。調査の全容が分かるのは8月末の見込みだそうです。",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Anthropic 9000億ドル評価・500億ドル調達検討・ARR300億ドル突破\n・NVIDIA GTC 2026 Vera Rubin推論コスト1/10達成\n・マルチエージェントフレームワーク5種比較"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・dカード「スキップ払い」5/18開始・最長6ヶ月変更・3000万P山分け\n・docomo STARTUP「HUD SONiC」スピンアウト"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・IBM Quantum Heron 156量子ビット・エラー率1/10以下・実用フェーズ宣言\n・arXiv量子論文50件（2026-05-12）"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・PayPay 2026年3月期純利益3倍・売上27%増・時価総額1.9兆円\n・GENIUS法施行規則2026年7月期限・米暗号資産規制大転換"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・ニデック品質不正1000件超・5月13日調査委員会設置\n・SBG 2026年3月期決算説明会本日16:30\n・日経平均62742円（5/12終値）"
+        }
+      ],
+      "must_read": {
+        "title": "ニデック、モーター部品など品質不正疑い1000件超——外部調査委員会を5月13日に設置",
+        "url": "https://www.nikkei.com/article/DGXZQOUF091AR0Z00C26A5000000/",
+        "reason": "品質不正1000件超・サプライチェーン波及懸念・8月末全容解明目標",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "ニデックの品質不正問題は日本製造業の企業統治リスクを示す一方、AnthropicのARR300億ドル突破とPayPayの純利益3倍は日米デジタル産業の高成長を際立たせ、GENIUS法施行規則期限（2026年7月）が迫る中でグローバルなフィンテック規制の転換点が訪れつつある。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicのARR300億ドル突破（2025年末比約3倍）は、モデル性能競争が「規模と資本制約」という新軸へ移行したことを示す。9000億ドル評価での500億ドル調達が実現すればOpenAI（8520億ドル）超えとなり、AI産業への資本集中がさらに加速する構造だ。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "dカード「スキップ払い」は既存クレジットカードへのBNPL機能の組み込みで、実質年率12.0%の手数料設定は既存分割払いと同水準ながら明細単位の後払い選択は消費者行動変容を促す可能性がある。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMの「量子実用フェーズ宣言」は156量子ビット・エラー率初期の1/10以下という具体的指標に裏付けられており、量子と古典HPC（富岳）の融合モデルが産業応用の普及経路を示している。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayの純利益3倍（1,178億円）はEC決済とPayPay証券の相乗効果による構造的成長を示す。GENIUS法施行規則の2026年7月期限は日本のステーブルコイン規制（改正資金決済法）との国際協調が焦点となる。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "ニデックの品質不正1000件超は前会長辞任後の企業統治空白期に発生したとみられ、家電・自動車向けモーター部品サプライチェーンへの波及が懸念される。SBG本日決算はAI投資ポートフォリオの評価損益が最大の焦点となる。"
+        }
+      ],
+      "must_read": {
+        "title": "ニデック、モーター部品など品質不正疑い1000件超——外部調査委員会を5月13日に設置",
+        "url": "https://www.nikkei.com/article/DGXZQOUF091AR0Z00C26A5000000/",
+        "reason": "品質不正が1000件超に及ぶ見通しで、前会長辞任後の企業統治空白が背景と見られる。家電・自動車向けサプライチェーンへの影響範囲と8月末の全容解明までの動向が焦点となる。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 87,
+      "trend_history": [95, 95, 95, 95, 93, 90, 88, 87],
+      "summary_short": "Anthropic9000億ドル評価・500億ドル調達検討・ARR300億ドル超",
+      "summary_long": "Anthropicが企業価値9000億ドルでの500億ドル調達を検討中と報じられた。年間収益は300億ドルを突破しOpenAI超えの評価を視野に入れている。NVIDIA GTC 2026ではVera Rubin推論コスト1/10が発表されAI実装技術も進展している。",
+      "articles": [
+        {
+          "title": "Anthropic、企業価値9000億ドルでの500億ドル調達検討——年間収益300億ドル突破でOpenAI超えへ",
+          "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+          "source": "TechCrunch",
+          "summary_short": "Anthropic 9000億ドル評価で500億ドル調達検討・ARR300億ドル突破",
+          "summary_long": "AnthropicがOpenAI（8520億ドル）を超える9000億ドル評価での500億ドル調達を検討中と複数メディアが報じた。年間収益は300億ドルを突破し2025年末の90億ドルから急増した。夏季に数百億ドル規模の資金調達が見込まれ1兆ドル評価が視野に入っている。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "NVIDIA GTC 2026「AIファクトリー」構想発表——Vera Rubin推論スループット10倍・コスト1/10実現",
+          "url": "https://blogs.nvidia.co.jp/blog/nvidia-ceo-jensen-huang-and-global-technology-leaders-to-showcase-age-of-ai-at-gtc-2026/",
+          "source": "NVIDIA Japan Blog",
+          "summary_short": "NVIDIA GTC 2026「AIファクトリー」Vera Rubin推論コスト1/10",
+          "summary_long": "NVIDIAはGTC 2026でCEOジェンスン・ファンが「AIファクトリー」構想を発表した。Vera Rubinプラットフォームは推論スループット10倍・トークンコスト1/10を実現し、エンタープライズエージェントOS「Nemo Claw」も発表された。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "【現地レポ】GTC 2026 徹底解説——ジェンスン・ファンCEO基調講演で見えたAIの現在地",
+          "url": "https://zenn.dev/_flux/articles/a6eb65fe5e22d5",
+          "source": "Zenn",
+          "summary_short": "GTC 2026解説 AI推論コスト1/10時代のキーポイント整理",
+          "summary_long": "Zennに投稿されたGTC 2026現地レポートがNVIDIAジェンスン・ファンCEO基調講演の要点を整理し、AI推論コスト1/10時代への対応策を解説した。Dynamo 1.0とNemo Clawの具体的な活用方法もまとめられている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "CrewAI/LangGraph/AutoGen/Agents SDK/Dify 5フレームワークを目的別に整理する",
+          "url": "https://zenn.dev/kenimo49/articles/multi-agent-framework-comparison-5",
+          "source": "Zenn",
+          "summary_short": "CrewAI・LangGraph等5フレームワークを目的別に整理比較",
+          "summary_long": "マルチエージェント開発に使われるCrewAI・LangGraph・AutoGen・Agents SDK・Difyの5フレームワークを目的別に体系的に比較したZenn記事が2026年5月12日に公開された。各フレームワークの特性と適用ユースケースを整理している。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "LLMコンテキスト管理徹底解剖——3つの記憶戦略で「7秒の記憶」を克服し低コストで会話を繋ぐ方法",
+          "url": "https://zenn.dev/lumichy/articles/llm-memory-management-strategies",
+          "source": "Zenn",
+          "summary_short": "LLMコンテキスト管理3戦略・低コストで会話継続する手法",
+          "summary_long": "LLMの「7秒の記憶」問題を解決する3つの記憶戦略（インメモリキャッシュ・外部ベクトルDB・サマリー圧縮）を解説したZenn記事が2026年5月12日に公開された。KVキャッシュとONNX Runtimeを活用したトークンコスト削減手法も紹介している。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 65,
+      "trend_history": [60, 58, 57, 70, 72, 65, 70, 65],
+      "summary_short": "dカード「スキップ払い」5/18開始・docomo STARTUPスピンアウト",
+      "summary_long": "NTTドコモは2026年5月18日からdカードに「スキップ払い」を導入し1回払い明細の支払い月を最長6か月先まで変更できるようにする。docomo STARTUPからパイロット採用プラットフォーム「HUD SONiC」がスピンアウトし世界70か国のパイロットを対象に展開する。",
+      "articles": [
+        {
+          "title": "dカードに「スキップ払い」2026年5月18日から導入——最長6か月先まで変更可能・3000万ポイント山分けキャンペーンも",
+          "url": "https://prtimes.jp/main/html/rd/p/000000814.000118641.html",
+          "source": "PR TIMES",
+          "summary_short": "dカード「スキップ払い」5月18日開始・最長6ヶ月変更可能",
+          "summary_long": "NTTドコモは2026年5月11日、dカードに「スキップ払い」を5月18日から導入すると発表した。1回払いの利用明細ごとに支払い月を最長6か月先まで変更でき手数料は実質年率12.0%。導入記念で30,000円以上変更した利用者に3000万ポイントを山分けするキャンペーンも実施する。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "docomo STARTUP「HUD SONiC」スピンアウト——世界70か国パイロット対象の採用プラットフォームが事業開始",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/05/12_00.html",
+          "source": "NTTドコモ",
+          "summary_short": "docomo STARTUP「HUD SONiC」スピンアウト・パイロット採用70か国",
+          "summary_long": "NTTドコモの新規事業創出プログラム「docomo STARTUP」から、パイロット採用プラットフォーム「HUD SONiC」が2026年5月1日にスピンアウトした。2032年に世界約8万人のパイロット不足が予測される中、70か国のパイロットから関心を集め、フライト記録の手間を80%軽減するアプリも無料提供する。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTT「AIOWN」AIネイティブインフラ展開——AI需要変動に応じたリソース最適化を実現",
+          "url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0427_3.html",
+          "source": "NTTドコモビジネス",
+          "summary_short": "NTT「AIOWN」AIネイティブインフラ展開・DC拡充へ",
+          "summary_long": "NTTドコモビジネスは2026年4月27日、AI利活用の急速な拡大に対応するAIネイティブインフラ「AIOWN」の展開を発表した。GPUリソース・ネットワーク・電力をAI仕様に最適化しAI需要の変動に応じたリソース最適化を実現する方針を示した。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 75,
+      "trend_history": [83, 88, 90, 90, 90, 82, 80, 75],
+      "summary_short": "IBM Quantum Heron 156量子ビット実用化・量子優位性が進展",
+      "summary_long": "IBMはQuantum Heronで156量子ビット・エラー率1/10以下を達成し量子コンピューターが実用フェーズに入ったと宣言した。量子中心スーパーコンピューティング設計構想も発表済みで2026年末までに量子優位性の実現を確信している。arXiv量子物理論文は5月12日付で50件投稿された。",
+      "articles": [
+        {
+          "title": "量子コンピューターはついに実用フェーズへ——IBMらが達成した実用的量子優位性、AI・量子融合の未来",
+          "url": "https://enterprisezine.jp/article/detail/24247",
+          "source": "EnterpriseZine",
+          "summary_short": "IBM Quantum Heron 156量子ビット実用フェーズ宣言",
+          "summary_long": "IBMは量子コンピューター公開10周年に合わせQuantum Heronで156量子ビット・エラー率を初期比1/10以下に低減したと発表した。量子と古典HPCを融合した実用的量子優位性を達成し、創薬・材料・金融への産業応用が本格化している。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "IBM、量子を中心としたスーパーコンピューティング実現に向け新設計構想を発表",
+          "url": "https://jp.newsroom.ibm.com/2026-03-24-ibm-releases-a-new-blueprint-for-quantum-centric-supercomputing",
+          "source": "IBM",
+          "summary_short": "IBM 量子中心スーパーコンピューティング新設計構想発表",
+          "summary_long": "IBMは2026年3月24日、量子中心スーパーコンピューティングの実現に向けた新設計構想を発表した。古典GPUと量子プロセッサを緊密に統合するアーキテクチャを示し、2026年末までにユーザーが量子優位性を体験できる環境の整備を目標としている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "arXiv quant-ph 2026年5月12日投稿論文50件——量子誤り訂正・量子最適化等が主要テーマ",
+          "url": "http://export.arxiv.org/rss/quant-ph",
+          "source": "arXiv",
+          "summary_short": "arXiv量子物理論文 2026年5月12日50件投稿",
+          "summary_long": "arXivの量子物理（quant-ph）カテゴリには2026年5月12日付で50件の論文が投稿された。量子誤り訂正・量子計量・量子軌跡シミュレーション・量子最適化アルゴリズム（FALQON）などが主要テーマとなっている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 74,
+      "trend_history": [65, 65, 66, 60, 68, 65, 72, 74],
+      "summary_short": "PayPay 2026年3月期純利益3倍・GENIUS法施行規則7月期限",
+      "summary_long": "PayPayは2026年3月期決算で純利益3倍・売上27%増を達成しナスダック上場後の資本市場信任を得た。米国GENIUS法の施行規則は2026年7月が期限でステーブルコイン規制が大転換を迎える。PayPayは2026年度中に決済と信用を統合した一体型カードの投入を予定する。",
+      "articles": [
+        {
+          "title": "PayPay 2026年3月期決算——純利益3倍・売上27%増、ナスダック上場後初の決算で時価総額1.9兆円",
+          "url": "https://www.nikkei.com/article/DGXZQOUB070KN0X00C26A5000000/",
+          "source": "日本経済新聞",
+          "summary_short": "PayPay 2026年3月期純利益3倍・売上27%増・時価総額1.9兆円",
+          "summary_long": "PayPayは2026年5月7日に2026年3月期決算を発表し、営業収益3,806億円（前年比27%増）・純利益1,178億円（前年比3倍）となった。ナスダック上場後初の決算で時価総額は約1.9兆円。翌期（27年3月期）は営業収益4,540〜4,620億円を見込む。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "GENIUS法施行規則2026年7月期限——SECとCFTCが暗号資産規制を大転換、ステーブルコイン規制が本格化",
+          "url": "https://www.fidx.co.jp/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91sec%E3%81%A8cftc%E3%81%8C%E6%9A%97%E5%8F%B7%E8%B3%87%E7%94%A3%E8%A6%8F%E5%88%B6%E3%82%92%E5%A4%A7%E8%BB%A2%E6%8F%9B%EF%BD%9C%E3%83%93%E3%82%B8%E3%83%8D/",
+          "source": "フィデックス",
+          "summary_short": "GENIUS法施行規則2026年7月期限・米暗号資産規制大転換",
+          "summary_long": "米国の包括的ステーブルコイン規制法「GENIUS法」は2025年7月に成立し施行規則の策定期限は2026年7月18日となっている。SECとCFTCが暗号資産規制を大転換し時価総額500億ドル超の発行体には年次監査財務報告が義務付けられる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "PayPay上場後初の決算発表——2026年度には「一体型カード」投入へ、若年層を中心に成長加速",
+          "url": "https://news.yahoo.co.jp/articles/7c9158f5d4349209d1731448b9e81c718fa48ea0",
+          "source": "ITmedia AIプラス",
+          "summary_short": "PayPay一体型カード2026年度投入・決済と信用の融合へ",
+          "summary_long": "PayPayは2026年度中に決済機能と信用機能を統合した「一体型カード」を投入する予定だ。ナスダック上場後初の決算説明会でCFOが方針を示し、若年層ユーザーベースを活用してクレジット事業を拡充する戦略を明らかにした。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 73,
+      "trend_history": [62, 60, 63, 65, 70, 72, 75, 73],
+      "summary_short": "ニデック品質不正1000件超・SBG決算説明会本日開催",
+      "summary_long": "ニデックでモーター部品など1000件超の品質不正疑いが判明し5月13日に外部弁護士による調査委員会が設置された。ソフトバンクグループは本日16時30分に2026年3月期決算説明会を開催する。日経平均は前日比324円高の62742円で3日ぶりに反発した。",
+      "articles": [
+        {
+          "title": "ニデック、モーター部品など品質不正疑い1000件超——設計変更・検査データ改ざんで5月13日調査委員会設置",
+          "url": "https://www.nikkei.com/article/DGXZQOUF091AR0Z00C26A5000000/",
+          "source": "日本経済新聞",
+          "summary_short": "ニデック品質不正疑い1000件超・5月13日調査委員会設立",
+          "summary_long": "ニデックのモーター部品などで品質不正の疑いがあることが2026年5月12日に判明した。設計変更や検査データ改ざんなど1000件超に及ぶ見通しで13日に外部弁護士による調査委員会を設置し8月末までに全容解明を目指す。本体と複数の子会社でも問題が確認されている。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "ソフトバンクグループ 2026年3月期決算説明会——5月13日16時30分からライブ配信",
+          "url": "https://www.softbank.jp/sbnews/entry/20260512_02",
+          "source": "ソフトバンク",
+          "summary_short": "SBG 2026年3月期決算説明会本日16時30分開催",
+          "summary_long": "ソフトバンクグループは2026年5月13日16時30分から2026年3月期決算説明会をライブ配信する。決算短信は同日15時30分開示予定で、AI投資ポートフォリオの評価損益と投資先業績が焦点となる。公式YouTube・公式Xでもライブ配信を行う。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "東証大引け 日経平均は3日ぶり反発62742円——米半導体株高支えAI関連株上昇",
+          "url": "https://www.nikkei.com/article/DGXZQOFL015830R00C26A5000000/",
+          "source": "日本経済新聞",
+          "summary_short": "日経平均5月12日62742円・3日ぶり反発・AI半導体高が支え",
+          "summary_long": "東京株式市場で2026年5月12日の日経平均株価は前営業日比324円69銭（0.52%）高の62742円57銭で引けた。3営業日ぶりの反発で前日の米半導体株高を受けAI・半導体関連株が上昇した。5月13日の予想レンジは6万1000〜6万5000円。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 87,
+      "NTTドコモ": 65,
+      "量子コンピュータ": 75,
+      "金融決済": 74,
+      "国内・社会": 73
+    },
+    "source_distribution": {
+      "日本経済新聞": 3,
+      "Zenn": 3,
+      "NVIDIA Japan Blog": 1,
+      "TechCrunch": 1,
+      "PR TIMES": 1,
+      "NTTドコモ": 1,
+      "NTTドコモビジネス": 1,
+      "EnterpriseZine": 1,
+      "IBM": 1,
+      "arXiv": 1,
+      "フィデックス": 1,
+      "ITmedia AIプラス": 1,
+      "ソフトバンク": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 6,
+      "4": 6,
+      "5": 3
+    }
+  }
+}
