@@ -1,0 +1,362 @@
+{
+  "date": "2026-05-14",
+  "generated_at": "2026-05-14T07:00:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "Rampの5万社データに基づくAnthropicの米企業AI採用率が34.4%となり、OpenAI（32.3%）を初めて上回った。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Anthropicの米企業向けAI採用率がRampデータで34.4%となりOpenAI（32.3%）を初めて上回った。1年で9%から26ポイント増の急成長で、法律・金融分野向けMCPコネクター20種超の追加など機能拡充が継続している。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモは5月13日、電話番号のみで画像・動画・スタンプを送受信できるRCSメッセージサービスを2026年夏から開始すると発表した。Xperia 1 VIII SO-51G（6月11日発売）の予約も同日開始した。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "Cleveland Clinic・RIKEN・IBMが量子コンピューターで12,635原子のタンパク質シミュレーションに成功した。Q-CTRLとIBMは120量子ビットで量子シミュレーションを3,000倍高速化し実用的量子優位性を実証した。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "国内キャッシュレス決済額の2024年実績が141兆円（前年比11%増）で、QRコード決済とクレジットカードがけん引した。米GENIUS法・EU MiCA・日本の改正資金決済法が同時進行しグローバルなステーブルコイン規制整備が加速している。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "日経平均は5月13日に529円高・6万3272円と続伸し、半導体・AI関連株が上昇をけん引した。ドル円は157円台後半で軟調推移し、キオクシアHDは5月15日に本決算発表を控え東証プライム時価総額4位に浮上している。"
+        }
+      ],
+      "must_read": {
+        "title": "Anthropic、米企業B2B採用率34.4%でOpenAI（32.3%）を初めて上回る——Ramp5万社データ",
+        "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
+        "reason": "Rampの5万社データで初めてAnthropicがOpenAIを逆転。1年で採用率が9%から34.4%へ26ポイント増加し、企業向けAI市場における競争軸の転換を示す。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "今日はAnthropicがビジネス採用でOpenAIを初めて超えたというビッグニュースがありますよ！日本でもドコモの新サービス発表や株式市場の話題など盛りだくさんですね。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicがOpenAIをビジネス採用率で初めて抜きましたよ！Rampの5万社データで34.4%対32.3%でAnthropicが首位。1年で9%から34.4%へ急増したのはすごいですね。Claude Platform on AWSも始まり使いやすくなっています。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモがRCS（リッチコミュニケーションサービス）を今年夏から始めるって発表しましたよ！電話番号だけで画像や動画・スタンプも送れるサービスで便利ですね。Xperia 1 VIIIの予約も始まっていますよ。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "量子コンピューターがタンパク質の研究でも活躍していますよ！IBM・RIKEN・クリーブランドクリニックが12,635個の原子を持つタンパク質のシミュレーションに成功したんです。創薬分野への応用が期待されていますね。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "2024年のキャッシュレス決済額が141兆円になったそうですよ！前年より11%増で、PayPayや楽天ペイなどが大きく貢献しているみたいです。世界各国でステーブルコインの規制も整備が進んでいますね。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "株式市場は昨日（5月13日）も続伸で、日経平均は6万3272円とさらに上昇しましたよ。キオクシアHDの決算が5月15日に控えていて注目が集まっています。ドル円は157円台後半でやや円安気味ですね。"
+        }
+      ],
+      "must_read": {
+        "title": "Anthropic、米企業B2B採用率34.4%でOpenAI（32.3%）を初めて上回る——Ramp5万社データ",
+        "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
+        "reason": "1年で9%から34.4%へ急増したAnthropicの成長ぶりがすごいですね。企業のAI選択軸が「モデル性能」から「業務統合性」へ変わってきているのを感じます。",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Anthropic米企業採用34.4%でOpenAI（32.3%）を初めて超え（Ramp5万社調査）\n・Claude Platform on AWS正式開始・法律向けMCP20種超追加\n・Meta AIインコグニトチャット開始"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・ドコモRCS2026年夏から開始・電話番号のみで画像/動画/スタンプ対応\n・Xperia 1 VIII SO-51G 6月11日発売・5月13日予約開始"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・Cleveland Clinic/RIKEN/IBM 12635原子タンパク質シミュレーション成功\n・Q-CTRL×IBM 量子シミュレーション3000倍高速化・実用優位性実証\n・欧州eleQtron シリーズA 5700万ユーロ調達"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・キャッシュレス決済2024年実績141兆円（前年比+11%）QRコード・クレカけん引\n・GENIUS法・MiCA・日本改正法でステーブルコイン規制が一斉整備\n・5月スマホ決済4社が地域還元キャンペーン全国展開"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・日経平均5月13日63272円（+529円）・半導体AI株続伸\n・ドル円157円台後半・米インフレ継続で軟調推移\n・キオクシアHD 5月15日本決算発表予定・東証プライム時価総額4位"
+        }
+      ],
+      "must_read": {
+        "title": "Anthropic、米企業B2B採用率34.4%でOpenAI（32.3%）を初めて上回る——Ramp5万社データ",
+        "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
+        "reason": "Anthropic B2B首位・1年で採用率+26ポイント・OpenAI初逆転",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "AnthropicのB2B採用でのOpenAI超えは単純なシェア逆転にとどまらず企業向けAI市場の構造転換を示すと同時に、量子コンピューターの生命科学応用進展・キャッシュレス141兆円の規制整備加速が相互に連動して進行している。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Rampの5万社データでAnthropicが34.4%（vs OpenAI 32.3%）と首位に立ったことは「モデル精度」から「業務統合性」へ企業の選択軸が移行したことを示す。法律・金融向けMCP20種超の整備がこの採用増に直結しており、Platform on AWSで開発環境も統合されつつある。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモのRCS導入はGSMA国際標準規格採用でSMSからの実質的移行を意味し、iOS・Androidのクロスプラットフォーム統一が焦点となる。Xperia 1 VIIIはAI×α統合カメラ戦略で、スマートフォン市場の差別化軸がカメラ性能からAI処理能力へ移行する流れを体現している。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "12,635原子タンパク質シミュレーション成功はバイオ創薬への量子応用が古典計算機の限界を超えた段階を示す。Q-CTRL+IBMの3,000倍高速化は誤り抑制技術の成熟を証明し、2026〜2027年の創薬・材料分野への実用展開を加速させる可能性がある。欧州の複数スタートアップ調達も量子産業の裾野拡大を示す。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "2024年キャッシュレス141兆円（前年比+11%）は政府目標の4割を達成したが、成長の牽引役がQRコードからオープンバンキング・ステーブルコインへ移行しつつある。GENIUS法・MiCA・日本改正法の同時進行は2026年末に国際的な決済インフラの統一規格を実質的に確立させる可能性がある。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "日経平均6万3272円の続伸は半導体・AI関連株中心の物色継続を示し、キオクシアHD（5月15日決算）の通期業績が次の材料となる。ドル円157円台後半の軟調は米インフレ持続を示唆し、日銀の利上げタイミングに対する市場の不確実性が高まっている。"
+        }
+      ],
+      "must_read": {
+        "title": "Anthropic、米企業B2B採用率34.4%でOpenAI（32.3%）を初めて上回る——Ramp5万社データ",
+        "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
+        "reason": "企業向けAI採用の主役交代は市場構造変化のシグナルであり、法律・金融領域のMCP整備が採用増の主因であることはAIプラットフォーム競争の新局面を示唆する。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 90,
+      "trend_history": [95, 95, 95, 93, 90, 88, 87, 90],
+      "summary_short": "AnthropicがB2B採用でOpenAIを初めて超え・法律向けMCP20種追加",
+      "summary_long": "Anthropicの米企業向けAI採用率がRampデータで34.4%となりOpenAI（32.3%）を初めて上回った。Claude Platform on AWSが正式開始し法律・金融向けMCPコネクター20種超が追加された。Meta AIはインコグニトチャットで会話のプライバシーを強化した。",
+      "articles": [
+        {
+          "title": "Anthropic、米企業B2B採用率34.4%でOpenAI（32.3%）を初めて上回る——Ramp5万社データ",
+          "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
+          "source": "TechCrunch",
+          "summary_short": "AnthropicがB2B採用34.4%でOpenAI32.3%を初めて超え",
+          "summary_long": "Anthropicの米企業向けAI採用率がRampの約5万社データで34.4%となり、OpenAI（32.3%）を初めて上回った。1年前（2025年5月）は9%だったが26ポイント増と急伸し、ビジネス支出シェアでも65%超がAnthropicに移行した。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "Claude Platform on AWS正式開始——Claude API全機能をAWS認証・請求で利用可能に",
+          "url": "https://www.anthropic.com/news",
+          "source": "Anthropic",
+          "summary_short": "Claude Platform on AWSでAPI全機能が利用可能に",
+          "summary_long": "AnthropicはClaude Platform on AWSを正式開始し、Claude APIのフル機能（マネージドエージェント・コード実行・Webツール・プロンプトキャッシング）をAWS認証・請求環境で利用可能にした。Claude Consoleも含む統合開発環境を提供する。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Claude、法律分野向けMCPコネクター20種超を追加——ロースクール・企業法務向けに12種プラグイン",
+          "url": "https://www.anthropic.com/news",
+          "source": "Anthropic",
+          "summary_short": "Claude法律向けMCPコネクター20種超追加・12種プラグイン",
+          "summary_long": "Anthropicは法律事務所・企業内法務向けにMCPコネクター20種超と12種の実務領域別プラグインを追加した。調査・契約・案件管理・法的援助など各領域に対応し、法律AIの実務適用を大幅に拡充した。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "Meta AI、プライベートチャット「インコグニト」開始——会話がMeta側にも見えない仕組みを導入",
+          "url": "https://www.thedecoder.com/meta-ai-launches-incognito-mode/",
+          "source": "The Decoder",
+          "summary_short": "Meta AIインコグニトチャット開始・会話を秘匿化",
+          "summary_long": "Meta AIは新機能「インコグニトチャット」を開始した。会話は保護されたサーバー環境で処理されMeta自身もアクセスできない仕組みで、AIチャットのプライバシー懸念に対応した機能として注目されている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": ["https://news.yahoo.co.jp/articles/20a17118b651aa0889aa41cd7fa78acda9f6084b"]
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 65,
+      "trend_history": [58, 57, 70, 72, 65, 70, 65, 65],
+      "summary_short": "ドコモRCS2026年夏開始・Xperia 1 VIII予約開始",
+      "summary_long": "ドコモは2026年夏からRCSメッセージサービスを開始し電話番号のみで画像・動画・スタンプを送受信できる機能を提供する。Xperia 1 VIII SO-51Gの5月13日予約開始・6月11日発売も発表した。NTTドコモの2025年度連結営業収益は6.4兆円（前年比3.9%増）となった。",
+      "articles": [
+        {
+          "title": "ドコモ、RCSメッセージサービスを2026年夏から開始——電話番号のみで画像・動画・スタンプ送受信可能に",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/05/13_00.html",
+          "source": "NTTドコモ",
+          "summary_short": "ドコモRCS2026年夏開始・電話番号のみで画像/動画/スタンプ対応",
+          "summary_long": "NTTドコモは2026年5月13日、GSMA国際標準のRCSメッセージサービスを2026年夏から提供開始すると発表した。電話番号のみで画像・動画・スタンプのやり取りとグループチャットが可能で、RCS未対応の場合はSMSに自動切替となる。RCS公式アカウントは2026年冬の開始を予定する。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Xperia 1 VIII SO-51G 5月13日予約開始・6月11日発売——AI×αカメラ・5000mAh・4年OS更新対応",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/05/13_01.html",
+          "source": "NTTドコモ",
+          "summary_short": "Xperia 1 VIII SO-51G 6月11日発売・AI搭載カメラ5色",
+          "summary_long": "ドコモはXperia 1 VIII SO-51Gを5月13日から予約開始し6月11日発売と発表した。AI×ソニーαカメラ技術を融合し大型望遠センサーとRAWマルチフレーム処理を搭載。5000mAhで2日使用可能で4回のOSバージョンアップと6年間セキュリティ更新に対応する。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモ 2025年度連結決算——営業収益6.4兆円（+3.9%）・増収減益・5G投資を継続加速",
+          "url": "https://news.mynavi.jp/techplus/article/20260509-4437036/",
+          "source": "マイナビニュース",
+          "summary_short": "NTTドコモ2025年度売上6.4兆円3.9%増・増収減益・5G投資継続",
+          "summary_long": "NTTドコモの2025年度連結営業収益は6.4兆円（前年比3.9%増）・営業利益9421億円（同7.7%減）で増収減益となった。5G契約数が全契約の65%超に到達し法人向け好調が続く。NTTグループ全体では売上14.4兆円過去最高でAI中心の2030年ビジョンを掲げ5年間12兆円の投資計画を発表した。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 76,
+      "trend_history": [88, 90, 90, 90, 82, 80, 75, 76],
+      "summary_short": "IBM・RIKEN 12635原子シミュレーション成功・Q-CTRL 3000倍高速化",
+      "summary_long": "Cleveland Clinic・RIKEN・IBMが量子コンピューターで12,635原子のタンパク質シミュレーションに成功した。Q-CTRLとIBMは120量子ビットで量子シミュレーションを3,000倍高速化し実用的量子優位性を実証した。欧州のeleQtronはシリーズAで5,700万ユーロを調達した。",
+      "articles": [
+        {
+          "title": "Cleveland Clinic・RIKEN・IBM、12,635原子のタンパク質を量子コンピューターでシミュレーション成功——創薬応用に前進",
+          "url": "https://newsroom.clevelandclinic.org/2026/05/05/cleveland-clinic-riken-and-ibm-model-a-12635-atom-protein--the-largest-known-to-be-simulated-with-quantum-computers",
+          "source": "Cleveland Clinic",
+          "summary_short": "IBM・RIKEN・Cleveland Clinic 12635原子タンパク質シミュレーション成功",
+          "summary_long": "Cleveland Clinic・RIKEN・IBMの共同研究チームが量子中心スーパーコンピューティングを活用し12,635原子を持つタンパク質複合体のシミュレーションに成功した。量子コンピューターで解析された最大規模のタンパク質で創薬・生命科学への実用応用に向けた大きな前進となった。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Q-CTRL×IBM、120量子ビットで量子シミュレーション3,000倍高速化——Fermi-Hubbardモデルで実用優位性を実証",
+          "url": "https://research.ibm.com/blog/ibm-think-2026-modeling-the-universe-with-quantum-computing",
+          "source": "IBM Research",
+          "summary_short": "Q-CTRL×IBM 量子シミュレーション3000倍高速化達成",
+          "summary_long": "Q-CTRLとIBMは実行時エラー抑制技術を活用し120量子ビットのFermi-Hubbardモデルシミュレーションで3,000倍の高速化を達成した。古典スーパーコンピューターで年単位かかる計算を短時間で解き実用的量子優位性を実証した。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "欧州量子スタートアップeleQtron、シリーズAで5,700万ユーロ調達——イオントラップ量子コンピューター産業化へ",
+          "url": "https://note.com/qnews_channel/n/n968cba4f612a",
+          "source": "QNews Channel",
+          "summary_short": "欧州量子スタートアップeleQtron シリーズA 5700万ユーロ調達",
+          "summary_long": "ドイツの量子スタートアップeleQtronがシリーズAで5,700万ユーロを調達した。イオントラップ方式の量子コンピューター開発を推進し欧州量子産業の実用化を加速する。同期にPasqalがシカゴへ6,500万ドル投資、Silicon Quantum Computingが1.6億ドル調達と量子スタートアップの資金調達が活発化している。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 70,
+      "trend_history": [65, 66, 60, 68, 65, 72, 74, 70],
+      "summary_short": "キャッシュレス141兆円・ステーブルコイン規制グローバル整備加速",
+      "summary_long": "国内キャッシュレス決済額の2024年実績は141兆円（前年比11%増）でQRコードとクレジットカードがけん引した。米GENIUS法・EU MiCA・日本の改正資金決済法が同時進行し2026年末にはステーブルコイン規制の国際的枠組みが確立される見通しだ。",
+      "articles": [
+        {
+          "title": "国内キャッシュレス決済額2024年実績141兆円（前年比11%増）——QRコードとクレカが成長をけん引",
+          "url": "https://bookplus.nikkei.com/atcl/column/020500658/020500022/",
+          "source": "日経BOOKプラス",
+          "summary_short": "キャッシュレス決済2024年141兆円・前年比11%増・QRコードけん引",
+          "summary_long": "国内キャッシュレス決済額の2024年実績は前年比11%増の141兆円で、政府目標の4割を達成した。主力のクレジットカードが堅調な成長を維持し、QRコード決済（PayPay・楽天ペイ等）が継続的に拡大している。個人向け金融サービスは競争が激化しAIや非金融事業者の参入も加速している。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "グローバルステーブルコイン規制が同時整備——GENIUS法・MiCA・日本改正資金決済法が同時進行",
+          "url": "https://bvnk.com/blog/global-stablecoin-regulations-2026",
+          "source": "BVNK Blog",
+          "summary_short": "GENIUS法・MiCA・日本改正法でステーブルコイン規制一斉整備",
+          "summary_long": "米GENIUS法（2025年7月成立）・EU MiCA・日本の改正資金決済法・シンガポールMAS枠組みなどグローバルでステーブルコイン規制の整備が同時に進んでいる。各国とも完全準備金・ライセンス発行体・即時償還権を義務付け決済手段として規制する方向で収束している。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "2026年5月スマホ決済地域還元キャンペーン——PayPay・d払い・au PAY・楽天ペイが全国各地で実施",
+          "url": "https://news.yahoo.co.jp/articles/f77b232846d53d126c825445dc65b506258d6c3a",
+          "source": "ITmedia Mobile",
+          "summary_short": "5月スマホ決済4社が地域還元キャンペーン全国各地で展開",
+          "summary_long": "PayPay・d払い・au PAY・楽天ペイが2026年5月に全国各地の自治体と連携した地域応援・ポイント還元キャンペーンを実施している。地域限定のプレミアム付き商品券や地域通貨とも連携し消費振興策として機能している。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 70,
+      "trend_history": [60, 63, 65, 70, 72, 75, 73, 70],
+      "summary_short": "日経平均5月13日63272円続伸・キオクシア15日決算注目",
+      "summary_long": "日経平均は5月13日に529円高・6万3272円と続伸し半導体・AI関連株が上昇をけん引した。ドル円は157円台後半で軟調推移。キオクシアHDは5月15日の本決算発表を控え東証プライム時価総額4位に浮上しNAND市況改善による業績拡大が期待されている。",
+      "articles": [
+        {
+          "title": "東証大引け 日経平均は続伸63272円・529円高——半導体・AI関連株がけん引",
+          "url": "https://www.nikkei.com/markets/worldidx/chart/nk225/",
+          "source": "日本経済新聞",
+          "summary_short": "日経平均5月13日63272円・529円高・半導体AI株けん引",
+          "summary_long": "東京株式市場の日経平均は2026年5月13日に前営業日比529円高の6万3272円で引けた。AIや半導体関連株が引き続き物色され、キオクシアHDをはじめとするNAND・AI半導体関連が上昇をけん引した。5月7日に記録した過去最高値（6万2833円）を更新している。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "キオクシアHD、5月15日に本決算発表予定——東証プライム時価総額4位に浮上・NAND市況改善で増収増益見込み",
+          "url": "https://finance.yahoo.co.jp/quote/285A.T",
+          "source": "Yahoo!ファイナンス",
+          "summary_short": "キオクシア5月15日決算予定・東証プライム時価総額4位浮上",
+          "summary_long": "キオクシアHDは5月15日（午後3時30分）に2026年3月期本決算を発表する予定。東証プライムの時価総額では東京エレクトロンを抜いて4位に浮上しており、第3四半期累計は売上1.3兆円・営業利益2736億円（前年比34%減）となっているが通期では増収増益を見込む。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "ドル円157円台後半で軟調——米インフレ懸念と実需ドル買いが継続",
+          "url": "https://www.nikkei.com/markets/currencies/",
+          "source": "日本経済新聞",
+          "summary_short": "ドル円157円台後半・米インフレ継続で軟調推移",
+          "summary_long": "ドル円相場は2026年5月14日に157円台後半で軟調推移した。米国のインフレ懸念が継続し実需のドル買い圧力が円安要因となっている。日銀の追加利上げ見通しを巡る不確実性も市場の注目点となっている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 90,
+      "NTTドコモ": 65,
+      "量子コンピュータ": 76,
+      "金融決済": 70,
+      "国内・社会": 70
+    },
+    "source_distribution": {
+      "TechCrunch": 1,
+      "Anthropic": 2,
+      "The Decoder": 1,
+      "NTTドコモ": 2,
+      "マイナビニュース": 1,
+      "Cleveland Clinic": 1,
+      "IBM Research": 1,
+      "QNews Channel": 1,
+      "日経BOOKプラス": 1,
+      "BVNK Blog": 1,
+      "ITmedia Mobile": 1,
+      "日本経済新聞": 2,
+      "Yahoo!ファイナンス": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 6,
+      "4": 9,
+      "5": 1
+    }
+  }
+}

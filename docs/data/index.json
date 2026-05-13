@@ -1,6 +1,10 @@
 {
-  "last_updated": "2026-05-13T07:00:00+09:00",
+  "last_updated": "2026-05-14T07:00:00+09:00",
   "reports": [
+    {
+      "date": "2026-05-14",
+      "headline": "AnthropicがB2B採用でOpenAI超え34.4%・ドコモRCS夏開始・Cleveland Clinic/RIKEN/IBM量子タンパク質シミュレーション成功・キャッシュレス141兆円"
+    },
     {
       "date": "2026-05-13",
       "headline": "ニデック品質不正1000件超で調査委員会設置・Anthropic9000億ドル評価500億ドル調達検討・PayPay純利益3倍・IBM量子実用フェーズ宣言・SBG決算説明会"
@@ -110,7 +114,7 @@
     {
       "name": "Anthropic",
       "url": "https://www.anthropic.com",
-      "count": 6
+      "count": 8
     },
     {
       "name": "OpenAI",
@@ -120,7 +124,7 @@
     {
       "name": "NTTドコモ",
       "url": "https://www.docomo.ne.jp",
-      "count": 27
+      "count": 29
     },
     {
       "name": "NTTドコモビジネス",
@@ -145,7 +149,7 @@
     {
       "name": "日本経済新聞",
       "url": "https://www.nikkei.com",
-      "count": 35
+      "count": 37
     },
     {
       "name": "NVIDIA",
@@ -215,7 +219,7 @@
     {
       "name": "TechCrunch",
       "url": "https://techcrunch.com",
-      "count": 2
+      "count": 3
     },
     {
       "name": "AIFOD",
@@ -250,7 +254,7 @@
     {
       "name": "日経BOOKプラス",
       "url": "https://bookplus.nikkei.com",
-      "count": 5
+      "count": 6
     },
     {
       "name": "外為どっとコム",
@@ -270,7 +274,7 @@
     {
       "name": "ITmedia AIプラス",
       "url": "https://www.itmedia.co.jp",
-      "count": 2
+      "count": 3
     },
     {
       "name": "gihyo.jp",
@@ -370,7 +374,7 @@
     {
       "name": "マイナビニュース",
       "url": "https://news.mynavi.jp",
-      "count": 4
+      "count": 5
     },
     {
       "name": "au PAY",
@@ -485,7 +489,7 @@
     {
       "name": "QNews Channel",
       "url": "https://note.com/qnews_channel",
-      "count": 3
+      "count": 4
     },
     {
       "name": "PayPayカード",
@@ -580,7 +584,7 @@
     {
       "name": "IBM",
       "url": "https://www.ibm.com",
-      "count": 7
+      "count": 8
     },
     {
       "name": "NEDO",
@@ -730,6 +734,26 @@
     {
       "name": "任天堂",
       "url": "https://www.nintendo.co.jp",
+      "count": 1
+    },
+    {
+      "name": "The Decoder",
+      "url": "https://www.thedecoder.com",
+      "count": 1
+    },
+    {
+      "name": "BVNK Blog",
+      "url": "https://bvnk.com",
+      "count": 1
+    },
+    {
+      "name": "Cleveland Clinic",
+      "url": "https://newsroom.clevelandclinic.org",
+      "count": 1
+    },
+    {
+      "name": "Yahoo!ファイナンス",
+      "url": "https://finance.yahoo.co.jp",
       "count": 1
     }
   ],
