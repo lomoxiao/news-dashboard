@@ -1,6 +1,10 @@
 {
-  "last_updated": "2026-05-14T07:00:00+09:00",
+  "last_updated": "2026-05-15T07:00:00+09:00",
   "reports": [
+    {
+      "date": "2026-05-15",
+      "headline": "Claude for Small Business発表・dカードスキップ払い5/18開始・キオクシアHD売上2.2兆円超・CO-MAP量子ビット配置SWAP65〜85%削減・日経平均618円安"
+    },
     {
       "date": "2026-05-14",
       "headline": "AnthropicがB2B採用でOpenAI超え34.4%・ドコモRCS夏開始・Cleveland Clinic/RIKEN/IBM量子タンパク質シミュレーション成功・キャッシュレス141兆円"
@@ -114,7 +118,7 @@
     {
       "name": "Anthropic",
       "url": "https://www.anthropic.com",
-      "count": 8
+      "count": 9
     },
     {
       "name": "OpenAI",
@@ -134,7 +138,7 @@
     {
       "name": "arXiv",
       "url": "https://arxiv.org",
-      "count": 1
+      "count": 4
     },
     {
       "name": "日本銀行",
@@ -149,7 +153,7 @@
     {
       "name": "日本経済新聞",
       "url": "https://www.nikkei.com",
-      "count": 37
+      "count": 39
     },
     {
       "name": "NVIDIA",
@@ -184,7 +188,7 @@
     {
       "name": "CNBC",
       "url": "https://www.cnbc.com",
-      "count": 3
+      "count": 5
     },
     {
       "name": "BigGo",
@@ -274,7 +278,7 @@
     {
       "name": "ITmedia AIプラス",
       "url": "https://www.itmedia.co.jp",
-      "count": 3
+      "count": 4
     },
     {
       "name": "gihyo.jp",
@@ -369,7 +373,7 @@
     {
       "name": "PR TIMES",
       "url": "https://prtimes.jp",
-      "count": 5
+      "count": 6
     },
     {
       "name": "マイナビニュース",
@@ -409,7 +413,7 @@
     {
       "name": "BUSINESS LAWYERS",
       "url": "https://www.businesslawyers.jp",
-      "count": 2
+      "count": 3
     },
     {
       "name": "DGフィナンシャルテクノロジー",
@@ -499,6 +503,11 @@
     {
       "name": "CoinDesk Japan",
       "url": "https://www.coindeskjapan.com",
+      "count": 1
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com",
       "count": 1
     },
     {
@@ -684,7 +693,7 @@
     {
       "name": "KSI政策ニュース",
       "url": "https://www.policynews.jp",
-      "count": 3
+      "count": 4
     },
     {
       "name": "9to5Mac",
@@ -724,7 +733,7 @@
     {
       "name": "MoneyGlobe",
       "url": "https://www.money-globe.com",
-      "count": 1
+      "count": 2
     },
     {
       "name": "Car Watch",

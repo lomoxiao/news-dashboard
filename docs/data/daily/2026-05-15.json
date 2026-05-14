@@ -1,0 +1,341 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T07:00:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "AnthropicはSMB向け「Claude for Small Business」を5月13日に発表し、GoogleはI/O 2026（5月19日）直前にGemini IntelligenceでAndroidを刷新する計画を公開した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicはQuickBooks・PayPal・HubSpot等7サービスと統合する中小企業向けAI「Claude for Small Business」を5月13日に発表した。給与計算・請求書追跡・営業キャンペーン等15のワークフローを提供する。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモはdカードの支払いを最長6か月先に変更できる「スキップ払い」を5月18日から開始すると発表した。手数料率は実質年率12.0%で、導入記念に3,000万ポイント山分けキャンペーンを実施する。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "5月14日付arXivで強化学習を用いた量子ビット配置最適化「CO-MAP」が発表された。SWAPゲートオーバーヘッドを65〜85%削減する手法で、NISQデバイスの回路品質向上に直結する。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "2026年施行の改正資金決済法により円建てステーブルコインの発行体要件が整備された。JPYC（円ステーブルコイン）は2025年10月の正式発行後、2026年中の本格稼働を目指している。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "キオクシアHDは5月15日に2026年3月期決算を発表し、売上2兆2,247億円（前年比+30.3%）・純利益最大89%増となった。日経平均は5月14日に618円安の6万2,654円で引けた。"
+        }
+      ],
+      "must_read": {
+        "title": "AnthropicがSMB向け「Claude for Small Business」を発表——7サービス統合・15ワークフロー",
+        "url": "https://www.anthropic.com/news/claude-for-small-business",
+        "reason": "QuickBooks・PayPal等7サービスと統合した15の自動化ワークフローを提供し、中小企業のAI採用を加速させる新たなプラットフォーム展開となった。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "Anthropicが中小企業向けの新しいAIサービス「Claude for Small Business」を発表しましたよ！普段使いのツールとつなげて業務を自動化できるのは便利ですね。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicがQuickBooks・PayPal・HubSpotなど7つのツールと統合する中小企業向け「Claude for Small Business」を発表しましたよ！給与計算や請求書追跡など15のワークフローで自動化できますね。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモのdカードに「スキップ払い」が加わりましたよ！5月18日から始まって、支払いを最長6か月先に変更できます。導入記念に3,000万ポイントの山分けキャンペーンもあるので要チェックですね。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "量子コンピュータの最適化分野で新しい研究が出ましたよ！強化学習を使った「CO-MAP」という手法でSWAPゲートのオーバーヘッドを65〜85%も削減できるみたいです。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "改正資金決済法が2026年に施行されて、円建てステーブルコインの環境が整ってきていますよ！JPYCはすでに2025年10月から正式発行されていて、2026年中の本格稼働を目指していますね。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "キオクシアHDが今日（5月15日）に決算発表しましたよ！売上が2.2兆円を超えてAI需要でNANDフラッシュが好調で、純利益も最大89%増と好業績ですね。株式市場は5月14日に618円安でした。"
+        }
+      ],
+      "must_read": {
+        "title": "AnthropicがSMB向け「Claude for Small Business」を発表——7サービス統合・15ワークフロー",
+        "url": "https://www.anthropic.com/news/claude-for-small-business",
+        "reason": "QuickBooks・PayPalなど使い慣れたツールの中でClaudeが動いてくれるのは便利ですね。中小企業がAIを活用しやすくなる重要な展開です。",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Anthropic「Claude for Small Business」発表・QuickBooks等7サービス統合・15ワークフロー\n・Google I/O 2026（5/19）直前・Gemini IntelligenceでAndroidをOS→知性基盤へ転換プレビュー"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・dカード「スキップ払い」5月18日開始・最長6か月先払い変更・手数料年率12.0%・3000万P山分け\n・RCS 2026年夏開始・電話番号のみで画像/動画/スタンプ/グループチャット対応"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・CO-MAP: 強化学習で量子ビット配置最適化・SWAPオーバーヘッド65〜85%削減（arXiv 5/14）\n・QuPort/Neural QAOA²: モジュラーQPUコンパイル・量子組合せ最適化フレームワーク（arXiv 5/14）"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・改正資金決済法2026年施行・ステーブルコイン仲介業新設・JPYC 2025年10月正式発行\n・日銀CBDCブロックチェーン実験拡大・2026年内に発行可否決定予定"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・キオクシアHD 2026年3月期: 売上2.2兆円（+30.3%）・純利益最大89%増・AI需要NANDフラッシュ好調\n・日経平均5月14日終値62,654円（618円安）・トランプ大統領5/14〜15訪中・習近平と会談"
+        }
+      ],
+      "must_read": {
+        "title": "AnthropicがSMB向け「Claude for Small Business」を発表——7サービス統合・15ワークフロー",
+        "url": "https://www.anthropic.com/news/claude-for-small-business",
+        "reason": "Anthropic SMBプラットフォーム展開・7サービス統合・15ワークフロー・AI Fluency研修付属",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "AnthropicのSMB市場参入はB2B採用率でのOpenAI逆転に続く下位市場の取り込みであり、Google I/O前夜のGemini Intelligence戦略・キオクシア好決算・ステーブルコイン規制整備が連動して2026年のAI・デジタル経済インフラの構造変化を加速させている。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicのSMB市場参入はQuickBooks等既存SaaSへの統合により、企業向けAI採用が大企業からSMBへ拡大する段階を示す。Google I/O 2026（5月19日）でのGemini Intelligence正式発表は、AndroidをOSからインテリジェンス・プラットフォームへ転換する戦略宣言となる。OpenAIのEU向けGPT-5.5-Cyber提供は規制対応と市場確保の両立を図る施策として位置づけられる。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "dカード「スキップ払い」は実質年率12.0%の後払い繰延サービスで、既存クレジット機能の拡張により利用者の資金繰り柔軟性を高める。RCSの2026年夏開始はiOS・Android双方とMVNOへの対応を含み、SMSから国際標準規格への移行により通信キャリアのメッセージング基盤が刷新される。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "5月14日付arXivのCO-MAPは65〜85%のSWAP削減という数値を提示し、NISQデバイスのノイズ低減と回路深さ削減に直結する。QuPort・Neural QAOA²とあわせ、量子コンパイル・最適化の実装研究の論文数と技術的成熟度が向上していることを示す。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "改正資金決済法の2026年施行により、銀行・資金移動業者・信託会社に限定された円建てステーブルコイン発行体要件が確立した。JPYCの本格稼働と日銀CBDC発行可否決定が同年内に重なることで、日本のデジタル決済インフラの法的基盤が短期間で整備される。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "キオクシアHDの売上2.2兆円超はAIデータセンター向けNAND需要の急増を反映し、日本半導体産業の業績回復が数値として確認された。日経平均の618円安（フジクラ株下落波及）では個別株主導の下落が全体相場に波及した。トランプ訪中による外交日程が続く中、市場は米中関係の動向を注視している。"
+        }
+      ],
+      "must_read": {
+        "title": "AnthropicがSMB向け「Claude for Small Business」を発表——7サービス統合・15ワークフロー",
+        "url": "https://www.anthropic.com/news/claude-for-small-business",
+        "reason": "大企業採用でのOpenAI超えに続くSMB市場への本格参入は、AnthropicのAIエコシステムが既存ビジネスSaaSを包含する段階に入ったことを示し、AI市場の構造転換を加速させる可能性がある。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 88,
+      "trend_history": [95, 95, 93, 90, 88, 87, 90, 90, 88],
+      "summary_short": "Claude for Small Business発表・Google I/O 2026直前プレビュー",
+      "summary_long": "AnthropicがQuickBooks・PayPal等7サービスと統合する中小企業向けAI「Claude for Small Business」を5月13日に発表した。Google I/O 2026（5月19日）直前にGemini IntelligenceによるAndroid刷新計画が公開された。OpenAIはGPT-5.5 InstantリリースとEU向けサイバーモデル提供を発表した。",
+      "articles": [
+        {
+          "title": "AnthropicがSMB向け「Claude for Small Business」を発表——7サービス統合・15ワークフロー",
+          "url": "https://www.anthropic.com/news/claude-for-small-business",
+          "source": "Anthropic",
+          "summary_short": "AnthropicがSMB向けAI「Claude for Small Business」を発表",
+          "summary_long": "AnthropicはQuickBooks・PayPal・HubSpot等7サービスと統合する中小企業向けAI「Claude for Small Business」を2026年5月13日に発表した。給与計算・請求書追跡・営業キャンペーン等15のワークフローを提供し、Team/EnterpriseプランではデータによるAI学習は行わない。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "Google、AndroidをGemini Intelligenceで再構築——I/O 2026（5月19日）直前プレビュー",
+          "url": "https://www.cnbc.com/2026/05/12/google-races-put-gemini-at-center-of-android-before-apples-ai-reboot.html",
+          "source": "CNBC",
+          "summary_short": "Google I/O 2026直前・Gemini IntelligenceでAndroid全面刷新",
+          "summary_long": "GoogleはI/O 2026（5月19〜20日）直前に、AndroidをGemini Intelligenceを中心に再構築すると発表した。Gemini Intelligenceはアプリ横断で動作しGmail・ショッピング・予約などを自律的に完了させる。Googlebook（Gemini最適化の新カテゴリ・プレミアムノートPC）もAndroid Showで公開された。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "OpenAI、GPT-5.5 Instant（5月5日）リリースとEU向けGPT-5.5-Cyber提供を発表",
+          "url": "https://www.cnbc.com/2026/05/11/openai-eu-cyber-model-anthropic-mythos-gpt.html",
+          "source": "CNBC",
+          "summary_short": "OpenAIがGPT-5.5 Instant・EU向けサイバーモデル提供を発表",
+          "summary_long": "OpenAIは5月5日に軽量版GPT-5.5 Instantをリリースした。欧州企業・政府機関向けにGPT-5.5-Cyberの提供も発表した。一方、AnthropicのMythosモデルはEU市場への提供を保留している。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 70,
+      "trend_history": [72, 68, 65, 70, 72, 70, 68, 72, 70],
+      "summary_short": "dカードスキップ払い5/18開始・RCS夏開始発表",
+      "summary_long": "NTTドコモはdカードに支払いを最長6か月先に変更できる「スキップ払い」を5月18日から導入すると発表した。手数料率は実質年率12.0%で、3,000万ポイント山分けキャンペーンを実施する。また電話番号のみで画像・動画・スタンプを送受信できるRCSを2026年夏から開始する。",
+      "articles": [
+        {
+          "title": "dカードに「スキップ払い」を導入——支払いを最長6か月先に変更可能・5月18日開始",
+          "url": "https://prtimes.jp/main/html/rd/p/000000814.000118641.html",
+          "source": "PR TIMES",
+          "summary_short": "dカードスキップ払い5/18開始・年率12%・3000万P山分け",
+          "summary_long": "NTTドコモは5月11日、dカードの支払いを最長6か月先に変更できる「スキップ払い」を5月18日から導入すると発表した。手数料率は実質年率12.0%で、対象明細を合計30,000円以上変更した利用者を対象に3,000万ポイント山分けキャンペーンを実施する（1人最大3,000ポイント、付与は2026年10月頃予定）。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモ、SMSの後継メッセージサービス「RCS」を2026年夏から開始",
+          "url": "https://www.itmedia.co.jp/mobile/articles/2605/13/news077.html",
+          "source": "ITmedia",
+          "summary_short": "ドコモRCS夏開始・画像/動画/スタンプ/グループチャット対応",
+          "summary_long": "NTTドコモは5月13日、SMSの後継となるRCS（リッチコミュニケーションサービス）を2026年夏から提供開始すると発表した。電話番号のみで画像・動画・スタンプの送受信とグループチャット・既読確認が可能となる。iOS・Android双方に対応し、MVNOユーザーへの展開も予定している。",
+          "importance": 5,
+          "fetch_failed": false
+        }
+      ],
+      "related": ["https://www.docomo.ne.jp/info/news_release/2026/05/13_00.html"]
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 40,
+      "trend_history": [52, 48, 45, 50, 42, 40, 45, 45, 40],
+      "summary_short": "arXiv5月14日: 量子ビット配置・コンパイル・最適化論文3件",
+      "summary_long": "5月14日付arXivで量子コンピューティングの実装効率化研究が複数公開された。CO-MAPは強化学習でSWAPゲートオーバーヘッドを65〜85%削減し、QuPortはモジュラー多QPUシステム向けコンパイルを提案した。Neural QAOA²はグラフ分割とパラメータ初期化を統合した量子組合せ最適化フレームワークを提示した。",
+      "articles": [
+        {
+          "title": "CO-MAP: 強化学習による量子ビット配置問題の解決——SWAPオーバーヘッドを65〜85%削減",
+          "url": "https://arxiv.org/abs/2605.13638",
+          "source": "arXiv",
+          "summary_short": "強化学習ベースCO-MAPで量子SWAPオーバーヘッドを65〜85%削減",
+          "summary_long": "arXiv（2026年5月14日）掲載。強化学習アプローチCO-MAPにより、量子コンピュータのSWAPゲートオーバーヘッドを65〜85%削減する量子ビット配置最適化手法を提案した。NISQデバイスのノイズ低減と回路深さ削減に直結するアプローチとして研究コミュニティの関心を集めている。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "QuPort: トポロジー・ポート・輻輳を考慮したモジュラー多QPUコンパイルフレームワーク",
+          "url": "https://arxiv.org/abs/2605.12583",
+          "source": "arXiv",
+          "summary_short": "モジュラー多QPU向けコンパイルQuPortをarXivで発表",
+          "summary_long": "arXiv（2026年5月14日）掲載。複数のQPUを持つモジュラー量子システム向けに、トポロジー・ポート・輻輳を同時に考慮したコンパイルフレームワーク「QuPort」を提案した。量子コンピューティングのスケールアップに向けた実装インフラの整備に貢献する研究。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "Neural QAOA²: グラフ分割とパラメータ初期化を統合した量子組合せ最適化フレームワーク",
+          "url": "https://arxiv.org/abs/2605.13072",
+          "source": "arXiv",
+          "summary_short": "Neural QAOA²が量子組合せ最適化のグラフ分割と初期化を統合",
+          "summary_long": "arXiv（2026年5月14日）掲載。QAOA（量子近似最適化アルゴリズム）において、グラフ分割とパラメータ初期化を微分可能な単一フレームワークで統合したNeural QAOA²を提案した。量子アルゴリズムの実用化に向けた最適化効率の向上に貢献する研究。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 55,
+      "trend_history": [58, 55, 52, 55, 50, 52, 55, 55, 55],
+      "summary_short": "改正資金決済法施行・JPYC本格稼働・日銀CBDC実験拡大",
+      "summary_long": "2026年施行の改正資金決済法により円建てステーブルコインの発行体要件（銀行・資金移動業者・信託会社）が確立した。JPYCは2025年10月の正式発行後2026年中の本格稼働を目指している。日本銀行はCBDC発行可否を2026年内に決定する前にブロックチェーン決済実験を拡大している。",
+      "articles": [
+        {
+          "title": "改正資金決済法2026年施行——電子決済手段（ステーブルコイン）の仲介業新設と規制整備",
+          "url": "https://www.businesslawyers.jp/articles/1476",
+          "source": "BUSINESS LAWYERS",
+          "summary_short": "改正資金決済法2026年施行・ステーブルコイン仲介業新設",
+          "summary_long": "2025年6月成立の改正資金決済法が2026年に施行され、電子決済手段（ステーブルコイン）の仲介のみを行う「電子決済手段・暗号資産サービス仲介業」が新設された。特定信託受益権の定義改正により信託型ステーブルコインの運用条件も緩和された。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "JPYC、円建てステーブルコインとして2025年10月正式発行・2026年本格稼働へ",
+          "url": "https://www.money-globe.com/articles/crypto/stablecoin-japan-2026",
+          "source": "MoneyGlobe",
+          "summary_short": "JPYC 2025年10月正式発行・2026年中の本格稼働目指す",
+          "summary_long": "JPYC株式会社が2025年10月に円建てステーブルコインJPYCを正式発行した。改正資金決済法のライセンス取得を経て2026年中の本格稼働を目指している。国内初の本格円建てステーブルコインとして金融機関・フィンテック企業からの関心が高まっている。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "日本銀行、CBDC発行可否決定を前にブロックチェーン決済サンドボックスを拡大",
+          "url": "https://www.coindesk.com/business/2026/03/03/bank-of-japan-expands-blockchain-settlement-sandbox-as-2026-cbdc-decision-nears",
+          "source": "CoinDesk",
+          "summary_short": "日銀がCBDC決定前にブロックチェーン決済実験を拡大",
+          "summary_long": "日本銀行は2026年内のCBDC発行可否決定を前に、中央銀行マネーを用いたブロックチェーン決済のサンドボックス実験を拡大した。複数の民間金融機関と連携し、技術実証の規模と参加者数を増加させている。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": ["https://prtimes.jp/main/html/rd/p/000000814.000118641.html"]
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 65,
+      "trend_history": [68, 65, 62, 60, 58, 62, 60, 60, 65],
+      "summary_short": "キオクシア売上2.2兆円超・日経平均618円安・トランプ訪中",
+      "summary_long": "キオクシアHDは5月15日に2026年3月期決算を発表し、売上2兆2,247億円（前年比+30.3%）・純利益最大89%増の業績となった。日経平均は5月14日にフジクラ株の急落が波及し618円安の6万2,654円で引けた。トランプ米大統領は5月14〜15日に中国を訪問し習近平主席と会談した。",
+      "articles": [
+        {
+          "title": "キオクシアHD 2026年3月期決算: 売上2兆2,247億円（+30.3%）・純利益最大89%増——初の2兆円突破",
+          "url": "https://www.nikkei.com/article/DGXZQOUB120ZR0S6A210C2000000/",
+          "source": "日本経済新聞",
+          "summary_short": "キオクシア売上2.2兆円超・純利益最大89%増・初の2兆円突破",
+          "summary_long": "キオクシアHDは5月15日、2026年3月期の通期決算を発表した。売上高は2兆2,247億円（前年比+30.3%）と初めて2兆円を突破し、純利益は最大89%増となった。AI向けデータセンターのNANDフラッシュメモリ需要の急増と販売単価の上昇が主因。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "トランプ米大統領、5月14〜15日に中国を訪問——習近平主席と首脳会談",
+          "url": "https://www.policynews.jp/schedule/2026/005.html",
+          "source": "KSI政策ニュース",
+          "summary_short": "トランプ大統領5/14〜15訪中・習近平と首脳会談",
+          "summary_long": "トランプ米大統領は5月14日から2日間の日程で中国を訪問し、習近平国家主席と首脳会談を行った。NHK国際報道2026では米中の覇権争いの水面下での動向として5月15日放送で取り上げられた。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "日経平均、5月14日に618円安の6万2,654円——フジクラ株急落が相場全体に波及",
+          "url": "https://www.nikkei.com/markets/worldidx/chart/nk225/",
+          "source": "日本経済新聞",
+          "summary_short": "日経平均5/14終値62,654円（618円安）・フジクラ急落波及",
+          "summary_long": "日経平均は5月14日に618円安の6万2,654円で引けた。フジクラ株の急落（フジクラショック）が相場全体に波及した。ドル円は157.56〜157.99円で推移し、米インフレ継続を背景に円安基調が続いている。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 88,
+      "NTTドコモ": 70,
+      "量子コンピュータ": 40,
+      "金融決済": 55,
+      "国内・社会": 65
+    },
+    "source_distribution": {
+      "Anthropic": 1,
+      "CNBC": 2,
+      "PR TIMES": 1,
+      "ITmedia": 1,
+      "arXiv": 3,
+      "BUSINESS LAWYERS": 1,
+      "MoneyGlobe": 1,
+      "CoinDesk": 1,
+      "日本経済新聞": 2,
+      "KSI政策ニュース": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 5,
+      "4": 5,
+      "5": 4
+    }
+  }
+}
