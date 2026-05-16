@@ -1,6 +1,10 @@
 {
-  "last_updated": "2026-05-16T07:00:00+09:00",
+  "last_updated": "2026-05-17T07:00:00+09:00",
   "reports": [
+    {
+      "date": "2026-05-17",
+      "headline": "Anthropic×Gates財団2億ドル医療教育AI提携・SAP Claude統合・RIKEN×IBM量子タンパク質シミュレーション・アルファベット円債5765億円・キオクシアADS上場準備"
+    },
     {
       "date": "2026-05-16",
       "headline": "キオクシア純利益48倍8690億円予想・W杯日本代表26名発表三笘選外・Claude Platform AWS正式化・ドコモAI部門新設・欧州量子大型調達"
@@ -122,7 +126,17 @@
     {
       "name": "Anthropic",
       "url": "https://www.anthropic.com",
-      "count": 9
+      "count": 11
+    },
+    {
+      "name": "SAP",
+      "url": "https://news.sap.com",
+      "count": 1
+    },
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com",
+      "count": 1
     },
     {
       "name": "OpenAI",
@@ -132,7 +146,7 @@
     {
       "name": "NTTドコモ",
       "url": "https://www.docomo.ne.jp",
-      "count": 29
+      "count": 30
     },
     {
       "name": "NTTドコモビジネス",
@@ -212,12 +226,12 @@
     {
       "name": "ビジネスIT",
       "url": "https://www.sbbit.jp",
-      "count": 3
+      "count": 4
     },
     {
       "name": "野村証券",
       "url": "https://www.nomura.co.jp",
-      "count": 1
+      "count": 2
     },
     {
       "name": "The Register",
@@ -377,7 +391,7 @@
     {
       "name": "PR TIMES",
       "url": "https://prtimes.jp",
-      "count": 6
+      "count": 7
     },
     {
       "name": "マイナビニュース",
@@ -597,7 +611,7 @@
     {
       "name": "IBM",
       "url": "https://www.ibm.com",
-      "count": 8
+      "count": 9
     },
     {
       "name": "NEDO",
@@ -662,7 +676,7 @@
     {
       "name": "Bloomberg",
       "url": "https://www.bloomberg.com",
-      "count": 4
+      "count": 6
     },
     {
       "name": "Seoul Economic Daily",
@@ -762,7 +776,7 @@
     {
       "name": "Cleveland Clinic",
       "url": "https://newsroom.clevelandclinic.org",
-      "count": 1
+      "count": 2
     },
     {
       "name": "Yahoo!ファイナンス",

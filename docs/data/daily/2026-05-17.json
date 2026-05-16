@@ -1,0 +1,323 @@
+{
+  "date": "2026-05-17",
+  "generated_at": "2026-05-17T07:00:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "AnthropicはBill & Melinda Gates財団と4年間・2億ドルの提携を締結し、低・中所得国46億人を対象にClaudeを活用した医療・教育・農業支援を開始すると発表した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicはGates財団と4年間・2億ドルの提携を締結し、SAPとの提携でClaudeをSAP Business AIプラットフォームへ統合する計画が発表された。OpenAIは新規ビジネス顧客へ2ヶ月間無料のCodex提供という対抗策を打ち出した。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモソリューションズは社員のAI実践力をBlackBeltからWhiteBeltの4段階で認定する制度を開始した。2027年度末までにGreenBelt以上400名の認定を目標とし、Xperia 1 VIII SO-51Gは6月11日に発売される。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "Cleveland Clinic・理化学研究所・IBMが量子ハードウェアで12,635原子の複合タンパク質をシミュレーションし、量子コンピュータ史上最大規模の生物学的シミュレーションを達成した。IBMは量子クラウド10周年を記念し実用事例を公開した。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "Googleの親会社アルファベットが初の円建て社債を発行し、総額5,765億円はバークシャー・ハサウェイを超えて海外発行体最大規模となった。国内フィンテック企業のAIエージェントによる金融業務自動化も加速している。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "キオクシアホールディングスは米国預託株式（ADS）の上場準備を発表した。年初来300%の東証株高に続き米国市場でも投資家基盤の拡大を図る。日経平均は停戦合意報道を受け一時6万3,000円を超えたが、週末には調整して62,654円で引けた。"
+        }
+      ],
+      "must_read": {
+        "title": "AnthropicとBill & Melinda Gates財団が4年間・2億ドルの医療・教育・農業AI提携を締結",
+        "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+        "reason": "AIが先進国企業のツールから低・中所得国46億人を支援するインフラへ転換する転機を示す。医療・教育・農業の3分野で具体的な数値目標と実施計画が示された初の規模の提携となった。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "AnthropicがGates財団と2億ドルの大型提携を発表しましたよ！世界の医療・教育・農業にClaudeが活用される時代が来るみたいですね。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicとGates財団が4年間で2億ドルの大型パートナーシップを結びましたよ！SAPもClaudeをシステムに組み込む計画を発表していますね。OpenAIはビジネス顧客へ2ヶ月無料のCodexを提供して対抗していますよ。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモソリューションズがAIスキルを4段階で認定する制度を始めましたよ！WhiteBeltからBlackBeltまで、社員の実践力が見える化されますね。Xperia 1 VIIIの予約も始まっていますよ。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "Cleveland ClinicとRIKEN・IBMが量子コンピュータで12,635原子のタンパク質をシミュレーションしたみたいですよ！創薬研究への量子活用が本格化してきていますね。IBMは量子クラウド10周年の節目も迎えていますよ。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "Googleの親会社が日本市場で5,765億円の史上最大規模の円建て社債を発行しましたよ！AI投資向けの資金調達で日本市場が注目されているみたいですね。フィンテック企業のAI活用も加速しています。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "キオクシアが米国でもADS上場の準備を始めたみたいですよ！東証での300%超の株価上昇に続き、米国市場でも存在感を示そうとしているんですね。株式市場は停戦報道を受けて一時63,000円を超えましたよ。"
+        }
+      ],
+      "must_read": {
+        "title": "AnthropicとBill & Melinda Gates財団が4年間・2億ドルの医療・教育・農業AI提携を締結",
+        "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+        "reason": "AIが世界の医療・教育・農業問題の解決に使われる時代の到来を示す大型提携ですね。世界46億人に恩恵が届く可能性がある、とても意義深いパートナーシップだと思いますよ。",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Anthropic×Gates財団 4年間$2億提携・医療教育農業でClaude活用\n・SAP Business AIにClaudeを統合する計画発表\n・OpenAI 新規ビジネス顧客に2ヶ月無料Codex提供"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・NTTドコモソリューションズ AI実践レベル判定4段階認定制度を開始\n・2027年度末にGreenBelt以上400名目標\n・Xperia 1 VIII SO-51G 6月11日発売"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・Cleveland Clinic・RIKEN・IBM 12,635原子タンパク質を量子シミュレーション（史上最大）\n・IBM量子クラウド10周年・Aramco等が本番導入"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・アルファベット初の円建て社債5,765億円発行（海外勢過去最大）\n・フィンテック企業のAIエージェント金融業務自動化が加速"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・キオクシアが米国ADS上場準備発表・東証株価年初来300%超高\n・停戦報道で日経平均一時63,000円超・5月15日終値62,654円"
+        }
+      ],
+      "must_read": {
+        "title": "AnthropicとBill & Melinda Gates財団が4年間・2億ドルの医療・教育・農業AI提携を締結",
+        "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+        "reason": "Gates財団×Anthropic $2億・4年間・医療教育農業・46億人対象",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "AnthropicのGates財団との2億ドル提携とSAPとの連携強化は、AIが先進国のビジネスツールから地球規模の課題解決インフラへと転換する段階に入ったことを示し、量子コンピュータでの12,635原子タンパク質シミュレーション成功はハードウェアの生物学分野での実用可能性に具体的根拠を与えた。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicのGates財団との提携は医療・教育・農業の3分野を対象に低・中所得国46億人への直接支援を企図する。SAP Business AI統合は世界数十万のSAP利用企業へのClaudeの即時展開を意味し、企業AIの標準化が加速する。OpenAIの対抗措置はエージェントAI市場での競争の激化を示す。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "AI実践レベル判定制度の導入はAI活用度を人材評価基準に組み込む国内企業の先行事例として位置づけられる。Xperia 1 VIIIの搭載AIカメラ機能はスマートフォンでのAIが標準機能として浸透する段階を示す。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "12,635原子タンパク質のシミュレーション成功は、量子コンピュータが生物学・創薬分野でクラシカルコンピュータを超える実用的な問題を解き始めた証左である。IBM量子クラウド10年間の実績は商業展開の基盤整備が完了した段階への転換を示す重要な節目となる。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "アルファベットの円建て社債5,765億円は、グローバルテック企業が円建て調達コストの割安感を活用しAI投資資金を日本市場から確保する動きを示す。フィンテックAIエージェントの普及は経費・財務業務の自動化を通じて企業の生産性と人員配置変化を促進する。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "キオクシアのADS上場準備は、日本企業がAI需要の恩恵を受けて米国資本市場でも評価を得る動きであり、NANDメモリ需要の構造的増加が企業価値向上に直結した事例となる。停戦報道による株高は地政学リスク後退が日本株の上値余地を拡大させる可能性を示す。"
+        }
+      ],
+      "must_read": {
+        "title": "AnthropicとBill & Melinda Gates財団が4年間・2億ドルの医療・教育・農業AI提携を締結",
+        "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+        "reason": "AIが低・中所得国向けの社会インフラとして機能する段階に入ったことを示す初の大規模事例。医療・教育・農業の3分野で46億人を対象とした具体的な実施計画は、AIの経済的価値が先進国から途上国へ拡大する構造変化の画期となる。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 88,
+      "trend_history": [95, 93, 90, 91, 88, 93, 88, 82, 88],
+      "summary_short": "AnthropicがGates財団と2億ドル提携・SAPもClaude統合を発表",
+      "summary_long": "AnthropicはBill & Melinda Gates財団と4年間・2億ドル規模の提携を締結し、医療・教育・農業分野でClaudeを活用して低・中所得国46億人を支援する計画を発表した。SAP Sapphireカンファレンスでは、SAP Business AIプラットフォームへのClaude統合が発表された。OpenAIは新規ビジネス顧客へ2ヶ月間無料Codexを提供すると発表した。",
+      "articles": [
+        {
+          "title": "AnthropicとBill & Melinda Gates財団が4年間・2億ドルの医療・教育・農業AI提携を締結",
+          "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+          "source": "Anthropic",
+          "summary_short": "AnthropicとGates財団が4年間2億ドルの医療教育AI提携を締結した",
+          "summary_long": "AnthropicはBill & Melinda Gates財団と4年間・2億ドル規模の提携を締結した。Claude活用により低・中所得国46億人への医療・教育・農業支援を行う。ポリオ・HPVワクチン開発加速と農業生産性向上が主な取り組みとなる計画。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "SAP、Anthropicと提携——SAP Business AIプラットフォームにClaudeを統合",
+          "url": "https://news.sap.com/2026/05/sap-anthropic-to-bring-claude-sap-business-ai-platform/",
+          "source": "SAP",
+          "summary_short": "SAPがAnthropicと提携しSAP Business AIにClaudeを統合する",
+          "summary_long": "SAPはSAP Sapphireカンファレンスにてアンソロピックとの提携を発表した。SAP Business AIプラットフォームにClaudeの推論・エージェント機能を組み込み、SAP製品全体でAI活用を可能にする計画。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Anthropic × PwCが戦略提携を拡大——エンタープライズ向けAI導入を強化",
+          "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
+          "source": "Anthropic",
+          "summary_short": "AnthropicとPwCが戦略提携を拡大しエンタープライズAIを強化",
+          "summary_long": "AnthropicはPwCとの戦略提携拡大を発表した。PwCはClaudeを活用し技術構築・取引実行・企業機能刷新を行う。グローバル会計大手を通じた企業向けAI導入が加速する見通し。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "OpenAIが新規ビジネス顧客へ2ヶ月間無料Codexを提供——Anthropicの料金改定に対抗",
+          "url": "https://www.axios.com/2026/05/14/anthropic-claude-price-openai-tokens",
+          "source": "Axios",
+          "summary_short": "OpenAIが新規ビジネス顧客へ2ヶ月間無料Codexを提供",
+          "summary_long": "OpenAIのSam Altman CEOは新規ビジネスユーザーへ2ヶ月間の無料Codex使用を提供すると発表した。Anthropicがエージェント型AIプランの料金体系を見直したことへの対抗措置とされる。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 55,
+      "trend_history": [70, 70, 65, 63, 60, 65, 70, 60, 55],
+      "summary_short": "ドコモソリューションズがAI実践4段階認定制度・Xperia 1 VIII発売",
+      "summary_long": "NTTドコモソリューションズは社員のAI実践力を4段階（BlackBelt・GreenBelt・YellowBelt・WhiteBelt）で認定する「AI実践レベル判定」制度を2026年3月に開始した。2027年度末までにGreenBelt以上400人の認定を目標とする。NTTドコモはXperia 1 VIII SO-51Gを2026年6月11日に発売すると発表した。",
+      "articles": [
+        {
+          "title": "NTTドコモソリューションズ、社員のAI実践力を4段階で認定する「AI実践レベル判定」制度を開始",
+          "url": "https://prtimes.jp/main/html/rd/p/000000034.000126160.html",
+          "source": "PR TIMES",
+          "summary_short": "NTTドコモソリューションズがAI実践力を4段階で認定する制度を開始",
+          "summary_long": "NTTドコモソリューションズは社員のAI実践力を4段階（BlackBelt・GreenBelt・YellowBelt・WhiteBelt）で認定する「AI実践レベル判定」制度を2026年3月1日に開始した。2027年度末までにGreenBelt以上400人の認定を目標とする。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモ、Xperia 1 VIII SO-51Gを6月11日に発売——予約受付を開始",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/05/13_01.html",
+          "source": "NTTドコモ",
+          "summary_short": "NTTドコモがXperia 1 VIII SO-51Gを6月11日に発売",
+          "summary_long": "NTTドコモは2026年6月11日にソニー製Xperia 1 VIII SO-51Gを発売すると発表した。Xperia Intelligence搭載のAIカメラアシスト機能が特徴で、5月13日から予約受付を開始した。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 62,
+      "trend_history": [88, 90, 82, 82, 78, 77, 40, 55, 62],
+      "summary_short": "IBM量子クラウド10周年・RIKEN×IBMが12,635原子タンパク質シミュレーション",
+      "summary_long": "Cleveland Clinic・理化学研究所・IBMが量子ハードウェアで12,635原子の複合タンパク質をシミュレーションし、量子コンピュータで実行された生物学的に意味のある最大規模のシミュレーションを達成した。IBMは量子クラウド開始10周年を迎え、Aramco・Cleveland Clinic・Elevance Healthなどが本番導入を開始した。",
+      "articles": [
+        {
+          "title": "Cleveland Clinic・理化学研究所・IBM、量子コンピュータで12,635原子タンパク質のシミュレーションに成功",
+          "url": "https://newsroom.clevelandclinic.org/2026/05/05/cleveland-clinic-riken-and-ibm-model-a-12635-atom-protein--the-largest-known-to-be-simulated-with-quantum-computers",
+          "source": "Cleveland Clinic",
+          "summary_short": "RIKEN・IBMが12,635原子タンパク質を量子コンピュータでシミュレーション",
+          "summary_long": "Cleveland Clinic・理化学研究所・IBMが共同で12,635原子の複合タンパク質を量子ハードウェアでシミュレーションした。量子コンピュータで実行された生物学的意義のある最大規模のシミュレーションとなった。創薬研究への応用が注目される。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "IBM、量子クラウド開始10周年——Aramco・Cleveland Clinic・Elevance Healthが本番利用",
+          "url": "https://newsroom.ibm.com/2026-05-04-ibm-a-decade-of-quantum-on-the-cloud",
+          "source": "IBM",
+          "summary_short": "IBM量子クラウド開始10周年・Aramco等が本番利用段階に",
+          "summary_long": "IBMは2026年5月4日、量子コンピュータのクラウドアクセス開始から10周年を迎えたと発表した。Aramco・Cleveland Clinic・Elevance HealthなどがAIと量子コンピュータを本番利用している。当初予測より早く100量子ビット超を実現した。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 65,
+      "trend_history": [60, 65, 65, 66, 70, 68, 55, 62, 65],
+      "summary_short": "アルファベット初の円建て社債5765億円・フィンテックAIエージェント展開",
+      "summary_long": "Googleの親会社アルファベットが初の円建て社債を発行し、総額5,765億円はバークシャー・ハサウェイを超えて海外発行体最大規模となった。3年から40年の7本立て構成で、AI事業拡大に向けた資金調達の多様化が目的。マネーフォワード・LayerX・freeeなどフィンテック主要企業のAIエージェント活用も加速している。",
+      "articles": [
+        {
+          "title": "アルファベット、初の円建て社債5,765億円を発行——海外発行体として過去最大規模",
+          "url": "https://www.bloomberg.com/jp/news/articles/2026-05-15/TF215PP1SLC000",
+          "source": "Bloomberg",
+          "summary_short": "アルファベットが初の円建て社債5765億円を発行・海外勢過去最大",
+          "summary_long": "Googleの親会社アルファベットが初の円建て社債を発行し、総額5,765億円となった。バークシャー・ハサウェイを超えて海外発行体の円債として過去最大規模。AI事業拡大に向けた資金調達の多様化が目的で、3年から40年の7本立て。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "フィンテック主要企業がAIエージェントによる経費・財務業務の自動化を開始",
+          "url": "https://www.sbbit.jp/article/fj/177565",
+          "source": "ビジネスIT",
+          "summary_short": "フィンテック各社がAIエージェントによる経費・財務業務自動化を開始",
+          "summary_long": "マネーフォワード・LayerX・freeeなどが2026年にAIエージェント機能の開発・提供を開始した。経費精算・請求書処理・財務分析レポートの自動化が主な用途。金融機関によるスタートアップ買収・戦略投資も増加している。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 65,
+      "trend_history": [62, 60, 58, 62, 60, 60, 65, 72, 65],
+      "summary_short": "キオクシアADS上場準備・停戦報道受け日経平均一時63,000円超",
+      "summary_long": "キオクシアホールディングスは5月15日、米国預託株式（ADS）の上場準備を発表した。東京証券取引所での年初来300%超の株価上昇に続き、米国市場でも投資家基盤の拡大を図る。日経平均は停戦合意報道を受け一時6万3,000円を突破したが、5月15日終値は618円安の62,654円となった。",
+      "articles": [
+        {
+          "title": "キオクシアHD、米国預託株式（ADS）の上場準備を発表——東証300%超高騰後に米国市場へ",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-15/kioxia-prepares-us-listing-after-riding-ai-boom-to-record-profit",
+          "source": "Bloomberg",
+          "summary_short": "キオクシアが米国ADS上場準備発表・東証での300%高騰後に米国へ",
+          "summary_long": "キオクシアホールディングスは5月15日、米国預託株式（ADS）の上場準備を発表した。東京証券取引所での年初来300%超の株価上昇に続き、米国市場での投資家基盤拡大を図る。AI向けNAND型フラッシュメモリ需要急増が背景。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "日経平均、停戦合意報道で一時63,000円超——5月15日終値は618円安の62,654円",
+          "url": "https://www.nomura.co.jp/wealthstyle/article/0719/",
+          "source": "野村証券",
+          "summary_short": "停戦合意報道受け日経平均一時63,000円超・5月15日は62,654円引け",
+          "summary_long": "日経平均株価は停戦合意報道を受け一時6万3,000円を突破した。5月15日終値は前日比618円安の62,654円。野村証券は上振れシナリオで2026年末の日経平均が67,500円に達するとの見通しを発表した。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 88,
+      "NTTドコモ": 55,
+      "量子コンピュータ": 62,
+      "金融決済": 65,
+      "国内・社会": 65
+    },
+    "source_distribution": {
+      "Anthropic": 2,
+      "SAP": 1,
+      "Axios": 1,
+      "PR TIMES": 1,
+      "NTTドコモ": 1,
+      "Cleveland Clinic": 1,
+      "IBM": 1,
+      "Bloomberg": 2,
+      "ビジネスIT": 1,
+      "野村証券": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 6,
+      "4": 4,
+      "5": 2
+    }
+  }
+}
