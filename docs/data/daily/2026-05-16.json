@@ -1,0 +1,342 @@
+{
+  "date": "2026-05-16",
+  "generated_at": "2026-05-16T07:00:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "キオクシアHDが2026年4〜6月期の純利益を前年同期比48倍・8,690億円と予想し、W杯日本代表26名が発表された。AnthropicはClaude Platform on AWSを正式リリースし、6月15日付でAgent SDK利用を別枠クレジット制に移行すると発表した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicはAWS上でClaudeの全機能を提供する「Claude Platform on AWS」を5月11日に正式リリースした。6月15日からAgent SDK利用をProで月額$20相当、Max 20xで$200相当の別枠クレジット制に移行し、超過分は追加課金となる。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモは5月8日、7月1日付の組織改編を発表した。「エージェンティックAIプラットフォーム部」「グループデータ戦略統括部」を新設し、金融事業機能をNTTドコモ・フィナンシャルグループへ移管する。NTTドコモビジネスはAIエージェント属性情報レジストリのプロトタイプ開発を開始した。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "欧州の量子コンピューティング企業が相次いで大型資金調達を実施した。QuantWareが1億5,200万ユーロを調達して量子プロセッサ生産を拡大し、Q-CTRLは材料発見を従来比3,000倍高速化する量子ソフトウェアを開発したと発表した。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayは5月7日、NASDAQ上場後初の決算を発表した。通期営業収益は前年比27%増の3,807億円、月間取引ユーザー数（MTU）は10%増の約4,100万人となった。PayPay銀行の預金口座数は約1,000万口座に達した。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "キオクシアHDは5月15日、2026年4〜6月期の連結純利益が前年同期比48倍の8,690億円になるとの予想を発表した。日本サッカー協会は同日、2026年北中米W杯の日本代表26名を発表し、三笘薫・南野拓実は選外となった。"
+        }
+      ],
+      "must_read": {
+        "title": "キオクシア純利益48倍の8,690億円予想——4〜6月期、AI半導体需要で過去最高益更新",
+        "url": "https://www.nikkei.com/article/DGXZQOUB1483A0U6A510C2000000/",
+        "reason": "AI向けNAND型フラッシュメモリの需要急増が日本の半導体産業に具体的な数値として現れた。純利益48倍・8,690億円予想は日本企業として最大級のAI恩恵事例を示した。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "キオクシアが純利益48倍という驚異的な予想を出しましたよ！AIの波が日本の半導体企業にも大きく届いていますね。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicがAWS上でClaudeを全機能で使える「Claude Platform on AWS」をリリースしましたよ！6月15日からAgent SDKが別料金になるので、よく使う方は料金体系を確認しておくといいですね。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモが7月1日付でエージェンティックAI専門の部署を新設しますよ！AIエージェント同士が自律的に連携する時代に向けて、信頼性を検証する基盤づくりも始めているみたいですね。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "ヨーロッパの量子コンピュータ企業が相次いで大型資金調達に成功していますよ！QuantWareが1.5億ユーロ超を調達し、Q-CTRLは材料発見を3,000倍速くする技術も発表したみたいです。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayが上場後初の決算を発表しましたよ！売上は前年比27%増で月間ユーザーは4,100万人に達しましたね。金融サービスの成長が47%増と特に目立っています。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "W杯日本代表の26名が5月15日に発表されましたね。三笘薫は残念ながら選外に。一方でキオクシアは4〜6月期純利益48倍予想と、AI需要の恩恵を最大に受けていますよ！"
+        }
+      ],
+      "must_read": {
+        "title": "キオクシア純利益48倍の8,690億円予想——4〜6月期、AI半導体需要で過去最高益更新",
+        "url": "https://www.nikkei.com/article/DGXZQOUB1483A0U6A510C2000000/",
+        "reason": "純利益が一年で48倍になるというのは、AI向けNANDメモリの需要がどれだけ急増しているかをよく表していますね。日本企業でこれほどのAI恩恵を受けているのはキオクシアが最大級みたいです。",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Claude Platform on AWS正式リリース（5/11）・全Claude機能をAWSで提供\n・Claudeサブスク6/15刷新・Agent SDK月額$20〜$200の別枠クレジット制\n・Agent SDKクレジット導入・禁止のサードパーティツール利用再開"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・ドコモ7/1組織改編・エージェンティックAIプラットフォーム部新設・金融事業FG移管\n・AIエージェント属性情報レジストリProto開発・AgentCard+VC方式で信頼性検証"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・QuantWare 1.52億ユーロ調達・量子プロセッサ生産拡大\n・Q-CTRL 材料発見3000倍高速化量子ソフト開発\n・eleQtron 5700万ユーロ調達・イオントラップ量子事業拡大"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・PayPay上場後初決算・通期27%増収3807億円・MTU4100万人（+10%）\n・改正資金決済法施行・暗号資産「金融商品」化・インサイダー規制導入"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・W杯日本代表26名発表（5/15）・三笘薫・南野拓実落選・長友佑都5大会連続\n・キオクシア4-6月期純利益48倍8690億円予想・AI半導体需要急増\n・日経平均5/15週間大幅続落・宮城で震度5弱（M6.3）"
+        }
+      ],
+      "must_read": {
+        "title": "キオクシア純利益48倍の8,690億円予想——4〜6月期、AI半導体需要で過去最高益更新",
+        "url": "https://www.nikkei.com/article/DGXZQOUB1483A0U6A510C2000000/",
+        "reason": "キオクシア4-6月期純利益48倍・8690億円予想・AI向けNAND需要で最大級の恩恵",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "キオクシアの48倍純利益予想はAIデータセンター投資がNAND型半導体市場を構造的に変質させた証左であり、AnthropicのAWS統合とサブスク刷新はAIインフラ収益モデルの成熟段階への移行を示し、欧州量子企業の大型調達はハードウェア生産体制整備の段階的進展を示唆する。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Claude Platform on AWSはBedrock（AWSマネージド）とは異なるAnthropicマネージドの選択肢を提供し、データ処理・ガバナンス要件に応じた企業の調達複線化が進む。6月15日のAgent SDK別枠化はエージェント利用コストの透明化とAPIビジネスの収益安定化を同時に実現する施策として位置づけられる。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "エージェンティックAIプラットフォーム部の新設は、AIエージェント間取引が現実化しつつある市場環境への先行対応と解釈できる。AgentCard+VC方式のAIエージェントID基盤は、将来的なエージェント間の商取引インフラとしての役割が想定され、NTTグループのAI経済圏構築戦略と整合する。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "QuantWare（1.52億ユーロ）を含む欧州量子企業の相次ぐ大型調達は、研究段階から量子ハードウェア生産能力整備の段階に入ったことを示す。Q-CTRLの材料発見3,000倍高速化は実用的な量子アドバンテージを化学・材料科学領域で実証した初期事例として位置づけられる。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayの金融セグメント47%増は、決済インフラ上に積み上げた銀行・ローン・保険サービスのクロスセルが機能し始めた段階を示す。改正資金決済法の施行により暗号資産の法的地位が決済手段から金融商品へ転換し、機関投資家参入と規制対応コストの双方を促進する構造変化が生じた。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "キオクシアの4〜6月期純利益48倍予想は、NVIDIAやSKハイニックスと同様にAIデータセンター投資の直接受益者となった日本企業の出現を意味し、日本半導体産業の収益構造が変わりつつある点で象徴的な数値となった。W杯代表選考での三笘・南野落選は、怪我人リスク管理を優先した戦略的決断として受け止められている。"
+        }
+      ],
+      "must_read": {
+        "title": "キオクシア純利益48倍の8,690億円予想——4〜6月期、AI半導体需要で過去最高益更新",
+        "url": "https://www.nikkei.com/article/DGXZQOUB1483A0U6A510C2000000/",
+        "reason": "純利益48倍・8,690億円という数値はAIデータセンター向けNAND需要の急増が日本の半導体産業に具体的かつ大規模な影響を与えたことを定量的に示す。AI経済圏が産業収益に及ぼす構造変化を把握する上で不可欠な事例となった。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 82,
+      "trend_history": [95, 95, 93, 90, 91, 88, 93, 88, 82],
+      "summary_short": "Claude AWS統合正式化・サブスク刷新でエージェント利用別枠化",
+      "summary_long": "AnthropicはAWS上でClaudeの全機能を提供する「Claude Platform on AWS」を5月11日に正式リリースした。6月15日からAgent SDK利用をProで月額$20相当から別枠クレジット制に移行し、超過分は追加課金となる。Agent SDKクレジット新設により以前禁止されていたサードパーティエージェントツールの利用が再開される。",
+      "articles": [
+        {
+          "title": "Claude Platform on AWS 正式リリース——AnthropicがAWS上で全機能をマネージド提供",
+          "url": "https://www.publickey1.jp/blog/26/anthropicawsclaude_platform_on_awsclaudeaws.html",
+          "source": "Publickey",
+          "summary_short": "Claude Platform on AWS正式リリース・全機能をAWSで提供",
+          "summary_long": "Anthropicは2026年5月11日、AWS上でAnthropicが直接運営しClaudeの全機能を提供する「Claude Platform on AWS」の一般提供を開始した。Claude Managed Agents（ベータ版）・コード実行・Pythonワークフローを含み、認証・請求はAWSが担当する。Amazon Bedrockと異なりAnthropicがサービスを運営する新選択肢となる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "AnthropicがClaudeサブスク刷新——6月15日からAgent SDK利用を別枠クレジット制へ",
+          "url": "https://www.techno-edge.net/article/2026/05/14/5064.html",
+          "source": "TechnoEdge",
+          "summary_short": "Claudeサブスク6月15日刷新・Agent SDK利用が別枠クレジット制へ",
+          "summary_long": "Anthropicは6月15日から、Claude有料プランのAgent SDK利用を別立てクレジット制に移行する。Proは月額$20相当、Max 5xは$100相当、Max 20xは$200相当が付与される。未使用クレジットの繰り越しは不可で、超過時は標準APIレートで追加課金となりエージェント機能を主に利用するユーザーには実質値上げとなる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "AnthropicがClaude Agent SDKクレジットを新設、サードパーティツール利用を再開",
+          "url": "https://www.itmedia.co.jp/aiplus/articles/2605/14/news078.html",
+          "source": "ITmedia AIプラス",
+          "summary_short": "Agent SDKクレジット導入・禁止のサードパーティツール利用再開",
+          "summary_long": "Anthropicは5月13日、Claudeのサードパーティツール利用ポリシーを変更し「Claude Agent SDKクレジット」を導入した。以前禁止されていたOpenClawなどのサードパーティエージェントツールが再び利用可能となる。Enterpriseプランは月額$20相当、Premiumは$200相当のクレジットが付与される。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 60,
+      "trend_history": [57, 70, 70, 65, 63, 60, 65, 70, 60],
+      "summary_short": "ドコモがエージェンティックAI部門新設・AIエージェントID基盤試作",
+      "summary_long": "NTTドコモは5月8日、7月1日付の組織改編を発表した。「エージェンティックAIプラットフォーム部」「グループデータ戦略統括部」「技術戦略部」「事業開発部」などを新設し、金融事業機能をNTTドコモ・フィナンシャルグループへ移管する。NTTドコモビジネスはAIエージェント間の信頼性を確保する属性情報レジストリのプロトタイプ開発を開始した。",
+      "articles": [
+        {
+          "title": "NTTドコモ、7月1日付でエージェンティックAIプラットフォーム部など複数部署を新設",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/05/08_00.html",
+          "source": "NTTドコモ",
+          "summary_short": "ドコモ7月1日組織改編・エージェンティックAI部門を新設",
+          "summary_long": "NTTドコモは2026年5月8日、7月1日付の組織改編を発表した。「エージェンティックAIプラットフォーム部」と「グループデータ戦略統括部」を新設し、コンシューマサービス本部・マーケティングソリューション本部も新設する。金融事業機能はNTTドコモ・フィナンシャルグループへ移管する。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモビジネス、AIエージェント属性情報レジストリのプロトタイプ開発を開始",
+          "url": "https://it.impress.co.jp/articles/-/29323",
+          "source": "IT Leaders",
+          "summary_short": "AIエージェント属性情報レジストリのプロトタイプ開発開始",
+          "summary_long": "NTTドコモビジネスは、AIエージェント間の自律的取引・連携における信頼性確保のため「AIエージェント属性情報レジストリ（仮称）」のプロトタイプを開発した。AgentCardとVerifiable Credentials（VC）を組み合わせ、連携先AIエージェントの正当性を検証する仕組みで、デジタルIDウォレット連携や選択的開示技術への拡張も予定する。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 55,
+      "trend_history": [83, 88, 90, 82, 82, 78, 77, 40, 55],
+      "summary_short": "欧州量子企業が大型調達相次ぐ・Q-CTRL材料発見3000倍高速化",
+      "summary_long": "欧州を中心に量子コンピューティング企業の大型資金調達が相次いだ。QuantWareが1億5,200万ユーロの調達に成功して量子プロセッサ生産を拡大し、eleQtronが5,700万ユーロのシリーズAを完了した。Q-CTRLは材料発見を3,000倍高速化する量子ソフトウェアを開発し、実用的な量子アドバンテージの事例として注目される。",
+      "articles": [
+        {
+          "title": "QuantWare、1億5,200万ユーロを調達——量子プロセッサ生産能力を大幅増強",
+          "url": "https://note.com/qnews_channel/n/n38f4d4576e6e",
+          "source": "QNews Channel",
+          "summary_short": "QuantWareが1.52億ユーロ調達で量子プロセッサ生産拡大",
+          "summary_long": "量子プロセッサメーカーのQuantWareが1億5,200万ユーロ（約250億円）の資金調達に成功した。資金は量子プロセッサの生産能力増強に充てられ、欧州を中心に量子ハードウェアの供給体制強化が進む。同週にQuantum MachinesがQHarbor社を買収して欧州拠点を強化するなど、企業間の統合も加速している。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Q-CTRL、材料発見を3,000倍高速化する量子ソフトウェアを開発",
+          "url": "https://note.com/qnews_channel/n/n38f4d4576e6e",
+          "source": "QNews Channel",
+          "summary_short": "Q-CTRLが材料発見3000倍高速化する量子ソフトを開発",
+          "summary_long": "量子ソフトウェア企業Q-CTRLは、材料発見プロセスを従来比3,000倍高速化する量子ソフトウェアを開発したと発表した。化学・材料科学における量子コンピュータの実用的応用事例として位置づけられる。ORCAコンピューティングとSiC Systemsの提携など、産業AIとの融合事例も相次いでいる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "eleQtron、5,700万ユーロのシリーズA調達——イオントラップ型量子コンピュータ事業を拡大",
+          "url": "https://note.com/qnews_channel/n/n38f4d4576e6e",
+          "source": "QNews Channel",
+          "summary_short": "eleQtronが5700万ユーロのシリーズA調達・事業拡大",
+          "summary_long": "独eleQtronは5,700万ユーロのシリーズA資金調達を完了し、イオントラップ型量子コンピュータの事業拡大を進める。欧州量子産業では同週にQuantWareが1.52億ユーロを調達し、Groove Quantumが世界最大級の量子チップ工場建設を発表するなど、大規模な設備投資が相次いでいる。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 62,
+      "trend_history": [66, 60, 65, 65, 66, 70, 68, 55, 62],
+      "summary_short": "PayPay上場後初決算27%増・改正資金決済法2026年施行",
+      "summary_long": "PayPayは5月7日にNASDAQ上場後初の決算を発表し、通期営業収益は前年比27%増の3,807億円、月間取引ユーザー数は約4,100万人（10%増）となった。金融サービスセグメントは47%増の212億円と高成長を維持した。2026年に施行された改正資金決済法により暗号資産が「金融商品」に位置づけ直され、インサイダー取引規制が導入された。",
+      "articles": [
+        {
+          "title": "PayPay上場後初決算——通期営業収益27%増の3,807億円・MTU4,100万人達成",
+          "url": "https://paymentnavi.com/paymentnews/174319.html",
+          "source": "ペイメントナビ",
+          "summary_short": "PayPayが通期27%増収3807億円・MTU4100万人を達成",
+          "summary_long": "PayPayは2026年5月7日、NASDAQ上場後初の決算を発表した。通期営業収益は前年比27%増の3,807億円、月間取引ユーザー数（MTU）は10%増の約4,100万人となった。金融サービスセグメントは47%増の212億円で成長を牽引し、PayPay銀行の預金口座数は約1,000万口座・預金残高2.3兆円（23%増）に達した。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "改正資金決済法2026年施行——暗号資産を「金融商品」に位置づけインサイダー規制を導入",
+          "url": "https://keiyaku-watch.jp/media/hourei/2026-funds-settlement/",
+          "source": "契約ウォッチ",
+          "summary_short": "改正資金決済法施行・暗号資産を金融商品に位置づけ直し",
+          "summary_long": "2026年に施行された改正資金決済法では、暗号資産をこれまでの「決済手段」から「金融商品」として位置づけ直す方針が実施された。インサイダー取引規制の導入と交換業者への責任準備金制度が新設され、国内ステーブルコイン市場では信託型発行が主流となっている。JPYSCは2026年Q2に提供開始が予定されている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 72,
+      "trend_history": [65, 62, 60, 58, 62, 60, 60, 65, 72],
+      "summary_short": "W杯代表26名発表・キオクシア純利益48倍・日経平均続落",
+      "summary_long": "日本サッカー協会は5月15日、2026年北中米W杯の日本代表26名を発表した。エースの三笘薫（ブライトン）と南野拓実が選外となり、長友佑都（FC東京）はアジア初の5大会連続出場となった。キオクシアHDは4〜6月期純利益48倍・8,690億円の予想を発表し、日経平均は5月15日に前週末比で大幅続落した。宮城県では最大震度5弱の地震が発生した。",
+      "articles": [
+        {
+          "title": "キオクシア純利益48倍の8,690億円予想——4〜6月期、AI半導体需要で過去最高益更新",
+          "url": "https://www.nikkei.com/article/DGXZQOUB1483A0U6A510C2000000/",
+          "source": "日本経済新聞",
+          "summary_short": "キオクシア4-6月期純利益48倍の8690億円予想・AI需要急増",
+          "summary_long": "キオクシアホールディングスは5月15日、2026年4〜6月期の連結純利益が前年同期比48倍の8,690億円になるとの予想を発表した。2026年3月期通期の純利益は前期比約2倍の5,544億円で過去最高を更新した。AI向けデータセンター投資の加速でNAND型フラッシュメモリの需要が急拡大し、売上高は37%増の2兆3,376億円となった。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "W杯日本代表26名発表——三笘薫・南野拓実は選外、長友佑都が5大会連続選出",
+          "url": "https://news.web.nhk/newsweb/na/na-k10015122361000",
+          "source": "NHK",
+          "summary_short": "W杯日本代表26名発表・三笘薫・南野落選、長友5大会連続",
+          "summary_long": "日本サッカー協会は5月15日、2026年北中米ワールドカップに臨む日本代表26名を発表した。エースの三笘薫（ブライトン）は左ハムストリングス肉離れで選外となった。南野拓実も落選し、長友佑都（FC東京）はアジア初の5大会連続出場となった。久保建英・遠藤航・冨安健洋が選出され、グループFでオランダ・チュニジア・スウェーデンと対戦する。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "日経平均株価、5月15日（週）は前週末比で大幅続落——長期金利上昇が重し",
+          "url": "https://s.kabutan.jp/news/n202605151376/",
+          "source": "株探",
+          "summary_short": "日経平均5/15週間大幅続落・長期金利上昇懸念が重し",
+          "summary_long": "5月第3週（5/11〜5/15）の東京株式市場で日経平均株価は大幅続落した。国内外の長期金利上昇への警戒感が重しとなり、前週末の5/8終値（62,833円）から下落した。ドル円相場は158円台半ばで推移し、円安基調が続いている。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "宮城県で最大震度5弱の地震発生——マグニチュード6.3と推定",
+          "url": "https://www3.nhk.or.jp/news/html/20260515/k10015122500000.html",
+          "source": "NHK",
+          "summary_short": "宮城で最大震度5弱・マグニチュード6.3の地震が発生",
+          "summary_long": "5月15日、宮城県で最大震度5弱の地震が発生し、気象庁はマグニチュード6.3と推定した。NHKおよび時事通信が報じた。大きな被害情報は確認されていない。",
+          "importance": 3,
+          "fetch_failed": true
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 82,
+      "NTTドコモ": 60,
+      "量子コンピュータ": 55,
+      "金融決済": 62,
+      "国内・社会": 72
+    },
+    "source_distribution": {
+      "Publickey": 1,
+      "TechnoEdge": 1,
+      "ITmedia AIプラス": 1,
+      "NTTドコモ": 1,
+      "IT Leaders": 1,
+      "QNews Channel": 3,
+      "ペイメントナビ": 1,
+      "契約ウォッチ": 1,
+      "NHK": 2,
+      "日本経済新聞": 1,
+      "株探": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 6,
+      "4": 6,
+      "5": 1
+    }
+  }
+}
