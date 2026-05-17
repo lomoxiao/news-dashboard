@@ -436,6 +436,59 @@
     /* Sources page — row is clickable */
     .source-item { cursor: pointer; transition: background .12s; }
     .source-item:hover { background: var(--surface3); }
+
+    /* Knowledge Connector */
+    #kw-panel {
+      display: none;
+      position: fixed;
+      left: 12px; right: 12px; bottom: 12px;
+      max-width: 760px; margin: 0 auto;
+      background: var(--surface);
+      border: 1px solid var(--accent);
+      border-radius: 10px;
+      box-shadow: 0 -6px 28px rgba(0,0,0,.34);
+      padding: 12px;
+      z-index: 9999;
+    }
+    #kw-panel.kw-visible { display: block; }
+    #kw-panel-header {
+      display: flex; justify-content: space-between; align-items: center; gap: 8px;
+      color: var(--text2); font-size: 11px; font-weight: 700;
+      letter-spacing: .04em; text-transform: uppercase; margin-bottom: 8px;
+    }
+    #kw-keyword-badge {
+      display: inline-block; max-width: 100%;
+      background: var(--accent-dim); color: var(--text);
+      border: 1px solid rgba(91,141,238,.36);
+      border-radius: 999px; padding: 4px 10px; margin-bottom: 7px;
+      font-size: 13px; font-weight: 700;
+      overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+    }
+    #kw-article-ref {
+      color: var(--text3); font-size: 11px; margin-bottom: 8px;
+      overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+    }
+    #kw-prompt {
+      width: 100%; min-height: 56px; resize: vertical;
+      background: var(--surface2); color: var(--text);
+      border: 1px solid var(--border); border-radius: 8px;
+      padding: 8px 10px; margin-bottom: 10px;
+      font: inherit; font-size: 13px;
+    }
+    #kw-prompt:focus { outline: none; border-color: var(--accent); }
+    #kw-actions { display: flex; gap: 8px; align-items: center; }
+    #kw-send-btn, #kw-clear-btn {
+      border-radius: 8px; padding: 9px 12px;
+      font-family: inherit; font-weight: 700; font-size: 13px;
+    }
+    #kw-send-btn {
+      flex: 1; background: var(--accent); color: #fff; border: 1px solid var(--accent);
+    }
+    #kw-send-btn:hover { filter: brightness(1.08); }
+    #kw-clear-btn {
+      background: transparent; color: var(--text2); border: 1px solid var(--border);
+    }
+    #kw-clear-btn:hover { background: var(--surface2); color: var(--text); }
   </style>
 </head>
 <body>
@@ -544,6 +597,20 @@
     <a href="GRAND_DESIGN.md" target="_blank">設計書</a>
     <a href="https://github.com" target="_blank">GitHub</a>
   </footer>
+</div>
+
+<!-- Knowledge Connector panel -->
+<div id="kw-panel" role="region" aria-label="キーワード深掘りパネル">
+  <div id="kw-panel-header">
+    <span>Keyword Connector</span>
+    <button id="kw-clear-btn" type="button" aria-label="パネルを閉じる">閉じる</button>
+  </div>
+  <div id="kw-keyword-badge"></div>
+  <div id="kw-article-ref"></div>
+  <textarea id="kw-prompt" rows="2" placeholder="補足観点（任意）"></textarea>
+  <div id="kw-actions">
+    <button id="kw-send-btn" type="button">Slide Library で深掘り</button>
+  </div>
 </div>
 
 <!-- Source history modal -->
@@ -936,7 +1003,7 @@ function renderSourceFilterBar() {
 
 function articleCard(a, theme) {
   return `
-    <div class="article-card">
+    <div class="article-card" data-kw-title="${esc(a.title || '')}" data-kw-url="${esc(a.url || '')}" data-kw-source="${esc(a.source || '')}" data-kw-theme="${esc(theme || '')}" data-kw-summary="${esc(a.summary_long || '')}">
       <div class="art-header">
         <div class="art-title">
           <a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a>
@@ -958,6 +1025,100 @@ function articleCard(a, theme) {
 // ─────────────────────────────────────────────
 // Charts
 // ─────────────────────────────────────────────
+// Knowledge Connector
+(function () {
+  const SLIDE_LIBRARY_URL = 'https://lomoxiao.github.io/google-slides-speakerdeck-viewer/';
+  const kwState = { keyword: '', article: null };
+
+  function selectedArticleCard() {
+    const sel = window.getSelection();
+    if (!sel || sel.rangeCount === 0) return null;
+    let node = sel.anchorNode;
+    if (node && node.nodeType === Node.TEXT_NODE) node = node.parentElement;
+    return node && node.closest ? node.closest('.article-card') : null;
+  }
+
+  function articleFromCard(card) {
+    if (!card) return null;
+    return {
+      title: card.dataset.kwTitle || '',
+      url: card.dataset.kwUrl || '',
+      source: card.dataset.kwSource || '',
+      theme: card.dataset.kwTheme || '',
+      summary_long: card.dataset.kwSummary || ''
+    };
+  }
+
+  function kwHide() {
+    kwState.keyword = '';
+    kwState.article = null;
+    document.getElementById('kw-panel').classList.remove('kw-visible');
+    document.getElementById('kw-keyword-badge').textContent = '';
+    document.getElementById('kw-article-ref').textContent = '';
+  }
+
+  function kwDetect(event) {
+    if (event && event.target && event.target.closest && event.target.closest('#kw-panel')) return;
+
+    const sel = window.getSelection();
+    const text = sel ? sel.toString().trim() : '';
+    if (text.length < 2 || text.length > 100) {
+      kwHide();
+      return;
+    }
+
+    const card = selectedArticleCard();
+    if (!card) {
+      kwHide();
+      return;
+    }
+
+    kwState.keyword = text;
+    kwState.article = articleFromCard(card);
+    document.getElementById('kw-keyword-badge').textContent = text;
+
+    const ref = document.getElementById('kw-article-ref');
+    if (kwState.article && (kwState.article.title || kwState.article.source)) {
+      ref.textContent = '参照元: ' + [kwState.article.title, kwState.article.source].filter(Boolean).join(' / ');
+    } else {
+      ref.textContent = '';
+    }
+
+    document.getElementById('kw-panel').classList.add('kw-visible');
+  }
+
+  function kwSend() {
+    if (!kwState.keyword) return;
+
+    const params = new URLSearchParams();
+    const article = kwState.article || {};
+    const prompt = document.getElementById('kw-prompt').value.trim();
+
+    params.set('from', 'news');
+    params.set('keyword', kwState.keyword);
+    if (prompt) params.set('prompt', prompt);
+    if (article.url) params.set('url', article.url);
+    if (article.title) params.set('title', article.title);
+    if (article.source) params.set('source', article.source);
+    if (article.summary_long) params.set('summary', article.summary_long.slice(0, 400));
+
+    window.open(SLIDE_LIBRARY_URL + '?' + params.toString(), 'slide-library');
+    kwClear();
+  }
+
+  function kwClear() {
+    kwHide();
+    document.getElementById('kw-prompt').value = '';
+    const sel = window.getSelection();
+    if (sel) sel.removeAllRanges();
+  }
+
+  document.addEventListener('mouseup', kwDetect);
+  document.addEventListener('touchend', event => setTimeout(() => kwDetect(event), 150));
+  document.getElementById('kw-send-btn').addEventListener('click', kwSend);
+  document.getElementById('kw-clear-btn').addEventListener('click', kwClear);
+})();
+
 const charts = {};
 
 function destroyChart(id) {
