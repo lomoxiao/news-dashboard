@@ -1,0 +1,352 @@
+{
+  "date": "2026-05-18",
+  "generated_at": "2026-05-18T07:00:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "政府は18日、Claude Mythosの悪用対策を検討する関係省庁会議を開催し、重要インフラ15分野への企業向けサイバー防御指針策定を決めた。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicはClaude有料プランで6月15日からエージェント利用を別枠クレジット制に移行すると発表した。Pro月$20相当、Max 5x月$100相当のクレジットが付与され、Agent SDK等の自動化利用はAPI同レートで消費される。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモは5月18日、dカード「スキップ払い」を提供開始した。支払い月を最長6か月先に変更でき、3,000万ポイント山分けキャンペーンも実施する。7月1日付の組織改編でエージェンティックAIプラットフォーム部も新設される。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMは2026年内に4,158量子ビット規模のKookaburraシステムを公開し、RIKEN等との実証研究を根拠に年内の量子優位性達成に自信を示した。楽観シナリオでは2030年にQ-Day（暗号解読）到来との予測も公表された。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "金融庁は2026年夏に「暗号資産・ステーブルコイン課」を新設する方針を決定した。8年ぶりの大規模組織再編で、大手証券のステーブルコイン活用株式売買実証への支援も決定した。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "政府は18日のClaude Mythos対策会議で企業向けサイバー防御指針策定を確認した。5月19日発表の1-3月期GDP速報は前期比年率+2.9%（大和総研予測）で、ドル円（157〜158円台）への影響が注目される。"
+        }
+      ],
+      "must_read": {
+        "title": "AI「ミュトス」巡り関係省庁会議、18日開催へ 悪用時の対策検討",
+        "url": "https://www.nikkei.com/article/DGXZQOUA151650V10C26A5000000/",
+        "reason": "本日開催の政府会議でAI安全保障政策の基本方針が策定された。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "今日は政府がClaude Mythosへの対策会議を開いたり、ドコモのdカードに新機能が登場したりと、AIと生活に関係するニュースが多い一日でしたよ。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Claudeの有料プランが6月15日から変わるみたいですよ。AIエージェントを使う人向けに別のクレジット制度ができるんですが、自動化をよく使う人には実質値上げになるようです。Pro月$20、Max 5xなら月$100分のクレジットが付くみたいですね。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "今日からdカードで「スキップ払い」が使えるようになりましたね。支払いを最長6か月先に変えられるみたいです。3,000万ポイント山分けキャンペーンもあるみたいですよ。7月にはAI専門の部署も新設されるようです。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMが今年中に4,000量子ビット超えのKookaburraというシステムを出す計画みたいですね。理化学研究所などと一緒に研究して、年内に量子コンピュータの優位性を実証できると言っていますよ。一方でQ-Dayが2030年に来るかもという予測も出ています。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "金融庁が今年夏に暗号資産とステーブルコインを専門に扱う部署を作るんですね。8年ぶりの大きな組織変更で、デジタルなお金をしっかり管理していこうという姿勢が見えますね。株の決済にステーブルコインを使う実証実験の支援も決まったようですよ。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "政府が今日、Claude Mythosというすごく強力なAIへの対策会議を開いたんですね。重要インフラを守るための指針を作ることが決まったようです。明日は1-3月のGDPが発表される予定で、ドル円相場にも影響しそうですよ。"
+        }
+      ],
+      "must_read": {
+        "title": "AI「ミュトス」巡り関係省庁会議、18日開催へ 悪用時の対策検討",
+        "url": "https://www.nikkei.com/article/DGXZQOUA151650V10C26A5000000/",
+        "reason": "今日開かれた政府会議、AIと安全保障の今後を左右する重要な出来事でしたね。",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Claude有料プランが6月15日からエージェント利用を別枠クレジット制に移行（Pro月$20、Max 5x月$100）\n・ChatGPTシェアが4割を下回り、Claude・Geminiが台頭して三極化進行\n・政府がClaude Mythos悪用対策の関係省庁会議を5月18日に開催"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・dカード「スキップ払い」が5月18日に提供開始（最長6か月先まで変更可、3,000万ポイント山分け）\n・7月1日付でエージェンティックAIプラットフォーム部を新設\n・NTTグループ AIネイティブインフラ「AIOWN」展開、DC容量2033年度に3倍超の1GWへ"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・IBM Kookaburra（4,158量子ビット）年内公開・量子優位性達成目標\n・Q-Day（量子暗号解読）は楽観シナリオで2030年到来との予測\n・IBM Nighthawk（120量子ビット）が2029年誤り耐性達成への道標"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・金融庁が2026年夏に「暗号資産・ステーブルコイン課」を新設（8年ぶり大規模再編）\n・大手証券のステーブルコイン×株式売買実証に金融庁が支援決定\n・金融庁がステーブルコイン決済高度化プロジェクト3件を支援中"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・政府が5/18に関係省庁会議、Claude Mythos対策として企業向けサイバー指針策定へ\n・1-3月期GDP速報（5/19発表予定）、大和総研は前期比年率+2.9%と予測\n・ドル円157〜158円台、5/18週はGDP・FOMC議事・CPI等が集中"
+        }
+      ],
+      "must_read": {
+        "title": "AI「ミュトス」巡り関係省庁会議、18日開催へ 悪用時の対策検討",
+        "url": "https://www.nikkei.com/article/DGXZQOUA151650V10C26A5000000/",
+        "reason": "・本日開催の政府会議がAI安全保障政策の具体化に向けた分岐点となる",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "Claude Mythosをめぐる政府対応とAnthropicのエージェント型課金モデル転換は、AIが国家安全保障・商業インフラ両面に深く組み込まれた段階の到来を示す分水嶺となった。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicのClaude課金改定（6月15日）は、エージェント型AI利用の急拡大に対応した収益モデルの転換を示す。従来の対話型・エージェント型一体課金から分離することでClaude Codeの商業化が加速する可能性がある。ChatGPTシェア4割割れと合わせて、AI市場は三極化から集約への移行期にある。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "dカード「スキップ払い」の今日の提供開始（最長6か月延払い、3,000万ポイント）は消費者金融サービス拡充の一手だ。7月のエージェンティックAIプラットフォーム部新設と「AIOWN」展開（2033年度DC容量1GW）は、NTTグループがAIインフラ・サービスの両輪を整備する長期戦略の表れだ。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMのKookaburra（4,158量子ビット）は2026年の量子優位性実証の核となる計画で、RIKEN・Boeing等との実証研究が根拠とされるHPC融合型モデルを想定している。同時に2030年Q-Day到来予測は金融・通信の暗号インフラへの移行期間が実質4年以内に迫ることを意味し、NIST耐量子暗号への移行計画の加速を促す。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "金融庁の「暗号資産・ステーブルコイン課」新設（2026年夏）は、規制の枠組みがデジタル資産の「ルール作り」から「実装支援」フェーズに移行したことを示す。大手証券のステーブルコイン×株式売買実証支援と3社による銀行間決済実証の同時進行は、証券・決済の両面でデジタル資産の実用化が加速していることを示す。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "政府の18日Claude Mythos対策会議での企業向けサイバー防御指針策定決定は、AIの安全保障リスクが即時対応が必要な課題に移行したことを示す。5/19発表の1-3月GDP速報（大和総研：前期比年率+2.9%、日経センター：+1.48%）は予測幅が大きく、強い数値なら日銀利上げ期待が再燃しドル円（現在158.72円）は反落圧力となる可能性がある。"
+        }
+      ],
+      "must_read": {
+        "title": "AI「ミュトス」巡り関係省庁会議、18日開催へ 悪用時の対策検討",
+        "url": "https://www.nikkei.com/article/DGXZQOUA151650V10C26A5000000/",
+        "reason": "AIの国家安全保障リスクへの政府対応が具体化した本日の会議は、企業のAIガバナンスと重要インフラのサイバー対策立案に直接影響する政策的分岐点として注目される。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 90,
+      "trend_history": [88, 93, 88, 82, 88],
+      "summary_short": "Claude料金改定で6月からエージェント利用が別枠化、三極化進む",
+      "summary_long": "AnthropicはClaude有料プランで6月15日からエージェント利用を別枠クレジット制に移行する。ChatGPTシェアが4割を下回り、Claude・Geminiが台頭し市場の三極化が進む。政府は18日、Claude Mythosの悪用対策を検討する関係省庁会議を開催した。",
+      "articles": [
+        {
+          "title": "AnthropicがClaudeサブスク刷新 エージェント利用を別枠化、使い方で実質値上げも 6月15日から",
+          "url": "https://www.techno-edge.net/article/2026/05/14/5064.html",
+          "source": "テクノエッジ",
+          "summary_short": "Claudeが6月15日からエージェント利用を別クレジット制に移行し実質値上げ",
+          "summary_long": "AnthropicはClaude有料プランのエージェント利用を6月15日から別枠クレジット制に移行する。Pro月$20相当、Max 5x月$100相当、Max 20x月$200相当のクレジットが付与され、Agent SDK等の自動化利用はAPIと同レートで消費される。ヘビーなエージェント利用者には実質値上げとなる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "ChatGPTがシェア4割を切る 急伸するClaude、安定のGemini――生成AI三極化の兆し",
+          "url": "https://www.itmedia.co.jp/enterprise/articles/2605/08/news033.html",
+          "source": "ITmedia AIプラス",
+          "summary_short": "ChatGPTシェアが4割割れ、Claude・Geminiが台頭し三極化の兆し",
+          "summary_long": "2026年4月の米国生成AIチャットアプリ市場でChatGPTの日次利用者シェアが4割を下回った。ClaudeとGoogle Geminiが利用者を伸ばしており、3社による三極化が進行中だ。高頻度利用層の拡大も継続している。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "AI「ミュトス」巡り関係省庁会議、18日開催へ 悪用時の対策検討",
+          "url": "https://www.nikkei.com/article/DGXZQOUA151650V10C26A5000000/",
+          "source": "日本経済新聞",
+          "summary_short": "政府がClaude Mythos悪用対策の関係省庁会議を5月18日に開催",
+          "summary_long": "政府は5月18日、新型AI「Claude Mythos」の悪用に備えたサイバー対策を検討する関係省庁会議を開催した。松本デジタル相を議長に電力・金融を含む重要インフラ15分野への対策拡大を議論し、企業向けガイドラインの策定を検討している。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 58,
+      "trend_history": [60, 65, 70, 60, 55],
+      "summary_short": "dカードスキップ払い本日開始、7月にAI専門部門も新設",
+      "summary_long": "NTTドコモはdカード「スキップ払い」を5月18日から提供開始した。支払いを最長6か月先に変更できるサービスを開始し、3,000万ポイント山分けキャンペーンも実施する。7月1日付の組織改編ではエージェンティックAIプラットフォーム部を新設し、NTTグループのAIネイティブインフラ「AIOWN」でデータセンター容量の2033年度3倍超拡張も計画する。",
+      "articles": [
+        {
+          "title": "ドコモが7月に組織再編、コンシューマサービスカンパニー新設、新事業開発部の廃止など",
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/1590498.html",
+          "source": "ケータイ Watch",
+          "summary_short": "ドコモが7月1日に組織改編、エージェンティックAIプラットフォーム部を新設",
+          "summary_long": "NTTドコモは2026年7月1日付の組織改編を発表。エージェンティックAIプラットフォーム部を新設し、AI戦略・AIガバナンス・パートナー協業を一体的に推進する。グループデータ戦略統括部も新設し、データ活用人材の育成強化を図る。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "「dカード」のお支払い方法に、「スキップ払い」を導入",
+          "url": "https://prtimes.jp/main/html/rd/p/000000814.000118641.html",
+          "source": "PR TIMES",
+          "summary_short": "dカードスキップ払いが5月18日に開始、支払いを最長6か月先に変更可能",
+          "summary_long": "NTTドコモはdカードの新払い方法「スキップ払い」を5月18日から提供開始した。ショッピング1回払いの支払い月を最長6か月先まで変更でき、指定月に一括支払いする。提供開始記念で3,000万ポイント山分けキャンペーンも同日開始した。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTT、AI基盤「AIOWN」発表 2033年度にデータセンター容量を3倍超の1GWへ",
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/2104930.html",
+          "source": "ケータイ Watch",
+          "summary_short": "NTTグループがAIOWN発表、DC容量を2033年度に3倍超の1GWへ拡張",
+          "summary_long": "NTTグループはAIネイティブインフラ「AIOWN（AI×IOWN）」の展開を発表した（4月27日）。データセンターのIT電力容量を現状の約300MWから2033年度に向けて約1GWへ3倍超に拡張する計画で、NTTドコモビジネスが東京都心部に液冷対応AIデータセンターを建設中だ。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 65,
+      "trend_history": [78, 77, 40, 55, 62],
+      "summary_short": "IBM Kookaburra年内公開・量子優位性へ、Q-Day2030年予測が浮上",
+      "summary_long": "IBMは2026年内に4,158量子ビット規模のKookaburraシステムを公開し、RIKEN等との実証研究を根拠に年内の量子優位性達成を目指す。楽観シナリオではQ-Day（量子コンピュータによる暗号解読）が2030年に到来するとの予測が公表され、暗号インフラへの対応が急務となっている。",
+      "articles": [
+        {
+          "title": "IBM Kookaburra 4,158量子ビットシステム年内公開、2026年内に量子優位性達成へ",
+          "url": "https://www.ibm.com/roadmaps/quantum/2026/",
+          "source": "IBM",
+          "summary_short": "IBM Kookaburraが4,158量子ビット規模で年内公開、量子優位性実証へ",
+          "summary_long": "IBMは2026年内にKookaburraマルチチップシステム（1,386量子ビット×3チップ、合計4,158量子ビット相当）を公開予定。RIKEN・Boeing・Cleveland Clinic・Oak Ridge国立研究所との実証研究を根拠に、HPC融合型での量子優位性達成に自信を示している。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "量子コンピュータが暗号を破る「Q-Day」、2030年代前半に到来か",
+          "url": "https://news.yahoo.co.jp/articles/40512c281ac8bcf1e24845ae91efbe738ad68e51",
+          "source": "Yahoo!ニュース エキスパート",
+          "summary_short": "Q-Day到来が楽観シナリオで2030年と予測、BTCやETHに影響の可能性",
+          "summary_long": "楽観的なシナリオでは2030年、標準的な想定では2033年ごろにQ-Dayが到来する可能性が高いとの分析が公表された（Project Eleven）。BTCやETHなどの暗号資産に加え、金融インフラの暗号化基盤への影響が懸念されている。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "IBM unveils new 'Quantum Nighthawk' 120-qubit processor — on track for 2029 fault-tolerance milestone",
+          "url": "https://www.tomshardware.com/tech-industry/semiconductors/ibm-unveils-new-120-qubit-processor-and-software-stack",
+          "source": "Tom's Hardware",
+          "summary_short": "IBMがNighthawk（120量子ビット）発表、2029年誤り耐性達成への道標",
+          "summary_long": "IBMは120量子ビット搭載のQuantum Nighthawkを発表した（2025年11月）。最大5,000の2量子ビットゲート回路を実行可能で、2026年には約7,500ゲートへ拡張予定。実験的プロセッサLoonとともに、2029年のフォールトトレラント量子コンピューティング達成へのロードマップを裏付ける。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 68,
+      "trend_history": [70, 68, 55, 62, 65],
+      "summary_short": "金融庁が2026年夏に暗号資産課新設、ステーブルコイン活用加速",
+      "summary_long": "金融庁は2026年夏に「暗号資産・ステーブルコイン課」を新設する方針を決定した。8年ぶりの大規模組織再編の一環で、大手証券のステーブルコイン活用株式売買実証の支援も決定。トークン化預金・ステーブルコイン活用の決済実証プロジェクト3件も進行中で、デジタル資産活用の制度整備が加速している。",
+      "articles": [
+        {
+          "title": "【速報】金融庁、2026年夏に「暗号資産・ステーブルコイン課」新設へ──8年ぶり大規模組織再編の全容",
+          "url": "https://coinchoice.net/fsa-new-crypto-stablecoin-division-2026-reorganization/",
+          "source": "CoinChoice",
+          "summary_short": "金融庁が2026年夏に暗号資産・ステーブルコイン課を新設、8年ぶり再編",
+          "summary_long": "金融庁は2026年夏、「暗号資産・ステーブルコイン課」を新設する大規模組織再編を実施する。総合政策局を「資産運用・保険監督局」に改組し、監督局を「銀行・証券監督局」に変更する。資産運用立国推進と暗号資産・ステーブルコイン監督の強化が目的だ。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "金融相、ステーブルコインで株売買「画期的」、大手証券などの支援発表",
+          "url": "https://www.nikkei.com/article/DGXZQOUB132750T10C26A2000000/",
+          "source": "日本経済新聞",
+          "summary_short": "金融庁がステーブルコイン活用の株式売買実証実験を大手証券と支援",
+          "summary_long": "金融相は大手証券会社が計画するステーブルコインを使った株式売買実証実験への支援を発表した。金融庁はディーカレットDCP・GMOあおぞらネット銀行等3社によるトークン化預金・ステーブルコイン活用の銀行間決済実証も並行して支援しており、デジタル証券・決済の実装が加速している。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "金融庁、仮想通貨の金商法移行を説明 ステーブルコイン活用の決済高度化プロジェクト3件も進行中",
+          "url": "https://coinpost.jp/?p=704010",
+          "source": "CoinPost",
+          "summary_short": "金融庁が暗号資産課新設とステーブルコイン決済プロジェクト3件を説明",
+          "summary_long": "金融庁はBCCC Collaborative Dayで仮想通貨の金融商品取引法への移行方針を説明した。ステーブルコインを活用した決済高度化プロジェクト3件が進行中で、トークン化預金とステーブルコインを組み合わせた決済手法の有用性検証が続いている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": ["https://news.yahoo.co.jp/articles/40512c281ac8bcf1e24845ae91efbe738ad68e51"]
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 72,
+      "trend_history": [62, 65, 60, 68, 70],
+      "summary_short": "Claude Mythos対策会議を政府が開催、GDP速報は19日発表予定",
+      "summary_long": "政府は18日、Claude Mythosの悪用に備えたサイバー対策を検討する関係省庁会議を開催し、企業向け指針策定方針を確認した。5月19日には1-3月期GDP速報値（大和総研予測：前期比年率+2.9%）が発表される予定で、ドル円（157〜158円台）の動向に影響する。",
+      "articles": [
+        {
+          "title": "「ミュトス」などAI使いサイバー防御、企業向け指針 政府が策定へ",
+          "url": "https://www.nikkei.com/article/DGXZQOUA170RS0X10C26A5000000/",
+          "source": "日本経済新聞",
+          "summary_short": "政府がClaude Mythos対策として企業向けサイバー防御指針を策定へ",
+          "summary_long": "政府は18日の関係省庁会議を受け、Claude Mythos等の最新AIを利用したサイバー攻撃への対応指針を企業向けに策定する方針を固めた。松本デジタル相が議長を務め、電力・金融を含む重要インフラ15分野への対策拡大を協議した。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "2026年1-3月期GDP（1次速報）予測 前期比年率＋2.9％に下方修正",
+          "url": "https://www.dir.co.jp/report/research/economics/japan/20260513_025754.html",
+          "source": "大和総研",
+          "summary_short": "1-3月期GDP速報（5月19日発表）を大和総研が前期比年率+2.9%と予測",
+          "summary_long": "大和総研は2026年1-3月期のGDP速報値（1次速報、5月19日発表予定）を前期比年率+2.9%と予測した。日本経済研究センターの予測+1.48%と乖離があり、結果次第で日銀利上げ期待への影響を通じてドル円（157〜158円台）が変動する可能性がある。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "来週のドル円相場はどうなる？5/18週のイベント予定 2026年5月17日",
+          "url": "https://www.gaitame.com/media/entry/2026/05/17/120000",
+          "source": "外為どっとコム",
+          "summary_short": "ドル円157〜158円台、5月18日週はGDP・FOMC議事・CPI等の重要指標集中",
+          "summary_long": "5月18日週はGDP速報（19日）、FOMC議事要旨（20日）、4月全国CPI（22日）等の重要指標が集中する。ドル円は157円台を中心としたレンジが予想されるが、GDP・CPI結果次第で利上げ期待が揺れ、157円台後半〜158円台では介入警戒が上値を抑える。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": ["https://www.nikkei.com/article/DGXZQOUA151650V10C26A5000000/"]
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 90,
+      "NTTドコモ": 58,
+      "量子コンピュータ": 65,
+      "金融決済": 68,
+      "国内・社会": 72
+    },
+    "source_distribution": {
+      "日本経済新聞": 3,
+      "ケータイ Watch": 2,
+      "テクノエッジ": 1,
+      "ITmedia AIプラス": 1,
+      "PR TIMES": 1,
+      "IBM": 1,
+      "Yahoo!ニュース エキスパート": 1,
+      "Tom's Hardware": 1,
+      "CoinChoice": 1,
+      "CoinPost": 1,
+      "大和総研": 1,
+      "外為どっとコム": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 5,
+      "4": 10,
+      "5": 0
+    }
+  }
+}
