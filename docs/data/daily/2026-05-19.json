@@ -1,0 +1,392 @@
+{
+  "date": "2026-05-19",
+  "generated_at": "2026-05-19T07:00:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "G7パリ財務相・中銀総裁会議が最終日を迎え、Claude Mythosを悪用した金融サイバー攻撃対策を共同声明に盛り込む方向で合意した。内閣府は同日、1-3月期GDP速報を発表した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicはロンドンでCode with Claude開発者会議を5月19日開催した。研究・Platform・Code 3トラック制でライブ配信を提供し、東京は6月10日に予定される。5月12日発表のNLA（LLM内部状態の自然言語変換技術）と5月11日のClaude for Microsoft 365一般提供開始も注目を集めた。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモビジネスは5月12日、AIエージェント同士が自律取引する経済圏の信頼基盤として「AIエージェント属性情報レジストリ（仮称）」プロトタイプを発表した。Agent2Agent ProtocolのAgentCardとVerifiable Credentialsを活用する。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "5月18日付のarXivに量子誤り訂正エンコーダ合成の新手法が発表され、二量子ゲート数43%削減と回路深さ70%改善を達成した。IBMは量子プロセッサと富岳スーパーコンピュータの連携実証を完了し、2026年末の実用的量子優位性達成を目指す。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "G7財務相・中銀総裁会議が仏パリで開催され、Claude Mythosを悪用したサイバー攻撃対策を共同声明に盛り込む方針で調整された。三菱UFJ・三井住友・みずほ3メガバンクはMythosアクセス権を5月内に取得する見通しとなった。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "内閣府は5月19日、2026年1-3月期実質GDP速報（1次速報）を発表した。大和総研は前期比年率+2.9%と予測し、2四半期連続プラス成長が見込まれる。2026年春季賃上げ率は5.15%に確定している。"
+        }
+      ],
+      "must_read": {
+        "title": "G7財務相、新型AI「ミュトス」が主要議題に 金融リスク対策で協調",
+        "url": "https://www.nikkei.com/article/DGXZQOUA149QQ0U6A510C2000000/",
+        "reason": "G7パリ会議での共同声明がAI金融リスクへの国際的対応の分水嶺となった。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "今日はG7でAIのリスク管理が本格的に議論されたり、AnthropicのロンドンイベントやGDP発表もあって、技術と経済が交差する盛りだくさんな1日でしたよ！",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicがロンドンでCode with Claudeを開催しましたよ。研究・開発者向けの3トラック制で世界中からライブ配信で視聴できたみたいです。LLMの内部を「見える化」するNLAという技術も話題になっていますね。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモビジネスがAIエージェントの「身分証明書」の仕組みを試作したんですよ。AIが自律的に取引する社会に向けて、信頼できる相手かどうかを確認できる基盤を作っているみたいですね。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "量子コンピュータの誤り訂正回路が大幅に効率化されたという論文が出ましたよ。ゲート数が43%も減らせるって大きな進歩ですね。IBMも富岳と連携して年内に量子優位性を実証しようとしていますよ。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "G7の財務相たちがパリに集まって、AIを使ったサイバー攻撃への対策をまとめましたよ。日本のメガバンク3行も強力なAI「Mythos」の利用権を取得しようとしているみたいです。金融システムの防衛が急務になっていますね。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "今日は1-3月期GDPが発表されましたよ。前期比年率+2.9%くらいのプラスが見込まれていて、春の賃上げも5.15%に確定しているので、景気は底堅い感じですね。"
+        }
+      ],
+      "must_read": {
+        "title": "G7財務相、新型AI「ミュトス」が主要議題に 金融リスク対策で協調",
+        "url": "https://www.nikkei.com/article/DGXZQOUA149QQ0U6A510C2000000/",
+        "reason": "AIが金融の安全保障に関わる大事な話し合いでしたよ。国際社会が本格的に動き出した場面でしたね。",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Code with Claude London 5月19日開催（3トラック制、ライブ配信あり）\n・AnthropicがNLA（LLM内部状態の自然言語変換）を発表（5月12日）\n・Claude for Microsoft 365が一般提供開始（5月11日）"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・AIエージェント属性情報レジストリのプロトタイプ発表（A2A規格+VC技術採用）\n・AIネイティブインフラ「AIOWN」展開開始\n・d払い請求書払いで1,000万ポイント山分けキャンペーン実施中"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・量子誤り訂正エンコーダ：二量子ゲート43%削減・深さ70%改善（arXiv 2605.15266）\n・IBM×富岳連携実証済み、2026年末に実用的量子優位性達成目標\n・部分フォールトトレラント量子計算「Fire and ice」スキーム発表"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・G7パリ財務相会議：Mythos悪用サイバー攻撃対策を共同声明へ（5月18-19日）\n・3メガバンクがClaude Mythosアクセス権を5月内に取得へ\n・日銀がCBDCサンドボックスを拡大、2026年内に発行可否判断"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・1-3月期GDP速報（5月19日発表）、大和総研は前期比年率+2.9%と予測\n・春季賃上げ率5.15%（2026年連合最終集計）に確定\n・山林火災で焼損範囲が急拡大、専門家が3要因を指摘"
+        }
+      ],
+      "must_read": {
+        "title": "G7財務相、新型AI「ミュトス」が主要議題に 金融リスク対策で協調",
+        "url": "https://www.nikkei.com/article/DGXZQOUA149QQ0U6A510C2000000/",
+        "reason": "・G7パリ会議でAI金融リスク対策が国際共同声明の柱に",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "G7パリ財務相会議でClaude Mythosの金融サイバーリスクが国際合意の対象となったことは生成AIが国際金融秩序に直接影響する局面の到来を示し、日本のGDP成長と賃上げ確定が内需持続性を裏付ける中でAI・量子・金融の構造変化が同時進行した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Code with Claude Londonの3トラック開催はAnthropicのプロダクト戦略が「研究→プラットフォーム→コード」の三層に分化したことを示す。NLAによるLLM内部状態の自然言語変換は解釈可能性研究の進展であり、安全性監査の技術基盤として今後の規制対話に活用される可能性がある。Claude for Microsoft 365のGA化はOfficeのデファクト標準にClaudeが組み込まれたことを意味し、エンタープライズAI市場での影響力拡大を加速する。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモビジネスのAIエージェント属性情報レジストリはAgent2Agent（A2A）プロトコルとVerifiable Credentials（VC）という国際標準技術を採用しており、将来的なグローバル標準への合流を視野に入れた先行投資と評価できる。AIエージェント同士が自律的に経済活動する「エージェント経済圏」の信頼インフラ整備は、日本の通信事業者がAI時代の価値連鎖上で差別化を図る戦略的ポジショニングとなり得る。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "量子誤り訂正エンコーダの二量子ゲート数43%削減・深さ70%改善（arXiv 2605.15266）は、フォールトトレラント量子計算の物理量子ビット消費効率を大幅改善する技術的進歩だ。IBMのKookaburra（富岳連携実証済み）と合わせ、2026年内の実用的量子優位性達成は現実的な目標となりつつある。金融・創薬領域での先行活用が加速する一方、Q-Day（2030年楽観シナリオ）に向けた耐量子暗号への移行の緊急性が高まっている。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "G7パリ財務相会議でのClaude Mythos議論は、AIの能力水準が金融システムへの国際的な脅威として認定されたことを意味する。日本3メガバンクのMythosアクセス権取得は「攻撃的AIを防御的に活用する」逆説的アプローチで攻防の非対称性リスクを内包する。IMFの警告（AIが金融脆弱性を増幅）と日銀CBDCサンドボックス拡大が同時進行し、デジタル金融インフラの再設計が急務となっている。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "1-3月期GDP速報（前期比年率+2.9%予測）と春季賃上げ率5.15%確定は個人消費主導の内需持続性を示す。ただし通商摩擦と原油高が4月以降の外需・コストに下押し圧力をもたらしており、GDP強めの数値が日銀の追加利上げ期待を再燃させドル円158円台の変動リスクとなる可能性がある。AI・量子の技術革新が産業構造変化を加速する中、賃上げ基盤の持続が中長期的な成長シナリオの鍵となる。"
+        }
+      ],
+      "must_read": {
+        "title": "G7財務相、新型AI「ミュトス」が主要議題に 金融リスク対策で協調",
+        "url": "https://www.nikkei.com/article/DGXZQOUA149QQ0U6A510C2000000/",
+        "reason": "AIが国際金融秩序の脅威として認定された歴史的な会議であり、各国の規制・防衛対応が加速する分岐点として企業のリスク管理と政策立案に直接影響する。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 83,
+      "trend_history": [93, 88, 82, 88, 90],
+      "summary_short": "Code with Claude Londonが本日開催、NLAとM365 GA化も注目",
+      "summary_long": "AnthropicはロンドンでCode with Claude開発者会議を5月19日に開催した。研究・Platform・Code 3トラックでライブ配信を実施し、東京は6月10日予定。NLA（LLM内部状態の自然言語変換）が5月12日に発表され、Claude for Microsoft 365の一般提供も5月11日に始まった。",
+      "articles": [
+        {
+          "title": "Code with Claude London 2026 — 5月19日開催、研究・Platform・Codeの3トラック制",
+          "url": "https://claude.com/code-with-claude/london",
+          "source": "Anthropic",
+          "summary_short": "AnthropicがロンドンでCode with Claude開発者会議を本日開催、3トラック制でライブ配信",
+          "summary_long": "Anthropicは2026年5月19日、ロンドンで開発者カンファレンス「Code with Claude」を開催した。研究トラック・Claude Platformトラック・Claude Codeトラックの3構成で、世界中からライブストリーミング配信を提供した。サンフランシスコ（5月6日）に続く第2弾で、東京は6月10日に予定される。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Anthropic、LLMの活性化値を自然言語に変換する新手法「NLA」発表　Claudeの内部状態を可視化し安全性監査に応用",
+          "url": "https://ledge.ai/articles/anthropic_natural_language_autoencoders_ai_activation_auditing",
+          "source": "Ledge.ai",
+          "summary_short": "AnthropicがLLM内部状態を自然言語に変換する「NLA」を発表、AI安全性監査に活用",
+          "summary_long": "Anthropicは2026年5月12日、大規模言語モデルの内部活性化値を自然言語に変換する「Natural Language Autoencoders（NLA）」を発表した。Claudeの内部状態を可視化して安全性監査に適用できる技術で、AIの解釈可能性研究を前進させる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Anthropic、Claude for Microsoft 365を一般提供　Excel・Word・PowerPointで文脈を引き継ぐAI作業支援",
+          "url": "https://ledge.ai/articles/claude_for_microsoft_365_general_availability",
+          "source": "Ledge.ai",
+          "summary_short": "AnthropicがClaude for Microsoft 365を一般提供開始、Office間で文脈を引き継ぐAI支援",
+          "summary_long": "Anthropicは2026年5月11日、Claude for Microsoft 365の一般提供を開始した。Excel・Word・PowerPointなどOfficeアプリ間で文脈を引き継ぐAI作業支援機能を提供し、企業のMicrosoft 365ユーザーが即日利用可能となった。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "AIエージェントは最小権限で使う｜Claude Code・MCP・VS Code拡張の安全な設定",
+          "url": "https://zenn.dev/takibilab/articles/ai-agent-least-privilege",
+          "source": "Zenn",
+          "summary_short": "Claude CodeとMCPを最小権限で運用する安全設定を解説、ファイル操作リスク管理が焦点",
+          "summary_long": "AIエージェント「Claude Code」が本物のファイル操作やAPI呼び出しを行うリスクを踏まえ、最小権限原則に基づく設定方法を詳述した実践ガイド。MCPおよびVS Code拡張での安全な権限設定例を提示し、自動化リスクの管理手法を解説する。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "OpenDeepThink: Bradley-Terryで並列推論の壁を突破、Codeforces +405 Elo",
+          "url": "https://zenn.dev/lixian/articles/open-deep-think-bt-reasoning",
+          "source": "Zenn",
+          "summary_short": "並列サンプリングとBradley-Terry比較でLLM推論精度向上、Codeforcesで+405 Eloを達成",
+          "summary_long": "並列サンプリング結果をペアワイズ比較とBradley-Terryランキングで統合する推論選択方式「OpenDeepThink」を検証した論文。Codeforces競技プログラミングで+405 Eloの改善を達成し、推論の質向上と計算コスト削減を両立した。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": ["https://innovatopia.jp/cyber-security/cyber-security-news/101441/"]
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 55,
+      "trend_history": [65, 70, 60, 55, 58],
+      "summary_short": "AIエージェント属性情報レジストリ試作、A2A+VC技術で自律取引信頼基盤を構築",
+      "summary_long": "NTTドコモビジネスは5月12日、AIエージェント同士が自律的に取引・連携する社会を見据えた「AIエージェント属性情報レジストリ（仮称）」プロトタイプを発表した。Agent2Agent Protocol（A2A）のAgentCardとVerifiable Credentials（VC）を活用し、AIエージェントの発行元・権限情報を一元管理する信頼基盤を構築する。",
+      "articles": [
+        {
+          "title": "AIエージェント経済圏の信頼の基盤となる「AIエージェント属性情報レジストリ(仮称)」のプロトタイプを開発",
+          "url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0512.html",
+          "source": "NTTドコモビジネス",
+          "summary_short": "NTTドコモビジネスがAIエージェント「身分証明」基盤を試作、A2A規格とVC技術を活用",
+          "summary_long": "NTTドコモビジネスは2026年5月12日、AIエージェントの信頼性確認を目的とする「AIエージェント属性情報レジストリ（仮称）」プロトタイプを発表した。Agent2Agent Protocol（A2A）のAgentCardとVerifiable Credentials（VC）を組み合わせ、AIエージェントの発行元・実行権限・データ流用ポリシーを一元管理する。今後はデジタルIDウォレットとの連携拡張も計画する。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "AI活用の進展に合わせたリソース最適化・オペレーションを実現するAIネイティブインフラ「AIOWN」の展開",
+          "url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0427_3.html",
+          "source": "NTTドコモビジネス",
+          "summary_short": "NTTドコモビジネスがAIネイティブインフラ「AIOWN」の展開を開始、AI活用進展に対応",
+          "summary_long": "NTTドコモビジネスは2026年4月27日、AI活用の進展に合わせてリソース最適化とオペレーション自動化を実現するAIネイティブインフラ「AIOWN」の展開を開始した。ネットワーク運用のAI化と高品質サービスの安定提供を目指し、データセンター容量の大幅拡張も計画する。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "「d払い請求書払いのご利用で1,000万ポイント山分けキャンペーン」（ドコモ）",
+          "url": "https://paymentnavi.com/paymentnews/173688.html",
+          "source": "ペイメントナビ",
+          "summary_short": "ドコモがd払い請求書払いで1,000万ポイント山分けキャンペーンを実施、5月期間限定",
+          "summary_long": "NTTドコモはd払いの請求書払い利用者を対象に1,000万dポイントを山分けするキャンペーンを実施した。d払いを通じたキャッシュレス決済の拡大を促進し、請求書支払いのデジタル化推進の一環として展開する。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 68,
+      "trend_history": [77, 40, 55, 62, 65],
+      "summary_short": "量子誤り訂正エンコーダで二量子ゲート43%削減、IBM富岳連携実証で優位性へ前進",
+      "summary_long": "2026年5月18日付のarXivに量子誤り訂正エンコーダ合成の新手法が発表され、二量子ゲート数43%削減と回路深さ70%改善を達成した。IBMは量子プロセッサと富岳スーパーコンピュータの連携実証を完了し、2026年末の実用的量子優位性達成を目指す。",
+      "articles": [
+        {
+          "title": "Synthesis and Optimization of Encoding Circuits for Fault-Tolerant Quantum Computation（量子誤り訂正エンコーダ回路の合成と最適化）",
+          "url": "https://arxiv.org/abs/2605.15266",
+          "source": "arXiv",
+          "summary_short": "量子誤り訂正エンコーダ回路の新合成法、二量子ゲート43%削減・深さ70%改善を達成",
+          "summary_long": "2026年5月18日投稿。任意の安定化子コードのエンコーダ回路を効率的に合成する新手法を提案し、既存手法と比較して二量子ゲート数43%削減・回路深さ70%改善を達成した。ホログラフィック符号やQECC（量子低密度パリティ検査符号）を含む広範な符号族での有効性を検証済み。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Fire and ice: Partially fault-tolerant quantum computing with selective state filtering（部分フォールトトレラント量子計算）",
+          "url": "https://arxiv.org/abs/2605.15344",
+          "source": "arXiv",
+          "summary_short": "Laflamme+Icebergコードを組み合わせた部分フォールトトレラント量子計算スキームを発表",
+          "summary_long": "2026年5月18日投稿。「Fire and ice」と命名された部分フォールトトレラント量子計算スキームは、5量子ビットLaflammeコードと4量子ビットIcebergコードを組み合わせた選択的状態フィルタリングにより、現実的なノイズ環境下での信頼性ある量子計算を実現する。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "IBM、量子×スーパーコンピューター統合の設計図を公開—富岳との連携実験も実証済み",
+          "url": "https://innovatopia.jp/quantum/quantum-news/90004/",
+          "source": "イノベトピア",
+          "summary_short": "IBMが量子×スーパーコンピュータ統合設計図を公開、IBM Heronと富岳の連携実証済み",
+          "summary_long": "IBMは量子プロセッサ（QPU）・GPU・CPUを統合する業界初の量子中心スーパーコンピューティング・リファレンス・アーキテクチャを公開した。理化学研究所とのIBM Quantum Heronプロセッサ×富岳連携実験で量子シミュレーションを実現し、2026年末の実用的量子優位性達成を目指す。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "量子コンピューターはついに実用フェーズへ IBMらが達成した実用的量子優位性、AI・量子融合の未来",
+          "url": "https://enterprisezine.jp/article/detail/24247",
+          "source": "EnterpriseZine",
+          "summary_short": "IBMが量子コンピュータ実用フェーズ突入を宣言、Kookaburraで年内優位性達成を目指す",
+          "summary_long": "IBMは量子コンピューティングが実用フェーズへ突入したと宣言し、Kookaburraシステムで2026年末に実用的量子優位性を達成する目標を示した。古典コンピュータを実際の問題で上回ることを意味し、金融・創薬分野への応用拡大が見込まれる。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 85,
+      "trend_history": [68, 55, 62, 65, 68],
+      "summary_short": "G7パリ会議でMythosサイバー対策を共同声明へ、3メガバンクがアクセス権取得",
+      "summary_long": "G7財務相・中銀総裁会議が2026年5月18〜19日にパリで開催され、Claude Mythosを悪用したサイバー攻撃対策と原油高対策で協調する共同声明を策定した。三菱UFJ・三井住友・みずほ3メガバンクはMythosアクセス権を5月内に取得する見通しで、金融庁も官民作業部会を設置した。",
+      "articles": [
+        {
+          "title": "G7財務相、新型AI「ミュトス」が主要議題に 金融リスク対策で協調",
+          "url": "https://www.nikkei.com/article/DGXZQOUA149QQ0U6A510C2000000/",
+          "source": "日本経済新聞",
+          "summary_short": "G7パリ財務相会議がClaude Mythosを悪用したサイバー攻撃対策を共同声明に盛り込む方針",
+          "summary_long": "G7は2026年5月18〜19日、フランス・パリで財務相・中央銀行総裁会議を開催した。Claude Mythosを悪用したサイバー攻撃への懸念を共有し、対策を共同声明に盛り込む方針で調整した。日本からは片山さつき財務相と植田和男日銀総裁が参加した。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "AIミュトスのアクセス権、三菱UFJ銀行など3メガバンクが入手へ",
+          "url": "https://www.nikkei.com/article/DGXZQOUB130SI0T10C26A5000000/",
+          "source": "日本経済新聞",
+          "summary_short": "三菱UFJ・三井住友・みずほの3メガバンクがClaude Mythosアクセス権を5月内に取得へ",
+          "summary_long": "三菱UFJ銀行・三井住友銀行・みずほ銀行の3メガバンクは、AnthropicのAIモデル「Claude Mythos」へのアクセス権を2026年5月中に取得する見通しとなった。Mythosは主要OS・Webブラウザの脆弱性を高精度で発見する能力を持ち、日本組織として初めてアクセスが認められるケースとなる。金融庁は5月14日に官民作業部会を設置した。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "Claude Mythos Preview×IMF警告：AIサイバー攻撃が金融システムを揺らす日",
+          "url": "https://innovatopia.jp/cyber-security/cyber-security-news/101441/",
+          "source": "イノベトピア",
+          "summary_short": "IMFが生成AIの金融サイバー攻撃リスクを警告、Claude MythosはCTFで73%の成功率",
+          "summary_long": "IMFは2026年5月7日、AIが金融システムの脆弱性対応を強化する一方でサイバー脅威も増幅させると警告した。Claude Mythos PreviewはOpenBSDの27年前・FFmpegの16年前の脆弱性を自律発見し、英国AI Security InstituteのCTF評価で73%の成功率を記録した。G7はこの懸念を共同声明に反映させる方向で調整した。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "日本銀行、2026年のデジタル円決定を前にトークン化された中銀準備金の決済実証拡大",
+          "url": "https://www.coindesk.com/business/2026/03/03/bank-of-japan-expands-blockchain-settlement-sandbox-as-2026-cbdc-decision-nears",
+          "source": "CoinDesk",
+          "summary_short": "日銀がデジタル円発行可否判断前にブロックチェーン決済サンドボックスを拡大",
+          "summary_long": "日本銀行は2026年のデジタル円（CBDC）発行可否判断を前に、ブロックチェーンを活用した中央銀行準備金決済の実証実験を拡大した。技術的な準備が整い次第、デジタル円の小売CBDCとしての可否を2026年内に判断する見通しで、日本のキャッシュレス化政策に大きな影響を与える。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 78,
+      "trend_history": [65, 60, 68, 70, 72],
+      "summary_short": "1-3月期GDP速報が5月19日発表、前期比年率+2.9%予測で2期連続プラス成長",
+      "summary_long": "内閣府は2026年5月19日、1-3月期の実質GDP速報値（1次速報）を発表した。大和総研は前期比年率+2.9%と予測し、個人消費・設備投資の底堅さとアジア向け輸出増が成長を支えたとみる。春季賃上げ率は5.15%に確定し、内需の持続性を裏付けた。",
+      "articles": [
+        {
+          "title": "2026年1-3月期GDP（1次速報）予測 前期比年率＋2.9％に下方修正",
+          "url": "https://www.dir.co.jp/report/research/economics/japan/20260513_025754.html",
+          "source": "大和総研",
+          "summary_short": "大和総研が1-3月期GDP速報を前期比年率+2.9%と予測、2四半期連続プラス成長の見込み",
+          "summary_long": "大和総研は2026年5月13日、内閣府が5月19日に発表する1-3月期実質GDP速報値（1次速報）を前期比年率+2.9%（前期比+0.7%）と予測した。個人消費・設備投資の底堅さとアジア向け輸出増が成長要因で、春季賃上げ率5.15%の確定も内需を支える。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "26年1〜3月期GDP、年率1.48%へ上方修正 春季賃上げ率5.15%へ上振れ",
+          "url": "https://www.jcer.or.jp/esp/20260317.html",
+          "source": "日本経済研究センター",
+          "summary_short": "2026年春季賃上げ率が5.15%に確定、1-3月期GDPの内需押し上げ効果に期待",
+          "summary_long": "日本経済研究センターは2026年春季賃上げ率が5.15%に上振れ確定したと報告した。これにより個人消費の回復が続き、1-3月期GDPへの内需押し上げ効果が期待される。ただし通商摩擦と原油高が先行きの下振れリスクとして残存する。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "焼損範囲が急速に拡大した理由は？専門家が指摘する「消火の難しさ」山林火災3日目",
+          "url": "https://news.infoseek.co.jp/article/tvasahi_900189162/",
+          "source": "テレビ朝日",
+          "summary_short": "山林火災で焼損範囲が急拡大、専門家が乾燥・地形・針葉樹の3要因を指摘",
+          "summary_long": "国内で山林火災が発生し焼損面積が急速に拡大した。専門家は乾燥条件・地形・針葉樹の密集という3要因が重なった結果として消火の困難さを指摘した。2026年1月から導入された林野火災注意報・警報制度の運用上の課題も浮き彫りになった。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": [
+        "https://www.nikkei.com/article/DGXZQOUA149QQ0U6A510C2000000/",
+        "https://www.nikkei.com/article/DGXZQOUB130SI0T10C26A5000000/"
+      ]
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 83,
+      "NTTドコモ": 55,
+      "量子コンピュータ": 68,
+      "金融決済": 85,
+      "国内・社会": 78
+    },
+    "source_distribution": {
+      "Anthropic": 1,
+      "Ledge.ai": 2,
+      "Zenn": 2,
+      "NTTドコモビジネス": 2,
+      "ペイメントナビ": 1,
+      "arXiv": 2,
+      "イノベトピア": 2,
+      "EnterpriseZine": 1,
+      "日本経済新聞": 2,
+      "CoinDesk": 1,
+      "大和総研": 1,
+      "日本経済研究センター": 1,
+      "テレビ朝日": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 4,
+      "4": 10,
+      "5": 5
+    }
+  }
+}

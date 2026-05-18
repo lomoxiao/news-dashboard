@@ -1,6 +1,10 @@
 {
-  "last_updated": "2026-05-18T07:00:00+09:00",
+  "last_updated": "2026-05-19T07:00:00+09:00",
   "reports": [
+    {
+      "date": "2026-05-19",
+      "headline": "G7パリ財務相会議でClaude Mythosサイバー対策を共同声明へ・3メガバンクMythosアクセス権取得・量子誤り訂正エンコーダ43%削減・GDP速報5月19日発表"
+    },
     {
       "date": "2026-05-18",
       "headline": "Claude Mythosサイバー対策省庁会議・Claudeサブスク6月改定・dカードスキップ払い本日開始・IBM Kookaburra量子優位性・金融庁暗号資産課夏設立"
@@ -155,12 +159,12 @@
     {
       "name": "NTTドコモビジネス",
       "url": "https://www.ntt.com",
-      "count": 6
+      "count": 8
     },
     {
       "name": "arXiv",
       "url": "https://arxiv.org",
-      "count": 4
+      "count": 6
     },
     {
       "name": "日本銀行",
@@ -175,7 +179,7 @@
     {
       "name": "日本経済新聞",
       "url": "https://www.nikkei.com",
-      "count": 42
+      "count": 44
     },
     {
       "name": "NVIDIA",
@@ -200,7 +204,7 @@
     {
       "name": "大和総研",
       "url": "https://www.dir.co.jp",
-      "count": 2
+      "count": 3
     },
     {
       "name": "公正取引委員会",
@@ -265,7 +269,7 @@
     {
       "name": "イノバトピア",
       "url": "https://innovatopia.jp",
-      "count": 5
+      "count": 7
     },
     {
       "name": "SBIホールディングス",
@@ -385,7 +389,7 @@
     {
       "name": "ペイメントナビ",
       "url": "https://paymentnavi.com",
-      "count": 2
+      "count": 3
     },
     {
       "name": "NHK",
@@ -560,7 +564,7 @@
     {
       "name": "Zenn",
       "url": "https://zenn.dev",
-      "count": 3
+      "count": 5
     },
     {
       "name": "Sustainable Japan",
@@ -735,6 +739,21 @@
     {
       "name": "EnterpriseZine",
       "url": "https://enterprisezine.jp",
+      "count": 2
+    },
+    {
+      "name": "Ledge.ai",
+      "url": "https://ledge.ai",
+      "count": 2
+    },
+    {
+      "name": "テレビ朝日",
+      "url": "https://news.infoseek.co.jp",
+      "count": 1
+    },
+    {
+      "name": "日本経済研究センター",
+      "url": "https://www.jcer.or.jp",
       "count": 1
     },
     {
