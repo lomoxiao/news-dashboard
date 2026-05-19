@@ -1,0 +1,371 @@
+{
+  "date": "2026-05-20",
+  "generated_at": "2026-05-20T07:00:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "OpenAI共同創業者Andrej Karpathy氏が5月19日にAnthropicの事前学習チームに入社し、日立製作所もAnthropicと戦略的パートナーシップを締結、グループ29万人へのClaude展開を発表した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Andrej Karpathy氏（元OpenAI共同創業者）が5月19日にAnthropicの事前学習チームに参加した。日立製作所も同日、AnthropicとLumada 3.0強化を目的とした提携を締結し、グループ29万人へのClaude展開とFrontier AI Deployment Centerの設立を発表した。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモは5月13日発表のRCSサービスを2026年夏に開始する。7月1日付でコンシューマサービス本部とマーケティングソリューション本部を新設する組織改編を実施する。社員のAI活用度を4段階で評価する新人材制度も導入した。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "arXivに量子誤り訂正のLean4形式検証フレームワーク（2605.16523）と耐障害性量子コンパイラqstack（2605.16595）が投稿された。IBMのジェイ・ガンベッタ氏はThink 2026で「真に役立つ量子コンピューティングは既に実現している」と宣言した。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "金融庁は暗号資産を「金融商品」として再定義する改正資金決済法を国会に提出した。三菱UFJ・三井住友・みずほ3メガバンクが2026年内の円ステーブルコイン発行・導入を検討しており、AIエージェントによる金融業務の自動化も本格化している。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "APEC第32回貿易担当大臣会合が5月20日に中国・蘇州で開幕した。21加盟エコノミーの閣僚が参加し、デジタル経済協力・グリーン経済転換を主要議題とする。内閣府が5月19日に発表した1-3月期実質GDPは前期比年率2.1%増で2四半期連続プラス成長となった。"
+        }
+      ],
+      "must_read": {
+        "title": "OpenAI共同創業者Andrej Karpathy氏がAnthropicに入社、事前学習チームをリード",
+        "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+        "reason": "AI分野を代表する研究者の移籍はAnthropic技術力の強化を示すと同時に、産業全体の競争構造を左右する。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "今日はAnthropicに2つも大きなニュースが来ましたよ！Andrej Karpathyさんが入社して、日立との大型提携も同時発表されましたね。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "OpenAIを創業したKarpathyさんが昨日Anthropicに入社しましたよ。Claudeを使ってAI開発自体を加速するチームを新たに立ち上げるそうです。日立もAnthropicと組んで、グループ29万人全員にClaudeを使えるようにする計画を発表しましたね。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモが今夏RCSという新しいメッセージングサービスを始めるみたいですよ。SMSよりずっと高機能で、グループチャットや高解像度の写真も送れますね。7月には組織も新しくなって、社員のAI活用度も評価する人材制度も導入しているんですよ。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "今日のarXivに量子誤り訂正を数学的に自動証明するツールと、耐障害性量子プログラムのコンパイラが投稿されましたよ。IBMも「量子コンピューターはもう役に立っている」と宣言していて、着々と実用化が進んでいますね。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "暗号資産を「金融商品」として扱う法律が国会に提出されているんですよ。大手3銀行も円のステーブルコインを2026年中に出すことを検討中で、デジタルお金の法整備が加速していますね。AIを使った経費精算や請求書処理の自動化も広がっていますよ。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "今日から中国の蘇州でAPECの貿易大臣会議が始まりましたよ。昨日発表の1-3月期GDPも年率2.1%増で2期連続プラス成長でした。沖縄では今夏から自衛隊基地にペロブスカイト太陽電池の実証実験が始まるみたいで、国内初の取り組みだそうですよ。"
+        }
+      ],
+      "must_read": {
+        "title": "OpenAI共同創業者Andrej Karpathy氏がAnthropicに入社、事前学習チームをリード",
+        "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+        "reason": "AI業界で最も注目される研究者の一人がAnthropicに移籍するという大きなニュースで、業界の勢力図が変わるかもしれませんよ。",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Andrej Karpathy氏（元OpenAI共同創業者）がAnthropicの事前学習チームに参加（5/19）\n・日立がAnthropicと提携、グループ29万人にClaude導入・Frontier AI Deployment Center設立\n・Claude Managed AgentsにMCPトンネル・自己ホストサンドボックスの2新機能追加"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・RCSサービスを2026年夏に開始予定（5/13発表）\n・7月1日付でコンシューマサービス本部等を新設する組織改編を実施（5/8発表）\n・社員のAI活用度を4段階で評価する新人材制度を導入"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・arXiv 2605.16523: Lean4による量子誤り訂正の形式検証フレームワーク公開\n・arXiv 2605.16595: 耐障害性量子プログラムのコンパイラ「qstack」発表\n・IBMが「量子コンピューターは実用フェーズ」と宣言（Think 2026）"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・金融庁が改正資金決済法を国会提出、暗号資産を金融商品に再定義\n・3メガバンクが2026年内の円ステーブルコイン発行・導入を検討\n・AIエージェントの金融業務自動化が本格化（経費精算・請求書処理等）"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・APEC第32回貿易担当大臣会合が中国・蘇州で開幕（5/20-23）\n・2026年1-3月期GDP速報：前期比年率+2.1%増、2四半期連続プラス成長（内閣府5/19発表）\n・ペロブスカイト太陽電池を沖縄の自衛隊基地で2026年夏に実証開始（国内初）"
+        }
+      ],
+      "must_read": {
+        "title": "OpenAI共同創業者Andrej Karpathy氏がAnthropicに入社、事前学習チームをリード",
+        "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+        "reason": "・AI分野の最重要人材の移籍。Claudeを使ってAI開発を加速する自己参照的アプローチが業界注目",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "AnthropicがKarpathy採用と日立グループ29万人展開を同日発表し、AI産業覇権における人材・企業ネットワーク獲得戦略が最高潮に達する中、APEC開幕と1-3月期GDP確認により経済・外交・技術が同時進行する局面となった。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "KarpathyのAnthropic参加は事前学習研究の知見移転にとどまらず、「Claudeを使ってAI開発を加速する」という自己参照的アプローチの戦略的重要性を示す。日立との提携（29万人・Frontier AI Deployment Center・300名規模共同チーム）は社会インフラ分野へのAI深耕を加速させる。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "RCS移行はSMS後継として国際標準規格を採用するもので、キャリア間メッセージング相互運用性の基盤整備として位置づけられる。7月組織改編はFG体制下の事業効率化で、社員AI活用度4段階評価制度は人材のAI対応能力を可視化し採用・昇格基準に影響する施策となる。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "Lean4による量子誤り訂正の形式検証（2605.16523）とqstackコンパイラ（2605.16595）は量子ソフトウェアの信頼性保証と開発効率向上に向けた基盤整備を示す。IBMの「実用フェーズ」宣言と合わせると、2026年末の量子優位性達成に向けハードウェアとソフトウェアが同時に整備されつつある。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "改正資金決済法の国会提出は暗号資産の法的定義を「決済手段」から「金融商品」へ転換する制度的変革であり、投資家保護規制の適用と課税の明確化をもたらす。3メガバンクの円SC検討と日銀のCBDC判断（2026年内）が重なり、デジタル通貨インフラが2026年後半に大幅に前進する見込みだ。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "APECの中国主催（テーマ：共同繁栄のアジア太平洋共同体構築）は米中関係の緊張下、多国間経済協力のプラットフォームとして機能する。1-3月期GDP（年率2.1%増、2四半期連続プラス）は内需の底堅さを確認したが、米国関税政策と通商摩擦が4-6月期の下振れリスクとなる。"
+        }
+      ],
+      "must_read": {
+        "title": "OpenAI共同創業者Andrej Karpathy氏がAnthropicに入社、事前学習チームをリード",
+        "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+        "reason": "AI分野を代表する研究者の移籍はAnthropic技術力の強化を示すと同時に、産業全体の競争構造を左右する。「Claudeを使ってAI開発を加速する」という戦略は今後のモデル性能向上のペースを決定づけ得る。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 90,
+      "trend_history": [88, 82, 88, 90, 83],
+      "summary_short": "Karpathy氏がAnthropicに参加、日立と提携で29万人AI展開",
+      "summary_long": "OpenAI共同創業者Andrej Karpathy氏が2026年5月19日にAnthropicの事前学習チームに入社した。日立製作所も同日AnthropicとLumada 3.0強化の戦略的パートナーシップを締結し、グループ29万人へのClaude全社展開とFrontier AI Deployment Center設立を発表した。",
+      "articles": [
+        {
+          "title": "OpenAI共同創業者Andrej Karpathy氏がAnthropicの事前学習チームに入社",
+          "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+          "source": "TechCrunch",
+          "summary_short": "カーパシー氏がAnthropicの事前学習チームに参加",
+          "summary_long": "元OpenAI共同創業者・元テスラAI責任者のAndrej Karpathy氏が2026年5月19日にAnthropicへ入社した。Claude自身を活用してAI開発を加速する新チームを立ち上げる。Axios、CNBC、Bloombergが複数確認した。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "日立、Anthropicと戦略的パートナーシップを締結しLumada 3.0を強化、グループ29万人にAI導入",
+          "url": "https://prtimes.jp/main/html/rd/p/000000578.000067590.html",
+          "source": "PR TIMES",
+          "summary_short": "日立がAnthropicと提携しグループ29万人にAI導入",
+          "summary_long": "日立製作所は2026年5月19日、AnthropicとLumada 3.0強化を目的とした戦略的パートナーシップを締結した。グループ29万人へのClaude導入、10万人規模AIプロフェッショナル育成、Frontier AI Deployment Center設立（最終300名規模）を発表した。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "AnthropicがClaude Managed AgentsにMCPトンネルと自己ホストサンドボックスを追加",
+          "url": "https://9to5mac.com/2026/05/19/anthropic-enhances-claude-managed-agents-with-two-new-privacy-and-security-features/",
+          "source": "9to5Mac",
+          "summary_short": "Claude Managed Agentsにプライベートネット経由機能追加",
+          "summary_long": "Anthropicは2026年5月19日、Claude Managed Agentsに2新機能を追加した。MCPトンネルによりプライベートネットワーク経由でMCPサーバーにアクセス可能となり、自己ホストサンドボックスでは機密ファイルを自社インフラに保持できる。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "AnthropicがClaude for Small Businessを提供開始、中小企業向け自動化ワークフロー",
+          "url": "https://www.techno-edge.net/article/2026/05/14/5064.html",
+          "source": "テクノエッジ",
+          "summary_short": "中小企業向けClaudeワークフローが主要SaaSと統合",
+          "summary_long": "AnthropicはClaude for Small Businessの提供を開始した。QuickBooks、PayPal、HubSpot、Canva、Docusign、Google Workspace、Microsoft 365との統合により、給与計算・請求書処理・営業・マーケティングの自動化ワークフローを提供する。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 58,
+      "trend_history": [70, 60, 55, 58, 55],
+      "summary_short": "RCS夏開始・7月組織改編・社員AI評価制度を発表",
+      "summary_long": "NTTドコモは2026年夏にRCS（次世代メッセージング）サービスを開始すると発表した。7月1日付でコンシューマサービス本部等を新設する組織改編を実施し、社員のAI活用度を4段階で評価する新人材制度も導入している。",
+      "articles": [
+        {
+          "title": "NTTドコモが次世代メッセージングRCSサービスを2026年夏に開始",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/05/13_00.html",
+          "source": "NTTドコモ",
+          "summary_short": "ドコモがRCS夏開始を発表、SMSを刷新",
+          "summary_long": "NTTドコモは2026年5月13日、次世代メッセージングサービスRCS（Rich Communication Services）を2026年夏に開始すると発表した。SMS後継規格で、高解像度メディア送受信・グループチャット・既読通知などの機能が追加される。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモが2026年7月に組織改編、フィナンシャルグループ経営体制を発表",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/05/08_00.html",
+          "source": "NTTドコモ",
+          "summary_short": "ドコモが7月に組織改編、コンシューマ・マーケ本部を新設",
+          "summary_long": "NTTドコモは2026年5月8日、7月1日付の組織改編を発表した。コンシューマサービス本部とマーケティングソリューション本部を新設する。NTTドコモ・フィナンシャルグループの新経営体制も同時に発表された。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモ系、社員のAI活用度を4段階で評価する新人材制度を導入",
+          "url": "https://www.nikkei.com/article/DGXZQOUC1252H0S6A310C2000000/",
+          "source": "日本経済新聞",
+          "summary_short": "ドコモ系がAI活用度4段階評価の人材制度を導入",
+          "summary_long": "NTTドコモグループは社員のAI活用能力を4段階で評価する新人材制度を導入した。AIツールの業務活用度合いを評価基準に組み込み、AI人材育成を体系的に推進する。グループ全体でのAIスキル底上げを目標とする。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 72,
+      "trend_history": [40, 55, 62, 65, 68],
+      "summary_short": "arXivに誤り訂正形式検証とqstackコンパイラ投稿",
+      "summary_long": "arXiv（2026年5月20日）に量子誤り訂正のLean4形式検証フレームワークと耐障害性量子プログラムコンパイラqstackが投稿された。IBMはThink 2026で量子コンピュータが実用フェーズに達したと宣言し、2026年末の量子優位性達成を目指す。",
+      "articles": [
+        {
+          "title": "End-to-End Formalization of Quantum Error Correction（量子誤り訂正のエンドツーエンド形式化）",
+          "url": "https://arxiv.org/abs/2605.16523",
+          "source": "arXiv",
+          "summary_short": "Lean4で量子誤り訂正を機械証明するフレームワーク公開",
+          "summary_long": "Mattias Ehatammら（2026年5月20日arXiv投稿）は量子誤り訂正符号の距離計算をLean4で完全自動証明するフレームワークを発表した。産業規模の量子誤り訂正コードの形式検証に対応し、耐障害性量子計算の信頼性向上に寄与する。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "qstack: Compositional End-to-End Compilation for Fault-Tolerant Quantum Programs",
+          "url": "https://arxiv.org/abs/2605.16595",
+          "source": "arXiv",
+          "summary_short": "耐障害性量子コンパイラqstackが古典フィードバック統合に対応",
+          "summary_long": "Andres PazとDan Grossman（2026年5月20日arXiv投稿）は耐障害性量子プログラムのエンドツーエンドコンパイルを実現する「qstack」を発表した。古典フィードバックを統合した誤り訂正コード合成の組成的コンパイラで、量子ソフトウェア開発基盤の整備に貢献する。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "量子コンピューターはついに実用フェーズへ IBMらが達成した実用的量子優位性、AI・量子融合の未来",
+          "url": "https://enterprisezine.jp/article/detail/24247",
+          "source": "EnterpriseZine",
+          "summary_short": "IBMが量子実用フェーズを宣言、2026年内に優位性達成へ",
+          "summary_long": "IBMフェローのジェイ・ガンベッタ氏はThink 2026カンファレンスで「真に役立つ量子コンピューティングは既に現実だ」と宣言した。IBMは2026年内に量子コンピューターが従来型コンピューターより効率的であることを証明する見通しを示した。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Demonstration of transport in an ion trap design for two-dimensional lattices（2次元イオン格子用トラップの輸送実証）",
+          "url": "https://arxiv.org/abs/2605.16543",
+          "source": "arXiv",
+          "summary_short": "2Dイオン格子トラップチップの輸送実験に成功",
+          "summary_long": "Michael Pfeiferら（2026年5月20日arXiv投稿）は2次元イオン格子向け設計の新型トラップチップにおける動径方向のイオン輸送をDC電圧制御により実証した。スケーラブルな量子コンピュータ実現に向けたイオントラップ技術の実験的進展となった。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": ["https://www.coindesk.com/business/2026/03/03/bank-of-japan-expands-blockchain-settlement-sandbox-as-2026-cbdc-decision-nears"]
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 62,
+      "trend_history": [55, 62, 65, 68, 85],
+      "summary_short": "改正資金決済法が国会提出、3メガがステーブルコイン検討",
+      "summary_long": "金融庁は暗号資産を「金融商品」として再定義する改正資金決済法・金融商品取引法を国会に提出した。三菱UFJ・三井住友・みずほ3メガバンクが2026年内の円ステーブルコイン発行を検討しており、AIエージェントの金融業務自動化も本格化している。",
+      "articles": [
+        {
+          "title": "金融庁が改正資金決済法・金融商品取引法を国会提出、暗号資産を金融商品に位置づけ",
+          "url": "https://www.fsa.go.jp/sintyaku.html",
+          "source": "金融庁",
+          "summary_short": "金融庁が暗号資産を金融商品として再定義する改正法を提出",
+          "summary_long": "金融庁は2026年4月、暗号資産を「決済手段」から「金融商品」として位置づける改正資金決済法・金融商品取引法案を国会に提出した。スタートアップへの資金供給制度整備も盛り込まれ、暗号資産事業者への投資家保護規制の適用が進む。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "3メガバンクが2026年内の円ステーブルコイン発行・導入を検討",
+          "url": "https://renue.co.jp/posts/fintech-meaning-services-trends-guide-2026",
+          "source": "renue",
+          "summary_short": "3メガバンクがステーブルコイン2026年内導入を検討",
+          "summary_long": "改正資金決済法の下で法的枠組みが整備され、三菱UFJ・三井住友・みずほの3メガバンクが2026年内の円ステーブルコイン発行・導入を検討している。日銀は2026年内にデジタル円（CBDC）発行の可否を判断する見通しで、デジタル通貨整備が加速している。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "AIエージェントの金融サービス活用が加速、2026年に経費精算・請求書処理の自動化が本格化",
+          "url": "https://www.sbbit.jp/article/fj/177565",
+          "source": "ビジネスIT",
+          "summary_short": "AIエージェントが金融業務の自動化を2026年に本格化",
+          "summary_long": "2026年に入りAIエージェントの金融サービス活用が本格化し、主要フィンテック企業が経費精算・請求書処理・財務分析レポート自動生成を実現しつつある。AnthropicのClaude for Small BusinessもPayPalなど決済プラットフォームと統合し財務業務に対応した。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 70,
+      "trend_history": [60, 68, 70, 72, 78],
+      "summary_short": "APECが蘇州開幕、1-3月GDP年率2.1%増確認",
+      "summary_long": "APEC第32回貿易担当大臣会合が2026年5月20日に中国・蘇州で開幕した。内閣府が5月19日に発表した1-3月期実質GDPは前期比年率2.1%増で2四半期連続プラス成長となった。政府はペロブスカイト太陽電池の自衛隊基地での実証実験を2026年夏に沖縄から開始する。",
+      "articles": [
+        {
+          "title": "APEC第32回貿易担当大臣会合が中国・蘇州で開幕、デジタル経済・貿易を議論",
+          "url": "https://www.mofa.go.jp/mofaj/ecm/apec/pagew_000001_02381.html",
+          "source": "外務省",
+          "summary_short": "APEC貿易大臣会合が蘇州で開幕、21カ国が参加",
+          "summary_long": "APEC第32回貿易担当大臣会合が2026年5月20日から中国・江蘇省蘇州で開幕した。21の加盟エコノミーの貿易大臣が参加し、地域経済統合・アジア太平洋自由貿易圏構築・デジタル経済協力・グリーン経済転換を主要議題として議論する。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "内閣府が2026年1-3月期実質GDP速報を発表、前期比年率2.1%増で2四半期連続プラス成長",
+          "url": "https://www.esri.cao.go.jp/jp/sna/menu.html",
+          "source": "内閣府",
+          "summary_short": "1-3月GDP年率2.1%増、2四半期連続プラス成長",
+          "summary_long": "内閣府は2026年5月19日、1-3月期の実質GDP速報値（1次速報）を前期比年率2.1%増と発表した。予想を上回り2四半期連続のプラス成長となった。政府は2026年度実質成長率を1.3%と見込んでいる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "自衛隊基地にペロブスカイト太陽電池、沖縄で2026年夏から国内初の実証実験を開始",
+          "url": "https://www.nikkei.com/article/DGXZQOUA1904Y0Z10C26A5000000/",
+          "source": "日本経済新聞",
+          "summary_short": "次世代太陽電池を自衛隊基地で実証、2026年夏に沖縄開始",
+          "summary_long": "政府は薄くて曲げられるペロブスカイト太陽電池を自衛隊基地で実証実験する計画を発表した。2026年夏に沖縄県うるま市の海上自衛隊沖縄基地隊隊舎屋根に設置し9カ月間実証する。国の施設での実証は初事例で全国展開への需要創出を目指す。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": ["https://www.mof.go.jp/policy/international_policy/convention/apec/index.htm"]
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 90,
+      "NTTドコモ": 58,
+      "量子コンピュータ": 72,
+      "金融決済": 62,
+      "国内・社会": 70
+    },
+    "source_distribution": {
+      "TechCrunch": 1,
+      "PR TIMES": 1,
+      "9to5Mac": 1,
+      "テクノエッジ": 1,
+      "NTTドコモ": 2,
+      "日本経済新聞": 2,
+      "arXiv": 3,
+      "EnterpriseZine": 1,
+      "金融庁": 1,
+      "renue": 1,
+      "ビジネスIT": 1,
+      "外務省": 1,
+      "内閣府": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 9,
+      "4": 4,
+      "5": 2
+    }
+  }
+}
