@@ -1,6 +1,10 @@
 {
-  "last_updated": "2026-05-20T07:00:00+09:00",
+  "last_updated": "2026-05-21T07:00:00+09:00",
   "reports": [
+    {
+      "date": "2026-05-21",
+      "headline": "Claude for Microsoft 365正式提供・NTTドコモAI SOC開始・日韓首脳会談エネルギー連携・日経平均5日続落5万9804円・量子arXiv3論文"
+    },
     {
       "date": "2026-05-20",
       "headline": "Andrej Karpathy氏がAnthropicに入社・日立29万人Claude展開・APEC蘇州開幕・1-3月GDP年率2.1%増・量子コンパイラqstack公開"
@@ -168,7 +172,7 @@
     {
       "name": "arXiv",
       "url": "https://arxiv.org",
-      "count": 9
+      "count": 12
     },
     {
       "name": "日本銀行",
@@ -183,7 +187,7 @@
     {
       "name": "日本経済新聞",
       "url": "https://www.nikkei.com",
-      "count": 46
+      "count": 47
     },
     {
       "name": "NVIDIA",
@@ -238,7 +242,7 @@
     {
       "name": "ビジネスIT",
       "url": "https://www.sbbit.jp",
-      "count": 5
+      "count": 6
     },
     {
       "name": "野村証券",
@@ -303,12 +307,12 @@
     {
       "name": "Gizmodo Japan",
       "url": "https://www.gizmodo.jp",
-      "count": 9
+      "count": 10
     },
     {
       "name": "ITmedia AIプラス",
       "url": "https://www.itmedia.co.jp",
-      "count": 5
+      "count": 6
     },
     {
       "name": "gihyo.jp",
@@ -368,7 +372,7 @@
     {
       "name": "AI Academy Note",
       "url": "https://note.com",
-      "count": 1
+      "count": 2
     },
     {
       "name": "ロボスタ",
@@ -398,7 +402,7 @@
     {
       "name": "NHK",
       "url": "https://news.web.nhk.newsweb",
-      "count": 11
+      "count": 12
     },
     {
       "name": "PR TIMES",
@@ -478,7 +482,7 @@
     {
       "name": "CoinChoice",
       "url": "https://coinchoice.net",
-      "count": 3
+      "count": 4
     },
     {
       "name": "Invest Leaders",
@@ -828,6 +832,36 @@
     {
       "name": "内閣府",
       "url": "https://www.esri.cao.go.jp",
+      "count": 1
+    },
+    {
+      "name": "AI Watch",
+      "url": "https://ai.watch.impress.co.jp",
+      "count": 1
+    },
+    {
+      "name": "andsmart.net",
+      "url": "https://www.andsmart.net",
+      "count": 1
+    },
+    {
+      "name": "JMR生活総合研究所",
+      "url": "https://www.jmrlsi.co.jp",
+      "count": 1
+    },
+    {
+      "name": "BUSINESS NETWORK",
+      "url": "https://businessnetwork.jp",
+      "count": 1
+    },
+    {
+      "name": "NTTドコモソリューションズ",
+      "url": "https://www.nttcom.co.jp",
+      "count": 1
+    },
+    {
+      "name": "読売新聞",
+      "url": "https://www.yomiuri.co.jp",
       "count": 1
     }
   ],

@@ -1,0 +1,373 @@
+{
+  "date": "2026-05-21",
+  "generated_at": "2026-05-21T07:00:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "AnthropicはClaude for Microsoft 365を正式提供開始し、Claude Opus 4.7がExcel・PowerPointのデフォルトモデルとなった。NTTドコモビジネスは2026年5月20日、AIでサイバー攻撃脅威を10分で特定・95%自動対処する「AI SOC」の提供を開始した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicがClaude for Microsoft 365を正式提供開始した。Excel・PowerPointのデフォルトモデルがClaude Opus 4.7（5月4日）に変更され、Outlookのパブリックβも開始（5月7日）。Anthropicの評価額は9000億ドル超の調達を進める。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモビジネスは2026年5月20日に「AI SOC」の提供を開始した。AIエージェント「AI Advisor」がエンドポイント・ネットワーク・認証のログを横断分析し、従来1〜2時間を要した相関分析を約10分で完了する。セキュリティアラートの約95%を自動対処するマネージドSOARを組み合わせた。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "arXivに量子コンピュータ関連の新論文が複数投稿された。統計的量子位相推定フレームワーク（2605.18876）と量子ビタビアルゴリズム（2605.18912）は量子計算の実用化に向けた理論的基盤を整備する成果となった。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "2025年のキャッシュレス決済比率は前年比5.2ポイント増の58.0%、金額は162.7兆円で過去最高を更新した。AIエージェントを活用した金融業務自動化もフィンテック企業で本格化し、経費精算・請求書処理の効率化が進んでいる。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "高市首相とイ・ジェミョン韓国大統領が5月19日に首脳会談を行い、エネルギー安全保障強化で連携することを確認した。日経平均は5月20日に5日続落し746円安の5万9804円で取引を終えた。MetaのスマートグラスRay-Ban Metaが5月21日に日本で発売を開始した。"
+        }
+      ],
+      "must_read": {
+        "title": "Claude for Microsoft 365が一般提供開始、Claude Opus 4.7がExcel・PowerPointのデフォルトに",
+        "url": "https://ai.watch.impress.co.jp/docs/news/2107161.html",
+        "reason": "Microsoft 365の主要4アプリへのClaude統合は数億人規模の業務生産性に直接影響し、Anthropicの企業向けAI展開における最大規模の配備実績となった。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "ClaudeがMicrosoftのOfficeアプリに正式対応しましたよ。ExcelやPowerPointではClaude Opus 4.7がデフォルトになって、Outlookのβもスタートしましたね。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicがMicrosoftとの連携を大幅に強化しましたよ。ExcelとPowerPointではClaude Opus 4.7がデフォルトモデルになって、OutlookのパブリックβもスタートしましたNe。4つのアプリを横断して文脈を保持してくれるんですよ。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモビジネスが昨日（5月20日）、AIを使ったサイバーセキュリティサービス「AI SOC」を始めましたよ。従来1〜2時間かかっていた脅威分析がAIで約10分になって、対応作業の95%も自動化できるんだそうです。専門知識なしで導入できる構成になっていますよ。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "arXivに新しい量子コンピュータの論文が投稿されましたよ。統計的量子位相推定のフレームワークや量子版ビタビアルゴリズムなど、量子計算の理論研究が着実に続いていますね。実用化に向けた基盤整備が続いていますよ。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "2025年のキャッシュレス決済が過去最高を更新しましたよ。比率は58.0%で金額は162.7兆円になりましたね。AIエージェントが経費精算や請求書処理を自動でやってくれる機能も、フィンテック各社で本格的に広がってきていますよ。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "昨日の首脳会談で日韓がエネルギー安保で協力することになりましたよ。日経平均は昨日5日続落で746円安の5万9804円まで下がりました。今日はMetaのRay-Banスマートグラスが日本でも発売開始されましたね。音声AIと同時翻訳が付いているんですよ。"
+        }
+      ],
+      "must_read": {
+        "title": "Claude for Microsoft 365が一般提供開始、Claude Opus 4.7がExcel・PowerPointのデフォルトに",
+        "url": "https://ai.watch.impress.co.jp/docs/news/2107161.html",
+        "reason": "毎日使うOfficeアプリにClaudeが統合されたのは、多くの人の仕事の仕方が変わるかもしれない大きな出来事ですよ。",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Claude for Microsoft 365が正式提供開始、Excel/PowerPointのデフォルトモデルがClaude Opus 4.7に変更（5月4日MC1269241）\n・AnthropicがNYイベントで金融業務向けエージェント10種を公開、Blackstone JV15億ドルも発表（5月5日）\n・Anthropicが評価額9000億ドル超の調達計画・SpaceX Colossus 1提携を進行中"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・NTTドコモビジネスが「AI SOC」提供開始（5月20日）、脅威分析10分化・セキュリティ対処95%自動化\n・NTT3社がAIコンステレーション®によるビル運営管理高度化を実証（5月19日）\n・AIエージェント属性情報レジストリのプロトタイプを開発・公開（5月12日）"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・arXiv 2605.18876: 統計的量子位相推定の拡張フレームワーク投稿\n・arXiv 2605.18912: 量子ビタビアルゴリズム・コヒーレント隠れ軌跡が古典戦略を超える復号スコアを証明\n・arXiv 2605.18896: 補助付き量子テレポーテーション・第三者エンタングル資源で完全テレポーテーション実現"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・2025年キャッシュレス決済比率58.0%・162.7兆円で過去最高更新\n・フィンテック各社（マネーフォワード・LayerX・freee）がAIエージェントで経費精算・請求書処理を自動化\n・PayPayが全調査項目で首位、2位楽天ペイに20ポイント超差でデファクトスタンダード化"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・日韓首脳会談（5月19日）、エネルギー安全保障強化で連携確認\n・日経平均5日続落、746円安・終値5万9804円（5月20日）\n・Meta Ray-Ban スマートグラス日本発売開始（5月21日）、7.3万円以上・音声AI搭載"
+        }
+      ],
+      "must_read": {
+        "title": "Claude for Microsoft 365が一般提供開始、Claude Opus 4.7がExcel・PowerPointのデフォルトに",
+        "url": "https://ai.watch.impress.co.jp/docs/news/2107161.html",
+        "reason": "・Microsoft 365の主要4アプリに統合、数億人規模の業務生産性に直接影響",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "Claude for Microsoft 365の正式統合とNTTドコモビジネスのAI SOC提供開始が同時進行し、AIが一般業務生産性とエンタープライズセキュリティの双方に同時浸透する転換点を示している。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Claude Opus 4.7のMicrosoft 365デフォルト採用（Excel・PowerPoint、5月4日）は、AnthropicがAPI課金モデルから月額SaaSへの価値提供経路を確立したことを示す。評価額9000億ドル超調達計画（SpaceX Colossus 1提携含む）はOpenAI（8520億ドル）超えの可能性があり、AI産業の資本集中がさらに加速することを示唆している。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "AI SOCは従来の人手SOC（1〜2時間/相関分析）をAI Advisorで10分に短縮し、対処稼働を95%自動化する。セキュリティ人材不足が深刻な中で専門知識なし導入可能なモデルとして中堅企業需要を狙う戦略であり、AIコンステレーション®のビル管理実証（5月19日）と合わせNTTグループのAI事業化が具体的成果を示し始めた。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "arXiv投稿（2605.18876, 2605.18912, 2605.18896）は量子位相推定・量子機械学習・量子通信の理論整備が継続していることを示す。今週はハードウェア面の大きな発表はないが、アルゴリズム層の成熟が実用化の前提となるため、arXiv活動量は実用化タイムラインの先行指標として注目される。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "2025年のキャッシュレス比率58.0%・162.7兆円は2024年比5.2ポイント増で、政府目標（2025年80%）との乖離は残るものの成長継続を示す。AIエージェントによる財務業務自動化はAnthropicの金融エージェント10種公開とも連動し、B2Bフィンテック領域でのAI活用が主要投資テーマとなりつつある。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "日韓エネルギー協力合意（5月19日）は中東情勢不安定化への対応として位置づけられ、日本のエネルギー安保の多角化戦略に沿う。日経平均の5日続落（終値5万9804円）は米国金利高止まりを背景とした外部要因主導であり、ドル円159.07円（5月20日NY終値）の円安が輸出関連株支持要因として機能するかが焦点となる。"
+        }
+      ],
+      "must_read": {
+        "title": "Claude for Microsoft 365が一般提供開始、Claude Opus 4.7がExcel・PowerPointのデフォルトに",
+        "url": "https://ai.watch.impress.co.jp/docs/news/2107161.html",
+        "reason": "月額SaaS経路での企業向けAI展開モデルが確立されたことは、Anthropicのビジネスモデル転換点であるとともに、Microsoft 365の2億人以上のユーザーへのClaude浸透を意味し、AI産業の競争構造を左右する。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 85,
+      "trend_history": [82, 88, 90, 83, 85],
+      "summary_short": "Claude M365正式提供、Anthropicが評価額9000億ドル調達計画",
+      "summary_long": "AnthropicはClaude for Microsoft 365を正式提供開始し、Excel・PowerPointのデフォルトモデルをClaude Opus 4.7に変更した。Outlookのパブリックβも開始し、4アプリ横断で文脈を保持した作業が可能となった。Anthropicは評価額9000億ドル超の調達を進めており、金融業務向けエージェント10種の公開やローカルLLMの進化も継続している。",
+      "articles": [
+        {
+          "title": "Claude for Microsoft 365が一般提供開始、Claude Opus 4.7がExcel・PowerPointのデフォルトに",
+          "url": "https://ai.watch.impress.co.jp/docs/news/2107161.html",
+          "source": "AI Watch",
+          "summary_short": "ClaudeがMicrosoft 365の4アプリで正式提供、Outlookはβ",
+          "summary_long": "AnthropicはClaude for Microsoft 365を2026年5月に正式提供開始した。Excel・PowerPointのデフォルトモデルがClaude Opus 4.7に変更（5月4日）され、WordとOutlookは夏以降に予定。4アプリ横断で文脈を保持しながら作業を継続できる。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "AnthropicがClaude向け金融業務エージェント10種を公開、Microsoft 365との統合も発表",
+          "url": "https://www.andsmart.net/post/anthropic-claude-finance-agents-microsoft365",
+          "source": "andsmart.net",
+          "summary_short": "Anthropicが金融業務向けエージェント10種と財務SaaS統合を発表",
+          "summary_long": "AnthropicはNYイベント（2026年5月5日）で金融機関向けの10種の実行可能エージェントテンプレートを公開した。ピッチブック作成・KYCファイルレビュー・月次決算照合などが含まれ、BlackstoneとのJV設立（15億ドル）も発表された。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Anthropicが評価額9000億ドル超の新規調達を検討、SpaceX Colossus 1との提携も発表",
+          "url": "https://note.com/chaen_channel/n/n82bd7ae55ae4",
+          "source": "週刊AIニュース",
+          "summary_short": "Anthropicが9000億ドル超評価で調達計画、OpenAI超えも",
+          "summary_long": "Anthropicは評価額約9000億ドル（約141兆円）での新規資金調達を進めており、実現すればOpenAI（8520億ドル）を上回る。SpaceX Colossus 1データセンターとの提携によりClaude Codeの利用上限が2倍、Pro/Maxのピーク時間制限も撤廃された。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "2026年上半期のローカルLLM急速進化、Qwen3.5・Gemma 4でエージェント機能も実用化",
+          "url": "https://www.gizmodo.jp/2026/05/2026_local_llm_matome.html",
+          "source": "Gizmodo Japan",
+          "summary_short": "ローカルLLMがエージェント機能を実現、Qwen3.5・Gemma 4登場",
+          "summary_long": "2026年上半期にQwen3.5シリーズ（Alibaba・3月）とGemma 4シリーズ（Google・4月）が登場し、ローカルLLMでも複雑なコード生成など自律的タスクが可能になった。ChatGPTの市場シェアは86.7%（2025年初）から64.5%（2026年1月）に低下した。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 78,
+      "trend_history": [60, 55, 58, 55, 78],
+      "summary_short": "AI SOCが提供開始、脅威分析10分・対処95%自動化",
+      "summary_long": "NTTドコモビジネスは2026年5月20日、AIエージェント「AI Advisor」とマネージドSOARを組み合わせた「AI SOC」の提供を開始した。エンドポイント等のログを横断分析し脅威を約10分で特定、セキュリティアラートの約95%を自動対処する。NTT3社はAIコンステレーション®によるビル運営管理高度化の実証も完了した。",
+      "articles": [
+        {
+          "title": "NTTドコモビジネスが「AI SOC」提供開始、サイバー脅威分析を10分化・95%自動対処",
+          "url": "https://businessnetwork.jp/article/34606/",
+          "source": "BUSINESS NETWORK",
+          "summary_short": "NTTドコモビジネスがAI SOCを開始、脅威分析95%自動化",
+          "summary_long": "NTTドコモビジネスは2026年5月20日、AIエージェント「AI Advisor」とマネージドSOARを組み合わせた「AI SOC」の提供を開始した。エンドポイント・ネットワーク等のログを横断分析し、従来1〜2時間を要した相関分析を約10分で完了する。セキュリティアラートの約95%を自動対処する。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTT3社がAIコンステレーション®でビル運営管理高度化を実証、企画業務時間を削減",
+          "url": "https://www.nttcom.co.jp/news/pr26051901.html",
+          "source": "NTTドコモソリューションズ",
+          "summary_short": "AIコンステレーション®でビル運営の企画・サイネージ最適化を実証",
+          "summary_long": "NTTアーバンソリューションズ・NTTドコモソリューションズ・NTTドコモビジネスの3社は2026年5月19日、「AIコンステレーション®」を活用したビル運営管理の実証を実施した。イベント企画案の検討とサイネージ表示最適化の2業務で効果を検証し、企画業務時間の削減と品質向上を確認した。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモビジネスがAIエージェント属性情報レジストリのプロトタイプを開発",
+          "url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0512.html",
+          "source": "NTTドコモビジネス",
+          "summary_short": "AIエージェント属性情報レジストリのプロトタイプを公開",
+          "summary_long": "NTTドコモビジネスは2026年5月12日、AIエージェント経済圏の信頼基盤となる「AIエージェント属性情報レジストリ（仮称）」のプロトタイプを開発したと発表した。AIエージェントの属性・権限・信頼性を一元管理し、AIエージェント同士の安全な連携を実現する。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 65,
+      "trend_history": [55, 62, 65, 68, 65],
+      "summary_short": "新arXiv論文3件、量子位相推定・ビタビ・テレポーテーション",
+      "summary_long": "arXiv（2026年5月21日）に量子コンピュータ関連の新論文が複数投稿された。統計的量子位相推定の拡張フレームワーク（2605.18876）、コヒーレント隠れ軌跡が古典戦略を超える復号スコアを達成する量子ビタビアルゴリズム（2605.18912）、補助付き量子テレポーテーション（2605.18896）が公開された。",
+      "articles": [
+        {
+          "title": "Statistical Quantum Phase Estimation: Extensions and Practical Considerations（統計的量子位相推定の拡張と実践的考慮）",
+          "url": "https://arxiv.org/abs/2605.18876",
+          "source": "arXiv",
+          "summary_short": "量子位相推定の累積分布推定で基底状態エネルギー計算を改善",
+          "summary_long": "arXiv投稿（2026年5月21日）は量子位相推定フレームワークの改善を提案した。ハミルトニアンのスペクトル密度の累積分布関数推定による基底状態エネルギー決定手法を開発し、負のパウリ重みへの対応とチェンジポイント検出法を組み合わせて実用性を向上させた。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "Quantum Viterbi Algorithm（量子ビタビアルゴリズム）—隠れ量子マルコフモデルの復号化",
+          "url": "https://arxiv.org/abs/2605.18912",
+          "source": "arXiv",
+          "summary_short": "コヒーレント隠れ軌跡が古典戦略を超える復号スコアを達成",
+          "summary_long": "arXiv投稿（2026年5月21日）は隠れ量子マルコフモデルに対する量子ビタビアルゴリズムを開発した。コヒーレントな隠れ軌跡が古典的戦略を上回る復号スコアを達成できることを証明し、量子通信・量子状態識別への応用可能性を示した。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "Assisted Quantum Teleportation（補助付き量子テレポーテーション）",
+          "url": "https://arxiv.org/abs/2605.18896",
+          "source": "arXiv",
+          "summary_short": "第三者提供の多部エンタングルメントで完全テレポーテーション実現",
+          "summary_long": "arXiv投稿（2026年5月21日）は非最大エンタングル状態を用いたテレポーテーション改善フレームワークを提案した。第三者が多部エンタングルメント資源を提供することで、不完全な二者間もつれから完全なベル対測定結果の復元を実現する手法を分析した。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 60,
+      "trend_history": [62, 65, 68, 85, 60],
+      "summary_short": "キャッシュレス比率58.0%・AIエージェント金融業務を本格化",
+      "summary_long": "2025年のキャッシュレス決済比率は前年比5.2ポイント増の58.0%、金額は162.7兆円で過去最高を更新した。フィンテック各社でAIエージェントを活用した経費精算・請求書処理の自動化が本格化している。PayPayは全調査項目で首位を維持し2位楽天ペイに20ポイント超差をつけた。",
+      "articles": [
+        {
+          "title": "2025年キャッシュレス決済比率58.0%・162.7兆円で過去最高更新、PayPayが独走",
+          "url": "https://www.jmrlsi.co.jp/trend/mranking/05-it/mranking442.html",
+          "source": "JMR生活総合研究所",
+          "summary_short": "キャッシュレス比率58.0%・162.7兆円で過去最高を更新",
+          "summary_long": "JMR生活総合研究所の2026年4月版消費者調査によると、2025年のキャッシュレス決済比率は前年から5.2ポイント増の58.0%、金額は162.7兆円で過去最高を更新した。PayPayが全調査項目で首位を維持し、2位楽天ペイに20ポイント超の差をつけている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "フィンテック企業でAIエージェント活用が本格化、マネーフォワード・LayerX等が経費精算を自動化",
+          "url": "https://www.sbbit.jp/article/fj/177565",
+          "source": "SBビジネスIT",
+          "summary_short": "フィンテック各社がAIエージェントで経費・請求書処理を自動化",
+          "summary_long": "2026年に入りAIエージェントの金融業務活用が急速に進み、マネーフォワード・LayerX・freeeなどの主要フィンテック企業が経費精算の自動化・請求書処理機能の開発を発表した。AIエージェントが生み出す価値は全AI価値の29%に達するとの予測もある。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "2026年5月全国キャッシュレス還元キャンペーン、PayPay等が最大30%還元を展開",
+          "url": "https://www.itmedia.co.jp/mobile/spv/2605/07/news043.html",
+          "source": "ITmedia Mobile",
+          "summary_short": "5月PayPay・d払い等で最大30%還元の地域キャンペーン展開",
+          "summary_long": "2026年5月、全国各地でPayPay・d払い・au PAY・楽天ペイを活用した地域限定キャッシュレス還元キャンペーンが展開された。千葉県鎌ケ谷市では4サービスが15%還元（5月22日まで）、長崎県諫早市ではPayPayが30%還元（上限1万円）を実施した。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "PayPalがステーブルコイン基盤を拡張（2026年3月）、決済インフラ競争が新局面へ",
+          "url": "https://coinchoice.net/paypal-stablecoin-expansion-2026/",
+          "source": "CoinChoice",
+          "summary_short": "PayPalがステーブルコイン基盤を拡張、決済競争が新局面に",
+          "summary_long": "PayPalは2026年3月にステーブルコイン（PYUSD）の基盤拡張を発表した。VisaやMasterCardもステーブルコイン決済の実証を進めており、3メガバンクによる円ステーブルコイン発行計画と合わせ、デジタル通貨による決済インフラの競争が新局面に入っている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": ["https://www.andsmart.net/post/anthropic-claude-finance-agents-microsoft365"]
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 63,
+      "trend_history": [68, 70, 72, 78, 63],
+      "summary_short": "日韓首脳会談・Meta Ray-Ban発売・日経平均5日続落",
+      "summary_long": "高市首相は2026年5月19日にイ・ジェミョン韓国大統領と首脳会談を行い、エネルギー安全保障強化で連携することを確認した。日経平均は5月20日に5日続落し746円安の5万9804円となった。MetaのスマートグラスRay-Ban Metaが5月21日に日本市場で発売を開始した。",
+      "articles": [
+        {
+          "title": "日韓首脳会談、エネルギー安全保障強化で連携一致（5月19日）",
+          "url": "https://news.web.nhk/newsweb/na/na-k10015125951000",
+          "source": "NHK",
+          "summary_short": "日韓首脳がエネルギー安保強化で協力確認",
+          "summary_long": "高市早苗首相は2026年5月19日、イ・ジェミョン韓国大統領と首脳会談を行い、中東情勢を受けたエネルギー供給体制の不安定化に対して日韓両国で協力する方針で合意した。日韓シャトル外交が継続され、エネルギー安全保障での二国間協力が具体化する。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "MetaのスマートグラスRay-Ban Metaが日本で5月21日より発売、7.3万円以上",
+          "url": "https://www.yomiuri.co.jp/economy/20260519-GYT1T00221/",
+          "source": "読売新聞",
+          "summary_short": "Ray-Ban Metaが日本で7.3万円以上で5月21日発売開始",
+          "summary_long": "MetaのスマートグラスRay-Ban Metaが2026年5月21日に日本市場で発売を開始した。価格は7.3万円以上で、音声AI機能と同時翻訳機能を搭載する。米国などでの先行販売から約1年半を経て日本市場に展開された。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "日経平均株価5日続落、746円安で終値5万9804円（5月20日）",
+          "url": "https://www.nikkei.com/article/DGXZQOUB2009PTQ6A520C2000000/",
+          "source": "日本経済新聞",
+          "summary_short": "日経平均5日続落、746円安で5万9804円に",
+          "summary_long": "2026年5月20日の東京株式市場で日経平均株価は前日比746円（1.23%）安の5万9804円で5日続落となった。米国金利高止まりとAI・不動産への警戒感が売り圧力となった。ドル円為替レートは2026年5月20日のニューヨーク市場終値で159.07円となった。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 85,
+      "NTTドコモ": 78,
+      "量子コンピュータ": 65,
+      "金融決済": 60,
+      "国内・社会": 63
+    },
+    "source_distribution": {
+      "AI Watch": 1,
+      "andsmart.net": 1,
+      "週刊AIニュース": 1,
+      "Gizmodo Japan": 1,
+      "BUSINESS NETWORK": 1,
+      "NTTドコモソリューションズ": 1,
+      "NTTドコモビジネス": 1,
+      "arXiv": 3,
+      "JMR生活総合研究所": 1,
+      "SBビジネスIT": 1,
+      "ITmedia Mobile": 1,
+      "CoinChoice": 1,
+      "NHK": 1,
+      "読売新聞": 1,
+      "日本経済新聞": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 6,
+      "4": 9,
+      "5": 2
+    }
+  }
+}
