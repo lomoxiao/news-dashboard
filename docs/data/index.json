@@ -1,6 +1,10 @@
 {
-  "last_updated": "2026-05-21T07:00:00+09:00",
+  "last_updated": "2026-05-22T07:00:00+09:00",
   "reports": [
+    {
+      "date": "2026-05-22",
+      "headline": "Anthropic Code with Claude London開催・金融庁外国ステーブルコイン認定6月施行・5大銀行純利益5.8兆円・PayPay上場後初決算・4月CPI発表"
+    },
     {
       "date": "2026-05-21",
       "headline": "Claude for Microsoft 365正式提供・NTTドコモAI SOC開始・日韓首脳会談エネルギー連携・日経平均5日続落5万9804円・量子arXiv3論文"
@@ -162,17 +166,17 @@
     {
       "name": "NTTドコモ",
       "url": "https://www.docomo.ne.jp",
-      "count": 32
+      "count": 33
     },
     {
       "name": "NTTドコモビジネス",
       "url": "https://www.ntt.com",
-      "count": 8
+      "count": 9
     },
     {
       "name": "arXiv",
       "url": "https://arxiv.org",
-      "count": 12
+      "count": 14
     },
     {
       "name": "日本銀行",
@@ -187,7 +191,7 @@
     {
       "name": "日本経済新聞",
       "url": "https://www.nikkei.com",
-      "count": 47
+      "count": 48
     },
     {
       "name": "NVIDIA",
@@ -362,12 +366,12 @@
     {
       "name": "日経Xtech",
       "url": "https://xtech.nikkei.com",
-      "count": 9
+      "count": 10
     },
     {
       "name": "Yahoo!ニュース エキスパート",
       "url": "https://news.yahoo.co.jp",
-      "count": 4
+      "count": 6
     },
     {
       "name": "AI Academy Note",
@@ -402,7 +406,7 @@
     {
       "name": "NHK",
       "url": "https://news.web.nhk.newsweb",
-      "count": 12
+      "count": 13
     },
     {
       "name": "PR TIMES",
@@ -557,7 +561,7 @@
     {
       "name": "CoinPost",
       "url": "https://coinpost.jp",
-      "count": 4
+      "count": 5
     },
     {
       "name": "JTB総合研究所",
@@ -667,7 +671,7 @@
     {
       "name": "Fortune",
       "url": "https://fortune.com",
-      "count": 1
+      "count": 2
     },
     {
       "name": "The Hacker News",
@@ -817,12 +821,12 @@
     {
       "name": "テクノエッジ",
       "url": "https://www.techno-edge.net",
-      "count": 2
+      "count": 3
     },
     {
       "name": "Tom's Hardware",
       "url": "https://www.tomshardware.com",
-      "count": 1
+      "count": 2
     },
     {
       "name": "金融庁",
@@ -857,11 +861,31 @@
     {
       "name": "NTTドコモソリューションズ",
       "url": "https://www.nttcom.co.jp",
-      "count": 1
+      "count": 2
     },
     {
       "name": "読売新聞",
       "url": "https://www.yomiuri.co.jp",
+      "count": 1
+    },
+    {
+      "name": "JBpress",
+      "url": "https://jbpress.ismedia.jp",
+      "count": 1
+    },
+    {
+      "name": "UiPath",
+      "url": "https://www.uipath.com/ja",
+      "count": 1
+    },
+    {
+      "name": "Impress Watch",
+      "url": "https://www.watch.impress.co.jp",
+      "count": 1
+    },
+    {
+      "name": "統計局",
+      "url": "https://www.stat.go.jp",
       "count": 1
     }
   ],

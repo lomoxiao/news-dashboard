@@ -1,0 +1,383 @@
+{
+  "date": "2026-05-22",
+  "generated_at": "2026-05-22T07:00:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "AnthropicがロンドンでCode with Claudeデベロッパーカンファレンスを開催し自己ホスト型エージェントサンドボックスとMCPトンネルを発表、金融庁が外国発行ステーブルコインを電子決済手段と認定する内閣府令を公布した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicはロンドンのCode with Claudeで自己ホスト型エージェントサンドボックスをパブリックベータ、MCPトンネルをリサーチプレビューとして発表した。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモビジネスは5月20日にAIアドバイザーとマネージドSOARを組み合わせた「AI SOC」サービスの提供を開始し、サイバー攻撃の自動検出・対処を実現した。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMは120量子ビットのNighthawkプロセッサで2026年末の量子優位性実証を目標とし、Project Elevenは量子暗号解読のQ-Day到来を2030〜2033年と予測した。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "金融庁は外国発行信託型ステーブルコインを電子決済手段として認定する内閣府令を公布し、2026年6月1日施行予定。USDC等の海外発行コインの国内流通に法的根拠が整備された。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "統計局が4月分全国消費者物価指数（速報）を発表。三菱UFJなど5大銀行の2026年3月期純利益合計は前期比33%増の5兆8351億円と初の5兆円台を達成した。"
+        }
+      ],
+      "must_read": {
+        "title": "金融庁、外国発行ステーブルコインを電子決済手段に正式認定 内閣府令改正を公布",
+        "url": "https://coinpost.jp/?p=709645",
+        "reason": "金融庁が外国発行ステーブルコインを電子決済手段として正式認定し、6月1日施行。国内金融市場への影響が大きい政策転換となった。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "今日はAIと金融の両分野で大きな動きがありましたよ！AnthropicのロンドンイベントにドコモのAI SOC、ステーブルコイン規制整備と5大銀行過去最高益まで、見どころ満載ですね。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicがロンドンでCode with Claudeを開催しましたよ！企業が自社インフラでエージェントを動かせるサンドボックスとMCPトンネルが発表されましたね。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモビジネスがAI SOCを始めましたね。AIがサイバー攻撃を自動で検知・対処してくれるサービスで、セキュリティ運用の効率化が期待されるみたいですよ。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMのNighthawk 120量子ビットが2026年末の量子優位性に向けて順調みたいですよ。一方でQ-Day（量子暗号解読）は2030〜2033年頃と予測されているみたいですね。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "金融庁が海外ステーブルコインを電子決済手段として正式認定しましたよ！6月1日から施行で、海外発行コインが日本でも合法的に使えるようになりますね。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "今日は4月分の全国CPI発表日ですね。三菱UFJなど5大銀行の純利益が合計5兆8351億円と初めて5兆円台を突破したのも大きなニュースみたいですよ！"
+        }
+      ],
+      "must_read": {
+        "title": "金融庁、外国発行ステーブルコインを電子決済手段に正式認定 内閣府令改正を公布",
+        "url": "https://coinpost.jp/?p=709645",
+        "reason": "海外ステーブルコインが日本で公式に使えるようになる大きな転換点ですよ！",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Anthropic Code with Claude Londonで自己ホスト型サンドボックス・MCPトンネル発表\n・Claudeサブスク刷新6月15日施行（エージェント利用別枠化）\n・Claude金融機関向け10エージェントテンプレート公開"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・AI SOCサービス開始（5/20）\n・AIコンステレーション®ビル管理AI業務時間50%削減実証\n・NTTドコモFG7月1日事業開始予定"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・IBM Nighthawk 120量子ビット2026年末量子優位性目標\n・Q-Day 2030〜2033年予測（Project Eleven）\n・arXiv量子AI融合論文2件"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・金融庁 外国ステーブルコイン電子決済手段認定（6/1施行）\n・PayPay上場後初決算 営業収益3807億円（前年比27%増）\n・PayPayカード・ステップ条件6月変更"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・4月全国CPI速報発表（5/22）\n・5大銀行純利益5兆8351億円・前期比33%増（2026年3月期）\n・南極条約会議ATCM48広島で21日閉幕"
+        }
+      ],
+      "must_read": {
+        "title": "金融庁、外国発行ステーブルコインを電子決済手段に正式認定 内閣府令改正を公布",
+        "url": "https://coinpost.jp/?p=709645",
+        "reason": "金融庁 外国ステーブルコイン認定。6月1日施行。",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "Anthropicのロンドン開発者会議でエンタープライズ向けAIエージェントインフラが拡充する一方、金融庁の外国ステーブルコイン規制整備と5大銀行過去最高益は日本の金融市場における制度的成熟と収益環境の好転を示している。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicはCode with Claude Londonで自己ホスト型サンドボックスとMCPトンネルを発表した。企業が公共インターネットに触れず内部システムへエージェントを接続できるため、金融・医療などセキュリティ要件の高い分野での普及が加速する見込みだ。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "AI SOCはNTT独自開発AIアドバイザーとSOARを統合し、サイバー攻撃の自動対処を実現した。セキュリティ運用自動化需要の拡大と専門人材不足を背景に、マネージドサービス市場の拡大を先行する事例として位置づけられる。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMはNighthawk 120量子ビットで2026年末量子優位性を目標とし、Project Elevenの2030年最速Q-Day警告はポスト量子セキュリティ対応投資の前倒しを促す。arXiv量子AI融合論文の増加はアルゴリズム・ハードウェア両面の研究加速を示す。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "金融庁の外国ステーブルコイン認定は2023年国内規制整備に続く制度的完結であり、USDC等の海外コイン流通障壁が解消される。6月施行後の外資系フィンテックの日本参入加速と国際決済多様化が見込まれる。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "5大銀行の純利益5兆8351億円（前期比33%増）は日銀利上げ局面での収益構造転換を示す。今後のM&A・不動産向け資金需要拡大が収益をさらに押し上げる見込みで、銀行セクターの中長期的な収益性向上が確認される。"
+        }
+      ],
+      "must_read": {
+        "title": "金融庁、外国発行ステーブルコインを電子決済手段に正式認定 内閣府令改正を公布",
+        "url": "https://coinpost.jp/?p=709645",
+        "reason": "国内外の電子決済エコシステムの制度的統合を進める政策決定であり、国際ステーブルコイン市場の日本参入障壁解消として金融・テクノロジー両分野に広範な影響を与える。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 8,
+      "trend_history": [7, 8, 8, 7, 8, 9, 8],
+      "summary_short": "AnthropicロンドンイベントでエージェントAI新機能を発表",
+      "summary_long": "AnthropicがロンドンでCode with Claudeを開催し、自己ホスト型エージェントサンドボックスとMCPトンネルを新たに発表した。Claudeサブスク刷新（6月15日施行）や金融機関向けエージェントテンプレートの公開も相次いだ。",
+      "articles": [
+        {
+          "title": "Anthropic lands in London as AI-powered coding goes mainstream",
+          "url": "https://fortune.com/2026/05/21/claude-code-london-anthropic-ai-software-engineering/",
+          "source": "Fortune",
+          "summary_short": "AnthropicがCode with Claude Londonで新機能を発表",
+          "summary_long": "AnthropicはロンドンのCode with Claudeで自己ホスト型エージェントサンドボックスをパブリックベータ、MCPトンネルをリサーチプレビューとして発表した。",
+          "importance": 4,
+          "fetch_failed": true
+        },
+        {
+          "title": "AIエージェントはなぜ「夢」を見るのか──Anthropic「Dreaming」機能が示す未来",
+          "url": "https://jbpress.ismedia.jp/articles/-/94751",
+          "source": "JBpress",
+          "summary_short": "AnthropicがAIエージェントの自己学習機能Dreamingを発表",
+          "summary_long": "AnthropicはClaude Managed AgentsにDreaming機能を追加し、AIエージェントが過去セッションを振り返り作業パターンやミスを学習して継続改善できるようにした。",
+          "importance": 4,
+          "fetch_failed": true
+        },
+        {
+          "title": "AnthropicがClaudeサブスク刷新 エージェント利用を別枠化、使い方で実質値上げも 6月15日から",
+          "url": "https://www.techno-edge.net/article/2026/05/14/5064.html",
+          "source": "テクノエッジ",
+          "summary_short": "ClaudeサブスクがAI自動化利用を別枠化、6月15日から",
+          "summary_long": "AnthropicはClaude ProおよびMaxのサブスクを刷新し、Agent SDKなど自動化利用を月次クレジット別枠で管理する方式に変更する。2026年6月15日施行。",
+          "importance": 3,
+          "fetch_failed": true
+        },
+        {
+          "title": "UiPath、Anthropicの言語モデルClaudeを統合した次世代AIアシスタントとソリューションを発表",
+          "url": "https://www.uipath.com/ja/newsroom/uipath-integrates-anthropic-claude-language-models-for-generative-solutions",
+          "source": "UiPath",
+          "summary_short": "UiPathがAnthropicのClaudeを統合した次世代AI自動化ソリューション発表",
+          "summary_long": "UiPathはAnthropicのClaude言語モデルを統合した次世代AIアシスタントとソリューションを発表した。エンタープライズ向けの業務自動化プロセスにClaude機能が組み込まれる。",
+          "importance": 3,
+          "fetch_failed": true
+        },
+        {
+          "title": "アンソロピック、Claudeに金融機関向け新機能 市場調査・月次決算など",
+          "url": "https://www.watch.impress.co.jp/docs/news/2106565.html",
+          "source": "Impress Watch",
+          "summary_short": "Anthropicが金融機関向けClaudeエージェント10種テンプレートを公開",
+          "summary_long": "Anthropicは銀行・保険・資産運用・フィンテック向けに、ピッチ作成やバリュエーション・レビューなど10種のClaudeエージェントテンプレートを公開した。",
+          "importance": 4,
+          "fetch_failed": true
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 7,
+      "trend_history": [8, 6, 7, 5, 6, 7, 7],
+      "summary_short": "AI SOCサービス開始とビル管理AI実証でドコモが攻勢",
+      "summary_long": "NTTドコモビジネスが5月20日にAI SOCを開始し、AIを活用したサイバー攻撃の自動検出・対処を実現した。ドコモソリューションズはビル管理AI実証でイベント企画業務を50%削減。FG7月設立も予定。",
+      "articles": [
+        {
+          "title": "AIを駆使してサイバー攻撃の脅威を分析・自動対処する「AI SOC」の提供を開始",
+          "url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0520.html",
+          "source": "NTTドコモビジネス",
+          "summary_short": "NTTドコモビジネスがAIでサイバー攻撃を自動対処するAI SOC開始",
+          "summary_long": "NTTドコモビジネスは独自開発AIアドバイザーとマネージドSOARを組み合わせた「AI SOC」サービスの提供を2026年5月20日に開始。サイバー攻撃の脅威分析と自動対処を実現した。",
+          "importance": 5,
+          "fetch_failed": true
+        },
+        {
+          "title": "AIコンステレーション®を活用したビル運営管理の高度化・効率化に関する実証を実施",
+          "url": "https://www.nttcom.co.jp/news/pr26051901.html",
+          "source": "NTTドコモソリューションズ",
+          "summary_short": "NTTドコモソリューションズがビル管理AIで業務時間50%削減実証",
+          "summary_long": "NTTドコモソリューションズはAIコンステレーション®を活用したビル管理AI実証を実施し、イベント企画業務時間を約50%削減する効果を確認した。複数専門AIの協調動作を検証した。",
+          "importance": 4,
+          "fetch_failed": true
+        },
+        {
+          "title": "NTTドコモ・フィナンシャルグループの経営体制について",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/05/08_02.html",
+          "source": "NTTドコモ",
+          "summary_short": "NTTドコモFGが7月1日の経営体制と事業開始を発表",
+          "summary_long": "NTTドコモは2026年7月1日をめどにNTTドコモ・フィナンシャルグループの事業を開始すると発表。金融サービス事業の再編に向けた経営体制を公表した。",
+          "importance": 4,
+          "fetch_failed": true
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 5,
+      "trend_history": [6, 5, 5, 7, 4, 4, 5],
+      "summary_short": "IBM量子優位性とQ-Day予測が同日報告される",
+      "summary_long": "IBMはNighthawk 120量子ビットプロセッサで2026年末の量子優位性実証を目標とし、arXivでは量子AI融合に関する新論文が公開された。Project Elevenは量子暗号解読のQ-Day到来を2030〜2033年と予測している。",
+      "articles": [
+        {
+          "title": "IBM unveils new 'Quantum Nighthawk' 120-qubit processor — on track for 2026 quantum advantage milestone",
+          "url": "https://www.tomshardware.com/tech-industry/semiconductors/ibm-unveils-new-120-qubit-processor-and-software-stack",
+          "source": "Tom's Hardware",
+          "summary_short": "IBM Nighthawk 120量子ビットで2026年末量子優位性へ前進",
+          "summary_long": "IBMは120量子ビットのNighthawkプロセッサを発表し、2026年末の量子優位性実証を目標とすることを確認した。次世代調整可能カプラーを搭載し処理能力が30%向上した。",
+          "importance": 4,
+          "fetch_failed": true
+        },
+        {
+          "title": "量子コンピュータが暗号を破る「Q-Day」、2030年代前半に到来か",
+          "url": "https://news.yahoo.co.jp/articles/40512c281ac8bcf1e24845ae91efbe738ad68e51",
+          "source": "Yahoo!ニュース エキスパート",
+          "summary_short": "Project ElevenがQ-Day到来を2030〜2033年と予測",
+          "summary_long": "セキュリティ企業Project Elevenの2026年版レポートは、楽観的シナリオで2030年、標準想定で2033年頃にQ-Day（量子暗号解読）が到来する可能性が高いと結論づけた。",
+          "importance": 4,
+          "fetch_failed": true
+        },
+        {
+          "title": "Quantum computing and artificial intelligence: status and perspectives",
+          "url": "https://arxiv.org/html/2505.23860v2",
+          "source": "arXiv",
+          "summary_short": "量子コンピューティングとAIの相乗関係を論じたarXiv論文",
+          "summary_long": "arXiv論文2505.23860は量子コンピューティングとAIの相乗関係を分析したホワイトペーパー。量子アルゴリズムが古典AIを強化し、AIが量子進化を促進する双方向効果を論じた。",
+          "importance": 3,
+          "fetch_failed": true
+        },
+        {
+          "title": "Quantum Computing and AI: Perspectives on Advanced Automation in Science and Engineering",
+          "url": "https://arxiv.org/abs/2505.10012",
+          "source": "arXiv",
+          "summary_short": "量子CAEフレームワークで科学・工学自動化の展望を示した論文",
+          "summary_long": "arXiv論文2505.10012はQuantum CAEフレームワークを提案し、量子アルゴリズムを設計・最適化・機械学習に活用する科学・工学自動化の可能性を論じた。",
+          "importance": 3,
+          "fetch_failed": true
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 7,
+      "trend_history": [5, 5, 7, 6, 5, 5, 7],
+      "summary_short": "金融庁が外国ステーブルコインを電子決済手段として認定",
+      "summary_long": "金融庁は外国発行信託型ステーブルコインを電子決済手段として認定する内閣府令を公布し6月1日施行予定。PayPayが上場後初決算で営業収益3807億円（前年比27%増）を発表した。",
+      "articles": [
+        {
+          "title": "金融庁、外国発行ステーブルコインを電子決済手段に正式認定 内閣府令改正を公布",
+          "url": "https://coinpost.jp/?p=709645",
+          "source": "CoinPost",
+          "summary_short": "金融庁が外国発行ステーブルコインを電子決済手段に正式認定",
+          "summary_long": "金融庁は外国発行信託型ステーブルコインを資金決済法上の電子決済手段として認定する内閣府令を公布した。2026年6月1日施行予定で国際ステーブルコインの国内流通に法的根拠が整備された。",
+          "importance": 5,
+          "fetch_failed": true
+        },
+        {
+          "title": "PayPayが上場後初の決算発表 国内では好調、問われる海外での成長戦略",
+          "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00086/00404/",
+          "source": "日経Xtech",
+          "summary_short": "PayPayが上場後初決算、営業収益前年比27%増の3807億円",
+          "summary_long": "PayPayは2026年3月期（上場後初）決算を発表し、営業収益は前年比27%増の3807億円、営業利益は同126%増の801億円と過去最高を更新した。",
+          "importance": 4,
+          "fetch_failed": true
+        },
+        {
+          "title": "2026年6月～PayPayカードやPayPayステップの条件が改悪",
+          "url": "https://news.yahoo.co.jp/expert/articles/58b0025881a2f9941ebf998018e8c7c88d3b94b3",
+          "source": "Yahoo!ニュース エキスパート",
+          "summary_short": "PayPayカード・ステップ条件が2026年6月から変更",
+          "summary_long": "PayPayカードおよびPayPayステップの優遇条件が2026年6月から変更となる。特典の一部が廃止・縮小され、ユーザーへの実質的な影響が生じる見通し。",
+          "importance": 3,
+          "fetch_failed": true
+        }
+      ],
+      "related": ["https://news.yahoo.co.jp/articles/40512c281ac8bcf1e24845ae91efbe738ad68e51"]
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 5,
+      "trend_history": [4, 5, 5, 5, 5, 5, 5],
+      "summary_short": "5大銀行純利益5兆円超え、4月CPI発表",
+      "summary_long": "三菱UFJなど5大銀行の2026年3月期純利益は前期比33%増の5兆8351億円と初の5兆円台を達成。統計局は本日4月分全国CPI速報を発表し、南極条約会議ATCM48が広島で21日に閉幕した。",
+      "articles": [
+        {
+          "title": "三菱UFJなど5大銀行、純利益33%増5.8兆円 M&A増で資金需要拡大",
+          "url": "https://www.nikkei.com/article/DGXZQOUB136T50T10C26A5000000/",
+          "source": "日本経済新聞",
+          "summary_short": "5大銀行の2026年3月期純利益が初の5兆円台、前期比33%増",
+          "summary_long": "三菱UFJフィナンシャル・グループなど5大銀行の2026年3月期純利益は前期比33%増の5兆8351億円と初の5兆円台を達成した。金利上昇とM&A資金需要拡大が寄与した。",
+          "importance": 4,
+          "fetch_failed": true
+        },
+        {
+          "title": "消費者物価指数（CPI）全国 2026年4月分（速報）",
+          "url": "https://www.stat.go.jp/data/cpi/sokuhou/tsuki/index-z.html",
+          "source": "統計局",
+          "summary_short": "統計局が4月分全国消費者物価指数（速報）を発表",
+          "summary_long": "総務省統計局は2026年5月22日、2026年4月分の全国消費者物価指数（速報）を発表した。ホテル料金など教養娯楽サービス分類の動向が注目されている。",
+          "importance": 4,
+          "fetch_failed": true
+        },
+        {
+          "title": "広島 南極条約会議の開会式 "国際協力進める決意示そう"",
+          "url": "https://www3.nhk.or.jp/news/html/20260512/k10015119291000.html",
+          "source": "NHK",
+          "summary_short": "第48回南極条約協議国会議が広島で5月21日に閉幕",
+          "summary_long": "第48回南極条約協議国会議（ATCM48）が広島で5月11〜21日に開催され21日に閉幕した。日本での開催は1994年以来32年ぶりで、コウテイペンギンの特別保護種指定が主要議題となった。",
+          "importance": 3,
+          "fetch_failed": true
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 8,
+      "NTTドコモ": 7,
+      "量子コンピュータ": 5,
+      "金融決済": 7,
+      "国内・社会": 5
+    },
+    "source_distribution": {
+      "Fortune": 1,
+      "JBpress": 1,
+      "テクノエッジ": 1,
+      "UiPath": 1,
+      "Impress Watch": 1,
+      "NTTドコモビジネス": 1,
+      "NTTドコモソリューションズ": 1,
+      "NTTドコモ": 1,
+      "Tom's Hardware": 1,
+      "Yahoo!ニュース エキスパート": 2,
+      "arXiv": 2,
+      "CoinPost": 1,
+      "日経Xtech": 1,
+      "日本経済新聞": 1,
+      "統計局": 1,
+      "NHK": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 6,
+      "4": 10,
+      "5": 2
+    }
+  }
+}
