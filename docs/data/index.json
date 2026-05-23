@@ -1,6 +1,10 @@
 {
-  "last_updated": "2026-05-23T07:00:00+09:00",
+  "last_updated": "2026-05-24T07:00:00+09:00",
   "reports": [
+    {
+      "date": "2026-05-24",
+      "headline": "Gemini SparkのmacOS展開・GPT-5.5リリース・NTTドコモFG金融収益2030年倍増計画・金融庁SC認定6月施行・補正予算3兆円調整"
+    },
     {
       "date": "2026-05-23",
       "headline": "OpenAI機密IPO申請・Gemini 3.5 Flash GA・ドコモAIエージェント部新設・海外SC認定6月施行・4月貿易黒字3019億円"
@@ -170,7 +174,7 @@
     {
       "name": "NTTドコモ",
       "url": "https://www.docomo.ne.jp",
-      "count": 34
+      "count": 35
     },
     {
       "name": "NTTドコモビジネス",
@@ -195,7 +199,7 @@
     {
       "name": "日本経済新聞",
       "url": "https://www.nikkei.com",
-      "count": 50
+      "count": 51
     },
     {
       "name": "NVIDIA",
@@ -210,7 +214,7 @@
     {
       "name": "時事通信",
       "url": "https://www.jiji.com",
-      "count": 8
+      "count": 9
     },
     {
       "name": "IMF",
@@ -315,7 +319,7 @@
     {
       "name": "Gizmodo Japan",
       "url": "https://www.gizmodo.jp",
-      "count": 10
+      "count": 11
     },
     {
       "name": "ITmedia AIプラス",
@@ -330,7 +334,7 @@
     {
       "name": "AIsmiley",
       "url": "https://aismiley.co.jp",
-      "count": 1
+      "count": 2
     },
     {
       "name": "renue",
@@ -375,12 +379,12 @@
     {
       "name": "Yahoo!ニュース エキスパート",
       "url": "https://news.yahoo.co.jp",
-      "count": 6
+      "count": 7
     },
     {
       "name": "AI Academy Note",
       "url": "https://note.com",
-      "count": 2
+      "count": 3
     },
     {
       "name": "ロボスタ",
@@ -405,7 +409,7 @@
     {
       "name": "ペイメントナビ",
       "url": "https://paymentnavi.com",
-      "count": 3
+      "count": 4
     },
     {
       "name": "NHK",
@@ -565,7 +569,7 @@
     {
       "name": "CoinPost",
       "url": "https://coinpost.jp",
-      "count": 5
+      "count": 6
     },
     {
       "name": "JTB総合研究所",
@@ -580,7 +584,7 @@
     {
       "name": "Zenn",
       "url": "https://zenn.dev",
-      "count": 5
+      "count": 6
     },
     {
       "name": "Sustainable Japan",
@@ -610,7 +614,7 @@
     {
       "name": "富士通広報note",
       "url": "https://note.com/fujitsu_pr",
-      "count": 1
+      "count": 2
     },
     {
       "name": "選挙ドットコム",
@@ -915,6 +919,36 @@
     {
       "name": "財務省・税関",
       "url": "https://www.customs.go.jp",
+      "count": 1
+    },
+    {
+      "name": "Eastern Herald",
+      "url": "https://easternherald.com",
+      "count": 1
+    },
+    {
+      "name": "Gate News",
+      "url": "https://www.gate.com/ja/news",
+      "count": 1
+    },
+    {
+      "name": "Telecom Insights Japan",
+      "url": "https://telecom-insights.com",
+      "count": 1
+    },
+    {
+      "name": "Investing.com Japan",
+      "url": "https://jp.investing.com",
+      "count": 1
+    },
+    {
+      "name": "日本総研",
+      "url": "https://www.jri.co.jp",
+      "count": 1
+    },
+    {
+      "name": "Fixstars",
+      "url": "https://prtimes.jp/main/html/rd/p/000000017.000099883.html",
       "count": 1
     }
   ],
