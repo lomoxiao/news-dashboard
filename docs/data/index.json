@@ -1,6 +1,10 @@
 {
-  "last_updated": "2026-05-22T07:00:00+09:00",
+  "last_updated": "2026-05-23T07:00:00+09:00",
   "reports": [
+    {
+      "date": "2026-05-23",
+      "headline": "OpenAI機密IPO申請・Gemini 3.5 Flash GA・ドコモAIエージェント部新設・海外SC認定6月施行・4月貿易黒字3019億円"
+    },
     {
       "date": "2026-05-22",
       "headline": "Anthropic Code with Claude London開催・金融庁外国ステーブルコイン認定6月施行・5大銀行純利益5.8兆円・PayPay上場後初決算・4月CPI発表"
@@ -166,17 +170,17 @@
     {
       "name": "NTTドコモ",
       "url": "https://www.docomo.ne.jp",
-      "count": 33
+      "count": 34
     },
     {
       "name": "NTTドコモビジネス",
       "url": "https://www.ntt.com",
-      "count": 9
+      "count": 10
     },
     {
       "name": "arXiv",
       "url": "https://arxiv.org",
-      "count": 14
+      "count": 15
     },
     {
       "name": "日本銀行",
@@ -191,7 +195,7 @@
     {
       "name": "日本経済新聞",
       "url": "https://www.nikkei.com",
-      "count": 48
+      "count": 50
     },
     {
       "name": "NVIDIA",
@@ -231,7 +235,7 @@
     {
       "name": "BigGo",
       "url": "https://biggo.jp",
-      "count": 2
+      "count": 3
     },
     {
       "name": "AIインサイト",
@@ -246,7 +250,7 @@
     {
       "name": "ビジネスIT",
       "url": "https://www.sbbit.jp",
-      "count": 6
+      "count": 7
     },
     {
       "name": "野村証券",
@@ -316,7 +320,7 @@
     {
       "name": "ITmedia AIプラス",
       "url": "https://www.itmedia.co.jp",
-      "count": 6
+      "count": 7
     },
     {
       "name": "gihyo.jp",
@@ -406,7 +410,7 @@
     {
       "name": "NHK",
       "url": "https://news.web.nhk.newsweb",
-      "count": 13
+      "count": 15
     },
     {
       "name": "PR TIMES",
@@ -521,7 +525,7 @@
     {
       "name": "arpable.com",
       "url": "https://arpable.com",
-      "count": 2
+      "count": 3
     },
     {
       "name": "NTT",
@@ -886,6 +890,31 @@
     {
       "name": "統計局",
       "url": "https://www.stat.go.jp",
+      "count": 1
+    },
+    {
+      "name": "Digital Asset Lab",
+      "url": "https://digital-asset.jp",
+      "count": 1
+    },
+    {
+      "name": "NTTインテグレーション",
+      "url": "https://www.niandc.co.jp",
+      "count": 1
+    },
+    {
+      "name": "WEEL",
+      "url": "https://weel.co.jp",
+      "count": 1
+    },
+    {
+      "name": "Digital Today",
+      "url": "https://www.digitaltoday.co.kr",
+      "count": 1
+    },
+    {
+      "name": "財務省・税関",
+      "url": "https://www.customs.go.jp",
       "count": 1
     }
   ],
