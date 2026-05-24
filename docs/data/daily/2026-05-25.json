@@ -1,0 +1,381 @@
+{
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T07:00:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "Google I/O 2026でGemini 3.5 FlashとGemini Sparkが正式公開され、AIエージェント競争が新フェーズに入った。日経平均は5月22日終値で史上最高値6万3339円を更新した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "GoogleはI/O 2026でGemini 3.5 Flash（前世代比4倍速・コスト半額以下）を正式公開し、PCオフ中も24時間動作するGemini Sparkを発表した。ChatGPTシェアは38.1%へ低下し、Claude・Geminiを含む三極化が進行している。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモビジネスは5月20日にAIでサイバー攻撃をリアルタイム分析・自動対処する「AI SOC」の提供を開始した。同13日にはRCSを2026年夏から提供開始すると発表し、通信サービスの高度化が続く。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "米ホワイトハウスが連邦機関への耐量子暗号移行に厳格な期限を設定する方針を発表した。Googleはライフサイエンス向け1,000万ドル規模の量子AI研究プログラムを発足し、量子×AI融合が加速した。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "金融庁の海外SC電子決済手段認定（6月1日施行）に続き、HashPortがSC決済無料化サービスを開始した。電算システムとフィナンシェが資本業務提携を完了し、6月からWeb3地域創生を本格化させる。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "日経平均株価は5月22日に終値として史上最高値6万3,339円（前日比+1,654円）を記録した。2026年1〜3月期の実質GDPは年率+2.1%と2四半期連続プラスとなり、景気の底堅さが確認された。"
+        }
+      ],
+      "must_read": {
+        "title": "100 things we announced at Google I/O 2026",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+        "reason": "Gemini 3.5 FlashとGemini Sparkの正式公開はAI市場の競争軸を根本から変える。企業のAI調達戦略の見直しを迫る最重要イベントとなった。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "今週はGoogleのAI大発表が続きましたね！Gemini 3.5 Flashがすごく速くて安いらしいですし、日経平均も最高値を更新しましたよ。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Google I/OでGemini 3.5 Flashが正式リリースされましたよ！他社モデルの4倍速で半額以下というのはかなり魅力的ですね。さらにGemini Sparkというエージェントが、PCを閉じていても動き続けてくれるって、なんか未来っぽいですよね。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモがAI SOCというセキュリティサービスを始めたみたいですよ。AIがサイバー攻撃を自動的に検知・対処してくれるサービスで、企業のセキュリティ担当者にはありがたそうですね。RCSも夏から使えるようになるとのことで楽しみですね！"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "アメリカ政府が量子コンピュータ対策として暗号の移行期限を設けるそうですよ。量子コンピュータが暗号を解けるようになる前に準備しておこうという動きですね。Googleも医療・生命科学分野に1,000万ドルを量子AI研究に投資するみたいですよ！"
+        },
+        {
+          "theme": "金融決済",
+          "text": "ステーブルコインの決済が無料になるサービスが始まったみたいですよ。万博でウォレットを作った会社が新たに展開するサービスみたいで、6月からは海外のステーブルコインも正式に使えるようになりますね！地域創生でもブロックチェーンが活躍し始めていますよ。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "日経平均が5月22日に終値の史上最高値6万3,339円を更新しましたよ！AI関連株が引き続き強いみたいですね。1〜3月期のGDPも年率+2.1%とプラス成長が続いているので、景気は堅調ですね。"
+        }
+      ],
+      "must_read": {
+        "title": "100 things we announced at Google I/O 2026",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+        "reason": "Gemini 3.5 FlashとGemini Sparkの登場でAIがさらに身近になりましたよ！どんな機能が使えるようになるか、ぜひ確認してみてください。",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Gemini 3.5 Flash GA：前世代比4倍速・半額以下（Google I/O 2026）\n・Gemini Spark：デバイスOFF中も動作する24/7 AIエージェント正式発表\n・ChatGPTシェア38%に低下、AI三極化が進行"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・AI SOC提供開始（5/20）：サイバー攻撃をAIで自動分析・対処\n・RCS 2026年夏から提供開始（5/13）"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・米ホワイトハウス：連邦機関への耐量子暗号移行期限設定へ\n・Google：ライフサイエンス向け1,000万ドル量子AI研究プログラム発足\n・IonQ：コロラド州R&Dラボ開設・2026年Q1最高益達成"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・HashPort：ステーブルコイン決済無料化サービス開始\n・電算システム×フィナンシェ：資本業務提携完了、6月からWeb3地域創生"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・日経平均5/22終値最高値6万3,339円（前日比+1,654円）\n・2026年1〜3月期実質GDP年率+2.1%（2四半期連続プラス）"
+        }
+      ],
+      "must_read": {
+        "title": "100 things we announced at Google I/O 2026",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+        "reason": "AI競争の新フェーズを示す必読ニュース。Gemini 3.5 Flash・Spark正式公開。",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "Google I/O 2026によるGemini 3.5 Flash/Sparkの正式公開でAIエージェント市場の競争軸が「能力」から「持続稼働・低コスト・統合」へ転換する中、日本では株価最高値更新・GDP堅調とAI株主導の実体経済との乖離が拡大しつつある。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Gemini 3.5 FlashのGA（一般提供）と24/7エージェントGemini Sparkの正式発表は、AI市場の競争軸を「最強モデル」から「常駐稼働・低コスト・エコシステム統合」に転換させた。ChatGPTシェア38%への低下と合わせ、主要3社が常駐型エージェント争いに突入した。企業のIT調達戦略に即時影響を与える可能性が高い。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "AI SOCの提供開始はドコモがネットワーク通信事業からセキュリティマネージドサービスへ事業ポートフォリオを拡張する戦略の一環。AIによる自動化はSOC人材不足（全国推計3万人超）への対応策でもあり、中長期で安定した需要が見込まれる。RCS展開はSMSビジネス依存からの転換を加速する。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "米ホワイトハウスの耐量子暗号移行期限設定は、Q-Day（量子コンピュータが現在の暗号を解読できる日）が政策レベルで現実的脅威として扱われ始めたことを示す。日本の金融機関・政府機関でもPQC対応投資が前倒しになる可能性がある。Googleの1,000万ドル量子AI研究はバイオ・創薬分野での商用化加速を示唆する。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "HashPortのSC決済無料化は金融庁の外国SC認定（6/1施行）を先取りしたシェア獲得戦略であり、施行後の外資系フィンテック参入と競合する。電算システム×フィナンシェのWeb3地域創生は中央集権的決済インフラに依存しない地域経済モデルの実証事例となり、成否が全国展開の指標となる。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "日経平均の終値最高値更新（63,339円）はAI関連株主導で、野村証券の年末予測63,000円を5月に既に達成。上振れシナリオ70,500円が意識され始めている。実体経済のQ1 GDP+2.1%（年率）との乖離は拡大傾向にあり、USD/JPY 159円台の円安継続が輸出企業業績を下支えするが、中東リスクと日米金利差縮小が反転リスクとなる。"
+        }
+      ],
+      "must_read": {
+        "title": "100 things we announced at Google I/O 2026",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+        "reason": "AIエージェントの常駐化・低コスト化はIT支出・労働代替・競争優位の三軸に同時影響し、複数セクターの経営判断を左右する変曲点となる。発表100項目の全体像を把握することがAI戦略立案の前提となる。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 8,
+      "trend_history": [7, 8, 9, 8, 9, 7, 8],
+      "summary_short": "Google I/OでGemini 3.5 Flashが公開、AI市場の三極化が本格化した。",
+      "summary_long": "Googleが5月19日のI/OでGemini 3.5 FlashとGemini Sparkを正式公開し、AIエージェント競争が新フェーズへ移行した。GPT-5.5 InstantはChatGPTのデフォルトモデルとなり、ChatGPTシェアは38%へ低下。Claude急伸と合わせ、AI市場の三極化が明確になった。",
+      "articles": [
+        {
+          "title": "Google I/O 2026全発表：Gemini 3.5 Flash・Spark・Android XRほか100項目",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+          "source": "Google Blog",
+          "summary_short": "Gemini 3.5 FlashがGA、前世代比4倍速・半額以下で提供開始となった。",
+          "summary_long": "Googleは5月19日の開発者会議I/O 2026でGemini 3.5 Flashを正式公開した。コーディング・エージェント・マルチモーダルベンチマークで前世代Gemini 3.1 Proを上回り、他社フロンティアモデル比4倍速・半額以下で提供。Gemini Spark・Android XRスマートグラスなど100件超の発表が行われた。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "Gemini Spark：PCオフ中も24時間動作する自律型AIエージェントを発表",
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/2110006.html",
+          "source": "ケータイ Watch",
+          "summary_short": "Google I/OでデバイスOFF中も自律動作するGemini Sparkを発表した。",
+          "summary_long": "Googleは5月19日のGoogle I/Oで、PCやスマートフォンの電源を切っても24時間バックグラウンドで独立動作する個人AIエージェント「Gemini Spark」を発表した。Gemini 3.5 FlashとGoogle Antigravityを組み合わせ、メール・予定管理など日常タスクを自律的に代行する。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "ChatGPTがシェア4割を切る――Claude急伸でAI三極化の兆し",
+          "url": "https://www.itmedia.co.jp/enterprise/articles/2605/08/news033.html",
+          "source": "ITmedia AIプラス",
+          "summary_short": "ChatGPTシェアが4割を切り、Claude急伸でAI市場の三極化が明確になった。",
+          "summary_long": "2026年4月時点でChatGPTの市場シェアが38.1%（1月比約7ポイント減）に低下し4割を切った。Claudeは同期間に13.1%へ急伸し、Geminiは25%前後を維持した。AIサービス市場のChatGPT一強体制が崩れ、用途別三極化が進行している。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "Claude Code週次利用制限50%増加、全有料プランに7月13日まで自動適用",
+          "url": "https://note.com/tothinks/n/ne489f28d6b01",
+          "source": "note",
+          "summary_short": "Claude Code全有料プランの週次利用制限が7月13日まで50%増加された。",
+          "summary_long": "Anthropicは2026年5月、Claude Codeの週次利用制限を全有料プランで50%増加させると発表した。7月13日までの期間限定で、CLI・VSCode・JetBrainsなど全環境に自動適用される。Compliance API統合による企業向けガバナンス機能強化も同週に公開された。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 5,
+      "trend_history": [5, 6, 7, 7, 6, 6, 5],
+      "summary_short": "AI SOC開始・RCS夏提供でドコモのデジタルサービス強化が続いた。",
+      "summary_long": "NTTドコモビジネスは5月20日にAIでサイバー攻撃をリアルタイム分析・自動対処するAI SOCの提供を開始した。同13日にはRCSを2026年夏から提供開始すると発表し、セキュリティとコミュニケーション両面でのデジタルサービス強化が続いている。AIコンステレーションを活用したビル管理実証も開始された。",
+      "articles": [
+        {
+          "title": "NTTドコモビジネス、AIでサイバー攻撃を自動分析・対処する「AI SOC」の提供を開始",
+          "url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0520.html",
+          "source": "NTTドコモビジネス",
+          "summary_short": "NTTドコモビジネスがAI自動分析でサイバー攻撃を検知・対処するAI SOCを開始した。",
+          "summary_long": "NTTドコモビジネスは5月20日、AIを駆使してサイバー攻撃の脅威をリアルタイム分析・自動対処する「AI SOC（Security Operations Center）」の提供を開始した。セキュリティアナリスト不足が深刻化する中、AI活用でSOC運用の省力化と高度化を同時に実現するマネージドサービスとして展開される。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "ドコモ、次世代メッセージサービスRCSを2026年夏から提供開始",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/05/13_00.html",
+          "source": "NTTドコモ",
+          "summary_short": "NTTドコモが次世代メッセージサービスRCSを2026年夏から提供開始すると発表した。",
+          "summary_long": "NTTドコモは5月13日、SMSの後継となる次世代メッセージサービス「RCS（Rich Communication Services）」を2026年夏から提供開始すると発表した。写真・動画・位置情報などリッチコンテンツの送受信が可能になり、キャリア間のメッセージ体験が大きく向上する。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモ等3社、AIコンステレーションでビル運営管理高度化の実証を開始",
+          "url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0519.html",
+          "source": "NTTドコモビジネス",
+          "summary_short": "NTTドコモ等3社がAI連携技術でビル運営管理高度化の実証実験を開始した。",
+          "summary_long": "NTTアーバンソリューションズ・NTTドコモソリューションズ・NTTドコモビジネスは5月19日、大規模AI連携技術「AIコンステレーション®」を活用したビル運営管理の高度化・効率化実証を開始した。AIの協調動作によりエネルギー管理や設備保全の自動化を目指す。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 6,
+      "trend_history": [4, 4, 5, 5, 6, 6, 6],
+      "summary_short": "米政府の耐量子暗号期限設定とGoogleの量子AI研究投資が加速した。",
+      "summary_long": "米ホワイトハウスが連邦機関への耐量子暗号移行に厳格な期限を設定する方針を表明し、量子サイバーセキュリティ政策の転換点となった。Googleはライフサイエンス向け1,000万ドル規模の量子AI研究プログラムを発足し、IonQは2026年Q1に記録的収益を達成した。",
+      "articles": [
+        {
+          "title": "米ホワイトハウス、連邦機関に耐量子暗号移行の厳格な期限を設定へ",
+          "url": "https://troy-technical.jp/%E9%87%8F%E5%AD%90%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF-%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88-2026%E5%B9%B45%E6%9C%8823%E6%97%A5/",
+          "source": "量子ウィークリーレポート",
+          "summary_short": "米ホワイトハウスが連邦機関への耐量子暗号移行に厳格な期限を設定する方針を発表。",
+          "summary_long": "米ホワイトハウスは2026年5月、連邦政府機関に対し耐量子暗号（Post-Quantum Cryptography）への完全移行について厳格な期限を設定する方針を発表した。量子コンピュータによる暗号解読リスクが政策レベルで現実的脅威として認識されており、日本の金融機関・政府機関への波及も予想される。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Google、ライフサイエンス向け1,000万ドル規模の量子AI研究プログラムを発足",
+          "url": "https://troy-technical.jp/%E9%87%8F%E5%AD%90%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF-%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88-2026%E5%B9%B45%E6%9C%8823%E6%97%A5/",
+          "source": "量子ウィークリーレポート",
+          "summary_short": "Googleがライフサイエンス向け1,000万ドル規模の量子AI研究プログラムを発足した。",
+          "summary_long": "Googleは2026年5月第3週、ライフサイエンス分野に特化した1,000万ドル規模の量子AI研究プログラムを発足した。量子コンピューティングと人工知能を組み合わせたバイオ・医療研究への応用加速が目的で、創薬・タンパク質解析分野での商用化を目指す。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "IonQ、米コロラド州に次世代量子R&Dラボを開設 2026年Q1最高益を達成",
+          "url": "https://prtimes.jp/main/html/rd/p/000000021.000148901.html",
+          "source": "PR TIMES",
+          "summary_short": "IonQが米コロラド州に次世代量子R&Dラボを開設し2026年Q1最高益を達成した。",
+          "summary_long": "IonQは2026年5月、コロラド州ボルダーに次世代量子コンピューターR&Dラボを開設した。同社は2026年第1四半期に記録的な収益と成長を達成したと報告し、量子コンピューティング企業の商業化フェーズへの移行が加速していることを示した。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "OptQC、JSTムーンショット目標6の誤り耐性量子コンピュータ研究課題に参画",
+          "url": "https://prtimes.jp/main/html/rd/p/000000021.000148901.html",
+          "source": "PR TIMES",
+          "summary_short": "OptQCがJSTムーンショット量子コンピュータ誤り耐性実現目標の研究に参画した。",
+          "summary_long": "光量子コンピュータ開発のOptQC株式会社は5月20日、JSTムーンショット型研究開発事業「2050年までに誤り耐性型汎用量子コンピュータを実現」目標6の研究開発課題に参画すると発表した。日本の量子コンピュータ開発における研究基盤の強化が続く。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 6,
+      "trend_history": [5, 7, 8, 6, 6, 6, 6],
+      "summary_short": "SC決済無料化と地域創生Web3連携が6月施行に向け動き出した。",
+      "summary_long": "金融庁の海外SC電子決済手段認定（6月1日施行）に続き、HashPortがSC決済の無料化サービスを開始した。電算システムとフィナンシェが資本業務提携を完了し6月からWeb3地域創生を本格化させるなど、ステーブルコイン実用化に向けた動きが加速している。",
+      "articles": [
+        {
+          "title": "HashPort、万博ウォレット技術を活用したステーブルコイン決済無料化サービスを開始",
+          "url": "https://www.nikkei.com/article/DGXZQOUB232A00T20C26A1000000/",
+          "source": "日本経済新聞",
+          "summary_short": "HashPortが万博ウォレット技術を活用したSC決済無料化サービスを開始した。",
+          "summary_long": "フィンテック企業HashPortは、大阪・関西万博向けに開発したウォレットアプリの技術を活用し、店舗・消費者双方が手数料無料でステーブルコインによる決済ができるサービスを開始した。金融庁の外国SC認定（6月1日施行）と合わせ、日本のステーブルコイン実用化を加速させる動き。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "電算システムとフィナンシェが資本業務提携を完了、6月からWeb3地域創生を本格化",
+          "url": "https://paymentnavi.com/paymentnews/174845.html",
+          "source": "ペイメントナビ",
+          "summary_short": "電算システムとフィナンシェが資本業務提携完了し6月からWeb3地域創生を開始する。",
+          "summary_long": "電算システムは5月21日、フィナンシェとの資本業務提携を完了し、ブロックチェーン技術（Web3）を活用した地域創生の推進を2026年6月から本格開始すると発表した。決済とWeb3技術を組み合わせた地方活性化の実証事例となる。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "改正資金決済法で外国発行SC取り扱い基準が明確化、事業者は登録のみで対応可能に",
+          "url": "https://keiyaku-watch.jp/media/hourei/2026-funds-settlement/",
+          "source": "契約ウォッチ",
+          "summary_short": "改正資金決済法で外国SC取り扱い基準が明確化、事業者は登録のみで対応可能になった。",
+          "summary_long": "2026年施行の改正資金決済法で外国発行ステーブルコインの取り扱い基準が金融庁により明確化された。発行元の海外ライセンス保有・裏付け資産管理・監督当局との情報共有を条件に、事業者は資金決済法に基づく登録のみで取り扱いが可能となった。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "フィンテック2026：ステーブルコインと決済インフラが10大トレンドの核心に",
+          "url": "https://www.sbbit.jp/article/fj/177565",
+          "source": "ビジネス+IT",
+          "summary_short": "2026年フィンテック10大予測でSCと決済インフラが業界変化の核心と位置付けられた。",
+          "summary_long": "ビジネス+ITは2026年のフィンテック10大予測を公開し、ステーブルコインの決済インフラ化が分岐点を迎えるとした。米ドル建てSCとの交換整備・BaaS（Banking as a Service）の普及・AIと金融の融合が次の10年への業界変化の中核と分析された。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": ["https://coinpost.jp/?p=709645"]
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 5,
+      "trend_history": [5, 5, 5, 5, 5, 5, 5],
+      "summary_short": "日経平均が終値最高値6万3339円更新、GDP年率+2.1%が確認された。",
+      "summary_long": "日経平均株価は5月22日に終値として史上最高値6万3,339円（前日比+1,654円）を記録した。2026年1〜3月期実質GDPは年率+2.1%と2四半期連続プラス成長となり、AI関連株主導の株高と景気の底堅さが同時に確認された。USD/JPYは159円台で円安基調が継続している。",
+      "articles": [
+        {
+          "title": "日経平均が終値として史上最高値6万3339円を更新、AIラリーが牽引",
+          "url": "https://www.nikkei.com/article/DGXZQOUB221MKTS6A520C2000000/",
+          "source": "日本経済新聞",
+          "summary_short": "日経平均株価が5月22日に終値として史上最高値6万3339円を更新した。",
+          "summary_long": "日経平均株価は5月22日、終値として史上最高値となる6万3,339円（前日比+1,654円、+2.68%）を記録した。AI関連株を中心とした上昇が続いており、野村証券がメインシナリオとしていた年末6万3,000円を5月時点で既に上回った。上振れシナリオの7万500円が意識され始めている。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "2026年1〜3月期実質GDP年率+2.1%増、2四半期連続プラス成長を達成",
+          "url": "https://www.dlri.co.jp/report/macro/607272.html",
+          "source": "第一ライフ資産運用経済研究所",
+          "summary_short": "2026年1〜3月期実質GDP年率+2.1%増、2四半期連続プラス成長を達成した。",
+          "summary_long": "2026年1〜3月期の実質GDP成長率（1次速報後改定）は年率換算で前期比+2.1%となり、2四半期連続のプラス成長となった。個人消費・設備投資・輸出がいずれも底堅く推移し、中東情勢の影響が本格化する前の水準を維持した。2026年度のCPIは1.9%と前年度比低下を見込む。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "USD/JPYが159円台で推移、円安基調が5月第4週も継続",
+          "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
+          "source": "日本銀行",
+          "summary_short": "USD/JPYが159円台で推移し、円安基調が5月第4週も継続した。",
+          "summary_long": "USD/JPYは5月25日時点で159円台で推移し、5月を通じた円安基調が継続している。野村証券は2026年末に向け140円台への円高を予測するが、日米金利差縮小のペースによっては調整が遅れる可能性がある。エネルギー輸入コスト増加による貿易収支への圧迫が懸念される。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 8,
+      "NTTドコモ": 5,
+      "量子コンピュータ": 6,
+      "金融決済": 6,
+      "国内・社会": 5
+    },
+    "source_distribution": {
+      "Google Blog": 1,
+      "ケータイ Watch": 1,
+      "ITmedia AIプラス": 1,
+      "note": 1,
+      "NTTドコモビジネス": 2,
+      "NTTドコモ": 1,
+      "量子ウィークリーレポート": 2,
+      "PR TIMES": 2,
+      "日本経済新聞": 2,
+      "ペイメントナビ": 1,
+      "契約ウォッチ": 1,
+      "ビジネス+IT": 1,
+      "第一ライフ資産運用経済研究所": 1,
+      "日本銀行": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 10,
+      "4": 6,
+      "5": 2
+    }
+  }
+}
