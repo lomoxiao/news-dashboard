@@ -1,0 +1,370 @@
+{
+  "date": "2026-05-26",
+  "generated_at": "2026-05-26T06:30:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "AnthropicはProject GlasswingでClaude Mythos PreviewによりOSSの脆弱性2万3019件（うちhigh/critical 6202件）を発見した。Q-CTRL×IBMは120量子ビットで材料シミュレーションを古典計算比3000倍高速化し、実用量子優位性の初証拠を示した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicのProject GlasswingがClaude Mythos PreviewでOSSの脆弱性2万3019件を発見し、6202件をhigh/critical評価と特定した。同社のビジネスAI採用率は34.4%でOpenAIを初めて上回った。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモは「d払い」において他社クレジットカード設定時のポイント還元率を2026年8月26日から0%に変更すると発表した。現行0.5%からの引き下げで、dカードへの誘導を目的とした改定となる。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "Q-CTRLとIBMは120量子ビットのFermi-Hubbardシミュレーションで古典計算比3000倍の高速化を達成し、実用量子優位性の初証拠を示した。米商務省はCHIPS法で量子9社に20億ドルの投資提案を行った。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "日本経済新聞調査で2026年夏のボーナス平均が初めて100万円を超え104万6931円（前年比4.07%増）となった。5年連続増加で鹿島が270万円首位。テザーはSC決済フィンテックFizenに戦略投資した。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "高市首相は中東情勢対応として一般会計3兆円強の補正予算案編成を表明した。山形・酒田市でクマが男性を死亡させ1988年以来同県初の人的被害死亡が確認された。奄美・鹿児島地方に線状降水帯発生リスクがある。"
+        }
+      ],
+      "must_read": {
+        "title": "Anthropic、Claude Mythos PreviewでOSSの2万3019件の脆弱性を発見 Project Glasswing初期報告",
+        "url": "https://ledge.ai/articles/anthropic_claude_mythos_preview_project_glasswing_vulnerabilities",
+        "reason": "AIがOSS供給網全体のセキュリティ監査を自律実行し6202件のhigh/critical脆弱性を特定した。ソフトウェア調達・運用リスク管理に構造的変化をもたらす変曲点となる。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "今日はAIと量子コンピュータで大きなニュースが出ましたよ！AnthropicがAIでソフトのバグを2万件以上見つけて、量子コンピュータも古典計算の3000倍速が達成されたみたいです。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicのProject Glasswingで、AIがOSSの脆弱性を2万3000件以上見つけたんですよ！うち6200件以上が深刻な問題とのことで、AIがサイバーセキュリティでも活躍していますね。さらにAnthropicのビジネス採用率がOpenAIをついに超えたみたいですよ！"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモのd払いで、他社カードを使っていると8月26日からポイントが付かなくなるみたいですよ。dカードに変えるか考えておくと良さそうですね。請求書払いで1000万ポイント山分けのキャンペーンも継続中ですよ！"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "Q-CTRLとIBMが量子コンピュータで計算を古典コンピュータの3000倍速くできることを実証したみたいですよ！100時間かかっていた計算が2分に短縮されるなんてすごいですね。アメリカ政府も20億ドルを量子開発に投資する計画みたいですよ。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "今年の夏のボーナス、ついに平均100万円を超えたみたいですよ！5年連続で増加していて、鹿島が270万円でトップだそうです。テザーもステーブルコイン決済の新フィンテック企業に投資して、決済の新しい波が来ていますね。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "高市首相が中東情勢への対応として3兆円規模の補正予算を組むと表明しましたよ。ガスや電気代の負担を軽くしてもらえるかもしれませんね。山形でクマによる死亡事故があったり、奄美で大雨リスクが出ているので気をつけてください。"
+        }
+      ],
+      "must_read": {
+        "title": "Anthropic、Claude Mythos PreviewでOSSの2万3019件の脆弱性を発見 Project Glasswing初期報告",
+        "url": "https://ledge.ai/articles/anthropic_claude_mythos_preview_project_glasswing_vulnerabilities",
+        "reason": "AIがソフトウェアのセキュリティ問題を大規模に自動発見するって、すごく未来が変わる話ですよね！私たちが使っているアプリも守られるかもしれません。",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Anthropic Project Glasswing：OSS脆弱性2.3万件発見（うちhigh/critical 6202件）\n・AnthropicビジネスAI採用率34.4%でOpenAI（32.3%）を初超え\n・Code with Claude 2026東京6/10開催決定"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・d払い：他社カード利用時ポイント還元0%へ（8月26日から）\n・ドコモ金融スマートライフ事業5年倍増計画を継続推進"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・Q-CTRL×IBM：120量子ビットで3000倍高速化・実用量子優位性証拠達成\n・米商務省：CHIPS法で量子9社に20億ドル投資提案（5/21）"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・夏のボーナス平均104.7万円・初の100万円超え（前年比+4.07%）\n・テザー：Fizenに戦略投資、SC決済フィンテック強化"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・高市首相：3兆円超の補正予算案編成表明（エネルギー負担軽減）\n・山形・酒田：クマによる男性死亡（1988年以来同県初）"
+        }
+      ],
+      "must_read": {
+        "title": "Anthropic、Claude Mythos PreviewでOSSの2万3019件の脆弱性を発見 Project Glasswing初期報告",
+        "url": "https://ledge.ai/articles/anthropic_claude_mythos_preview_project_glasswing_vulnerabilities",
+        "reason": "AIによる大規模OSS脆弱性検出の実証。サイバーセキュリティ対策の必読ニュース。",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "Anthropic Project GlasswingによるOSS脆弱性2.3万件の発見とQ-CTRL×IBM量子3000倍高速化が同時に示され、AIと量子コンピュータが実用フェーズに移行する明確なシグナルが出た。日本では夏ボーナス100万円超えと補正予算3兆円が個人消費と財政の両輪を支える構図が形成された。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Project GlasswingはAIがソフトウェア供給網全体のセキュリティ監査を自律実行できることを実証した。6202件のhigh/critical脆弱性は既存のバグバウンティでは捕捉困難なリスクを顕在化させ、企業のソフトウェア調達・運用リスク管理に構造的変化をもたらす。採用率逆転はエンタープライズAI市場の再編を加速させる。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "d払い他社カード0%化はdカードへの囲い込み戦略を明確化し金融×通信の収益最大化を優先した。dカード会員獲得による生涯価値向上を他社流出リスクより重視した政策転換で、競合PayPay・auPAYも追随する可能性があり決済ポイント経済圏の再編が加速しうる。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "Q-CTRL×IBMのFermi-Hubbard 3000倍高速化は量子優位性が特定ユースケースで実用レベルに達した最初の明確事例であり、エネルギー・材料科学分野での商用化を具体化させる。米商務省の20億ドルCHIPS量子投資は国家安全保障と技術覇権の観点から量子ハードウェア製造基盤確保を急ぐ戦略的投資で日米量子協力の枠組みにも影響する。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "夏ボーナス平均100万円超えは賃上げと株高の恩恵が給与所得者に広がる段階に入ったことを示す。一方、高市補正予算3兆円（エネルギー補助）は実質賃金を支える財政依存構造の継続を意味し、持続的消費拡大への移行は依然不透明。テザーのFizen投資は米ドル建てSCの決済インフラ拡張を民間主導で加速させる動き。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "高市補正予算3兆円は中東情勢長期化を前提とした政策対応で、1〜3月GDP+2.1%を下支えした財政効果の継続を意図する。USD/JPY 159円台継続が輸入物価上昇を通じてエネルギー補助需要を持続的に生み出す構造的要因となっており、財政収支への中長期的な圧力となる。クマ被害増加は鳥獣被害対策への政策資源配分を問う。"
+        }
+      ],
+      "must_read": {
+        "title": "Anthropic、Claude Mythos PreviewでOSSの2万3019件の脆弱性を発見 Project Glasswing初期報告",
+        "url": "https://ledge.ai/articles/anthropic_claude_mythos_preview_project_glasswing_vulnerabilities",
+        "reason": "AIによる大規模OSS脆弱性検出はソフトウェア供給網のセキュリティリスク評価モデルを刷新する。企業のCISO・情報セキュリティ戦略の見直しを迫る変曲点であり、複数セクターの意思決定に即時影響する。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 9,
+      "trend_history": [8, 9, 8, 9, 7, 8, 9],
+      "summary_short": "AIがOSS脆弱性2.3万件を発見し、Anthropic採用率OpenAI超え。",
+      "summary_long": "AnthropicはProject Glasswingの初期報告でClaude Mythos PreviewがOSSの脆弱性2万3019件（うち6202件がhigh/critical）を発見と公表した。ビジネス採用率34.4%でOpenAIを初超え。Code with Claude 2026東京は6/10開催決定。",
+      "articles": [
+        {
+          "title": "Anthropic、Claude Mythos PreviewでOSSの2万3019件の脆弱性を発見 Project Glasswing初期報告",
+          "url": "https://ledge.ai/articles/anthropic_claude_mythos_preview_project_glasswing_vulnerabilities",
+          "source": "Ledge.ai",
+          "summary_short": "AIがOSS2.3万件の脆弱性を発見し6202件がhigh以上と判定した。",
+          "summary_long": "AnthropicはProject Glasswingの初期報告を公開した。Claude Mythos Previewが世界重要OSSの1万件超プロジェクトを解析し2万3019件の脆弱性を発見、うち6202件がhigh/critical評価と推定された。AIによるOSS安全性向上が初めて大規模実証された。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "AnthropicのビジネスAI採用率34.4%、OpenAIを初めて上回る",
+          "url": "https://tech-noisy.com/2026/05/25/anthropic-surpasses-openai-business-adoption/",
+          "source": "TECH NOISY",
+          "summary_short": "Anthropicのビジネス採用率が34.4%でOpenAIを初めて上回った。",
+          "summary_long": "2026年4月の企業向けAIサービス採用率調査でAnthropicが34.4%を記録しOpenAIの32.3%を初めて上回った。Claude Opus 4.7の一般提供とエンタープライズ向け機能強化が採用増を牽引した。Anthropicの企業評価額は1兆ドルに接近しつつある。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Code with Claude 2026東京6月10日開催決定、3都市同時展開",
+          "url": "https://innovatopia.jp/ai/ai-news/100258/",
+          "source": "イノバトピア",
+          "summary_short": "Code with Claude 2026の東京開催が6月10日に決定した。",
+          "summary_long": "AnthropicのCode with Claude 2026東京開催が2026年6月10日に決定した。ロンドン（5/22開催済み）・サンフランシスコと3都市同時展開で、Claude Code・Developer Platform・パートナー企業連携事例が紹介される。日本の開発者コミュニティへのリーチを強化する。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "arXiv cs.AI 2026年5月25日付48件投稿、エージェント・形式検証研究が活発",
+          "url": "https://arxiv.org/list/cs.AI/recent",
+          "source": "arXiv",
+          "summary_short": "arXiv cs.AIに5月25日付で48件投稿、エージェント研究が活発だ。",
+          "summary_long": "arXiv cs.AIフィードには2026年5月25日付で48件のAI論文が掲載された。AIエージェントシステム・形式検証・知識グラフ・エネルギー効率・AIガバナンスなど多岐にわたる研究領域をカバーしており、特にAIエージェントの自律性向上と説明可能性に関する論文が増加傾向にある。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": ["https://www.watch.impress.co.jp/docs/news/2106565.html"]
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 5,
+      "trend_history": [6, 7, 7, 6, 6, 5, 5],
+      "summary_short": "d払い他社カード還元率が8月26日から0%へ変更・金融5年倍増継続。",
+      "summary_long": "NTTドコモは「d払い」において電話料金合算払い選択時に他社クレジットカードを設定しているユーザーのポイント還元率を、2026年8月26日から現行0.5%から0%に変更すると発表した。dカードへの誘導を目的とした改定で、金融スマートライフ事業の5年倍増計画と連動した施策となる。",
+      "articles": [
+        {
+          "title": "ドコモ「d払い」他社カード利用時のポイント還元率を8月26日から0%へ変更",
+          "url": "https://ascii.jp/elem/000/004/269/4269901/",
+          "source": "ASCII.jp",
+          "summary_short": "d払い電話料金合算払いで他社カード設定時の還元が8月から0%となる。",
+          "summary_long": "NTTドコモは「d払い」において電話料金合算払い選択かつdカード以外のクレジットカードを設定しているユーザーのポイント還元率を2026年8月26日から0%に変更すると発表した。現行0.5%からの引き下げで、dカード保有者への還元維持を維持したまま他社カードを排除する囲い込み戦略。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモ、決済と銀行を一気通貫で提供・金融スマートライフ事業5年倍増計画",
+          "url": "https://paymentnavi.com/paymentnews/174353.html",
+          "source": "ペイメントナビ",
+          "summary_short": "ドコモが決済・銀行を一気通貫提供し金融事業5年倍増を目指す計画を継続。",
+          "summary_long": "NTTドコモは5月8日の2025年度決算説明会で、dカード・d払い・ドコモ口座を一気通貫で提供することでスマートライフ金融事業を2030年までに現状比倍増させる計画を示した。AIを活用した金融エージェント機能強化と与信・ローン事業の拡大が主な成長ドライバーとなる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "d払い請求書払いで1,000万ポイント山分けキャンペーン（4月20日〜6月30日）",
+          "url": "https://paymentnavi.com/paymentnews/173688.html",
+          "source": "ペイメントナビ",
+          "summary_short": "d払い請求書払いの利用で1000万ポイント山分けキャンペーンが継続中。",
+          "summary_long": "NTTドコモは「d払い請求書払いのご利用で1,000万ポイント山分けキャンペーン」を2026年4月20日から6月30日まで実施している。d払いで公共料金などの請求書払いを行うことでdポイントが山分けで付与される。請求書払い利用者の拡大とd払いのユースケース多様化を目的とする。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 8,
+      "trend_history": [4, 5, 5, 6, 6, 6, 8],
+      "summary_short": "Q-CTRL×IBMが3000倍高速化達成、米CHIPS法量子20億ドル投資提案。",
+      "summary_long": "Q-CTRLとIBMは2026年5月6日、IBM Quantum Platformの120量子ビットでFermi-Hubbardモデルを古典計算比3000倍の速度でシミュレーションし実用量子優位性の初証拠を示した。米商務省はCHIPS法に基づき量子ハードウェア9社への20億ドル投資提案を行った（5月21日）。arXiv quant-phにも50件超の論文が投稿された。",
+      "articles": [
+        {
+          "title": "Q-CTRL×IBM、120量子ビットで材料シミュレーション3000倍高速化・実用量子優位性証拠",
+          "url": "https://thequantuminsider.com/2026/05/06/qctrl-practical-quantum-advantage-materials-discovery/",
+          "source": "The Quantum Insider",
+          "summary_short": "Q-CTRL×IBMが120量子ビットで古典比3000倍の高速化を達成した。",
+          "summary_long": "Q-CTRLとIBMは2026年5月6日、IBM Quantum Platformで120量子ビットを使ったFermi-Hubbardモデルシミュレーションを実行し業界標準の古典計算ソフト比3000倍の高速化を達成した。計算時間は100時間以上から約2分に短縮され、エネルギー材料・超伝導体研究への実用的量子優位性が初めて証拠として示された。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "米商務省、CHIPS法に基づき量子ハードウェア9社に総額20億ドルの投資提案",
+          "url": "https://quantumcomputingreport.com/news/",
+          "source": "Quantum Computing Report",
+          "summary_short": "米商務省がCHIPS法で量子9社に20億ドルの投資提案を行った。",
+          "summary_long": "米国商務省は2026年5月21日、CHIPS・Science法に基づき量子ハードウェア・ファウンドリ開発9社に総額20億ドル超の投資提案を行った。GlobalFoundriesとIBMが多拠点量子ファウンドリ構築の主要受益者となる見込みで、量子コンピュータ製造基盤強化を急ぐ国家戦略の一環。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "arXiv quant-ph 2026年5月25日付50件超投稿、量子誤り訂正・シミュレーション研究活発",
+          "url": "https://arxiv.org/list/quant-ph/recent",
+          "source": "arXiv",
+          "summary_short": "arXiv quant-phに5月25日付50件超投稿、量子誤り訂正研究活発だ。",
+          "summary_long": "arXiv quant-phフィードには2026年5月25日付で50件以上の量子物理・量子コンピュータ関連論文が掲載された。量子計算アルゴリズム・誤り訂正符号・量子シミュレーション・多体物理など幅広い分野をカバー。光量子シミュレータや超伝導回路の欠陥研究も報告された。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 5,
+      "trend_history": [7, 8, 6, 6, 6, 6, 5],
+      "summary_short": "夏ボーナス平均初の100万円超え・テザーがFizenに戦略投資した。",
+      "summary_long": "日経新聞調査で2026年夏のボーナス平均支給額が初めて100万円を超え前年比4.07%増の104万6931円となった。5年連続増加で鹿島が270万円首位。テザーはステーブルコイン決済フィンテックFizenへの戦略投資を実施し、米ドル建てSCの決済インフラ拡張を民間主導で加速させた。",
+      "articles": [
+        {
+          "title": "夏のボーナス平均104万6931円、初の100万円超え・前年比4.07%増（日経調査）",
+          "url": "https://www.nikkei.com/article/DGXZQOUC13CI60T10C26A5000000/",
+          "source": "日本経済新聞",
+          "summary_short": "夏のボーナス平均が初の100万円超えとなり前年比4.07%増となった。",
+          "summary_long": "日本経済新聞社が集計した2026年夏季賞与調査で平均支給額が前年比4.07%増の104万6931円となり初めて100万円を突破した。5年連続の増加で製造業・建設業で特に増加幅が大きく鹿島が270万円で首位。AI・デジタル投資の恩恵を受けた企業の好業績が反映された。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "テザー、ステーブルコイン決済フィンテックFizenに戦略投資を実施",
+          "url": "https://crypto-times.jp/news-tether-strategic-investment-fizen/",
+          "source": "CRYPTO TIMES",
+          "summary_short": "テザーがSC決済フィンテックFizenに戦略投資しSC普及を加速する。",
+          "summary_long": "ステーブルコイン大手テザーはステーブルコイン決済に特化したフィンテック企業Fizenへの戦略的投資を発表した。FizenはUSDTを含む複数SCでの決済処理基盤を提供しており、今回の投資によりグローバルな加盟店網の拡大と決済フィンテックとしての基盤強化を図る。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "Anthropic、金融機関向けClaudeエージェントテンプレート10種を公開",
+          "url": "https://www.watch.impress.co.jp/docs/news/2106565.html",
+          "source": "Impress Watch",
+          "summary_short": "Anthropicが金融機関向けClaudeエージェント10種テンプレートを公開した。",
+          "summary_long": "Anthropicはバンキング・保険・資産運用向けのClaudeエージェントテンプレートとして、ピッチ作成・バリュエーションレビュー・月次決算処理など10種を公開した。Managed Agentsプラグインまたはスタンドアロンエージェントとして展開可能で、金融AI導入の加速が期待される。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": ["https://ascii.jp/elem/000/004/269/4269901/"]
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 6,
+      "trend_history": [5, 5, 5, 5, 5, 5, 6],
+      "summary_short": "高市首相が3兆円補正予算案を表明、山形でクマ死亡被害が発生した。",
+      "summary_long": "高市首相は中東情勢の長期化を受け、ガス・電気などエネルギー負担軽減を主眼とした一般会計3兆円強の補正予算案編成を表明した。山形県酒田市ではクマに男性が死亡させられ1988年以来の人的被害死亡が確認された。コカ・コーラも165品目を9月から値上げするなど物価上昇が続く。",
+      "articles": [
+        {
+          "title": "高市首相、中東情勢対応の3兆円強補正予算案編成を表明（エネルギー負担軽減）",
+          "url": "https://www.nikkei.com/",
+          "source": "日本経済新聞",
+          "summary_short": "高市首相が3兆円強の補正予算案編成を表明しエネルギー負担軽減を図る。",
+          "summary_long": "高市首相は5月25日、一般会計の歳出規模が3兆円強となる2026年度補正予算案を編成すると表明した。中東情勢を踏まえたガス・電気・ガソリン価格の抑制策を主な施策とし、財政規律と景気下支えのバランスが問われる補正予算となる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "山形・酒田市でクマが男性を死亡させる、同県で1988年以来初の人的被害死亡",
+          "url": "https://news.web.nhk/newsweb",
+          "source": "NHK",
+          "summary_short": "山形・酒田でクマが男性を死亡させ1988年以来同県初の死亡被害確認。",
+          "summary_long": "山形県酒田市でクマに男性が襲われ死亡していることが確認された。山形県でのクマによる人的被害死亡は1988年以来とされ、近年続くクマの出没増加傾向の深刻化を示す。専門家は初夏から秋にかけての人里への出没増加に注意を呼びかけている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "奄美・鹿児島地方に線状降水帯発生リスク、気象庁が5月26日午前に警戒呼びかけ",
+          "url": "https://news.web.nhk/newsweb",
+          "source": "NHK",
+          "summary_short": "奄美・鹿児島に線状降水帯リスク、気象庁が5月26日午前の警戒呼びかけ。",
+          "summary_long": "気象庁は5月26日午前に奄美地方・鹿児島地方で線状降水帯が発生するリスクがあるとして警戒を呼びかけた。大雨による土砂崩れや河川増水への備えを求めており、南九州・南西諸島では梅雨前線に伴う記録的な大雨となる可能性がある。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "コカ・コーラ、中東情勢によるコスト上昇で165品目を2026年9月から値上げ",
+          "url": "https://news.web.nhk/newsweb",
+          "source": "NHK",
+          "summary_short": "コカ・コーラが中東情勢コスト上昇で165品目を9月から値上げする。",
+          "summary_long": "コカ・コーラボトラーズジャパンは2026年9月から165品目を値上げすると発表した。中東情勢の長期化による原材料・エネルギーコストの上昇が主因で、飲料業界全体での価格転嫁が続いている。政府のエネルギー補助金切れ後の追加値上げリスクも指摘されている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 9,
+      "NTTドコモ": 5,
+      "量子コンピュータ": 8,
+      "金融決済": 5,
+      "国内・社会": 6
+    },
+    "source_distribution": {
+      "Ledge.ai": 1,
+      "TECH NOISY": 1,
+      "イノバトピア": 1,
+      "arXiv": 2,
+      "ASCII.jp": 1,
+      "ペイメントナビ": 2,
+      "The Quantum Insider": 1,
+      "Quantum Computing Report": 1,
+      "日本経済新聞": 2,
+      "CRYPTO TIMES": 1,
+      "Impress Watch": 1,
+      "NHK": 3
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 8,
+      "4": 7,
+      "5": 2
+    }
+  }
+}
