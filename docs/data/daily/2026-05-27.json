@@ -1,0 +1,360 @@
+{
+  "date": "2026-05-27",
+  "generated_at": "2026-05-27T06:30:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "AnthropicのClaude Managed Agents新機能「Dreaming」が法律AI企業Harveyのタスク完了率を6倍に向上させ、AIエージェントの自己改善能力が実用レベルで実証された。NTT・クボタ・ドコモは山間部でのロボット農機遠隔操作実証成功をつくばフォーラム2026（5/27-28）で展示した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicはClaude Managed Agentsに「Dreaming」機能を追加した。過去100セッションを非同期で自己分析しメモリを整理する機能で、Harvey社でのタスク完了率が約6倍に向上した。OpenAIのGPTは約80年未解決だったエルデシュの「平面単位距離問題」を自律解明した。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTT・クボタ・NTTドコモは山間部でのロボット農機遠隔操作実証成功をつくばフォーラム2026（5/27-28）で展示した。モバイルと衛星通信を連携した映像制御技術で通信品質変動下でも視認性を維持し将来的な完全無人農業への技術基盤を確立した。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "光量子コンピュータ開発のOptQCがJSTムーンショット型研究開発事業（目標6）に参画し全光学式フィードフォワード技術で2050年の誤り耐性型汎用量子コンピュータ実現を目指す。arXiv quant-phには5/26付で112件の論文が投稿された。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "野村・大和証券と3メガバンクがステーブルコインによる株式・債券決済の実証実験を継続しており金融庁が支援を決定した。金融庁は2026年夏に「暗号資産・ステーブルコイン課」を新設する8年ぶりの組織再編を進めている。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "政府は27日の超党派「社会保障国民会議」実務者会議で給付付き税額控除の制度案を提示した。年収の壁を超えた際に給付額を上乗せする設計で、高市首相はSusHi Tech Tokyo 2026に出席しDX・AI政策をアピールした。"
+        }
+      ],
+      "must_read": {
+        "title": "AnthropicのClaude Managed Agents「Dreaming」機能でHarveyタスク完了率6倍に向上",
+        "url": "https://xenospectrum.com/anthropic-claude-dreaming-managed-agents-memory/",
+        "reason": "AIエージェントが過去のセッションから自律的に学習し性能を継続改善する実装が商用レベルで実証されたことは、エンタープライズAI展開の効果持続性を根本的に変える。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "今日はAIエージェントが「夢を見て学ぶ」という面白い新機能が注目されていますよ！農業ロボットをドコモが山奥でも動かせるようにした実証も展示されているみたいです。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicのClaude Dreamingって知っていますか？AIが仕事の合間に過去の失敗を振り返って自分で改善する機能で、法律AIのHarveyで使ったらタスク完了率が6倍になったみたいですよ！OpenAIのGPTが80年解けなかった数学の難問を解いたというニュースも出ていますね。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTとクボタとドコモが山間部でもロボットで農機を動かせる技術を実証したみたいですよ！衛星通信とモバイルを組み合わせて電波が弱い場所でも映像を安定させることに成功したそうです。今日（5/27）につくばフォーラム2026で展示されていますよ。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "日本発の光量子コンピュータ企業OptQCが国の大型研究プロジェクト（JSTムーンショット）に参画したみたいですよ。電気信号を使わずに光のまま情報処理する「全光学式」という新しいアプローチで2050年に向けた研究を始めています。すごい挑戦ですね！"
+        },
+        {
+          "theme": "金融決済",
+          "text": "野村証券・大和証券と3大メガバンクがデジタルなお金（ステーブルコイン）で株や債券を瞬時に決済できる実験を続けているんですよ。金融庁も夏に専門の新部署を作るみたいで、日本の金融デジタル化が本格的に動いていますね！"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "政府が今日、「年収の壁」問題への新対策として給付付き税額控除の案を超党派の会議で提示しましたよ。年収が上がっても損しない仕組みを作ろうとしているんですね。悠仁さまがフィリピン大統領ご夫妻の宮中晩さん会に初めて出席されるというニュースもありますよ。"
+        }
+      ],
+      "must_read": {
+        "title": "AnthropicのClaude Managed Agents「Dreaming」機能でHarveyタスク完了率6倍に向上",
+        "url": "https://xenospectrum.com/anthropic-claude-dreaming-managed-agents-memory/",
+        "reason": "AIが自分で失敗から学んで成長するって、もうSFの話じゃなくなってきましたよ！ビジネスの現場でAIを使うすべての人に関係してくる大事なニュースですね。",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Claude Dreaming：Managed Agentsに自己改善メモリ機能、Harveyで完了率6倍\n・OpenAI GPT：エルデシュ「平面単位距離問題」（約80年未解決）を自律解明\n・住友商事：全社員5000人のAIスキルを4等級で評価・人事配置に活用"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・NTT×クボタ×ドコモ：山間部ロボット農機遠隔操作実証成功・つくばフォーラム2026展示\n・NTTドコモビジネス：AI SOC（サイバー攻撃自動対処）提供開始（5/20）"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・OptQC：JSTムーンショット目標6に参画・全光学式誤り耐性型量子コンピュータ開発\n・arXiv quant-ph：5/26付112件投稿"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・野村・大和・3メガ銀：ステーブルコインで株式・債券決済実証・金融庁支援決定\n・金融庁：2026年夏「暗号資産・ステーブルコイン課」新設（8年ぶり組織再編）"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・政府：給付付き税額控除制度案を超党派会議に提示（5/27）\n・高市首相：SusHi Tech Tokyo 2026・経済財政諮問会議出席"
+        }
+      ],
+      "must_read": {
+        "title": "AnthropicのClaude Managed Agents「Dreaming」機能でHarveyタスク完了率6倍に向上",
+        "url": "https://xenospectrum.com/anthropic-claude-dreaming-managed-agents-memory/",
+        "reason": "AIエージェントの自己改善実装が商用実証済み。エンタープライズAI導入戦略の必読ニュース。",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "Claude DreamingによるAIエージェント自己改善の商用実証と、国産光量子コンピュータOptQCのJSTムーンショット参画が、ソフトウェアと量子の両軸でAI・量子技術の日本発実用化サイクルが加速していることを示した。金融ではステーブルコイン証券決済実証と規制整備が並走し制度・技術両面の基盤固めが進む。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Claude DreamingはAIエージェントが非同期でメモリ統合を行う設計で、従来の単発セッション型エージェントから継続学習型への移行を示す。Harvey社での6倍向上は特定ドメイン知識蓄積の効果を定量化した初の事例であり、法律・医療・金融など知識集約型業務でのAI採用加速を促す。GPTの数学難問解明は科学的発見におけるAIの役割が仮説検証から証明生成に拡張しつつあることを示す。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "衛星通信×モバイル連携によるロボット農機遠隔操作実証は、国内の農業人口減少（2025年農業就業人口174万人）と中山間地域の担い手不足という構造問題に対し通信インフラ側からのアプローチを示す。NTTドコモのAI SOC商用化と組み合わせることで、通信×AI×ロボティクスを一体提供するインフラ企業としての競争優位を構築しつつある。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "OptQCの全光学式アプローチは従来型超伝導・イオントラップ方式とは異なる技術経路で、クロック周波数10THz・電気信号不要という特性が超並列演算に有利とされる。JSTムーンショット参画により公的資金と産学連携体制が整い、米IBMや中国勢に対し日本独自のアーキテクチャで差別化できる可能性が生まれた。2050年目標は長期的だが東大との初年度連携が具体化した点が重要。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "野村・大和×3メガ銀のステーブルコイン証券決済実証は「T+2決済」から「即時原子性決済」への移行を実証する取り組みで、DVP（Delivery versus Payment）と同時性保証がブロックチェーン上で可能であることを示す。金融庁の「暗号資産・ステーブルコイン課」新設は規制サンドボックスを超えた正式制度化への意志を示しており、2026年度内の実用化目標達成に向けた制度基盤が整いつつある。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "給付付き税額控除案は社会保険料の段差問題を解消する政策であり、成立すれば非正規労働者の就労調整インセンティブを低減し労働供給を増加させる効果が期待できる。財政コストはIT基盤整備を含め年間数千億円規模の試算もあり、超党派合意形成が課題。高市首相のSusHi Tech Tokyo 2026出席はDX・AI分野の国際展示と国内産業政策の一体化を演出する政治的パフォーマンスとしても機能する。"
+        }
+      ],
+      "must_read": {
+        "title": "AnthropicのClaude Managed Agents「Dreaming」機能でHarveyタスク完了率6倍に向上",
+        "url": "https://xenospectrum.com/anthropic-claude-dreaming-managed-agents-memory/",
+        "reason": "AIエージェントの自己改善実装はソフトウェアROIの持続性を根本的に変える。単発タスク処理から継続的知識蓄積型へのパラダイム転換であり、エンタープライズAI戦略の立案・見直しを迫る変曲点と評価できる。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 8,
+      "trend_history": [9, 8, 9, 7, 8, 9, 8],
+      "summary_short": "Claude Dreamingで自己改善AIエージェントが実用実証、GPTが数学難問を解明。",
+      "summary_long": "AnthropicはClaude Managed Agentsに過去セッションを自律分析しメモリを改善する「Dreaming」機能を追加し、Harvey社でタスク完了率約6倍を達成した。OpenAI GPTは約80年未解決のエルデシュ「平面単位距離問題」を自律解明し外部数学者が正しさを検証した。住友商事は全社員5000人のAIスキルを4等級で評価し人事配置に活用する制度を導入した。",
+      "articles": [
+        {
+          "title": "AnthropicのClaude Managed Agents「Dreaming」機能でHarveyタスク完了率6倍に向上",
+          "url": "https://xenospectrum.com/anthropic-claude-dreaming-managed-agents-memory/",
+          "source": "XenoSpectrum",
+          "summary_short": "Claude DreamingでAIエージェントが自己改善し完了率6倍を達成した。",
+          "summary_long": "Anthropicは2026年5月6日発表のClaude Managed Agents新機能「Dreaming」を法律AI企業Harveyが本格活用し、タスク完了率が約6倍に向上したと公表した。過去100セッション分を非同期で自己分析しメモリを統合・整理する機能で、医療文書レビューWisedocsでも速度50%向上が確認された。Dreams APIはリサーチプレビューとして限定公開中。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "OpenAI GPT、約80年未解決のエルデシュ「平面単位距離問題」を自律解明",
+          "url": "https://news.yahoo.co.jp/articles/e20bdea23ae48c8584c51823923219ccb763a439",
+          "source": "Yahoo!ニュース エキスパート",
+          "summary_short": "OpenAI GPTが約80年未解決の数学予想を自律的に証明した。",
+          "summary_long": "OpenAIは2026年5月20日、同社の内部AIモデルが離散幾何学の「平面単位距離問題」に対する新たな証明を自律的に発見したと発表した。フィールズ賞受賞者ティモシー・ガワーズ氏を含む外部数学者が証明の正しさを検証した。科学的発見分野でのAIの役割が仮説検証から証明生成に拡張したことを示す事例となった。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "住友商事、全社員5000人のAIスキルを4等級で評価・人事配置に活用",
+          "url": "https://www.nikkei.com/article/DGXZQOUC1252H0S6A310C2000000/",
+          "source": "日本経済新聞",
+          "summary_short": "住友商事が5000人のAIスキルを等級化し人事配置に活用する制度を導入。",
+          "summary_long": "住友商事は国内外の全社員約5000人のAI活用スキルを4段階で等級化し、人事配置にも反映させる新制度を導入した。等級に応じたAI研修プログラムを提供し、業務効率化とAI人材の可視化・戦略配置を目的とする。大手商社によるAIスキル標準化の先行事例として注目される。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "arXiv cs.AI 2026年5月26日付480件投稿、AIエージェント・数学推論研究が急増",
+          "url": "https://arxiv.org/list/cs.AI/recent",
+          "source": "arXiv",
+          "summary_short": "arXiv cs.AIに5月26日付で480件投稿されAIエージェント研究が急増した。",
+          "summary_long": "arXiv cs.AIフィードには2026年5月26日付で480件のAI論文が掲載された。AIエージェントの自律改善・数学的推論・マルチモーダル理解などの分野で投稿が急増しており、Dreamingのような自己改善型エージェント研究への関心の高まりを反映している。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 6,
+      "trend_history": [7, 7, 6, 6, 5, 5, 6],
+      "summary_short": "ドコモが山間部ロボット農機遠隔操作実証をつくばフォーラムで展示した。",
+      "summary_long": "NTT・クボタ・NTTドコモは山間部でのロボット農機遠隔操作実証の成功をつくばフォーラム2026（5/27-28）で展示した。モバイルと衛星通信の連携・映像制御技術で通信品質変動下でも遠隔操作が可能となり将来的な完全無人農業への道筋を示した。NTTドコモビジネスはサイバー攻撃を自動対処するAI SOCの商用提供を5月20日に開始している。",
+      "articles": [
+        {
+          "title": "NTT・クボタ・ドコモ、山間部ロボット農機遠隔操作実証成功・つくばフォーラム2026展示",
+          "url": "https://robotstart.info/article/2026/05/26/381933.html",
+          "source": "ロボスタ",
+          "summary_short": "NTT・クボタ・ドコモが山間部ロボット農機遠隔操作の実証成功を発表した。",
+          "summary_long": "NTT・クボタ・NTTドコモは山間部でのロボット農機遠隔操作・遠隔監視時の通信安定化実証に成功した。NTTのCradio無線品質予測技術と協調型インフラ、ドコモの映像制御技術、クボタのロボット農機を組み合わせ通信品質変動下でも映像視認性を維持することを確認。5月27日-28日のつくばフォーラム2026で展示される。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモビジネス、AI SOC（サイバー攻撃脅威分析・自動対処）の提供を開始",
+          "url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0520.html",
+          "source": "NTTドコモビジネス",
+          "summary_short": "NTTドコモビジネスがAIでサイバー攻撃を自動対処するAI SOCを開始した。",
+          "summary_long": "NTTドコモビジネスは2026年5月20日、AIを駆使してサイバー攻撃の脅威を分析・自動対処する「AI SOC」の提供を開始した。セキュリティオペレーションの人手不足問題に対応するもので、脅威の検知から対処までをAIが担うことで対応速度の大幅な向上が見込まれる。企業のセキュリティ強化ニーズに応えるB2B向けサービスとして展開する。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモ系、社員のAI活用度を4段階で評価する新人材制度を導入",
+          "url": "https://www.nikkei.com/article/DGXZQOUC1252H0S6A310C2000000/",
+          "source": "日本経済新聞",
+          "summary_short": "NTTドコモ系がAI活用度を4段階で評価する新人材制度を導入した。",
+          "summary_long": "NTTドコモグループは社員のAI活用度を4段階で評価する新人材制度を導入した。AI活用スキルの可視化と等級に応じた育成プログラムの提供を通じ、グループ全体のAI活用力の底上げを図る。グループが推進する業務効率化・新サービス開発におけるAI人材確保の一環として機能する。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 7,
+      "trend_history": [5, 5, 6, 6, 6, 8, 7],
+      "summary_short": "OptQCがJSTムーンショットに参画、全光学式光量子コンピュータ開発を開始。",
+      "summary_long": "光量子コンピュータ開発企業OptQCがJSTムーンショット型研究開発事業（目標6）の「誤り耐性型全光学式光量子コンピュータの研究開発」プロジェクトに参画した。電気信号を介さず光のまま情報処理する全光学式フィードフォワード技術を確立し、クロック周波数10THz・100万入力モード規模の大規模化を目指す。arXiv quant-phには5/26付で112件の論文が投稿された。",
+      "articles": [
+        {
+          "title": "OptQC、JSTムーンショット型研究開発事業目標6「誤り耐性型全光学式光量子コンピュータ」に参画",
+          "url": "https://prtimes.jp/main/html/rd/p/000000021.000148901.html",
+          "source": "PR TIMES",
+          "summary_short": "OptQCがJSTムーンショット型研究で全光学式光量子コンピュータ開発を開始した。",
+          "summary_long": "OptQC株式会社は2026年5月20日、JSTムーンショット型研究開発事業目標6の研究開発課題「誤り耐性型全光学式光量子コンピュータの研究開発」に参画したと発表した。代表・古澤明氏がPMを務め東大と連携し初年度は基礎技術を確立する。光パラメトリック増幅器を用いた全光学式フィードフォワードで現スパコンの1万倍演算を目指す。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "IBM Quantum Kookaburra、2026年内公開予定で実用的量子優位性フェーズへ",
+          "url": "https://enterprisezine.jp/article/detail/24247",
+          "source": "EnterpriseZine",
+          "summary_short": "IBM Kookaburraが2026年内公開予定で量子優位性実用フェーズが本格化する。",
+          "summary_long": "IBMは2026年内に次世代量子プロセッサ「Kookaburra」を公開する予定であることを確認した。qLDPCメモリと接続LPUで量子メモリの保存情報を処理できる初の量子プロセッサモジュールとなる。Q-CTRL×IBMの3000倍高速化実証とあわせ、実用的量子優位性の商用展開が本格化する段階に入ったと評価されている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "arXiv quant-ph 2026年5月26日付112件投稿、量子誤り訂正・光量子研究が活発",
+          "url": "https://arxiv.org/list/quant-ph/recent",
+          "source": "arXiv",
+          "summary_short": "arXiv quant-phに5月26日付で112件投稿され量子誤り訂正研究が活発だ。",
+          "summary_long": "arXiv quant-phには2026年5月26日付で112件の量子物理・量子コンピュータ論文が投稿された。量子誤り訂正符号・光量子シミュレーション・超伝導量子回路の欠陥研究など幅広い分野をカバーしており、OptQCの全光学式アプローチへの研究関心の高まりとも軌を一にしている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 5,
+      "trend_history": [8, 6, 6, 6, 6, 5, 5],
+      "summary_short": "野村・大和・3メガ銀のSC証券決済実証が進展し金融庁が組織新設を決定した。",
+      "summary_long": "野村HDと大和証券グループおよび3メガバンクがステーブルコインで株式・債券・投資信託を決済する実証実験を継続しており金融庁がサポートを決定した。金融庁は2026年夏に8年ぶりの組織再編として「暗号資産・ステーブルコイン課」を新設する。ローンチ目標は2026年度第1四半期（4〜6月）とされている。",
+      "articles": [
+        {
+          "title": "野村HD・大和証券Gと3メガ銀、ステーブルコインで株式・債券決済実証・金融庁支援決定",
+          "url": "https://www.sbbit.jp/article/fj/180639",
+          "source": "ビジネスIT",
+          "summary_short": "野村・大和・3メガ銀がSCで証券即時決済を実証し金融庁支援が決定した。",
+          "summary_long": "野村ホールディングスと大和証券グループ本社は三菱UFJ・三井住友・みずほの3メガバンクと共同で法定通貨連動ステーブルコインを使った株式・債券・投資信託の即時決済実証実験を実施しており、金融庁がサポート事業に認定した。ブロックチェーン上でのDVP（対価同時決済）実現で数年以内の実用化を目指す。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "金融庁、2026年夏に「暗号資産・ステーブルコイン課」新設・8年ぶり大規模組織再編",
+          "url": "https://coinchoice.net/fsa-new-crypto-stablecoin-division-2026-reorganization/",
+          "source": "CoinChoice",
+          "summary_short": "金融庁が2026年夏に暗号資産・ステーブルコイン課を新設すると発表した。",
+          "summary_long": "金融庁は2026年夏に「暗号資産・ステーブルコイン課」を新設する組織再編を発表した。8年ぶりの大規模再編で暗号資産・SC分野の規制・監督体制を強化する。野村・大和×3メガ銀の実証実験への支援拡大と並行し、制度整備・法令解釈・事業者ライセンス管理を一元化した専門組織体制を構築する。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "JPYC、資金移動業者認可を取得し円建てステーブルコインの本格展開を開始",
+          "url": "https://www.money-globe.com/articles/crypto/stablecoin-japan-2026",
+          "source": "MoneyGlobe",
+          "summary_short": "JPYCが資金移動業者認可取得後に円建てSCの本格展開を開始した。",
+          "summary_long": "JPYC株式会社は資金移動業者の認可を取得し円建てステーブルコインの本格展開を進めている。2023年6月の資金決済法改正により「電子決済手段」として法的位置づけが明確化された円建てSCは、決済インフラとしての普及段階に移行しつつある。3メガバンクのSC計画とも連携し日本のSCエコシステムが形成されつつある。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 5,
+      "trend_history": [5, 5, 5, 5, 5, 6, 5],
+      "summary_short": "政府が給付付き税額控除案を超党派会議に提示、高市首相がSusHi Tech出席。",
+      "summary_long": "政府は5月27日の超党派「社会保障国民会議」実務者会議で給付付き税額控除の制度案を提示した。年収の壁を超えた際に給付額を上乗せする設計で就労促進効果が期待される。高市首相は東京ビッグサイトのSusHi Tech Tokyo 2026に出席し国際DX・AI政策をアピール。悠仁さまがフィリピン大統領夫妻の宮中晩さん会に初出席した。",
+      "articles": [
+        {
+          "title": "政府、給付付き税額控除制度案を超党派「社会保障国民会議」実務者会議に提示",
+          "url": "https://www.nikkei.com/",
+          "source": "日本経済新聞",
+          "summary_short": "政府が給付付き税額控除の制度案を超党派会議に5月27日提示した。",
+          "summary_long": "政府は5月27日の超党派「社会保障国民会議」実務者会議で給付付き税額控除の制度案を提示した。税・社会保険料の負担が増す「年収の壁」を超えた人を対象に給付額を上乗せする設計で、非正規労働者の就労調整インセンティブ解消が主な狙い。財政コストと制度設計をめぐる各党調整が焦点となる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "高市首相、SusHi Tech Tokyo 2026に出席・経済財政諮問会議で参院予算委に臨む",
+          "url": "https://www.nikkei.com/article/DGXZQOUA270OL0X20C26A4000000/",
+          "source": "日本経済新聞",
+          "summary_short": "高市首相がSusHi Tech Tokyo 2026に出席しDX・AI政策を発信した。",
+          "summary_long": "高市首相は5月27日、東京ビッグサイトで開催される国際イベント「SusHi Tech Tokyo 2026」に出席してあいさつを行い、DX・AI・サステナブル都市分野での国際連携を発信した。同日に参院予算委員会と経済財政諮問会議にも出席し内政・財政政策の調整を行った。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "悠仁さま、フィリピン大統領夫妻歓迎の宮中晩さん会に初出席",
+          "url": "https://www.nikkei.com/",
+          "source": "日本経済新聞",
+          "summary_short": "悠仁さまがフィリピン大統領夫妻の宮中晩さん会に5月27日初出席した。",
+          "summary_long": "悠仁さまは5月27日、国賓として来日したフィリピン・マルコス大統領夫妻を歓迎するための宮中晩さん会に初めて出席された。皇位継承順位第2位の悠仁さまの公式外交行事への初参加として注目された。日比両国の首脳外交の一環として日本政府が重視した国賓行事となった。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 8,
+      "NTTドコモ": 6,
+      "量子コンピュータ": 7,
+      "金融決済": 5,
+      "国内・社会": 5
+    },
+    "source_distribution": {
+      "XenoSpectrum": 1,
+      "Yahoo!ニュース エキスパート": 1,
+      "日本経済新聞": 4,
+      "ロボスタ": 1,
+      "NTTドコモビジネス": 1,
+      "PR TIMES": 1,
+      "EnterpriseZine": 1,
+      "arXiv": 2,
+      "ビジネスIT": 1,
+      "CoinChoice": 1,
+      "MoneyGlobe": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 7,
+      "4": 7,
+      "5": 1
+    }
+  }
+}
