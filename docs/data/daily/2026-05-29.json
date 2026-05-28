@@ -1,0 +1,407 @@
+{
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T06:30:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "AnthropicはClaude Opus 4.8を5月28日にリリースし、エージェント型コーディングスコアが64.3%から69.2%に向上した。高市首相は3兆円強の補正予算案を今週中にも国会提出する方針を表明した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicはClaude Opus 4.8を5月28日にリリースした。エージェント型コーディングスコアが64.3%から69.2%に向上し、高速モードは従来比2.5倍の速度で料金は3分の1となった。Dynamic Workflows（研究プレビュー版）も公開された。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "KDDIとNTTドコモは京セラと共同で両社の5Gミリ波を1台で中継できる共用中継器を開発し、今夏に上野公園での実証実験を開始する。NTTドコモビジネスはAIエージェントによるAI SOCを5月20日に提供開始し、脅威分析を約10分に短縮した。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "米商務省はCHIPSプラス科学法の資金で量子コンピューティング9社に総額3200億円の出資を発表した。IBMが約1000億円を取得し、ニューヨーク州に量子チップ専用ファウンドリーを建設する計画を明らかにした。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "改正資金決済法が2026年6月1日に施行される。金融庁が正式認定した海外発行の信託型ステーブルコインの電子決済手段化も同日発効し、国内事業者が外国製ステーブルコインを適法に取り扱える法的基盤が整備された。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "高市首相は中東情勢を踏まえた3兆円強の補正予算案を今週中にも国会提出すると表明した。電気・ガス料金支援を含み標準家庭で3か月5000円程度の負担軽減を見込む。フィリピンのマルコス大統領が訪日し、GSOMIA交渉開始に合意した。"
+        }
+      ],
+      "must_read": {
+        "title": "Anthropic、Claude Opus 4.8をリリース—コーディングスコア向上・高速モード3分の1値下げ",
+        "url": "https://9to5mac.com/2026/05/28/anthropic-upgrades-claude-with-new-opus-4-8-model-heres-whats-new/",
+        "reason": "AnthropicがClaude Opus 4.8をリリースした。エージェント型コーディングスコアが向上し、高速モードは料金が3分の1に下がった。AI利用コスト低下でエンタープライズ導入が加速する。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "AnthropicからClaude Opus 4.8が出ましたよ！コーディングの精度が上がって、速く使える高速モードもずっとお手頃になりましたね。高市首相は電気代支援なども含む補正予算を今週中に国会に出す方針みたいです。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicがClaude Opus 4.8を出しましたよ！コーディングのスコアが64.3%から69.2%に上がって、高速モードも料金が3分の1になりましたね。数十万行規模のコード移行ができる「Dynamic Workflows」も研究プレビューとして使えるようになりました！"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "KDDIとドコモが便利な装置を作りましたよ！これまで各社別々だったミリ波の中継器を1台で両社分カバーできるようになったんです。今夏に上野公園で実験が始まりますね。ドコモビジネスのAI SOCもスタートして、サイバー脅威を約10分で分析できるようになりました！"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "アメリカ政府がIBMなど9つの量子コンピュータ企業に計3200億円という大きな支援を決めましたよ！IBMは約1000億円を受け取って量子チップ専用の工場を建てるみたいです。量子関連株もグッと上がってきているみたいですね！"
+        },
+        {
+          "theme": "金融決済",
+          "text": "改正資金決済法が6月1日から施行されますよ！海外のステーブルコインも正式に使えるようになって、法整備がだいぶ整ってきましたね。日銀もデジタル円に向けたブロックチェーン実験を拡充しているみたいです！"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "高市首相が3兆円強の補正予算を今週中に出す方針を示しましたよ。夏の電気・ガス代の支援も含まれていて、3か月で5000円くらい助かるみたいです。フィリピンのマルコス大統領も来日して、安保の取り決めを進めることになりましたね！"
+        }
+      ],
+      "must_read": {
+        "title": "Anthropic、Claude Opus 4.8をリリース—コーディングスコア向上・高速モード3分の1値下げ",
+        "url": "https://9to5mac.com/2026/05/28/anthropic-upgrades-claude-with-new-opus-4-8-model-heres-whats-new/",
+        "reason": "Claude Opus 4.8が出ましたよ！コーディングが上手くなって、速く使える高速モードがずっと安くなりました。Claudeをよく使う方にはうれしいアップデートですね！",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Claude Opus 4.8リリース：コーディングスコア64.3%→69.2%・高速モード3分の1値下げ\n・Dynamic Workflows（研究プレビュー）：数百並列サブエージェントで大規模コード移行対応\n・Anthropic×Goldman Sachs等：総額約15億ドルの企業AI展開合弁を設立"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・KDDIとドコモ：5Gミリ波共用中継器を開発・今夏上野公園で実証（従来比7割小型化）\n・NTTドコモビジネス AI SOC：5月20日開始・脅威分析約10分・95%自動対処\n・AIエージェント属性情報レジストリ：プロトタイプ開発・技術検証開始"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・米政府：IBM等9社に計3200億円出資・IBMがNY州に量子ファウンドリー建設\n・量子関連株急騰：国策銘柄として投資家の注目度が大幅上昇\n・arXiv quant-ph：5月28日付で58本の論文投稿（量子ML・誤り訂正など）"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・改正資金決済法：6月1日施行・海外ステーブルコイン電子決済手段認定も同日発効\n・日銀：ブロックチェーン決済サンドボックス拡充・CBDC判断は2026年内\n・ゆうちょ銀行：DCJPY（トークン化預金）2026年度内導入目標"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・高市首相：3兆円強の補正予算案を今週中にも提出・7〜9月電気代支援含む\n・日フィリピン首脳会談：GSOMIA交渉開始に合意\n・AI著作権：声優が法務省検討会で声の無断利用に対する法的保護策を要請"
+        }
+      ],
+      "must_read": {
+        "title": "Anthropic、Claude Opus 4.8をリリース—コーディングスコア向上・高速モード3分の1値下げ",
+        "url": "https://9to5mac.com/2026/05/28/anthropic-upgrades-claude-with-new-opus-4-8-model-heres-whats-new/",
+        "reason": "・Claude Opus 4.8リリース：コーディング精度向上・高速モード3分の1値下げ・企業AI導入コスト削減",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "Claude Opus 4.8のリリースによるエンタープライズAIコスト低下と、改正資金決済法施行・日本銀行のCBDC接近が同時進行することで、AIとデジタル通貨の実装加速という複合的な構造変化が日本の産業界に波及しつつある。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Claude Opus 4.8はエージェント型コーディングスコアを69.2%に引き上げ、高速モードを3分の1に値下げした。Dynamic Workflowsにより大規模コードベース移行の自動化が可能となり、ソフトウェア開発コストの構造的低下が見込まれる。Goldman Sachsとの合弁によりエンタープライズ展開支援も強化されており、AIの社会実装が加速する局面に入った。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "KDDIとドコモの5Gミリ波共用中継器は、従来比7割の小型化で設置コストを削減しつつ複数キャリアのエリア拡張を実現する。インフラ共用コストを低減することで、5Gミリ波の経済性課題を解消する先例となる可能性がある。AI SOCによる脅威分析の自動化（95%）は、人材不足が続くセキュリティ運用人員の代替という経営課題に直接応える。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "米政府の量子企業9社への3200億円出資はCHIPSプラス科学法を活用した戦略的産業政策であり、量子コンピューティングが半導体に続く国家間競争の主戦場となることを示す。IBMの量子ファウンドリー建設は量子チップの量産化を見据えており、ハードウェア供給が研究段階から産業段階へ移行する転換点となる。日本企業の対応戦略が問われる。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "改正資金決済法施行と海外ステーブルコイン認定が同日（6月1日）発効することで、日本の暗号資産・デジタル決済の法的基盤が一斉に整備される。日銀のCBDC実験拡充と合わせると、2026年は日本のデジタル通貨エコシステムの制度的骨格が確立する年として位置づけられる。銀行業界の預金流出リスクへの対応が急務となる。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "高市政権の3兆円強補正予算は、中東情勢悪化に伴う資源高への緊急対応と位置づけられるが、前年度3兆円特例公債の発行回避見通しとの財政的整合性が焦点となる。日フィリピンGSOMIA交渉開始は、日米比の安全保障トライアングル強化の文脈に置かれ、南シナ海を巡る地政学リスクへの対応策と読み解ける。"
+        }
+      ],
+      "must_read": {
+        "title": "Anthropic、Claude Opus 4.8をリリース—コーディングスコア向上・高速モード3分の1値下げ",
+        "url": "https://9to5mac.com/2026/05/28/anthropic-upgrades-claude-with-new-opus-4-8-model-heres-whats-new/",
+        "reason": "Claude Opus 4.8のリリースはエージェント型AI開発コストを大幅削減し、ソフトウェア開発・コーディング支援の費用構造を変える転換点となる。Dynamic Workflowsによる大規模コードベース自動移行は、企業のレガシーシステム刷新を加速させる可能性がある。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 95,
+      "trend_history": [89, 92, 87, 90, 92, 91, 92, 95],
+      "summary_short": "Claude Opus 4.8リリース、コーディング強化と高速モード3分の1値下げ",
+      "summary_long": "AnthropicはClaude Opus 4.8を5月28日にリリースした。エージェント型コーディングスコアが64.3%から69.2%に向上し、高速モードは料金が3分の1となった。Goldman Sachsとの合弁設立でエンタープライズAI展開も加速している。",
+      "articles": [
+        {
+          "title": "Anthropic、Claude Opus 4.8をリリース—コーディングスコア69.2%・高速モード3分の1値下げ",
+          "url": "https://9to5mac.com/2026/05/28/anthropic-upgrades-claude-with-new-opus-4-8-model-heres-whats-new/",
+          "source": "9to5Mac",
+          "summary_short": "Claude Opus 4.8リリース、コーディングスコア向上と高速モード値下げ",
+          "summary_long": "AnthropicはClaude Opus 4.8を5月28日にリリースした。エージェント型コーディングスコアが64.3%から69.2%に向上し、高速モードは従来比2.5倍の速度で料金は3分の1となった。Dynamic Workflowsも研究プレビュー版として公開された。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "Claude Code Dynamic Workflows（研究プレビュー）—数百並列サブエージェントで大規模コード移行に対応",
+          "url": "https://venturebeat.com/technology/anthropics-claude-opus-4-8-is-here-with-3x-cheaper-fast-mode-and-near-mythos-level-alignment",
+          "source": "VentureBeat",
+          "summary_short": "Claude Code Dynamic Workflowsで数十万行規模のコードベース移行対応",
+          "summary_long": "Claude CodeのDynamic Workflows（研究プレビュー版）は数百の並列サブエージェントを起動し、数十万行規模のコードベース移行に対応する。タスクの計画・並列処理・検証を自動化し、大規模ソフトウェア開発の自動化を実現する。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "AnthropicとOpenAIが同時期にエンタープライズAI展開合弁を発表、商業化戦略が転換",
+          "url": "https://note.com/ai__worker/n/n535a027c67ce",
+          "source": "AI Worker",
+          "summary_short": "AnthropicがGoldman等と15億ドル規模の企業AI展開合弁を設立",
+          "summary_long": "AnthropicはBlackstone・Hellman & Friedman・Goldman Sachsと総額約15億ドルの合弁会社を設立した。OpenAIも同時期にTPGらから40億ドルを調達して企業向けAI展開支援会社を準備中と報じられている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "OpenAI、GPT-5.5 InstantをChatGPT既定モデルに—誤答52.5%減",
+          "url": "https://xenospectrum.com/gpt-55-instant-chatgpt-default/",
+          "source": "XenoSpectrum",
+          "summary_short": "GPT-5.5 InstantがChatGPTデフォルトに、誤答52.5%減",
+          "summary_long": "OpenAIは5月5日、GPT-5.5 InstantをChatGPTの既定モデルとして採用した。GPT-5.3 Instantと比較して高リスク質問での誤答が52.5%減少した。APIではGPT-5.5およびGPT-5.5 Proが4月24日から利用可能となっている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": [
+        "https://www.ntt.com/about-us/press-releases/news/article/2026/0520.html",
+        "https://www.ntt.com/about-us/press-releases/news/article/2026/0512.html",
+        "https://news.web.nhk/newsweb/genre/society"
+      ]
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 55,
+      "trend_history": [58, 55, 55, 55, 58, 60, 52, 55],
+      "summary_short": "KDDIとドコモがミリ波共用中継器を開発、AI SOCでサイバー防御も開始",
+      "summary_long": "KDDIとNTTドコモは複数キャリアのミリ波を1台で中継できる共用中継器を開発し、今夏に上野公園での実証実験を開始する。NTTドコモビジネスはAIエージェントによるAI SOCサービスも開始し、脅威分析を約10分で実行・95%を自動対処する体制を実現した。",
+      "articles": [
+        {
+          "title": "KDDIとドコモ、ミリ波エリアを効率的に拡大する共用中継器を開発—景観にも配慮し上野公園で実証",
+          "url": "https://www.watch.impress.co.jp/docs/news/2111990.html",
+          "source": "Impress Watch",
+          "summary_short": "KDDIとドコモが5Gミリ波共用中継器を開発、今夏上野公園で実証開始",
+          "summary_long": "KDDIとNTTドコモは京セラと協力して、両社の5Gミリ波を1台で中継できる共用中継器を開発した。本体は縦216mm・重量4.9kgで従来比7割削減。景観への配慮も踏まえ上野公園での今夏実証でエリア形成効果を検証する。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "AIを駆使してサイバー攻撃の脅威を分析・自動対処する「AI SOC」の提供を開始",
+          "url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0520.html",
+          "source": "NTTドコモビジネス",
+          "summary_short": "NTTドコモビジネスがAI SOCを提供開始、約10分で脅威分析・95%自動対処",
+          "summary_long": "NTTドコモビジネスは5月20日、AIエージェントによる「AI SOC」サービスの提供を開始した。従来1〜2時間を要していた相関分析を約10分で実行し、セキュリティアラートの約95%を自動処理する。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "AIエージェント属性情報レジストリ（仮称）のプロトタイプを開発—AIエージェント経済圏の信頼基盤",
+          "url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0512.html",
+          "source": "NTTドコモビジネス",
+          "summary_short": "NTTドコモビジネスがAIエージェント属性情報レジストリのプロトタイプを開発",
+          "summary_long": "NTTドコモビジネスは5月12日、AIエージェント同士が自律的に取引・連携する社会を見据えた「AIエージェント属性情報レジストリ（仮称）」のプロトタイプを開発し、技術検証を開始したと発表した。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "AIコンステレーション®を活用したビル運営管理の高度化・効率化実証を実施",
+          "url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0519.html",
+          "source": "NTTドコモビジネス",
+          "summary_short": "NTT等3社がAIコンステレーションでビル管理実証、業務効率向上を確認",
+          "summary_long": "NTTアーバンソリューションズ・NTTドコモソリューションズ・NTTドコモビジネスの3社は、複数専門AIを連携させる「AIコンステレーション®」でビル運営管理の実証を実施し、イベント企画業務時間の削減効果を確認した。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 68,
+      "trend_history": [42, 44, 48, 52, 65, 68, 62, 68],
+      "summary_short": "米政府が量子9社に3200億円出資、量子関連株が急騰",
+      "summary_long": "米商務省はCHIPSプラス科学法の資金で量子コンピューティング9社に総額3200億円の出資を発表した。IBMが約1000億円を取得しニューヨーク州に量子チップ専用ファウンドリーを建設する。これを受け量子関連株が急騰し国策銘柄化の様相を呈している。",
+      "articles": [
+        {
+          "title": "米政府の量子支援発表を受け、量子コンピューター株が「国策銘柄」として急騰",
+          "url": "https://www.nikkei.com/article/DGXZQOUB265FX0W6A520C2000000/",
+          "source": "日本経済新聞",
+          "summary_short": "米政府の量子支援発表受け量子コンピューター株が急騰、国策銘柄化",
+          "summary_long": "米商務省による量子コンピューティング9社への総額3200億円出資の発表を受け、国内外の量子関連株が急騰した。投資家の間では量子コンピューターがAI・半導体に次ぐ「国策銘柄」として位置づけられ始めている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "arXiv quant-ph 2026-05-28: 量子機械学習・誤り訂正・シミュレーション分野の論文58本",
+          "url": "https://arxiv.org/rss/quant-ph",
+          "source": "arXiv",
+          "summary_short": "arXiv quant-phに2026年5月28日付で58本の論文が投稿",
+          "summary_long": "2026年5月28日のarXiv quant-phカテゴリには58本の論文が投稿された。量子機械学習、量子誤り訂正、量子シミュレーション、6G向け量子ネットワークなど幅広い分野の研究が含まれる。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "2026年5月 量子市場動向：eleQtron・QuantWare・Qutwoなど欧州企業が相次ぎ大型資金調達",
+          "url": "https://note.com/qnews_channel/n/n38f4d4576e6e",
+          "source": "QNews Channel",
+          "summary_short": "欧州量子スタートアップが大型資金調達、eleQtron・QuantWare等",
+          "summary_long": "2026年5月時点で欧州の量子コンピューティング企業が相次いで大型資金調達を実施した。eleQtron、QuantWare、Qutwoなどが資金調達に成功し、量子プロセッサ生産能力増強と事業拡大を図っている。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "IBMが「量子コンピューターはもう実現している」と宣言—2026年末までに量子優位性実証へ",
+          "url": "https://www.gizmodo.jp/2026/04/interview-with-ibm-researchers-on-quantum-computing-qh2.html",
+          "source": "Gizmodo Japan",
+          "summary_short": "IBMが量子コンピューター実用フェーズ到達を宣言、年内優位性実証へ",
+          "summary_long": "IBMのジェイ・ガンベッタ氏は「真に役立つ量子コンピューティングは既に現実だ」と述べ、2026年末までにIBM量子コンピューターユーザーが量子優位性を実現することを確信していると語った。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 65,
+      "trend_history": [68, 70, 72, 68, 60, 58, 60, 65],
+      "summary_short": "改正資金決済法6月1日施行、海外SCの電子決済手段認定と制度整備",
+      "summary_long": "改正資金決済法が2026年6月1日に施行される。金融庁が正式認定した海外発行の信託型ステーブルコインの電子決済手段化も同日発効し、国内事業者が外国製ステーブルコインを適法に取り扱える法的基盤が整備された。日銀のCBDC決定も今年内に予定される。",
+      "articles": [
+        {
+          "title": "令和8年6月施行・改正資金決済法：暗号資産利用者保護・SC裏付資産柔軟化・資金移動業規律の要点",
+          "url": "https://www.businesslawyers.jp/articles/1476",
+          "source": "BUSINESS LAWYERS",
+          "summary_short": "改正資金決済法が6月1日施行、SC裏付資産柔軟化・資金移動業規律強化",
+          "summary_long": "改正資金決済法が2026年6月1日に施行される。改正の柱は暗号資産の利用者保護強化、電子決済手段（ステーブルコイン）の裏付資産運用の柔軟化と仲介の明確化、資金移動業のリスク・機能に応じた規律の整備だ。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "日本銀行、2026年のCBDC判断を前にブロックチェーン決済サンドボックスを拡充",
+          "url": "https://www.coindesk.com/business/2026/03/03/bank-of-japan-expands-blockchain-settlement-sandbox-as-2026-cbdc-decision-nears",
+          "source": "CoinDesk",
+          "summary_short": "日銀がブロックチェーン決済サンドボックスを拡充、2026年CBDC判断前に",
+          "summary_long": "日本銀行は2026年のデジタル円発行可否判断を前に、中央銀行マネーをブロックチェーン上で活用する決済実験のサンドボックスを拡充した。銀行勘定系との連携技術も実証が進んでいる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "2026年が分岐点：ゆうちょ銀行DCJPY導入・3メガバンクSC実証・JPYCが普及段階へ",
+          "url": "https://www.sbbit.jp/article/fj/177565",
+          "source": "ビジネスIT",
+          "summary_short": "ゆうちょ銀行が2026年度内にDCJPY導入目標、3メガバンクSC実証も",
+          "summary_long": "ゆうちょ銀行は2026年度内にトークン化預金「DCJPY」の導入を目指している。3メガバンクが共同で発行を計画するステーブルコインも金融庁のフィンテック実証実験拠点に採択済みで、2026年がデジタル通貨実装の分岐点となる。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "電算システムとフィナンシェ、ブロックチェーン活用の地域創生取組みを2026年6月から本格開始",
+          "url": "https://paymentnavi.com/paymentnews/174845.html",
+          "source": "ペイメントナビ",
+          "summary_short": "電算システムとフィナンシェがWeb3活用の地域創生を6月から本格開始",
+          "summary_long": "電算システムはフィナンシェと2026年4月30日に資本業務提携を完了し、ブロックチェーン技術（Web3）を活用した地域創生の推進に向けた取り組みを2026年6月から本格開始すると発表した。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": [
+        "https://www.nikkei.com/article/DGXZQOUB265FX0W6A520C2000000/"
+      ]
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 62,
+      "trend_history": [60, 60, 60, 62, 62, 62, 62, 62],
+      "summary_short": "高市首相が3兆円強補正予算を今週提出、日フィリピン首脳会談も開催",
+      "summary_long": "高市首相は中東情勢を踏まえた3兆円強の補正予算案を今週中にも国会提出すると表明した。フィリピンのマルコス大統領が訪日し、GSOMIA交渉開始に合意した。AI著作権問題では声優が法務省検討会で声の無断利用への対策を要請した。",
+      "articles": [
+        {
+          "title": "高市首相、中東情勢踏まえ3兆円強の補正予算案を今週中にも国会提出",
+          "url": "https://news.web.nhk/newsweb/na/na-k10015130481000",
+          "source": "NHK",
+          "summary_short": "高市首相が3兆円強補正予算案を今週中にも提出、電気代支援を含む",
+          "summary_long": "高市首相は中東情勢を踏まえた3兆円強の補正予算案を今週中にも国会提出すると表明した。7〜9月の電気・ガス料金支援を含み、標準家庭で3か月5000円程度の負担軽減を見込む。前年度の特例公債発行分3兆円は不要との見通しも示した。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "高市首相とマルコス大統領が会談、GSOMIA交渉開始に合意・安保連携強化",
+          "url": "https://news.web.nhk/newsweb/genre/politics",
+          "source": "NHK",
+          "summary_short": "日本・フィリピン首脳会談でGSOMIA交渉開始に合意、安保連携深化",
+          "summary_long": "フィリピンのマルコス大統領が訪日し、高市首相と首脳会談を実施した。会談では軍事情報包括保護協定（GSOMIA）の交渉開始に合意し、安全保障分野での日フィリピン協力関係が強化された。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "生成AIによる声の無断利用に声優が対策要請—法務省著作権検討会",
+          "url": "https://news.web.nhk/newsweb/genre/society",
+          "source": "NHK",
+          "summary_short": "声優が法務省著作権検討会でAI無断利用の法的保護策を要請",
+          "summary_long": "法務省の著作権検討会で声優が、生成AIによる声・演技の無断複製に対する法的保護措置の整備を要請した。AIによるクリエイターの権利侵害に関する議論が活発化しており、法整備に向けた検討が進む。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "財務省、5月29日に4〜5月の為替介入実績を公表予定—ドル円159円台半ばで推移",
+          "url": "https://www.oanda.jp/lab-education/market_news/2026_05_28_usdjpy/",
+          "source": "外為どっとコム",
+          "summary_short": "財務省が5月29日に4〜5月の為替介入実績を公表、円安159円台",
+          "summary_long": "財務省は2026年5月29日に前月末からの為替介入実績を公表する予定。5月28日のドル円相場は159円台半ばで推移し、先週のレンジ上限を上抜けた。中東情勢悪化と米国の金利環境が円安を下支えしている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 95,
+      "NTTドコモ": 55,
+      "量子コンピュータ": 68,
+      "金融決済": 65,
+      "国内・社会": 62
+    },
+    "source_distribution": {
+      "9to5Mac": 1,
+      "VentureBeat": 1,
+      "AI Worker": 1,
+      "XenoSpectrum": 1,
+      "Impress Watch": 1,
+      "NTTドコモビジネス": 3,
+      "日本経済新聞": 1,
+      "arXiv": 1,
+      "QNews Channel": 1,
+      "Gizmodo Japan": 1,
+      "BUSINESS LAWYERS": 1,
+      "CoinDesk": 1,
+      "ビジネスIT": 1,
+      "ペイメントナビ": 1,
+      "NHK": 3,
+      "外為どっとコム": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 9,
+      "4": 7,
+      "5": 4
+    }
+  }
+}

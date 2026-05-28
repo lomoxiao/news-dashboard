@@ -1,6 +1,10 @@
 {
-  "last_updated": "2026-05-28T06:30:00+09:00",
+  "last_updated": "2026-05-29T06:30:00+09:00",
   "reports": [
+    {
+      "date": "2026-05-29",
+      "headline": "Claude Opus 4.8リリース高速モード3分の1値下げ・米政府量子9社3200億円出資で量子株急騰・改正資金決済法6月1日施行・高市首相3兆円補正予算今週提出へ・日フィリピンGSOMIA交渉合意"
+    },
     {
       "date": "2026-05-28",
       "headline": "富士通×Anthropic戦略提携10万人Claude展開・KDDIドコモミリ波共用中継器開発今夏上野公園実証・国家情報局設置法成立7月発足・海外SC電子決済手段認定6月施行・米政府量子9社3200億円出資"
@@ -167,6 +171,11 @@
     }
   ],
   "all_sources": [
+    {
+      "name": "VentureBeat",
+      "url": "https://venturebeat.com",
+      "count": 1
+    },
     {
       "name": "Anthropic",
       "url": "https://www.anthropic.com",
