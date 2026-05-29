@@ -1,6 +1,10 @@
 {
-  "last_updated": "2026-05-29T06:30:00+09:00",
+  "last_updated": "2026-05-30T06:30:00+09:00",
   "reports": [
+    {
+      "date": "2026-05-30",
+      "headline": "Claude Opus 4.8リリース・Anthropic評価額9650億ドルでOpenAI超え・IBM量子100億ドル投資・Google量子優位性Nature掲載・外国SC電子決済手段認定6月1日施行・国勢調査速報5年309万人減・日経最高値6万6329円"
+    },
     {
       "date": "2026-05-29",
       "headline": "Claude Opus 4.8リリース高速モード3分の1値下げ・米政府量子9社3200億円出資で量子株急騰・改正資金決済法6月1日施行・高市首相3兆円補正予算今週提出へ・日フィリピンGSOMIA交渉合意"
@@ -179,7 +183,7 @@
     {
       "name": "Anthropic",
       "url": "https://www.anthropic.com",
-      "count": 11
+      "count": 12
     },
     {
       "name": "SAP",
@@ -224,7 +228,7 @@
     {
       "name": "日本経済新聞",
       "url": "https://www.nikkei.com",
-      "count": 53
+      "count": 55
     },
     {
       "name": "NVIDIA",
@@ -349,7 +353,7 @@
     {
       "name": "ITmedia AIプラス",
       "url": "https://www.itmedia.co.jp",
-      "count": 8
+      "count": 10
     },
     {
       "name": "gihyo.jp",
@@ -399,7 +403,7 @@
     {
       "name": "日経Xtech",
       "url": "https://xtech.nikkei.com",
-      "count": 10
+      "count": 11
     },
     {
       "name": "Yahoo!ニュース エキスパート",
@@ -434,7 +438,7 @@
     {
       "name": "ペイメントナビ",
       "url": "https://paymentnavi.com",
-      "count": 7
+      "count": 9
     },
     {
       "name": "NHK",
@@ -484,7 +488,7 @@
     {
       "name": "BUSINESS LAWYERS",
       "url": "https://www.businesslawyers.jp",
-      "count": 3
+      "count": 4
     },
     {
       "name": "DGフィナンシャルテクノロジー",
@@ -594,7 +598,7 @@
     {
       "name": "CoinPost",
       "url": "https://coinpost.jp",
-      "count": 6
+      "count": 7
     },
     {
       "name": "JTB総合研究所",
@@ -784,7 +788,7 @@
     {
       "name": "EnterpriseZine",
       "url": "https://enterprisezine.jp",
-      "count": 3
+      "count": 4
     },
     {
       "name": "Ledge.ai",
@@ -989,7 +993,7 @@
     {
       "name": "Quantum Computing Report",
       "url": "https://quantumcomputingreport.com",
-      "count": 1
+      "count": 3
     },
     {
       "name": "CRYPTO TIMES",
@@ -1009,6 +1013,26 @@
     {
       "name": "ASCII.jp",
       "url": "https://ascii.jp",
+      "count": 1
+    },
+    {
+      "name": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news",
+      "count": 2
+    },
+    {
+      "name": "AI Native",
+      "url": "https://www.ai-native.jp",
+      "count": 1
+    },
+    {
+      "name": "IT Leaders",
+      "url": "https://it.impress.co.jp",
+      "count": 1
+    },
+    {
+      "name": "日本気象協会",
+      "url": "https://tenki.jp",
       "count": 1
     }
   ],

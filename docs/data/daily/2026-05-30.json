@@ -1,0 +1,367 @@
+{
+  "date": "2026-05-30",
+  "generated_at": "2026-05-30T06:30:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "AnthropicがClaude Opus 4.8リリースと同時に評価額9650億ドルでOpenAIを超え、IBM100億ドル量子投資とGoogle量子優位性実証が重なり、AI・量子双方で歴史的資本移動が確認された。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicがClaude Opus 4.8を5月28日にリリース。SWE-bench Pro 69.2%・Fast mode 2.5倍高速化を価格据え置き（$5/$25/1Mトークン）で実現。Series H 650億ドル調達で評価額9650億ドルとなりOpenAIを超えた。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモビジネスが5月20日、AIエージェントによるサイバー攻撃対策サービス「AI SOC」を提供開始。従来1〜2時間要した相関分析を約10分で実行。3年で50社・10億円規模を目標とする。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMが5月28日、2029年誤り耐性量子コンピュータ「Quantum Starling」向け100億ドル投資を発表。CHIPS法補助金10億ドルを活用し専用ファウンドリ「Anderon」をアルバニーに設立する。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "金融庁が5月19日公布の内閣府令改正で外国発行ステーブルコインを電子決済手段として正式認定。6月1日施行の改正資金決済法の枠組みで、外国当局との連携を必須条件とした。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "総務省が2025年国勢調査速報値を5月29日公表。総人口1億2305万人、5年間で309万人減（国勢調査史上最大の減少幅）。日経平均は5月29日終値6万6329円と史上最高値を更新した。"
+        }
+      ],
+      "must_read": {
+        "title": "Anthropic、650億ドル調達──評価額は3カ月で2.5倍の9650億ドルとなりOpenAIを上回る",
+        "url": "https://www.itmedia.co.jp/news/articles/2605/29/news080.html",
+        "reason": "AI業界の覇権争いで最大の転換点となる調達額・評価額の更新。ARR470億ドルは1年前の80倍に相当し、産業構造の変化速度を示す。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "今日はAI・量子・金融の全方位でビッグニュースが続きましたよ！特にAnthropicのOpenAI超えはAI業界の大きな転換点ですね。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Claude Opus 4.8が登場ですね！コーディング性能がぐんとアップして（SWE-bench Pro 69.2%）しかも価格は据え置きなんですよ。さらにAnthropicが評価額でOpenAIを超えた9650億ドルに達したみたいですよ、すごい勢いですね。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモのビジネス向けに、AIがサイバー攻撃を10分で分析してくれる「AI SOC」が始まったみたいですよ。これまで1〜2時間かかっていた作業なので、セキュリティ担当者にはかなり嬉しいサービスですね。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMが量子コンピュータに100億ドルも投資するって発表しましたよ！2029年には誤り耐性付きの本格的な量子コンピュータを作る計画みたいです。GoogleのWillowも13000倍高速なアルゴリズムを実証していて、いよいよ量子時代が来そうですね。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "来週6月1日から改正資金決済法が施行されますよ。海外のステーブルコインが日本でも正式に使える仕組みが整いましたね。金融のデジタル化がさらに加速しそうですよ。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "2025年の国勢調査の速報が出ましたよ。人口が5年間で309万人も減って、国勢調査史上最大の減少幅だそうです。一方、株価は日経平均が6万6329円の史上最高値を更新しました。"
+        }
+      ],
+      "must_read": {
+        "title": "Anthropic、650億ドル調達──評価額は3カ月で2.5倍の9650億ドルとなりOpenAIを上回る",
+        "url": "https://www.itmedia.co.jp/news/articles/2605/29/news080.html",
+        "reason": "AI産業の競争構造が大きく変わる節目のニュースですよ。AnthropicがOpenAIを評価額で超えた歴史的な瞬間です。",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Claude Opus 4.8リリース：SWE-bench Pro 69.2%・Fast mode 2.5倍高速・価格据え置き\n・Anthropic評価額9650億ドル：650億ドル調達でOpenAI超え・ARR470億ドル\n・生成AI市場三極化：ChatGPTシェア4割割れ、ClaudeとGeminiが拡大"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・AI SOC提供開始：サイバー攻撃相関分析を10分で実行（従来1〜2時間）\n・dカードスキップ払い稼働中：3000万ポイント山分けキャンペーン継続"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・IBM：2029年誤り耐性QC向け100億ドル投資・CHIPS法10億ドル補助金・Anderon設立\n・Google Quantum Echoes：Willowチップでスーパーコンピュータ比13000倍高速を実証"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・外国発行SCを電子決済手段に認定：6月1日改正資金決済法施行\n・PayPay上場後初決算：営業収益前期比27%増・MTU4100万人"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・国勢調査速報：総人口1億2305万人・5年309万人減（史上最大減少幅）\n・日経平均5月29日終値6万6329円：史上最高値更新\n・台風6号チャンミー：5月31日〜6月2日沖縄接近の恐れ"
+        }
+      ],
+      "must_read": {
+        "title": "Anthropic、650億ドル調達──評価額は3カ月で2.5倍の9650億ドルとなりOpenAIを上回る",
+        "url": "https://www.itmedia.co.jp/news/articles/2605/29/news080.html",
+        "reason": "AI覇権争いの転換点。AnthropicがOpenAIを評価額で超えた。",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "AnthropicのOpenAI超えとIBM量子100億ドル投資が同日に重なり、AI・量子コンピューティングの二大技術フロンティアへの資本集中が加速する一方、国内では人口309万人減と日経最高値という逆行する経済指標が、労働・移民政策転換の圧力を高めている。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Anthropicの評価額が3カ月で3800億ドルから9650億ドルへ2.5倍増。ARR470億ドルは1年前比80倍に相当し、クラウドパートナー（Amazon・Google）含む650億ドル調達で計算インフラを押さえる構造が明確化している。Claude Opus 4.8のSWE-bench Pro 69.2%は企業ソフトウェア開発工程の自動化加速を示唆する。ChatGPTシェア4割割れは市場の三極化を示し、AIアプリ選定の判断軸が変わりつつある。",
+          "importance": 5
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモビジネスのAI SOCは従来SIEM人手作業1〜2時間を10分に短縮。3年目標50社・10億円は保守的だが、NTTグループのネットワーク保守AIエージェントとの組み合わせで通信インフラ全体の自律運用モデルへの布石となる可能性がある。AIエージェント属性情報レジストリのプロトタイプ開発は、AIエージェント間信頼性確保という新課題への先行投資である。",
+          "importance": 3
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMの100億ドル投資（CHIPS法10億ドル含む）とAnderon量子半導体ファウンドリ設立は、量子コンピュータのサプライチェーン内製化戦略を示す。Google Quantum EchoesのFrontier比13000倍高速（Nature掲載）は「実用問題への量子優位性」の初確認で、創薬・材料科学への応用の道筋が開かれた。IBM Nighthawk（120論理量子ビット）は2026年末に実用的量子優位性達成予定であり、産業応用への移行が現実化しつつある。",
+          "importance": 5
+        },
+        {
+          "theme": "金融決済",
+          "text": "改正資金決済法の外国SC認定（6月1日施行）はUSDCなど海外大手トークンの国内法的取扱いを解禁し、日系銀行・証券の決済インフラ更新を促す。PayPay MTU4100万人・レンディング貸倒率0.03%は国内キャッシュレスエコシステムの成熟を示す一方、d払い他社カード還元0%化（8月予定）との競合激化は避けられない。外国SC解禁により国内ステーブルコイン発行体との競争環境が変化する。",
+          "importance": 4
+        },
+        {
+          "theme": "国内・社会",
+          "text": "国勢調査速報の人口309万人減（率2.5%）は前回（約100万人減）の3倍超で、45道府県が減少し増加は東京・沖縄のみ。日経平均6万6329円の史上最高値は外国人資金流入と企業収益改善が主因だが、労働力不足と国内需要縮小の構造的リスクが潜在する。人口減少加速は社会保障・地方財政の持続可能性に直接影響し、補正予算3兆円の消費喚起策との整合性が問われる。台風6号は6月2日沖縄上陸見通しで農水産業被害に注意が必要。",
+          "importance": 4
+        }
+      ],
+      "must_read": {
+        "title": "Anthropic、650億ドル調達──評価額は3カ月で2.5倍の9650億ドルとなりOpenAIを上回る",
+        "url": "https://www.itmedia.co.jp/news/articles/2605/29/news080.html",
+        "reason": "AI産業の資金集中がAnthropicに傾斜し、GoogleとAmazonの資本関係深化・量子インフラ確保の連鎖が業界構造を塗り替えるターニングポイントと評価できる。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 95,
+      "trend_history": [92, 91, 92, 95, 88, 92, 95],
+      "summary_short": "Claude Opus 4.8リリース、AnthropicがOpenAIを評価額で超える",
+      "summary_long": "Anthropicは5月28日、Claude Opus 4.8をリリースし同日650億ドルを調達、評価額9650億ドルでOpenAIを上回った。SWE-bench Pro 69.2%・Fast mode 2.5倍高速化を価格据え置きで実現。生成AIチャット市場ではChatGPTシェアが4割を割り込み三極化の様相を呈している。",
+      "articles": [
+        {
+          "title": "Anthropic、650億ドル調達──評価額は3カ月で2.5倍の9650億ドルとなりOpenAIを上回る",
+          "url": "https://www.itmedia.co.jp/news/articles/2605/29/news080.html",
+          "source": "ITmedia NEWS",
+          "summary_short": "Claude Opus 4.8リリース、評価額9650億ドルでOpenAI超え",
+          "summary_long": "AnthropicはSeries H 650億ドル調達で評価額9650億ドルに。Claude Opus 4.8はSWE-bench Pro 69.2%を達成しFast modeが2.5倍高速化。価格は$5/$25（1Mトークン）で据え置き。ARR470億ドルは前年比80倍。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "Claude Opus 4.8リリース完全解説｜SWE-bench 69.2%・Dynamic Workflows・Fast mode高速化",
+          "url": "https://www.ai-native.jp/blog/claude-opus-4-8-launch-analysis",
+          "source": "AI Native",
+          "summary_short": "Opus 4.8はコーディング強化・Dynamic Workflows・価格据え置き",
+          "summary_long": "Claude Opus 4.8のSWE-bench Pro 69.2%はOpus 4.7比4.9ポイント改善。Dynamic Workflowsによる並列エージェント実行とハルシネーション抑制強化が主な新機能。自己検証能力向上で欠陥見逃し率が4分の1に減少。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "ChatGPTがシェア4割を切る 急伸するClaude、安定のGemini──生成AI三極化の兆し",
+          "url": "https://www.itmedia.co.jp/enterprise/articles/2605/08/news033.html",
+          "source": "ITmedia AIプラス",
+          "summary_short": "ChatGPTシェア4割割れ、ClaudeとGeminiが急伸",
+          "summary_long": "米国生成AIチャット市場でChatGPTの日次利用者シェアが4割を下回り、ClaudeとGeminiが利用者を拡大。高頻度利用層はClaudeへのシフトが顕著で、企業向け利用でAnthropicがOpenAIを追い上げる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Anthropic expands partnership with Google and Broadcom",
+          "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+          "source": "Anthropic",
+          "summary_short": "AnthropicがGoogleとBroadcomと計算インフラ拡大で提携",
+          "summary_long": "AnthropicはGoogleとBroadcomとの計算インフラ拡充パートナーシップを発表。GPU22万基の確保と3.5GWのデータセンターインフラを確保し、Claude需要増に対応する体制を強化。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 55,
+      "trend_history": [60, 52, 58, 55, 55, 55, 55],
+      "summary_short": "ドコモビジネスがAI SOCを開始、脅威分析を10分に短縮",
+      "summary_long": "NTTドコモビジネスは5月20日、AIエージェントでサイバー攻撃脅威を約10分で分析・対処する「AI SOC」を提供開始した。従来は人手で1〜2時間を要していた。dカードのスキップ払いは5月18日から稼働中で3000万ポイント山分けキャンペーンを実施している。",
+      "articles": [
+        {
+          "title": "AIエージェントが10分で脅威特定、NTTドコモビジネスが新提供",
+          "url": "https://xtech.nikkei.com/atcl/nxt/news/24/03238/",
+          "source": "日経Xtech",
+          "summary_short": "AI SOCがサイバー脅威分析を10分で実行、3年50社導入目標",
+          "summary_long": "NTTドコモビジネスの「AI SOC」はAI Advisorが複数ログを横断分析し、従来1〜2時間の相関分析を約10分で実行。今後3年で50社への導入と10億円規模の売上を目標とする。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモビジネス、AIエージェントの「身分証明」基盤を試作",
+          "url": "https://it.impress.co.jp/articles/-/29323",
+          "source": "IT Leaders",
+          "summary_short": "AIエージェント間の信頼性確認基盤を技術検証中",
+          "summary_long": "NTTドコモビジネスは5月12日、AIエージェント自律取引に向けた属性情報レジストリのプロトタイプを開発。AIエージェント同士の信頼性確保の仕組みを技術検証中。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "「dカード」の支払い方法に「スキップ払い」を導入（ドコモ）",
+          "url": "https://paymentnavi.com/paymentnews/174393.html",
+          "source": "ペイメントナビ",
+          "summary_short": "dカードスキップ払い5月18日開始、最長6カ月先への変更可能",
+          "summary_long": "NTTドコモはdカードに5月18日から「スキップ払い」を導入。1回払い利用を最長6カ月先の支払い月に変更可能。導入記念3000万ポイント山分けキャンペーンも実施中。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 78,
+      "trend_history": [65, 68, 62, 68, 52, 65, 78],
+      "summary_short": "IBM100億ドル量子投資とGoogleの検証可能な量子優位性実証が同時",
+      "summary_long": "IBMは5月28日、2029年誤り耐性量子コンピュータ向け100億ドル投資と専用ファウンドリ「Anderon」設立を発表。GoogleはWillowチップで世界最速スパコン比13000倍高速のQuantum Echoesアルゴリズムを実証し、初の検証可能な量子優位性としてNature誌に掲載された。",
+      "articles": [
+        {
+          "title": "IBM Pledges $10 Billion Global Quantum Expansion to Deliver Fault-Tolerant Supercomputers by 2029",
+          "url": "https://quantumcomputingreport.com/ibm-pledges-10-billion-global-quantum-expansion-to-deliver-fault-tolerant-supercomputers-by-2029/",
+          "source": "Quantum Computing Report",
+          "summary_short": "IBM、2029年誤り耐性QC向け100億ドル投資・Anderon設立",
+          "summary_long": "IBMは2029年までに200論理量子ビット・1億量子ゲート実行の「Quantum Starling」開発に向け100億ドルを投資。米CHIPS法補助金10億ドルと自社10億ドルをマッチングしたAnderon社をアルバニーに設立。90以上の量子システムを稼働中。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "Google Quantum AI Achieves Verifiable Quantum Advantage on Willow Chip with Quantum Echoes Algorithm",
+          "url": "https://quantumcomputingreport.com/google-quantum-ai-achieves-verifiable-quantum-advantage-on-willow-chip-with-quantum-echoes-algorithm/",
+          "source": "Quantum Computing Report",
+          "summary_short": "GoogleがWillowで世界最速スパコン比13000倍高速を実証・Nature掲載",
+          "summary_long": "GoogleのQuantum EchoesアルゴリズムはWillowチップでOTOCアルゴリズムを実行し、Frontier比13000倍高速を達成。初の検証可能な量子優位性としてNature誌に掲載。創薬・材料科学への応用が期待される。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "量子コンピューターはついに実用フェーズへ IBMらが達成した実用的量子優位性",
+          "url": "https://enterprisezine.jp/article/detail/24247",
+          "source": "EnterpriseZine",
+          "summary_short": "IBM Nighthawk、2026年末に実用的量子優位性達成予定",
+          "summary_long": "IBM Nighthawk（120論理量子ビット）は2026年末に少なくとも1件の実用問題で量子優位性達成予定。業界の競争軸が「量子ビット数」から「誤り耐性・品質」にシフトしており、産業応用への移行が現実化している。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 70,
+      "trend_history": [60, 58, 60, 65, 68, 70, 70],
+      "summary_short": "外国SC電子決済手段認定6月1日施行・PayPay上場後初決算好調",
+      "summary_long": "金融庁は外国発行ステーブルコインを電子決済手段として正式認定する内閣府令改正を5月19日公布し、6月1日に施行される。PayPayは上場後初決算で営業収益前期比27%増・月間取引ユーザー4100万人を達成した。",
+      "articles": [
+        {
+          "title": "金融庁、外国発行ステーブルコインを電子決済手段に正式認定 内閣府令改正を公布",
+          "url": "https://coinpost.jp/?p=709645",
+          "source": "CoinPost",
+          "summary_short": "外国SC電子決済手段に認定、6月1日施行の改正資金決済法に組み込み",
+          "summary_long": "金融庁は2026年5月19日、外国発行ステーブルコインを国内法上の電子決済手段として認定する内閣府令改正を公布。発行元外国ライセンス保有・裏付資産適切管理・規制当局間連携が必須条件。6月1日施行。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "PayPay上場後初決算、決済と金融の両輪でさらなる成長へ",
+          "url": "https://paymentnavi.com/paymentnews/174319.html",
+          "source": "ペイメントナビ",
+          "summary_short": "PayPay上場後初決算・営業収益前期比27%増・MTU4100万人",
+          "summary_long": "PayPayの通期営業収益は前期比27%増の約380.7億円。月間取引ユーザー（MTU）は前年比10%増の約4100万人。加盟店向けレンディングも累計4万件超・貸倒率0.03%と好調を維持。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "令和8年6月施行！改正資金決済法の概要と実務対応",
+          "url": "https://www.businesslawyers.jp/articles/1476",
+          "source": "BUSINESS LAWYERS",
+          "summary_short": "改正資金決済法6月1日施行、SCと送金規制の変更点まとめ",
+          "summary_long": "改正資金決済法（6月1日施行）はクロスボーダー収納代行規制適用・信託型ステーブルコインの裏付け資産運用柔軟化・新たな仲介業創設を含む。外国SC取扱いに関する新基準も同時施行される。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 82,
+      "trend_history": [75, 72, 78, 80, 80, 82, 82],
+      "summary_short": "国勢調査で人口5年309万人減・日経平均が史上最高値更新",
+      "summary_long": "総務省は2025年国勢調査速報を5月29日公表。総人口1億2305万人で5年間309万人減と国勢調査史上最大の減少幅を記録。日経平均は同日終値6万6329円と史上最高値を更新。台風6号が5月31日〜6月2日に沖縄に接近の恐れがある。",
+      "articles": [
+        {
+          "title": "日本の人口1億2304万人、5年間で309万人減 2025年国勢調査速報値",
+          "url": "https://www.nikkei.com/article/DGXZQOUA262CH0W6A520C2000000/",
+          "source": "日本経済新聞",
+          "summary_short": "国勢調査速報：5年309万人減、国勢調査史上最大の減少幅",
+          "summary_long": "総務省が5月29日公表した2025年国勢調査速報値。総人口1億2304万9524人で前回から309万6575人（2.5%）減少。減少幅は過去最大で前回（約100万人減）の3倍超。45道府県が人口減少し増加は東京・沖縄のみ。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "日経平均が最高値、終値1636円高の6万6329円 電機・素材に買い波及",
+          "url": "https://www.nikkei.com/article/DGXZQOFL291QGTZ20C26A5000000/",
+          "source": "日本経済新聞",
+          "summary_short": "日経平均5月29日終値6万6329円、前日比1636円高で史上最高値更新",
+          "summary_long": "5月29日の日経平均株価は前日比1636円高の6万6329円で終値史上最高値を更新。電機・素材株に買いが波及し幅広い上昇。外国人資金流入と企業収益改善が主因とされる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "台風6号「チャンミー」が発生 31日には強い勢力で沖縄の南へ",
+          "url": "https://tenki.jp/forecaster/deskpart/2026/05/27/39061.html",
+          "source": "日本気象協会",
+          "summary_short": "台風6号チャンミー発生、6月2日ごろ沖縄上陸の恐れ",
+          "summary_long": "台風6号「チャンミー」が5月27日に発生。5月31日〜6月2日に強い勢力で沖縄本島直撃の恐れ。沖縄気象台は6月2日ごろに暴風警報発表の見込みとしており、農水産業への被害に警戒が必要。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 95,
+      "NTTドコモ": 55,
+      "量子コンピュータ": 78,
+      "金融決済": 70,
+      "国内・社会": 82
+    },
+    "source_distribution": {
+      "ITmedia NEWS": 2,
+      "AI Native": 1,
+      "ITmedia AIプラス": 1,
+      "Anthropic": 1,
+      "日経Xtech": 1,
+      "IT Leaders": 1,
+      "ペイメントナビ": 2,
+      "Quantum Computing Report": 2,
+      "EnterpriseZine": 1,
+      "CoinPost": 1,
+      "BUSINESS LAWYERS": 1,
+      "日本経済新聞": 2,
+      "日本気象協会": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 2,
+      "4": 7,
+      "5": 5
+    }
+  }
+}
