@@ -1,6 +1,10 @@
 {
-  "last_updated": "2026-05-31T06:30:00+09:00",
+  "last_updated": "2026-06-01T06:30:00+09:00",
   "reports": [
+    {
+      "date": "2026-06-01",
+      "headline": "改正資金決済法6月1日施行で外国SC電子決済手段正式認定・Claude Opus 4.8公開Anthropic評価額9650億ドルOpenAI超え・IBM Kookaburra年末公開予定・PayPay6月2日eKYC必須・高市首相3兆円補正予算・台風6号3日頃九州〜関東接近"
+    },
     {
       "date": "2026-05-31",
       "headline": "改正資金決済法6月1日施行で海外SC電子決済手段認定・OpenAI Workspace Agents正式ローンチ・IBM量子1.2万原子タンパク質シミュレーション成功・PayPay6月2日eKYC必須化・実質賃金3ヵ月連続プラス・台風6号来週北上"
@@ -187,7 +191,7 @@
     {
       "name": "Anthropic",
       "url": "https://www.anthropic.com",
-      "count": 12
+      "count": 14
     },
     {
       "name": "SAP",
@@ -207,7 +211,7 @@
     {
       "name": "NTTドコモ",
       "url": "https://www.docomo.ne.jp",
-      "count": 37
+      "count": 39
     },
     {
       "name": "NTTドコモビジネス",
@@ -232,7 +236,7 @@
     {
       "name": "日本経済新聞",
       "url": "https://www.nikkei.com",
-      "count": 55
+      "count": 56
     },
     {
       "name": "NVIDIA",
@@ -337,7 +341,7 @@
     {
       "name": "日経BOOKプラス",
       "url": "https://bookplus.nikkei.com",
-      "count": 6
+      "count": 7
     },
     {
       "name": "外為どっとコム",
@@ -397,7 +401,7 @@
     {
       "name": "PayPay",
       "url": "https://paypay.ne.jp",
-      "count": 3
+      "count": 4
     },
     {
       "name": "TradingKey",
@@ -412,7 +416,7 @@
     {
       "name": "Yahoo!ニュース エキスパート",
       "url": "https://news.yahoo.co.jp",
-      "count": 7
+      "count": 8
     },
     {
       "name": "AI Academy Note",
@@ -447,12 +451,12 @@
     {
       "name": "NHK",
       "url": "https://news.web.nhk.newsweb",
-      "count": 21
+      "count": 22
     },
     {
       "name": "PR TIMES",
       "url": "https://prtimes.jp",
-      "count": 10
+      "count": 11
     },
     {
       "name": "マイナビニュース",
@@ -492,7 +496,7 @@
     {
       "name": "BUSINESS LAWYERS",
       "url": "https://www.businesslawyers.jp",
-      "count": 4
+      "count": 5
     },
     {
       "name": "DGフィナンシャルテクノロジー",
@@ -562,7 +566,7 @@
     {
       "name": "arpable.com",
       "url": "https://arpable.com",
-      "count": 3
+      "count": 4
     },
     {
       "name": "NTT",
@@ -602,7 +606,7 @@
     {
       "name": "CoinPost",
       "url": "https://coinpost.jp",
-      "count": 7
+      "count": 8
     },
     {
       "name": "JTB総合研究所",
@@ -712,7 +716,7 @@
     {
       "name": "Fortune",
       "url": "https://fortune.com",
-      "count": 2
+      "count": 3
     },
     {
       "name": "The Hacker News",
@@ -792,7 +796,7 @@
     {
       "name": "EnterpriseZine",
       "url": "https://enterprisezine.jp",
-      "count": 4
+      "count": 5
     },
     {
       "name": "Ledge.ai",
@@ -882,6 +886,11 @@
     {
       "name": "AI Watch",
       "url": "https://ai.watch.impress.co.jp",
+      "count": 2
+    },
+    {
+      "name": "首相官邸",
+      "url": "https://www.kantei.go.jp",
       "count": 1
     },
     {
