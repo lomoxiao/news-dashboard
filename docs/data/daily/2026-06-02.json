@@ -1,0 +1,352 @@
+{
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T06:15:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "台風6号チャンミーが6月2日未明に奄美・九州に接近し大雨・暴風警報が発令される中、PayPayは本日よりeKYC未完了ユーザーをPayPayステップ対象外とし、NTTドコモ・グローバルはアクセンチュア・AWSとのAI信頼基盤強化を発表した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Claude Opus 4.8のDynamic Workflows（並列サブエージェント実行）とエフォートコントロールが詳報された。6月15日からAgent SDK利用が別枠クレジット制に移行し実質値上げとなる場合がある。SWE-Bench Pro 69.2%でClaudeが業界最高水準を維持している。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモ・グローバルはアクセンチュア・AWSとの連携強化により、ユニバーサルウォレットインフラストラクチャを基盤にAI駆動開発の検証・監査機能を備えたトラストアーキテクチャの高度化を進めると発表した。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMは2026年ロードマップでNighthawk（360量子ビット/7,500ゲート）の年内公開と、Kookaburraの3チップ接続により4,158量子ビット規模のシステム構築を目標とすることを明らかにした。リアルタイムエラー訂正デコーダのプロトタイプ試験も2026年内に予定される。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayは本日6月2日よりeKYC未完了ユーザーをPayPayステップのポイント付与対象から除外した。6月19日から超PayPay祭を開催しスクラッチくじで最大10万ポイント還元キャンペーンも発表された。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "台風6号チャンミーは2日未明に奄美地方に接近し、3日にかけて九州から本州南岸を東北東に進む見込み。九州南部・奄美地方で24時間最大300ミリの降水が予想され、線状降水帯の発生可能性もある。航空便への影響が発生している。"
+        }
+      ],
+      "must_read": {
+        "title": "台風6号 2日～3日は関東～九州の太平洋側で雨量多くなるおそれ 交通への影響も",
+        "url": "https://tenki.jp/forecaster/domoto_yukiyo/2026/06/01/39143.html",
+        "reason": "本日接近中。九州南部・奄美で24時間最大300ミリ降水・線状降水帯発生リスク。航空便欠航が発生し交通・農業への広範な影響が懸念される。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "台風6号が今日から本格的に接近していますのでお気をつけください、またPayPayの本人確認が今日から必須になりましたよ。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "ClaudeのAIエージェント機能がさらに強化されましたよ！数百のサブエージェントを並行実行できるDynamic Workflowsと、考える深さを調整するエフォートコントロールが詳しく紹介されましたね。6月15日からはAgent SDKの利用が別枠制になりますよ。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモ・グローバルがアクセンチュアとAWSと組んで、AIシステムの正しさを証明する仕組みを強化しましたよ。企業がAIエージェントを安心して使える環境づくりの一環ですね。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMが量子コンピュータのロードマップを更新しましたよ。Kookaburraというチップを3枚つなぐと4000量子ビット超のシステムになるんですね。年内にはNighthawk（360量子ビット）の公開も予定されていますよ。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "今日からPayPayの本人確認（eKYC）が必須になりましたよ！まだの方はPayPayステップでポイントがもらえなくなりますので早めに対応してくださいね。6月19日から超PayPay祭も始まって最大10万ポイントが当たるくじもありますよ。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "台風6号が今日から明日にかけて九州〜関東に接近しますよ。特に九州南部や奄美では24時間で300ミリもの雨が降るおそれがありますね。航空便の欠航も出ていますので、旅行の予定がある方は最新情報を確認してくださいよ。"
+        }
+      ],
+      "must_read": {
+        "title": "台風6号 2日～3日は関東～九州の太平洋側で雨量多くなるおそれ 交通への影響も",
+        "url": "https://tenki.jp/forecaster/domoto_yukiyo/2026/06/01/39143.html",
+        "reason": "今日から明日にかけて台風が接近しますよ。特に九州から関東の太平洋側の方は大雨・暴風に注意が必要ですね。交通機関への影響も出ていますので事前に確認しておきましょうよ。",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Claude Opus 4.8：Dynamic Workflows（並列サブエージェント）・エフォートコントロール追加詳報\n・Agent SDKクレジット6月15日別枠化・SWE-Bench Pro 69.2%で業界首位"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・ドコモ・グローバル×Accenture×AWS：AI駆動開発トラストアーキテクチャ高度化発表\n・Xperia 1 VIII SO-51G：6月11日発売（AI搭載フラッグシップ）"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・IBM 2026ロードマップ：Kookaburra3チップ接続で4,158量子ビット目標\n・Nighthawk（360量子ビット/7,500ゲート）年内公開・リアルタイムエラー訂正試験"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・PayPay eKYC必須化：本日6月2日スタート・未完了者はPayPayステップ対象外\n・超PayPay祭：6月19日〜開催・最大10万ポイント還元くじ"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・台風6号チャンミー：本日奄美・九州接近、3日にかけて本州南岸を北上\n・九州南部・奄美で24時間最大300ミリ降水予想・航空便欠航・線状降水帯リスク"
+        }
+      ],
+      "must_read": {
+        "title": "台風6号 2日～3日は関東～九州の太平洋側で雨量多くなるおそれ 交通への影響も",
+        "url": "https://tenki.jp/forecaster/domoto_yukiyo/2026/06/01/39143.html",
+        "reason": "本日接近・最大300ミリ降水・交通影響・線状降水帯リスク。",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "台風6号の九州〜関東接近とPayPayのeKYC必須化実施が重なる6月2日は、デジタル本人確認の社会基盤化と気候変動に伴う梅雨前台風リスクの高まりが同時進行する日となった。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Dynamic Workflows（数百並列サブエージェント）とエフォートコントロールの実装は、AIエージェント展開における品質・コストトレードオフの管理権を開発者に委ねる設計思想を示す。Agent SDKクレジット分離（6月15日）は従量課金への移行であり企業のエージェント活用コスト管理の高度化を促す。SWE-Bench Pro 69.2%（GPT-5.5比+10.6pt）は実用コーディング能力での差別化が維持されることを示す。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモ・グローバルのUWI拡張（Accenture・AWS連携）は、AIエージェントによる自律的アクションに検証・監査機能を付与するトラストアーキテクチャへの先行投資であり、エージェント型AI普及期において信頼インフラの提供が競争優位となる可能性を示している。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMのKookaburra（4,158量子ビット）とNighthawk（360量子ビット/7,500ゲート）の2026ロードマップは、量子メモリと論理処理ユニットの分離によるスケーラブルなFTQCへの移行を示す。リアルタイムエラー訂正デコーダのプロトタイプ化はFTQCの実用閾値到達を加速し、2027〜2029年の量子優位性領域拡大の起点となる可能性がある。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayのeKYC必須化（6月2日）は改正資金決済法施行（6月1日）と連動した本人確認強化の民間実装であり、上場後の収益性改善と規制適合を両立する。超PayPay祭（6月19日〜）は規制強化後のユーザー維持策として機能し、eKYC完了率を高める誘因として設計されている。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "台風6号の接近パターン（梅雨前線との相互作用）は気候変動に伴う早期台風・大型化リスクの顕在化事例として注目される。九州南部・奄美での24時間最大300ミリは農業・漁業への経済損失リスクを伴い、補正予算審議中の2026年度財政に短期的な追加支出圧力をかける可能性がある。"
+        }
+      ],
+      "must_read": {
+        "title": "台風6号 2日～3日は関東～九州の太平洋側で雨量多くなるおそれ 交通への影響も",
+        "url": "https://tenki.jp/forecaster/domoto_yukiyo/2026/06/01/39143.html",
+        "reason": "梅雨前の大型台風は農業・インフラ・物流への複合的経済損失を引き起こし得る。九州南部300ミリ降水と線状降水帯発生リスクが重なり、補正予算審議中の財政に追加支出圧力をかける可能性がある。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 88,
+      "trend_history": [92, 95, 95, 88, 90, 88, 88],
+      "summary_short": "Claude Opus 4.8のDynamic WorkflowsとAgent SDKが詳報",
+      "summary_long": "AnthropicはClaude Opus 4.8のDynamic Workflows（数百並列サブエージェント実行）とエフォートコントロール機能を正式詳報した。6月15日からAgent SDK利用が別枠クレジット制に移行。SWE-Bench Pro 69.2%でLLM最新比較においてもClaudeが業界トップ水準を維持している。",
+      "articles": [
+        {
+          "title": "Anthropic launches Claude Opus 4.8 with dynamic workflows and effort control",
+          "url": "https://gigazine.net/gsc_news/en/20260529-anthropic-claude-opus-4-8/",
+          "source": "GIGAZINE",
+          "summary_short": "Opus 4.8にDynamic Workflows追加・SWE-Bench Pro 69.2%首位",
+          "summary_long": "AnthropicはClaude Opus 4.8でDynamic Workflows（並列サブエージェント）とエフォートコントロール（思考深度調整）を実装した。SWE-Bench Proで69.2%を記録しGPT-5.5（58.6%）・Gemini 3.1 Pro（54.2%）を上回る。価格はOpus 4.7と同水準を維持。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "AnthropicがClaudeサブスク刷新 エージェント利用を別枠化、使い方で実質値上げも 6月15日から",
+          "url": "https://www.techno-edge.net/article/2026/05/14/5064.html",
+          "source": "テクノエッジ",
+          "summary_short": "Claude Agent SDKクレジット6月15日別枠制、エージェント活用で実質値上げも",
+          "summary_long": "Anthropicは2026年6月15日からClaudeサブスクを刷新し、Claude Agent SDK・Claude Code GitHub Actions等のエージェント利用を別枠の月次クレジット制に分離する。AIエージェント利用量の急増に対応した料金体系変更で、利用方法によっては実質値上げとなる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "LLM比較【2026年5月版】ChatGPT・Claude・Gemini・Meta AI・Grokの違いと選び方",
+          "url": "https://arpable.com/artificial-intelligence/generative-ai/llm-comparison-top5-ai-models/",
+          "source": "arpable.com",
+          "summary_short": "LLM最新比較でClaudeがコーディング首位、GPT-5.5・Gemini 3.1を上回る",
+          "summary_long": "2026年5月版のLLM比較では、コーディング領域でClaude Opus 4.8（SWE-Bench Pro 69.2%）が首位を維持し、GPT-5.5（58.6%）・Gemini 3.1 Pro（54.2%）が続く。長文処理コストではGemini、汎用創造性ではGPTが優位とされる。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": ["https://k-tai.watch.impress.co.jp/docs/news/2113029.html"]
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 50,
+      "trend_history": [55, 50, 50, 48, 52, 48, 50],
+      "summary_short": "ドコモ・グローバルがAccenture・AWSとAI信頼基盤を強化",
+      "summary_long": "NTTドコモ・グローバルはアクセンチュア・AWSとの連携強化により、ユニバーサルウォレットインフラストラクチャ（UWI）を拡張しAI駆動開発における検証・監査機能を備えたトラストアーキテクチャを構築すると発表した。エージェント型AI時代のガバナンス強化と企業向け安全なAI活用環境の提供を目指す。",
+      "articles": [
+        {
+          "title": "NTTドコモ・グローバル、アクセンチュア、AWSがAI駆動開発で連携",
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/2113029.html",
+          "source": "ケータイ Watch",
+          "summary_short": "ドコモ・グローバルがAccenture・AWSとUWI拡張でAIトラスト基盤を強化",
+          "summary_long": "NTTドコモ・グローバルはアクセンチュアとAWSとの連携を強化し、UWIのAI駆動開発環境を拡張した。AIによる自律的アクションの検証・監査機能を付与し、グローバル企業がエージェント型AIを安全に活用できるトラストアーキテクチャの高度化を進める。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモ、AIの真正性証明でAWS・アクセンチュアと連携",
+          "url": "https://www.nikkei.com/article/DGXZQOGM288R00Y6A520C2000000/",
+          "source": "日本経済新聞",
+          "summary_short": "ドコモがAI生成コンテンツの真正性証明でAWS・Accentureと連携強化",
+          "summary_long": "NTTドコモは日本経済新聞にて、AI生成コンテンツの真正性証明および開発工程の監査機能をAWS・アクセンチュアと連携して強化すると報じられた。エージェント型AIの企業導入における法令遵守・ガバナンス課題への先行対応を意味する。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "ドコモ、「Xperia 1 VIII SO-51G」を発売",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/05/13_01.html",
+          "source": "NTTドコモ",
+          "summary_short": "ドコモがXperia 1 VIIIを6月11日に発売、AI搭載フラッグシップ",
+          "summary_long": "NTTドコモはソニーの最新フラッグシップ「Xperia 1 VIII SO-51G」を2026年6月11日に発売すると発表した。AIによる高度なカメラ機能と5G連携体験を特徴とし、ドコモのスマートデバイス戦略の柱となる。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 65,
+      "trend_history": [68, 62, 68, 62, 62, 60, 65],
+      "summary_short": "IBM Kookaburra3チップ接続で4158量子ビット目標・Nighthawk年内公開",
+      "summary_long": "IBMの2026年量子ロードマップでは、KookaburraプロセッサとNighthawkを3チップ接続し4,158量子ビット規模のシステム構築を目標とする。Nighthawkは120量子ビット×3モジュールで360量子ビット・7,500ゲート回路対応で年内公開予定。リアルタイムエラー訂正デコーダのプロトタイプも2026年内に試験される。",
+      "articles": [
+        {
+          "title": "IBM Quantum Roadmap 2026 — Kookaburra and Nighthawk",
+          "url": "https://www.ibm.com/roadmaps/quantum/2026/",
+          "source": "IBM",
+          "summary_short": "IBMがKookaburra×Nighthawk 4158量子ビットのロードマップ確認",
+          "summary_long": "IBMの2026年量子ロードマップによると、KookaburraはNighthawkを3チップ接続し4,158量子ビットのシステムを構築する設計で2026年末の公開を目標とする。Nighthawkは120量子ビット×3モジュールで360量子ビット・7,500ゲート対応。リアルタイムエラー訂正デコーダも2026年内に試験予定。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "IBM lays out clear path to fault-tolerant quantum computing",
+          "url": "https://www.ibm.com/quantum/blog/large-scale-ftqc",
+          "source": "IBM",
+          "summary_short": "IBMがフォールトトレラント量子計算への明確な道筋を示す技術ブログ公開",
+          "summary_long": "IBMは量子フォールトトレラント計算（FTQC）への道筋を示す技術ブログを公開した。論理量子ビット・qLDPCメモリ・リアルタイムエラー訂正の三要素を組み合わせスケーラブルなFTQCを実現する設計思想を詳説。2029年のStarling完成を目指すロードマップを確認した。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "量子コンピューター、2026年ここまで進化 日本の注目技術は？3分解説",
+          "url": "https://www.nikkei.com/nkd/company/article/?DisplayType=1&ng=DGXZQOUD148N80U5A011C2000000&scode=6702&ba=1",
+          "source": "日本経済新聞",
+          "summary_short": "日経が量子コンピュータ2026年の進化を解説、実用化前夜フェーズを確認",
+          "summary_long": "日本経済新聞は量子コンピュータの2026年現在の進化状況を分析した。多くの企業がPOC段階を超えて本番実装に移行し、競争軸が量子ビット数から安定性・品質重視にシフトしている。金融・創薬領域での2027〜2029年商用活用を見込む。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 92,
+      "trend_history": [88, 85, 90, 90, 88, 90, 92],
+      "summary_short": "PayPay eKYC必須化本日開始、超PayPay祭6月19日から発表",
+      "summary_long": "PayPayは本日6月2日よりeKYC（本人確認）未完了ユーザーをPayPayステップのポイント付与・ポイント率アップの対象から除外した。改正資金決済法施行（6月1日）と連動した本人確認強化の民間実装。6月19日から超PayPay祭を開催し最大10万ポイント還元キャンペーンも発表された。",
+      "articles": [
+        {
+          "title": "2026年6月2日より、本人確認など「PayPayステップ」の条件が変わります",
+          "url": "https://topics.shopping.yahoo.co.jp/notice/archives/20260423paypay.html",
+          "source": "Yahoo!ショッピング",
+          "summary_short": "PayPay eKYC本日必須化、未完了者はPayPayステップのポイント付与対象外",
+          "summary_long": "2026年6月2日より、eKYC未完了のPayPayユーザーはPayPayステップのポイント付与およびポイント率アップカウントの対象外となった。PayPayカード登録も必須となり、本人確認強化と上場後の還元コスト最適化を両立させる戦略の一環となる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "「超PayPay祭」6月19日から開催　PayPayスクラッチくじで最大10万ポイント還元、当選率アップも",
+          "url": "https://www.itmedia.co.jp/mobile/articles/2606/01/news091.html",
+          "source": "ITmedia",
+          "summary_short": "超PayPay祭が6月19日から開催、スクラッチくじ当選率アップで最大10万pt",
+          "summary_long": "PayPayは6月19日から超PayPay祭を開催すると発表した。PayPayスクラッチくじで最大10万ポイント還元（当選率アップ）が目玉となる。eKYC必須化後のユーザー維持策として機能し、本人確認完了済みユーザーへの優遇施策として設計されている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "ステーブルコイン決済の社会実装に向けた取り組みを推進へ（電算システム）",
+          "url": "https://paymentnavi.com/paymentnews/174845.html",
+          "source": "ペイメントナビ",
+          "summary_short": "電算システムがフィナンシェとWeb3活用の地域創生・SC決済社会実装を推進",
+          "summary_long": "電算システムはフィナンシェとの協業によりブロックチェーン技術を活用した地域創生推進とステーブルコイン決済の社会実装を2026年6月より本格開始すると発表した。改正資金決済法施行と連動した地域経済活性化への実装事例として注目される。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 72,
+      "trend_history": [55, 58, 58, 60, 58, 65, 72],
+      "summary_short": "台風6号チャンミー本日奄美・九州接近、3日本州南岸を北上",
+      "summary_long": "台風6号チャンミーは2日未明に奄美地方に接近し、2〜3日にかけて九州から本州南岸を東北東へ進む見込み。九州南部・奄美地方では24時間最大300ミリの降水が予想され、線状降水帯の発生可能性もある。宮崎・鹿児島・奄美を中心に航空便欠航や交通障害が発生している。",
+      "articles": [
+        {
+          "title": "台風6号 2日～3日は関東～九州の太平洋側で雨量多くなるおそれ 交通への影響も",
+          "url": "https://tenki.jp/forecaster/domoto_yukiyo/2026/06/01/39143.html",
+          "source": "tenki.jp",
+          "summary_short": "台風6号が本日奄美・九州接近、3日本州北上・最大300ミリ降水警戒",
+          "summary_long": "日本気象協会は台風6号チャンミーが2日未明から奄美地方に接近し、2〜3日にかけて九州から本州南岸を東北東へ進むと発表した。九州南部・奄美地方では24時間最大300ミリの降水が予想され、線状降水帯の発生可能性もある。気象庁が最大限の警戒を呼びかけている。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "台風6号が九州接近へ、空の便にも影響",
+          "url": "https://www.nishinippon.co.jp/item/1498433/",
+          "source": "西日本新聞",
+          "summary_short": "台風6号九州接近で複数航空便が欠航、交通機関に影響",
+          "summary_long": "台風6号の九州への接近に伴い九州・奄美方面の複数航空便が欠航となっている。農業・漁業への被害も懸念されており、住民には早期の安全確保が求められる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "台風6号は沖縄直撃 西・東日本に接近へ 前線活発化で大雨",
+          "url": "https://tenki.jp/forecaster/t_yoshida/2026/05/30/39113.html",
+          "source": "tenki.jp",
+          "summary_short": "台風6号が沖縄直撃後に西・東日本へ、梅雨前線活発化で大雨リスク",
+          "summary_long": "台風6号チャンミーは沖縄に直撃後、梅雨前線を活発化させながら西日本・東日本に接近する進路をたどっている。前線との相互作用で局地的な大雨リスクが高まっており、東日本でも6月3日以降に大雨への警戒が必要となる。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 88,
+      "NTTドコモ": 50,
+      "量子コンピュータ": 65,
+      "金融決済": 92,
+      "国内・社会": 72
+    },
+    "source_distribution": {
+      "GIGAZINE": 1,
+      "テクノエッジ": 1,
+      "arpable.com": 1,
+      "ケータイ Watch": 1,
+      "日本経済新聞": 2,
+      "NTTドコモ": 1,
+      "IBM": 2,
+      "Yahoo!ショッピング": 1,
+      "ITmedia": 1,
+      "ペイメントナビ": 1,
+      "tenki.jp": 2,
+      "西日本新聞": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 4,
+      "4": 9,
+      "5": 2
+    }
+  }
+}

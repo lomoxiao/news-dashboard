@@ -1,6 +1,10 @@
 {
-  "last_updated": "2026-06-01T06:30:00+09:00",
+  "last_updated": "2026-06-02T06:15:00+09:00",
   "reports": [
+    {
+      "date": "2026-06-02",
+      "headline": "台風6号チャンミー本日奄美・九州接近3日本州北上最大300ミリ警戒・PayPay eKYC必須化本日開始・ドコモ・グローバルAccenture×AWS AI信頼基盤強化・Claude Agent SDKクレジット6月15日別枠化・IBM Nighthawk360量子ビット年内公開"
+    },
     {
       "date": "2026-06-01",
       "headline": "改正資金決済法6月1日施行で外国SC電子決済手段正式認定・Claude Opus 4.8公開Anthropic評価額9650億ドルOpenAI超え・IBM Kookaburra年末公開予定・PayPay6月2日eKYC必須・高市首相3兆円補正予算・台風6号3日頃九州〜関東接近"
@@ -211,7 +215,7 @@
     {
       "name": "NTTドコモ",
       "url": "https://www.docomo.ne.jp",
-      "count": 39
+      "count": 40
     },
     {
       "name": "NTTドコモビジネス",
@@ -236,7 +240,7 @@
     {
       "name": "日本経済新聞",
       "url": "https://www.nikkei.com",
-      "count": 56
+      "count": 58
     },
     {
       "name": "NVIDIA",
@@ -381,7 +385,7 @@
     {
       "name": "ケータイ Watch",
       "url": "https://k-tai.watch.impress.co.jp",
-      "count": 3
+      "count": 4
     },
     {
       "name": "NTTデータグループ",
@@ -446,7 +450,7 @@
     {
       "name": "ペイメントナビ",
       "url": "https://paymentnavi.com",
-      "count": 9
+      "count": 10
     },
     {
       "name": "NHK",
@@ -566,7 +570,7 @@
     {
       "name": "arpable.com",
       "url": "https://arpable.com",
-      "count": 4
+      "count": 5
     },
     {
       "name": "NTT",
@@ -671,12 +675,12 @@
     {
       "name": "tenki.jp",
       "url": "https://tenki.jp",
-      "count": 1
+      "count": 3
     },
     {
       "name": "IBM",
       "url": "https://www.ibm.com",
-      "count": 10
+      "count": 12
     },
     {
       "name": "NEDO",
@@ -771,7 +775,7 @@
     {
       "name": "GIGAZINE",
       "url": "https://gigazine.net",
-      "count": 1
+      "count": 2
     },
     {
       "name": "KSI政策ニュース",
@@ -866,7 +870,7 @@
     {
       "name": "テクノエッジ",
       "url": "https://www.techno-edge.net",
-      "count": 3
+      "count": 4
     },
     {
       "name": "Tom's Hardware",
@@ -1046,6 +1050,16 @@
     {
       "name": "日本気象協会",
       "url": "https://tenki.jp",
+      "count": 1
+    },
+    {
+      "name": "Yahoo!ショッピング",
+      "url": "https://shopping.yahoo.co.jp",
+      "count": 1
+    },
+    {
+      "name": "西日本新聞",
+      "url": "https://www.nishinippon.co.jp",
       "count": 1
     }
   ],
