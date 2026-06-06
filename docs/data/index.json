@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-06-02T06:15:00+09:00",
+  "last_updated": "2026-06-06T06:05:00+09:00",
   "reports": [
+    {
+      "date": "2026-06-06",
+      "headline": "ClaudeDAU1100%増・米国AIシェア17%急拡大・IBM量子100億ドル投資2029年FT目標・JALモバイルahamo6月25日開始・JPYC21億円突破・補正予算3兆1135億円閣議決定・日経66,588円続落"
+    },
+    {
+      "date": "2026-06-05",
+      "headline": "AnthropicIPO向けS-1秘密提出・評価額9,650億ドル・IBM量子100億ドル投資・GPT-5.6リリース確率85%・PayPayポイントルール変更・日経最高値後下落・米・イラン再燃"
+    },
+    {
+      "date": "2026-06-04",
+      "headline": "出生率1.14・10年連続過去最低・出生数67万人最少・日経平均68,402円大幅高・AnthropicMarketplace開設・GPT-5.5ChatGPTデフォルト化・MicrosoftMajorana2量子チップ発表・JPYC円建てSC秋発行・台風6号温低化"
+    },
+    {
+      "date": "2026-06-03",
+      "headline": "台風6号6月3日室戸岬東通過・四国東海で線状降水帯の恐れ・AnthropicGlasswing15か国超拡大Mythos一般公開数週間内予告・改正資金決済法施行外国SC認定・PayPayeKYC必須公共料金還元率半減"
+    },
     {
       "date": "2026-06-02",
       "headline": "台風6号チャンミー本日奄美・九州接近3日本州北上最大300ミリ警戒・PayPay eKYC必須化本日開始・ドコモ・グローバルAccenture×AWS AI信頼基盤強化・Claude Agent SDKクレジット6月15日別枠化・IBM Nighthawk360量子ビット年内公開"
@@ -195,7 +211,7 @@
     {
       "name": "Anthropic",
       "url": "https://www.anthropic.com",
-      "count": 14
+      "count": 15
     },
     {
       "name": "SAP",
@@ -215,12 +231,12 @@
     {
       "name": "NTTドコモ",
       "url": "https://www.docomo.ne.jp",
-      "count": 40
+      "count": 41
     },
     {
       "name": "NTTドコモビジネス",
       "url": "https://www.ntt.com",
-      "count": 10
+      "count": 12
     },
     {
       "name": "arXiv",
@@ -325,12 +341,12 @@
     {
       "name": "XenoSpectrum",
       "url": "https://xenospectrum.com",
-      "count": 2
+      "count": 3
     },
     {
       "name": "イノバトピア",
       "url": "https://innovatopia.jp",
-      "count": 9
+      "count": 10
     },
     {
       "name": "SBIホールディングス",
@@ -365,7 +381,7 @@
     {
       "name": "ITmedia AIプラス",
       "url": "https://www.itmedia.co.jp",
-      "count": 10
+      "count": 11
     },
     {
       "name": "gihyo.jp",
@@ -405,7 +421,7 @@
     {
       "name": "PayPay",
       "url": "https://paypay.ne.jp",
-      "count": 4
+      "count": 5
     },
     {
       "name": "TradingKey",
@@ -415,12 +431,12 @@
     {
       "name": "日経Xtech",
       "url": "https://xtech.nikkei.com",
-      "count": 11
+      "count": 13
     },
     {
       "name": "Yahoo!ニュース エキスパート",
       "url": "https://news.yahoo.co.jp",
-      "count": 8
+      "count": 9
     },
     {
       "name": "AI Academy Note",
@@ -450,12 +466,12 @@
     {
       "name": "ペイメントナビ",
       "url": "https://paymentnavi.com",
-      "count": 10
+      "count": 11
     },
     {
       "name": "NHK",
       "url": "https://news.web.nhk.newsweb",
-      "count": 22
+      "count": 23
     },
     {
       "name": "PR TIMES",
@@ -500,7 +516,7 @@
     {
       "name": "BUSINESS LAWYERS",
       "url": "https://www.businesslawyers.jp",
-      "count": 5
+      "count": 6
     },
     {
       "name": "DGフィナンシャルテクノロジー",
@@ -605,7 +621,7 @@
     {
       "name": "フィデックス",
       "url": "https://www.fidx.co.jp",
-      "count": 3
+      "count": 4
     },
     {
       "name": "CoinPost",
@@ -670,17 +686,17 @@
     {
       "name": "週刊アスキー",
       "url": "https://weekly.ascii.jp",
-      "count": 2
+      "count": 3
     },
     {
       "name": "tenki.jp",
       "url": "https://tenki.jp",
-      "count": 3
+      "count": 4
     },
     {
       "name": "IBM",
       "url": "https://www.ibm.com",
-      "count": 12
+      "count": 13
     },
     {
       "name": "NEDO",
@@ -785,7 +801,7 @@
     {
       "name": "9to5Mac",
       "url": "https://9to5mac.com",
-      "count": 2
+      "count": 3
     },
     {
       "name": "窓の杜",
@@ -865,12 +881,12 @@
     {
       "name": "Yahoo!ファイナンス",
       "url": "https://finance.yahoo.co.jp",
-      "count": 1
+      "count": 2
     },
     {
       "name": "テクノエッジ",
       "url": "https://www.techno-edge.net",
-      "count": 4
+      "count": 5
     },
     {
       "name": "Tom's Hardware",
@@ -1060,6 +1076,21 @@
     {
       "name": "西日本新聞",
       "url": "https://www.nishinippon.co.jp",
+      "count": 1
+    },
+    {
+      "name": "AWS News Blog",
+      "url": "https://aws.amazon.com/blogs/aws",
+      "count": 1
+    },
+    {
+      "name": "Uravation",
+      "url": "https://uravation.com",
+      "count": 2
+    },
+    {
+      "name": "JPYC",
+      "url": "https://corporate.jpyc.co.jp",
       "count": 1
     }
   ],

@@ -1,0 +1,335 @@
+{
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06T06:05:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "ClaudeのDAUが年初来1100%増・米国AIシェア17%急拡大、IBMは量子コンピューティングへ5年100億ドル超の投資を宣言した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Apptopia調査でClaudeのDAUが2026年1月から5月で約1100%増加し、米国生成AIチャットbot市場シェアが約17%に達した。AnthropicはMythos Previewを150組織・15か国超に拡大し、6月15日からサブスク刷新でエージェント利用を別枠化する。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモは6月25日から「JALモバイル powered by ahamo」を月2,970円で提供開始する。NTTグループは三菱ケミカルとフィジカルAI×IOWN APNを活用した約700km遠隔コンビナート点検実証を成功させた。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMは量子コンピューティングへ今後5年で100億ドル超の投資を宣言し、2029年に世界初のフォールトトレラント量子コンピューターの実現を目標とした。大阪大学主導の純国産量子コンピュータの実用化連携も継続中だ。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "円建てステーブルコインJPYCの累計発行額が21億円を突破し、ソニー銀行とのMOU締結やLINE NEXT採用が決定した。電算システムとフィナンシェがWeb3地域創生事業を2026年6月から本格始動した。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "高市内閣は補正予算3兆1135億円を閣議決定し、電気・ガス料金支援を7〜9月に実施する。日経平均株価は6月5日に66,588円で2日続落し、6月3日の最高値68,402円から約1,814円下落した。"
+        }
+      ],
+      "must_read": {
+        "title": "IBM、量子コンピューティングへ5年100億ドル超投資・2029年フォールトトレラント目標",
+        "url": "https://jp.newsroom.ibm.com/2026-06-04-ibm-commits-more-than-10-billion-to-quantum-computing-funding-its-roadmap-from-todays-leading-systems-to-the-worlds-first-fault-tolerant-quantum-computers",
+        "reason": "5年100億ドル超の大型投資は量子産業の転換点を示す一次情報であり、2029年フォールトトレラント実現目標が業界全体の開発加速を促す。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "今週もAIや量子コンピュータで大きな動きがありましたよ！ClaudeのシェアがぐんぐんのびていてIBMも量子に100億ドル投資するって発表しましたよ！",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Claudeがどんどん使われるようになっていますね！年初から1100%も利用者が増え、米国で17%のシェアを獲得したみたいですよ。AnthropicはセキュリティAI「Mythos」を150組織に拡大中で、6月15日からサブスク体系も変わります。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "JALとドコモのコラボサービス「JALモバイル」が6月25日から始まるんですよ！月2,970円でJALマイルが貯まるのはお得ですね。NTTグループは遠く700km離れたコンビナートをAIで点検する実証も成功させたみたいですよ。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMが量子コンピュータに5年で100億ドルもの投資をするって発表しましたよ！2029年に世界初のフォールトトレラント量子コンピュータを目指しているとのことです。技術の進化が一段と加速しそうですね。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "日本の円建てステーブルコインJPYCが累計21億円を突破したみたいです！ソニー銀行との提携やLINEへの採用も決まっているので、これからもっと身近になるかもしれませんよ。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "高市内閣が補正予算3兆1135億円を決めましたよ。夏の電気・ガス代が少し抑えられそうですね。株式市場は最高値から少し下がって、日経平均が66,588円になっています。"
+        }
+      ],
+      "must_read": {
+        "title": "IBM、量子コンピューティングへ5年100億ドル超投資・2029年フォールトトレラント目標",
+        "url": "https://jp.newsroom.ibm.com/2026-06-04-ibm-commits-more-than-10-billion-to-quantum-computing-funding-its-roadmap-from-todays-leading-systems-to-the-worlds-first-fault-tolerant-quantum-computers",
+        "reason": "IBMが量子コンピュータに5年100億ドルもの投資を決定したのは、業界の流れが大きく変わる予兆かもしれませんよ！要チェックです！",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・ClaudeのDAUが年初比1100%増、米国AIシェア17%\n・Claude Mythos Preview 150組織・15か国超に拡大\n・Anthropicサブスク6/15刷新（エージェント別枠化）"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・JALモバイル powered by ahamo 6月25日開始（月2,970円）\n・NTTグループ×三菱ケミカル フィジカルAI×IOWN 700km遠隔点検実証成功"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・IBM、量子コンピューティングに5年100億ドル超投資・2029年フォールトトレラント目標\n・大阪大学純国産量子コンピュータ実用化連携拡大中"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・JPYC累計発行21億円突破・ソニー銀行MOU・LINE NEXT採用\n・電算システム×フィナンシェ Web3地域創生6月本格始動"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・補正予算3兆1135億円閣議決定・電気ガス支援7〜9月\n・日経平均66,588円・最高値68,402円から2日続落"
+        }
+      ],
+      "must_read": {
+        "title": "IBM、量子コンピューティングへ5年100億ドル超投資・2029年フォールトトレラント目標",
+        "url": "https://jp.newsroom.ibm.com/2026-06-04-ibm-commits-more-than-10-billion-to-quantum-computing-funding-its-roadmap-from-todays-leading-systems-to-the-worlds-first-fault-tolerant-quantum-computers",
+        "reason": "量子産業の転換点：IBM5年100億ドル超投資・2029年フォールトトレラント目標",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "Claude市場シェアの急拡大とIBMの100億ドル量子投資が示す通り、AI・量子技術分野への資本集中が加速し、日本市場でも金融・通信インフラへの波及効果が顕在化している。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "ApptopiaデータによるClaude DAU 1100%増は、エンタープライズAI市場での競合構図変化を示す。ChatGPTのシェア低下（51%→37%）と比例してClaudeが急伸しており、ユーザー重複率が上昇した事実は市場拡大を示唆する。Anthropicのサブスク刷新はエージェント経済の本格化に対応した価格設計といえる。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "JALモバイルは通信×航空の顧客基盤統合戦略の具現化であり、ahamo基盤の活用でマイル経済圏の拡大を狙う。一方、フィジカルAI×IOWN APNによるコンビナート点検実証は、産業設備のAI化・遠隔化において日本の重要インフラ向けソリューション提供能力を示す成果である。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMの5年100億ドル超の投資は、量子コンピュータが研究フェーズから産業展開フェーズへ移行するシグナルである。2029年のフォールトトレラント実現目標はQ-Day予測の2030年と密接に関連し、金融・セキュリティ分野での先行投資を促す判断材料となる。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "JPYCの累計発行21億円・ソニー銀行MOU・LINE NEXT採用は、資金移動業者型ステーブルコインのエコシステム確立を示す。SEC/CFTC規制転換は米国市場への日本SC事業者の参入余地を広げる。電算×フィナンシェのWeb3地域創生は規模小さく実態評価には時間を要する。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "補正予算3兆1135億円の電気・ガス支援は物価安定策として継続するが、財政出動の持続性に課題がある。日経平均が最高値68,402円から2日で約1,814円（2.6%）下落した背景には、テック株の利益確定売りと米国景気見通しへの警戒がある。"
+        }
+      ],
+      "must_read": {
+        "title": "IBM、量子コンピューティングへ5年100億ドル超投資・2029年フォールトトレラント目標",
+        "url": "https://jp.newsroom.ibm.com/2026-06-04-ibm-commits-more-than-10-billion-to-quantum-computing-funding-its-roadmap-from-todays-leading-systems-to-the-worlds-first-fault-tolerant-quantum-computers",
+        "reason": "IBMの100億ドル投資コミットメントは量子産業のエコシステム構築への包括的資本配分であり、Q-Day到来時期と連動した金融・安全保障分野の戦略的先行投資と解釈できる。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 93,
+      "trend_history": [88, 90, 88, 88, 90, 92, 93],
+      "summary_short": "ClaudeのDAUが年初来1100%増でシェア17%、Mythos Preview150組織に拡大",
+      "summary_long": "Apptopiaの調査でClaudeのモバイルDAUが2026年1月から5月で約1100%増加し、米国生成AIチャットbot市場でシェア17%を獲得した。AnthropicはMythos Previewを150組織・15か国超に拡大し、6月15日からサブスク刷新でエージェント利用を別枠化する。",
+      "articles": [
+        {
+          "title": "Claudeが驚異の1100%成長でシェア17%に急拡大、急落するCopilot――米生成AIアプリ市場動向調査",
+          "url": "https://www.itmedia.co.jp/enterprise/articles/2606/05/news051.html",
+          "source": "ITmedia",
+          "summary_short": "ClaudeのDAUが年初来1100%増加、米国AIシェア17%を獲得",
+          "summary_long": "モバイル分析企業Apptopiaの調査によると、ClaudeのモバイルDAUは2026年1月から5月で約1100%増加した。5月の米国生成AIチャットbot市場シェアは約17%に達し、ChatGPTは51%から37%へ低下。ユーザー重複率も上昇し市場拡大が示唆されている。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "Anthropicが約150組織・15か国以上にClaude Mythos Previewを拡張、電力・水道・医療・通信が新対象に",
+          "url": "https://rocket-boys.co.jp/security-measures-lab/anthropic-expands-claude-mythos-preview-150-organizations/",
+          "source": "Anthropic",
+          "summary_short": "Anthropic、Claude Mythos Preview対象を150組織・15か国超に拡大",
+          "summary_long": "2026年6月2日、AnthropicはClaude Mythos Preview対象組織を約50から約150・15か国超に拡大した。電力・水道・医療・通信・ハードウェア分野が新たな対象となり、同時に一般向け「Claude Security」も発表された。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "AnthropicがClaudeサブスク刷新 エージェント利用を別枠化、使い方で実質値上げも 6月15日から",
+          "url": "https://www.techno-edge.net/article/2026/05/14/5064.html",
+          "source": "テクノエッジ",
+          "summary_short": "Anthropic、6月15日からエージェント利用を別枠化、実質値上げ",
+          "summary_long": "Anthropicは6月15日よりサブスク料金体系を刷新する。Agent SDKやclaude -pコマンド経由の自動化利用を毎月付与クレジットから従量課金相当で消費する別枠に移行し実質値上げとなる。Proプランに$20、Max 5xに$100、Max 20xに$200分のクレジットが付与される。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "【2026年6月】生成AI主要アップデート総まとめ｜Claude動的ワークフロー・最大1,000並列処理",
+          "url": "https://uravation.com/media/ai-major-updates-june-2026-anthropic-openai-google/",
+          "source": "Uravation",
+          "summary_short": "Claude Codeに最大1,000並列処理の動的ワークフロー機能が追加",
+          "summary_long": "2026年6月時点でAnthropicはClaude Codeに動的ワークフロー機能を追加した。1回のリクエストで最大1,000の並列処理が可能となり、大規模ファイル処理・分析タスクを現実的な時間内で実行できるようになった。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 55,
+      "trend_history": [50, 48, 50, 62, 52, 50, 55],
+      "summary_short": "JALモバイルahamo提携6/25開始、フィジカルAI×IOWN700km遠隔設備点検実証",
+      "summary_long": "NTTドコモは2026年6月25日から「JALモバイル powered by ahamo」の提供を開始し、月2,970円でJALマイル特典を付与する。NTTグループは三菱ケミカルと共同でフィジカルAI×IOWN APNを活用したコンビナート設備の約700km遠隔点検実証を成功させた。",
+      "articles": [
+        {
+          "title": "「JALモバイル powered by ahamo」を提供開始",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/06/05_00.html",
+          "source": "NTTドコモ",
+          "summary_short": "NTTドコモ、JAL提携「JALモバイル powered by ahamo」を6月25日開始",
+          "summary_long": "日本航空とNTTドコモが「JALモバイル powered by ahamo」を2026年6月25日から提供開始する。月額2,970円（税込）で30GB、5分以内の国内通話無料、海外データ通信追加料金なし。新規契約で1,000マイル、MNP契約で5,000マイルを獲得できる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "フィジカルAI × IOWN® APN × 60GHz帯無線LANによる、コンビナート設備点検の高度化を国内で初めて実証",
+          "url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0601_2.html",
+          "source": "NTTドコモビジネス",
+          "summary_short": "NTTグループ×三菱ケミカル、フィジカルAI×IOWN APNでコンビナート700km遠隔点検実証",
+          "summary_long": "2026年6月1日、NTT東日本・NTTドコモビジネス・NTTドコモソリューションズ等が三菱ケミカルと共同実証を発表した。岡山事業所から東京まで約700km遠隔でIOWN® APN×60GHz帯無線LANを組み合わせ、遅延500ms以下・パケット損失0.1%以下でAI設備点検を実現した。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 83,
+      "trend_history": [65, 60, 65, 55, 65, 78, 83],
+      "summary_short": "IBM量子コンピューティングに5年100億ドル超投資・2029年フォールトトレラント目標",
+      "summary_long": "IBMが2026年6月2日に量子コンピューティングへの5年間・100億ドル超の投資を発表した。2029年に世界初の大規模フォールトトレラント量子コンピューター実現を目標とし、研究開発から製造スケールアップまでを包括する。国内では大阪大学主導の純国産量子コンピュータの実用化連携も進んでいる。",
+      "articles": [
+        {
+          "title": "IBM Commits More Than $10 Billion to Quantum Computing, Funding Its Roadmap from Today's Leading Systems to the World's First Fault-Tolerant Quantum Computers",
+          "url": "https://jp.newsroom.ibm.com/2026-06-04-ibm-commits-more-than-10-billion-to-quantum-computing-funding-its-roadmap-from-todays-leading-systems-to-the-worlds-first-fault-tolerant-quantum-computers",
+          "source": "IBM",
+          "summary_short": "IBMが量子コンピューティングへ5年100億ドル超投資・2029年フォールトトレラント目標",
+          "summary_long": "2026年6月2日、IBMは今後5年間で量子コンピューティングに100億ドル以上を投資すると発表した。世界初の大規模フォールトトレラント量子コンピューターを2029年に実現することを目標とし、研究開発・設備投資・製造スケールアップ・エコシステム構築に資金を充当する。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "純国産量子コンピューターの誕生秘話、開発者の阪大教授が解説",
+          "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03585/060100012/",
+          "source": "日経クロステック",
+          "summary_short": "大阪大学主導の純国産量子コンピュータが2025年7月稼働、商用化連携を拡大",
+          "summary_long": "大阪大学量子情報・量子生命研究センターが主要部品全て日本製の純国産量子コンピューターを2025年7月より稼働させた。国内企業との連携を広げ、2026年には実用化に向けた概念実証から本番導入フェーズへの移行が進んでいる。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 68,
+      "trend_history": [85, 90, 92, 85, 62, 68, 68],
+      "summary_short": "JPYC累計発行21億円突破・ソニー銀行MOU・Web3地域決済2026年6月本格展開",
+      "summary_long": "円建てステーブルコインJPYCの累計発行額が21億円を突破し、ソニー銀行との基本合意やLINE NEXT採用が決定した。電算システムとフィナンシェの連携でWeb3地域創生事業が2026年6月に本格始動。米国のSEC・CFTCが暗号資産規制を大転換し、事業化加速の環境が整いつつある。",
+      "articles": [
+        {
+          "title": "【国内初】日本円ステーブルコイン「JPYC」および発行・償還プラットフォーム「JPYC EX」を正式リリース",
+          "url": "https://corporate.jpyc.co.jp/news/posts/jpyc-ex-launch",
+          "source": "JPYC",
+          "summary_short": "JPYC累計発行額21億円突破・ソニー銀行MOU締結・LINE NEXT採用決定",
+          "summary_long": "日本初の資金決済法準拠の円建てステーブルコインJPYCの累計発行額が2026年4月15日時点で21億円を突破した。ソニー銀行との基本合意締結、LINE NEXTの次世代Web3ウォレット「Unifi」への正式採用が決定し、マスアダプションへ向けた基盤が拡大している。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "ステーブルコイン決済の社会実装に向けた取り組みを推進へ（電算システム）",
+          "url": "https://paymentnavi.com/paymentnews/174845.html",
+          "source": "ペイメントナビ",
+          "summary_short": "電算システム×フィナンシェ、2026年6月からWeb3地域創生事業を本格開始",
+          "summary_long": "電算システムホールディングスとフィナンシェが2026年4月に資本業務提携を完了し、2026年6月より地域創生プラットフォームの本格展開を開始した。ブロックチェーン技術と地域トークンコミュニティ基盤を組み合わせ、ステーブルコイン決済による地域リアル経済圏との接続も視野に入れる。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "【2026年最新】SECとCFTCが暗号資産規制を大転換｜ビジネス・投資への実務的影響を徹底解説",
+          "url": "https://www.fidx.co.jp/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91sec%E3%81%A8cftc%E3%81%8C%E6%9A%97%E5%8F%B7%E8%B3%87%E7%94%A3%E8%A6%8F%E5%88%B6%E3%82%92%E5%A4%A7%E8%BB%A2%E6%8F%9B%EF%BD%9C%E3%83%93%E3%82%B8%E3%83%8D/",
+          "source": "フィデックス",
+          "summary_short": "米SEC・CFTCが暗号資産規制を大転換・ビジネス・投資への影響広がる",
+          "summary_long": "米国のSECとCFTCが2026年に暗号資産規制の方針を大幅に見直した。従来の厳格な規制から実用化促進型への転換により、ステーブルコインや暗号資産決済の事業化がしやすくなった。日本でも改正資金決済法施行後の市場環境整備と並行し、国内事業者への実務的影響が広がっている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 62,
+      "trend_history": [55, 58, 60, 62, 58, 62, 62],
+      "summary_short": "補正予算3.1兆円閣議決定・電気ガス支援7〜9月、日経平均66,588円で2日続落",
+      "summary_long": "高市内閣は補正予算3兆1135億円を閣議決定し、電気・ガス料金支援を7〜9月に実施する。東京株式市場では日経平均が6月5日に前日比882円安の66,588円となり、6月3日の最高値68,402円から2日続落した。",
+      "articles": [
+        {
+          "title": "中東情勢を踏まえた令和８年度補正予算等についての会見",
+          "url": "https://www.kantei.go.jp/jp/105/statement/2026/0525kaiken.html",
+          "source": "首相官邸",
+          "summary_short": "令和8年度補正予算3兆1135億円閣議決定・電気・ガス支援7〜9月実施",
+          "summary_long": "高市首相が表明した中東情勢対応の令和8年度補正予算が3兆1135億円で閣議決定された。電気・ガス料金の家庭向け支援を2026年7月から9月の3か月間実施するほか、ガソリン補助金の継続も盛り込まれた。改正地域交通法も成立し車両共同運行による交通空白解消が可能となった。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "日経平均株価：6月5日終値66,588円・前日比882円安",
+          "url": "https://finance.yahoo.co.jp/quote/998407.O/history",
+          "source": "Yahoo!ファイナンス",
+          "summary_short": "日経平均、6月5日終値66,588円・前日比882円安（-1.31%）",
+          "summary_long": "東京株式市場で6月5日の日経平均株価は前日比882円57銭安の66,588円12銭で取引を終えた。6月3日に付けた68,402円の最高値から2日連続で下落した。米国市場の動向を受けた利益確定売りが主な要因とみられる。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 93,
+      "NTTドコモ": 55,
+      "量子コンピュータ": 83,
+      "金融決済": 68,
+      "国内・社会": 62
+    },
+    "source_distribution": {
+      "ITmedia": 1,
+      "Anthropic": 1,
+      "テクノエッジ": 1,
+      "Uravation": 1,
+      "NTTドコモ": 1,
+      "NTTドコモビジネス": 1,
+      "IBM": 1,
+      "日経クロステック": 1,
+      "JPYC": 1,
+      "ペイメントナビ": 1,
+      "フィデックス": 1,
+      "首相官邸": 1,
+      "Yahoo!ファイナンス": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 4,
+      "4": 5,
+      "5": 4
+    }
+  }
+}

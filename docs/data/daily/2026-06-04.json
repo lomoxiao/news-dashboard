@@ -1,0 +1,394 @@
+{
+  "date": "2026-06-04",
+  "generated_at": "2026-06-04T06:10:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "Anthropicが認証済みMCPを集約したMarketplaceを公開しClaude Code動的ワークフローが最大1,000並列処理に対応、OpenAIはGPT-5.5をChatGPTのデフォルトモデルへ移行しAmazon Bedrockでも一般提供を開始した。国内では厚生労働省が2025年の合計特殊出生率1.14（10年連続低下・統計開始以来最低）を発表した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicがMarketplaceを公開し認証済みMCPとワークフローテンプレートの一元管理を実現した。Claude Code動的ワークフローは最大1,000並列処理に対応。OpenAIはGPT-5.5 InstantをChatGPTデフォルトモデルに移行し、GPT-5.5・GPT-5.4・CodexをAmazon Bedrockで一般提供開始した。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモはAmazonアカウントとdアカウントを連携したローソンアイスプレゼントキャンペーンを開始し、ローソン銀行ATMチャージとd払い残高利用でdポイント抽選キャンペーンも実施した。一方、料金値上げは困難な状況が続き来期も減収の見通しであることが報じられた。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "MicrosoftはAI技術を活用して設計した新型量子チップ「Majorana 2」を発表し、2029年までの商用化を目指すと明言した。鉛系材料の採用で一部性能が1,000倍改善した。IBMのNighthawk 120量子ビットプロセッサもIBM Premium・FlexプランでプレビューGA提供が始まった。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "JPYCが金融庁の承認を経て国内初の円建てステーブルコインを秋にも正式発行する見通しとなった。電算システムとフィナンシェは改正資金決済法施行後の初のブロックチェーン活用地域創生を6月から本格開始した。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "厚生労働省が2025年人口動態統計を発表し合計特殊出生率1.14（10年連続低下・過去最低）、出生数67万1,236人（統計開始以来最少）を記録した。日経平均は6月3日に68,402.13円と前日比+1,667.89円（+2.50%）の大幅上昇となった。台風6号は6月4日午前に温帯低気圧に変化し、6県で計23人が負傷した。"
+        }
+      ],
+      "must_read": {
+        "title": "2025年合計特殊出生率1.14、10年連続低下で統計開始以来最低値",
+        "url": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/nengai25/index.html",
+        "reason": "厚生労働省が6月3日発表。出生率1.14は10年連続低下で統計開始以来最低値。出生数67万1,236人も過去最少。少子化対策の根本的見直しを迫る重要統計。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "今日はAI業界で大きな動きがあって、AnthropicがClaude用のマーケットプレイスを開いたり、OpenAIがGPT-5.5を全ユーザーに広げたりと賑やかでしたよ。そして国内では出生率がまた最低を更新したという重要なニュースも出ましたね。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicがMarketplaceを開設して、AIツールを1か所でまとめて使えるようになりましたよ！Claude Codeは最大1,000の処理を同時に動かせるようになって、大量データの処理がぐっと楽になりましたね。OpenAIもGPT-5.5を全員のデフォルトにしてAWSでも使えるようにしましたよ。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモがAmazonアカウントとdアカウントを連携するとローソンでアイスがもらえるキャンペーンを始めましたよ！ローソン銀行ATMでd払いチャージするとdポイントが当たる抽選も同時開催中ですね。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "MicrosoftがAIで設計した新しい量子チップ「Majorana 2」を発表しましたよ！新材料を使って一部の性能が1,000倍改善されたそうです。IBMの120量子ビットチップもついにプレビュー提供が始まりましたね。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "JPYCが国内初の円建てステーブルコインを秋にも発行する見通しになりましたよ！改正資金決済法施行後、ブロックチェーンを使った地域振興も6月から本格的に動き出しましたね。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "2025年の出生率が1.14で10年連続の低下、過去最低を更新しました。出生数も67万人台と統計開始以来最少です。台風6号はひとまず温帯低気圧に変わってほっとしましたね。日経平均は昨日+1,667円の大幅上昇でしたよ！"
+        }
+      ],
+      "must_read": {
+        "title": "2025年合計特殊出生率1.14、10年連続低下で統計開始以来最低値",
+        "url": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/nengai25/index.html",
+        "reason": "出生率1.14で10年連続の低下です。出生数も67万人台と過去最少。社会全体に関わる大切な統計なので、ぜひチェックしてみてください。",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・AnthropicがMarketplace開設、Claude Code 1,000並列処理対応\n・GPT-5.5がChatGPTデフォルトモデルに、Amazon BedrockでもGA\n・Claude Mythosが企業向けから段階的一般公開へ前進"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・Amazon×dアカウント連携でローソンアイスプレゼントキャンペーン開始\n・ローソン銀行ATM×d払い連携dポイント抽選キャンペーン実施"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・Microsoft Majorana 2量子チップ発表、AI活用設計・2029年商用化\n・IBM Nighthawk 120量子ビットのプレビューGA提供開始"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・JPYC円建てステーブルコイン秋発行予定、国内初\n・電算システム×フィナンシェのWeb3地域創生が6月から本格開始"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・出生率1.14、10年連続低下・過去最低（出生数67万1,236人）\n・日経平均68,402円に大幅上昇（+1,667円・+2.50%）\n・台風6号が6月4日午前に温帯低気圧に変化"
+        }
+      ],
+      "must_read": {
+        "title": "2025年合計特殊出生率1.14、10年連続低下で統計開始以来最低値",
+        "url": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/nengai25/index.html",
+        "reason": "統計開始以来最低。社会・経済政策への影響が広範。",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "AnthropicのMarketplace開設とGPT-5.5のBedrockGA加速は、AIエコシステムの標準化競争が実装フェーズへ移行したことを示す一方、日本では出生率1.14という人口動態の構造的悪化が財政・社会保障・労働力供給に長期的な制約を加える複合的な転換点に差し掛かっている。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicのMarketplace開設はMCPエコシステムの標準化を加速し、認証済みMCPによりエンタープライズでの信頼性が担保される。Claude Code 1,000並列処理対応はエージェント基盤コストを下げ、中小企業へのAI普及を加速させる可能性がある。GPT-5.5のBedrockGA参入はAWS環境でのマルチモデル競合を強める。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモの料金値上げ困難と来期減収見通しは、通信インフラ投資とコスト構造の矛盾を示す。Amazon×dアカウント連携等の販促強化はARPU改善に向けた施策だが、規模効果は限定的とみられる。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "Microsoft Majorana 2は鉛系材料採用でAI補助設計を活用、特定性能1,000倍改善を実現したがアカデミア側からデータ再現性への批判がある。IBMのNighthawk GA提供とD-WaveのQCI買収完了は、アニーリング・ゲートモデルの融合とIBMのロードマップ前進が同時進行する形で量子優位性の実現競争が加速している。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "JPYCの円建てステーブルコイン秋発行は改正資金決済法施行後の国内SC実装の先駆例となる。ただし信頼性・流動性の確立まで大規模普及には時間を要する。Web3地域創生は法整備を追い風に案件数が増加する見通し。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "出生率1.14（出生数67万1,236人）は中長期的に労働力供給・社会保障財政・消費市場に構造的圧力を加える。日銀6月利上げ観測と日経平均68,402円への急騰は、緩和縮小期待による資本流入を反映しているが、為替160円台維持は輸入物価を押し上げ実質賃金への下押し圧力が続くリスクがある。"
+        }
+      ],
+      "must_read": {
+        "title": "2025年合計特殊出生率1.14、10年連続低下で統計開始以来最低値",
+        "url": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/nengai25/index.html",
+        "reason": "出生率1.14・出生数67万人台は労働供給・社会保障・財政の中長期見通しに広範な影響を与える。少子化対策の抜本的再設計が不可避な転換点を示す統計として今後の政策論議の基点となる。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 90,
+      "trend_history": [88, 88, 90],
+      "summary_short": "AnthropicがMarketplace開設、GPT-5.5がChatGPTデフォルト化",
+      "summary_long": "AnthropicはMarketplaceで認証済みMCPとワークフローテンプレートを一元化し、Claude Code動的ワークフローは最大1,000並列処理に対応した。OpenAIはGPT-5.5 InstantをChatGPTのデフォルトモデルへ移行し、Amazon Bedrockでも一般提供を開始した。Claude Mythosは企業向けから段階的に一般公開へ前進した。",
+      "articles": [
+        {
+          "title": "Anthropic Marketplace開設・Claude Code 1,000並列処理対応・Computer Use API実用段階入り",
+          "url": "https://uravation.com/media/ai-major-updates-june-2026-anthropic-openai-google/",
+          "source": "Uravation",
+          "summary_short": "AnthropicがMarketplace開設・Claude Code 1000並列対応",
+          "summary_long": "AnthropicはClaude周辺ツールを集約するMarketplaceを公開し、認証済みMCPとワークフローテンプレートの再利用を可能にした。Claude Code動的ワークフローは最大1,000並列処理に対応し大規模データ分析や営業リスト処理が数時間で完了できる。AIエージェント活用の敷居が下がり中小企業への普及が加速する見通し。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "GPT-5.5がChatGPTのデフォルトモデルにロールアウト、Amazon BedrockでGPT-5.5・5.4・CodexがGA",
+          "url": "https://tech-noisy.com/2026/06/03/openai-gpt-5-5-gpt-5-4-codex-amazon-bedrock-ga/",
+          "source": "TECH NOISY",
+          "summary_short": "GPT-5.5がChatGPTデフォルトに・Bedrockでも一般提供",
+          "summary_long": "OpenAIはGPT-5.5 InstantをすべてのユーザーにChatGPTのデフォルトモデルとしてロールアウトした。GPT-5.5・GPT-5.4・CodexはAmazon Bedrockでも一般提供を開始し、トークン従量課金でAWS環境から直接利用できる。GPT-5.5は自然な応答と過剰箇条書きの削減が特徴で、前モデルGPT-5.3から刷新された。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Claude Mythosが企業向けから段階的一般公開へ前進、Claude Code等に先行統合",
+          "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03623/052900006/",
+          "source": "日経クロステック",
+          "summary_short": "Claude Mythosが企業向けから段階的一般公開へ",
+          "summary_long": "AnthropicはClaude Mythosクラスのモデルを直接公開せず、Claude CodeやClaude Security等の企業製品に先行統合する段階的公開戦略を採用した。Project Glasswingは15か国超・約150組織に拡大し、数週間内に企業向け提供が拡大する見通し。安全性確保を優先した段階的展開となっている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Anthropic Claude Agent SDKクレジット6月15日より別枠化、ARRは$44Bに",
+          "url": "https://www.techno-edge.net/article/2026/05/14/5064.html",
+          "source": "テクノエッジ",
+          "summary_short": "Agent SDKクレジット6月15日より別枠に変更",
+          "summary_long": "AnthropicはClaudeサブスクリプションを6月15日に刷新し、Claude Agent SDKとClaude Code GitHub Actionsを別枠月次クレジットから消費する体系に変更した。Pro/$20・Max5x/$100・Max20x/$200のクレジットが付与される。同社ARRは5月開発者イベントで$44Bと報告された。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 52,
+      "trend_history": [62, 55, 52],
+      "summary_short": "Amazon連携・ローソンATMキャンペーン開始、料金改定動向",
+      "summary_long": "ドコモはAmazonアカウントとdアカウントの連携キャンペーンを開始し、連携完了でローソンのアイスをプレゼントする施策を展開した。同時期にローソン銀行ATMでのd払いチャージとd払い残高利用を組み合わせたdポイント抽選キャンペーンも開催中。料金値上げは困難が続き来期も減収見通しと報じられた。",
+      "articles": [
+        {
+          "title": "Amazon×dアカウント連携でローソンアイスプレゼントキャンペーン開始",
+          "url": "https://www.docomo.ne.jp/info/news_release/topics/",
+          "source": "NTTドコモ",
+          "summary_short": "Amazon連携でローソンアイス無料キャンペーン開始",
+          "summary_long": "NTTドコモは6月3日、Amazonアカウントとdアカウントを初めて連携したユーザーにローソンでアイスクリームが受け取れるキャンペーンの実施を発表した。d払いの利用シーン拡大と新規連携ユーザーの獲得を目的とした施策で、詳細はドコモ公式サイトで確認できる。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "ローソン銀行ATMでのチャージ＆d払い残高からの買い物でdポイント抽選キャンペーン",
+          "url": "https://prtimes.jp/main/html/rd/p/000000196.000141840.html",
+          "source": "PR TIMES",
+          "summary_short": "ローソン銀行ATMとd払い連携でdポイント抽選",
+          "summary_long": "ドコモはローソン銀行ATMでのd払いへのチャージとd払い残高からの購入を組み合わせたdポイント抽選キャンペーンを開催した。6月のd払いキャンペーンは全国地域での特典と組み合わせた複数施策を展開中で、d払い請求書払いの1,000万ポイント山分けキャンペーンも6月30日まで継続している。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "ドコモ料金値上げ困難続く、ネットワーク投資とコスト増で来期も減収見通し",
+          "url": "https://www.businessinsider.jp/article/2605-ntt-docomo-profit-drop-network-investment/",
+          "source": "Business Insider Japan",
+          "summary_short": "ドコモ料金値上げ困難続く・来期も減収の見通し",
+          "summary_long": "Business Insiderによると、NTTドコモは料金値上げに踏み切れない状況が続いており来期も減収の見通しとなっている。ネットワーク投資と物価・電力コスト上昇が収益を圧迫し、利用者からは「つながらない」との声も上がっている。ドコモ光工事料は6月1日申込分より改定済み。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 65,
+      "trend_history": [55, 60, 65],
+      "summary_short": "Microsoft Majorana 2発表・IBM Nighthawkプレビュー提供開始",
+      "summary_long": "MicrosoftはAI技術を活用して設計した新型量子チップMajorana 2を発表し、鉛系材料採用で一部性能1,000倍改善を達成した。2029年の商用化目標を宣言し、IBMと同一タイムラインとなった。IBMのNighthawk 120量子ビットプロセッサはPremium・FlexプランでプレビューGA提供を開始した。",
+      "articles": [
+        {
+          "title": "Microsoft、AI活用設計の量子チップ「Majorana 2」発表、2029年商用化目標",
+          "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/06/02/microsoft-reveals-new-quantum-chip-made-with-ai-says-it-will-have-systems-by-2029/",
+          "source": "BNN Bloomberg",
+          "summary_short": "MicrosoftがMajorana 2量子チップ発表、2029年商用化",
+          "summary_long": "Microsoftは6月2日、AIツールを活用して開発した量子チップMajorana 2を発表した。従来のアルミニウムから鉛系材料への転換で特定性能1,000倍の改善を達成した。2029年の商用化目標はIBMと同一タイムラインで、学術界からはデータ再現性への批判もある。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "IBM Nighthawk 120量子ビットプロセッサがプレビューGA提供開始",
+          "url": "https://www.datacenterdynamics.com/en/news/ibm-launches-first-quantum-nighthawk-processor/",
+          "source": "Data Center Dynamics",
+          "summary_short": "IBM Nighthawk 120量子ビットがプレビュー提供",
+          "summary_long": "IBMは120量子ビットのNighthawkプロセッサをIBM_Miamiとして、Premium・Flexプランユーザー向けにプレビュー提供を開始した。218個の次世代チューナブルカプラーを採用した正方格子構造で、2026年末の「実用的量子優位性」達成に向けたロードマップの重要ステップとなる。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "D-Wave、Quantum Circuits社を5.5億ドルで買収完了、アニーリング+ゲートモデル両対応へ",
+          "url": "https://thequantuminsider.com/2025/09/23/top-quantum-computing-companies/",
+          "source": "The Quantum Insider",
+          "summary_short": "D-WaveがQCIを5.5億ドルで買収しゲートモデル参入",
+          "summary_long": "D-Waveは2026年1月にQuantum Circuits社（Yale発スピンアウト）の5.5億ドル買収を完了し、世界初のアニーリングとゲートモデルの両プラットフォーム量子コンピュータ企業となった。2026年中に新ヘイブンのR&Dセンターから初のデュアルレールゲートモデルシステムを提供予定。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 62,
+      "trend_history": [85, 75, 62],
+      "summary_short": "JPYC円建てステーブルコイン秋発行予定・Web3地域創生開始",
+      "summary_long": "JPYCが金融庁承認を経て国内初の円建てステーブルコインを秋にも正式発行する見通しとなった。電算システムとフィナンシェは改正資金決済法施行を受けてブロックチェーン活用の地域創生を6月より本格開始した。改正資金決済法施行後の実務対応が各業界で進んでいる。",
+      "articles": [
+        {
+          "title": "JPYC、金融庁承認へ、国内初の円建てステーブルコインを秋にも発行",
+          "url": "https://www.nikkei.com/article/DGXZQOUB146U80U5A810C2000000/",
+          "source": "日本経済新聞",
+          "summary_short": "JPYCが国内初の円建てステーブルコインを秋に発行",
+          "summary_long": "JPYCは金融庁の電子決済手段発行者認定を経て国内初の円建てステーブルコインを2026年秋にも正式発行する見通しとなった。改正資金決済法施行後の最初の国内発行SC事例として注目される。裏付け資産の適切な管理と監査体制が認定の前提条件となっている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "電算システム×フィナンシェ、ブロックチェーン活用地域創生を2026年6月より本格開始",
+          "url": "https://paymentnavi.com/paymentnews/174845.html",
+          "source": "ペイメントナビ",
+          "summary_short": "電算システム×フィナンシェがWeb3地域創生を開始",
+          "summary_long": "電算システムとフィナンシェは改正資金決済法施行後の制度環境を活用し、ブロックチェーン技術（Web3）を用いた地域創生の取り組みを2026年6月より本格的に開始すると発表した。地方自治体・商店街との連携を通じたデジタル地域通貨・トークン活用を推進する。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "改正資金決済法6月施行後の信託型ステーブルコイン規制と金融業界の実務対応",
+          "url": "https://www.businesslawyers.jp/articles/1476",
+          "source": "BUSINESS LAWYERS",
+          "summary_short": "改正資金決済法施行後の信託型SC規制と実務対応",
+          "summary_long": "BUSINESS LAWYERSによると、改正資金決済法施行後の信託型ステーブルコイン（特定信託受益権）の定義が改正され、一定条件下で要求払預貯金以外の方法での信託財産管理・運用が認められた。金融業界各社はAI対応ガイドラインを含む実務体制の整備を進めている。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "ステーブルコインの「決済インフラ化」は本当か、2026年現状分析",
+          "url": "https://www.fidx.co.jp/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91%E3%80%8C%E6%B1%BA%E6%B8%88%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%81%AB%E3%81%AA%E3%82%8B%E3%80%8D%E3%81%AF%E6%9C%AC%E5%BD%93%E3%81%8B%EF%BC%9F/",
+          "source": "フィデックス",
+          "summary_short": "ステーブルコインの決済インフラ化は準備段階",
+          "summary_long": "フィデックスの分析によると、ステーブルコインは「決済インフラになりつつある」段階であり現時点では限定的な用途にとどまっている。法整備は整ったが信頼性・流動性の確立には時間を要し、2026年は社会実装の準備期として位置づけられている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 75,
+      "trend_history": [70, 68, 75],
+      "summary_short": "出生率1.14過去最低・日経平均68,402円に急騰",
+      "summary_long": "厚生労働省が2025年人口動態統計を発表し、合計特殊出生率1.14（10年連続低下・過去最低）、出生数67万1,236人（統計開始以来最少）を記録した。日経平均は6月3日に68,402.13円と前日比+1,667.89円（+2.50%）の大幅上昇。台風6号は6月4日午前に温帯低気圧に変化し6県23人が負傷した。",
+      "articles": [
+        {
+          "title": "2025年合計特殊出生率1.14、10年連続低下で統計開始以来最低値、出生数67万1,236人",
+          "url": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/nengai25/index.html",
+          "source": "厚生労働省",
+          "summary_short": "出生率1.14で10年連続低下、統計開始以来の最低値",
+          "summary_long": "厚生労働省が6月3日発表した2025年人口動態統計によると、合計特殊出生率は1.14で10年連続の低下となり統計開始以来の最低値を更新した。国内で生まれた日本人の子どもは67万1,236人で過去最少。少子化対策の抜本的見直しを求める声が高まっている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "日経平均が6月3日に68,402.13円、前日比+1,667.89円（+2.50%）の大幅上昇",
+          "url": "https://finance.yahoo.co.jp/quote/998407.O",
+          "source": "Yahoo!ファイナンス",
+          "summary_short": "日経平均が68,402円に上昇、前日比+1,667円",
+          "summary_long": "日経平均株価は2026年6月3日の終値で68,402.13円となり、前日比+1,667.89円（+2.50%）の大幅上昇を記録した。前営業日（6月2日）の66,734.24円から急伸しており、日銀利上げ観測と外国人投資家の買い戻しが背景とみられる。USD/JPY為替は160.04円台で推移している。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "台風6号が6月4日午前9時頃に温帯低気圧へ変化、6県で計23人が負傷",
+          "url": "https://www.fukuishimbun.co.jp/articles/-/2609960",
+          "source": "福井新聞",
+          "summary_short": "台風6号が温帯低気圧に変化、6県23人が負傷",
+          "summary_long": "台風6号は気象庁の予想通り2026年6月4日午前9時頃に日本の東で温帯低気圧に変わった。台風の影響で沖縄から東海にかけての6県で計23人が負傷した。JRや東京メトロ等の交通機関に運休・遅延が生じたが、6月4日午前以降は影響が落ち着いた。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "日銀6月利上げの可能性、高市首相との会談受け市場が容認と深読み",
+          "url": "https://www.nikkei.com/article/DGXZQOFL25337TV20C26A5000000/",
+          "source": "日本経済新聞",
+          "summary_short": "日銀6月利上げの可能性、高市首相の姿勢注目",
+          "summary_long": "高市首相と日銀の植田総裁が5月22日に会談し、6月利上げについて市場の関心が高まっている。植田総裁は「具体的な話は特に出さなかった」と述べたが、首相の姿勢から市場は利上げ容認と深読みしている。日経平均の急騰はその期待を反映しているとの見方もある。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "6月から調味料を中心に約450品目が値上げ、食品価格の全国的な上昇続く",
+          "url": "https://news.web.nhk/newsweb",
+          "source": "NHK",
+          "summary_short": "6月から調味料中心に約450品目が値上げ",
+          "summary_long": "6月に入り調味料を中心に約450品目が値上がりし、食品価格の全国的な上昇が続いている。消費者物価指数は4月に前年比1.4%の上昇を示しており、実質賃金への圧迫が継続している。政府は物価高対策を最重要課題と位置づけているが効果は限定的。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 90,
+      "NTTドコモ": 52,
+      "量子コンピュータ": 65,
+      "金融決済": 62,
+      "国内・社会": 75
+    },
+    "source_distribution": {
+      "Uravation": 1,
+      "TECH NOISY": 1,
+      "日経クロステック": 1,
+      "テクノエッジ": 1,
+      "NTTドコモ": 1,
+      "PR TIMES": 1,
+      "Business Insider Japan": 1,
+      "BNN Bloomberg": 1,
+      "Data Center Dynamics": 1,
+      "The Quantum Insider": 1,
+      "日本経済新聞": 2,
+      "ペイメントナビ": 1,
+      "BUSINESS LAWYERS": 1,
+      "フィデックス": 1,
+      "厚生労働省": 1,
+      "Yahoo!ファイナンス": 1,
+      "NHK": 1,
+      "福井新聞": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 12,
+      "4": 7,
+      "5": 0
+    }
+  }
+}

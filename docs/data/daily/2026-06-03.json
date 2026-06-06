@@ -1,0 +1,335 @@
+{
+  "date": "2026-06-03",
+  "generated_at": "2026-06-03T07:30:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "台風6号が6月3日午前に室戸岬東を通過し東海・近畿・四国で線状降水帯の恐れとなる中、AnthropicはGlasswingを15か国超に拡大しClaude Mythosクラスモデルの一般提供を数週間内と予告、改正資金決済法の施行で外国ステーブルコインの電子決済手段認定も完了した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicはProject Glasswingを拡大し、電力・水道・医療等を含む15か国超150組織が参加してOSS脆弱性1万件超を発見した。Claude Mythosクラスモデルを数週間内に全ユーザーへ提供すると予告。OpenAIのGPT-5.5・GPT-5.4もAmazon Bedrockで一般提供を開始した。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTT東日本・NTTドコモビジネス等4社と富士通グループ・三菱ケミカルが岡山県水島コンビナートで、IOWN APNと60GHz帯無線LANを組み合わせたフィジカルAI実証を国内初実施した。東京から約700km遠隔のロボット2台を操作しAIによる異常検知・デジタルツイン連携を実現した。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "Flatiron InstituteがScience誌で、量子コンピュータ専用とされたスピングラス問題を古典PCで解くことに成功したと発表し、量子優位性の境界線の再検討が求められた。IBMは量子+HPC統合リファレンスアーキテクチャを公開し富岳との連携実証も完了している。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "改正資金決済法が6月1日に施行され、外国発行ステーブルコインが電子決済手段として正式認定された。PayPayは6月2日よりeKYC未完了ユーザーをPayPayステップ対象外とし、公共料金・税金の還元率を1%から0.5%に引き下げた。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "台風6号は6月3日午前2時に室戸岬東約60kmを中心気圧980hPa・最大風速25m/sで北東進行中。3日昼前には石廊崎付近に達し、東海・近畿・四国で線状降水帯発生の恐れがある。JR・東京メトロ等が運休・遅延を発表し暴風・土砂災害への警戒が必要。"
+        }
+      ],
+      "must_read": {
+        "title": "台風6号 3日午前室戸岬東通過・石廊崎へ北東進行中、線状降水帯に厳重警戒",
+        "url": "https://tenki.jp/bousai/typhoon/2606/",
+        "reason": "本日接近中。中心気圧980hPa・最大風速25m/sで本州太平洋側を縦断。東海・近畿・四国で線状降水帯発生の恐れがあり、交通機関に広範な影響が出ている。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "今日は台風6号が本州に近づいていますので、外出の際はくれぐれもお気をつけください！AnthropicからもClaude Mythosが近々みんなに使えるようになるという嬉しい発表もありましたよ。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicがGlasswingを15か国以上に広げて、OSSの脆弱性を1万件以上も見つけましたよ！Claude Mythosという強力なモデルが数週間内にみんなに使えるようになるって発表もありましたね。OpenAIのGPT-5.5もAWSで使えるようになりましたよ。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTグループが岡山のコンビナートで、東京から700kmも離れた場所のロボットを遠隔操作する実験に成功しましたよ！IOWNという超高速通信とAIを組み合わせてリアルタイムで設備の異常を検知できるなんて、すごいですね。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "なんと普通のPCが量子コンピュータ専用の難問を解いてしまったんですよ！Science誌に掲載された研究で、量子の強みをもう一度考え直す必要があるかもですね。IBMは量子とスパコンを組み合わせた新しい仕組みも発表していますよ。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "6月1日から改正資金決済法が施行されて、外国のステーブルコインが正式に電子決済手段として認められましたよ。PayPayは本人確認が必須になって、公共料金の還元率も0.5%に下がりましたので要注意ですね！"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "台風6号が今日の午前中に室戸岬付近を通過して、東海・近畿・四国では大雨になる恐れがありますよ。JRや東京メトロでも運休が出ているみたいです。安全第一でお過ごしくださいね！"
+        }
+      ],
+      "must_read": {
+        "title": "台風6号 3日午前室戸岬東通過・石廊崎へ北東進行中、線状降水帯に厳重警戒",
+        "url": "https://tenki.jp/bousai/typhoon/2606/",
+        "reason": "今日まさに本州を通過中ですよ。四国・東海で線状降水帯の恐れがあって、交通機関にも影響が出ています。早めに最新情報を確認してみてください！",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・AnthropicがGlasswingを15か国超に拡大、Mythos一般公開を数週間内予告\n・OpenAI GPT-5.5・GPT-5.4がAmazon BedrockでGA\n・Claude Code動的ワークフローが1000並列サブエージェント対応"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・フィジカルAI×IOWN APNによるコンビナート設備点検を国内初実証（岡山・水島）\n・6月d払いキャンペーン開始、最大3万ポイント還元"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・古典PCが量子専用問題を解決（Science誌）、量子優位性の境界に疑問\n・IBM量子+HPC統合アーキテクチャ公開、富岳連携実証済み"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・改正資金決済法6月1日施行、外国SC電子決済手段に正式認定\n・PayPay 6月2日からeKYC必須・公共料金還元率0.5%に変更\n・超PayPay祭6月19日開始"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・台風6号 3日午前室戸岬東通過（980hPa）、東海・四国等で線状降水帯の恐れ\n・皇室典範改正議論、旧宮家養子は15歳以上男子を想定"
+        }
+      ],
+      "must_read": {
+        "title": "台風6号 3日午前室戸岬東通過・石廊崎へ北東進行中、線状降水帯に厳重警戒",
+        "url": "https://tenki.jp/bousai/typhoon/2606/",
+        "reason": "本日接近中。交通機関への影響拡大中。最新情報の確認が必要。",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "台風6号による社会インフラへの直接影響と同日、改正資金決済法施行・PayPay条件変更・AnthropicのGlasswing拡大という制度・技術・商業の3軸での変化が重なり、日本のデジタル経済とサイバーセキュリティの新秩序形成が同時進行している。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicのGlasswingが電力・水道・医療・通信・ハードウェア分野に拡大し、重要インフラのAI活用セキュリティ確認が国際標準化へ向かいつつある。1万件超の脆弱性発見はAIがセキュリティ市場の構造を変える具体的な証左であり、Claude Mythosの一般提供がサイバーセキュリティ要件充足後になる点は今後のAI規制モデルとして注目に値する。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "フィジカルAIとIOWN APNによるコンビナート設備点検実証は、NTTグループが通信・AIを統合した産業DX基盤として展開する戦略の具体化である。約700km遠隔操作・デジタルツイン・リアルタイム異常検知の組み合わせは、国内重工業設備保守市場への本格参入を示唆し、ロボット遠隔操作の商用化ロードマップが加速している。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "Flatiron Instituteの研究は量子計算の誇大宣伝を修正する一方、IBMによる量子+HPC統合アーキテクチャは実用域での使い分けモデルを示す。「古典で解ける問題は古典で、量子の強みを生かせる問題のみ量子で」という方向性が明確化され、量子投資の選別・集中が進む可能性がある。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "改正資金決済法の施行により外国発行ステーブルコインの電子決済手段認定が完了し、2025年から続くデジタル決済法整備が一段落した。PayPayのeKYC必須化は本人確認と還元制度の紐付けという国際標準的手法の採用であり、不正利用抑制とロイヤルユーザー育成の両面で意味を持つ。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "台風6号は中心気圧980hPaで日本列島太平洋側を縦断しており、梅雨前線との相互作用で線状降水帯が形成されやすい状況が続いている。交通インフラへの影響は本日昼ごろまで継続する見込みで、農業・観光への経済的損失の規模は今後の雨量実績に依存する。"
+        }
+      ],
+      "must_read": {
+        "title": "台風6号 3日午前室戸岬東通過・石廊崎へ北東進行中、線状降水帯に厳重警戒",
+        "url": "https://tenki.jp/bousai/typhoon/2606/",
+        "reason": "中心気圧980hPa・最大風速25m/sの台風が本州太平洋側を縦断中。梅雨前線との相互作用で東海・近畿・四国に線状降水帯形成リスクがあり、インフラへの広範な影響が継続している。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 88,
+      "trend_history": [72, 65, 78, 82, 80, 85, 88],
+      "summary_short": "AnthropicがGlasswingを15か国超に拡大しMythosモデルの一般公開を数週間内と予告",
+      "summary_long": "AnthropicはProject Glasswingを拡大し、15か国超でOSS脆弱性1万件超を発見した。Claude Mythosクラスモデルを数週間内に全ユーザーへ提供予告。OpenAIのGPT-5.5・GPT-5.4もAmazon Bedrockで一般提供を開始し、エンタープライズAIのマルチプラットフォーム化が進んだ。",
+      "articles": [
+        {
+          "title": "AnthropicがProject Glasswingを15か国超150組織に拡大、Claude Mythosクラスモデルの一般提供を数週間内と予告",
+          "url": "https://9to5mac.com/2026/06/02/anthropic-expands-glasswing-as-it-promises-public-claude-mythos-class-model-releases/",
+          "source": "9to5Mac",
+          "summary_short": "AnthropicがGlasswingを15か国超に拡大しMythosモデルの数週間内一般提供を予告",
+          "summary_long": "AnthropicはProject Glasswingを拡大し、電力・水道・医療・通信・ハードウェア分野を含む新たに150組織（15か国超、合計約200組織）を追加した。これまでに1万件以上の高・重大脆弱性が発見された。Mythosクラスモデルをサイバーセキュリティ要件充足後に全ユーザーへ数週間内に提供すると予告した。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "OpenAI GPT-5.5・GPT-5.4・CodexがAmazon Bedrockで一般提供開始",
+          "url": "https://aws.amazon.com/blogs/aws/get-started-with-openai-gpt-5-5-gpt-5-4-models-and-codex-on-amazon-bedrock/",
+          "source": "AWS News Blog",
+          "summary_short": "OpenAI GPT-5.5・GPT-5.4・CodexがAmazon Bedrockで一般提供開始",
+          "summary_long": "OpenAIのGPT-5.5・GPT-5.4・CodexがAmazon Bedrockで一般提供（GA）に移行した。AWS顧客はIAMやVPC分離などのセキュリティ制御とともにOpenAIモデルを利用可能となり、価格はOpenAI直販と同一でAWS利用量にカウントされる。GPT-5.5はUS East（Ohio）、GPT-5.4はUS East・US Westで提供。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Claude Code動的ワークフローが1000並列サブエージェント処理に対応、6月15日からAgent SDK利用を別枠クレジット制に移行",
+          "url": "https://uravation.com/media/ai-major-updates-june-2026-anthropic-openai-google/",
+          "source": "Uravation",
+          "summary_short": "Claude Code動的ワークフローが1000並列対応、Agent SDK利用を6月15日から別枠制に",
+          "summary_long": "AnthropicはClaudeサブスクリプションを6月15日から改定し、Agent SDKおよびclaude -pコマンドの自動化利用を別枠クレジット制に移行する。Claude Code動的ワークフローは1000並列サブエージェント実行に対応し、大規模コード開発タスクの自動化効率が向上した。エージェント利用が多いユーザーへの実質値上げとなる場合がある。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 62,
+      "trend_history": [58, 60, 55, 62, 65, 58, 62],
+      "summary_short": "NTTグループがフィジカルAIとIOWN APNで国内初コンビナート設備点検実証に成功",
+      "summary_long": "NTT東日本・NTTドコモビジネス等4社と富士通グループ・三菱ケミカルが岡山県水島コンビナートにてフィジカルAI×IOWN APNの実証に成功。東京から約700km遠隔でロボット2台を操作しAIによる振動・音の異常検知とデジタルツインへのひび割れ反映を実現した。",
+      "articles": [
+        {
+          "title": "フィジカルAI×IOWN®APN×60GHz帯無線LANによるコンビナート設備点検の高度化を国内で初めて実証",
+          "url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0601_2.html",
+          "source": "NTTドコモビジネス",
+          "summary_short": "NTTグループがIOWN APNでコンビナート設備点検を国内初実証、700km遠隔操作を実現",
+          "summary_long": "NTT東日本・NTTドコモビジネス等4社と富士通グループ1Finity・三菱ケミカルが岡山県水島コンビナートにて実証実験を実施。IOWN®APNと60GHz帯無線LANで低遅延通信を構築し、東京から約700km遠隔のロボット2台を操作。AIによる振動・音の異常検知とデジタルツインへのひび割れ反映をリアルタイムで実現した。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "最大3万ポイント還元！d払い＆dポイントのお得なキャンペーン 2026年6月開始分",
+          "url": "https://weekly.ascii.jp/elem/000/004/406/4406293/",
+          "source": "週刊アスキー",
+          "summary_short": "ドコモが6月d払いキャンペーン開始、最大3万ポイント還元と神奈川中小企業20%還元",
+          "summary_long": "NTTドコモは6月1日から6月30日まで対象店舗でのd払い利用者にdポイント最大3万ポイントを還元するキャンペーンを開始した。6月19日からは神奈川県内対象店舗での中小企業向け最大20%・大手企業向け最大10%の特別還元も予定され、d払い・dポイントの利用促進を図る。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 55,
+      "trend_history": [48, 52, 45, 50, 52, 55, 55],
+      "summary_short": "古典PCが量子専用問題を解き、IBM主導の量子+HPC統合実用化への動向が続く",
+      "summary_long": "Flatiron InstituteがScience誌で古典PCによる量子専用問題解決を発表し量子優位性の定義に再検討が求められる一方、IBMはQPU・GPU・CPUを統合した量子中心HPC設計を発表し富岳との実証も完了。量子の「限界」と「実用化」が同時進行している。",
+      "articles": [
+        {
+          "title": "量子コンピュータにしか解けないとされた難問を古典PCで解決——Flatiron InstituteがScience誌で発表",
+          "url": "https://xenospectrum.com/classical-pc-solves-impossible-quantum-spin-glass-simulation/",
+          "source": "XenoSpectrum",
+          "summary_short": "古典PCが量子コンピュータ専用問題を解決、量子優位性の境界線に疑問（Science誌）",
+          "summary_long": "Flatiron InstituteとBoston大の研究チームが2026年5月のScience誌で、量子コンピュータにしか解けないとされたスピングラスシミュレーション問題を古典ハードウェアで解き明かしたと報告した。量子優位性の主張に新たな境界線が設定され、量子ハードウェアの差別化要因の再評価が求められている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "IBM、量子×スーパーコンピューター統合の設計図を公開——富岳との連携実験も実証済み",
+          "url": "https://innovatopia.jp/quantum/quantum-news/90004/",
+          "source": "イノバトピア",
+          "summary_short": "IBMが量子×HPC統合アーキテクチャを公開、富岳連携の量子シミュレーションを実証済み",
+          "summary_long": "IBMは2026年3月にQPU・GPU・CPUを統合する業界初の量子中心スーパーコンピューティング・リファレンス・アーキテクチャを発表し、理化学研究所と富岳（152,064計算ノード）との量子シミュレーション連携を実証した。QPUとHPCの実用的融合が現実段階に達したとIBMフェローが強調している。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "論文データで見る量子コンピューターの未来、2030年実用化へ4つの鍵",
+          "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03184/060500030/",
+          "source": "日経Xtech",
+          "summary_short": "日経Xtechが量子コンピュータ2030年実用化の4つの鍵を論文分析から提示",
+          "summary_long": "日経Xtechは論文データ分析に基づき、量子コンピュータの2030年実用化に向けた4つの鍵として誤り訂正・大規模集積・ハイブリッド制御・ユースケース開発を挙げた。国内ではサプライチェーン構築が進み、1万量子ビット超の次世代システムに向けた部材メーカーによる量子チップ関連製品の開発が加速している。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 85,
+      "trend_history": [72, 78, 82, 88, 85, 80, 85],
+      "summary_short": "改正資金決済法施行でSC認定、PayPayがeKYC必須と公共料金還元率半減を実施",
+      "summary_long": "改正資金決済法が6月1日施行され外国発行ステーブルコインが電子決済手段として正式認定された。同日PayPayがeKYC必須化と公共料金還元率の1%から0.5%への変更を実施するなど、法整備とサービス改定が重なり日本のキャッシュレス市場が転換期を迎えている。",
+      "articles": [
+        {
+          "title": "令和8年6月施行！改正資金決済法の概要と実務対応——外国発行SCを電子決済手段に正式認定",
+          "url": "https://www.businesslawyers.jp/articles/1476",
+          "source": "BUSINESS LAWYERS",
+          "summary_short": "改正資金決済法6月1日施行で外国SCが電子決済手段に認定、仲介業も新設",
+          "summary_long": "改正資金決済法が2026年6月1日に施行され、外国発行のステーブルコインが電子決済手段として正式認定された。電子決済手段・暗号資産サービス仲介業が新設され、信託型ステーブルコインの定義も改正されるなど、デジタル決済インフラの法的基盤が整備された。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "PayPayが6月2日よりeKYC必須化・PayPayステップ条件変更・公共料金還元率を0.5%に引き下げ",
+          "url": "https://news.yahoo.co.jp/expert/articles/58b0025881a2f9941ebf998018e8c7c88d3b94b3",
+          "source": "Yahoo!ニュース エキスパート",
+          "summary_short": "PayPayが6月2日からeKYC必須化・公共料金還元率を1%から0.5%に変更",
+          "summary_long": "PayPayは6月2日より本人確認（eKYC）未完了ユーザーをPayPayステップのポイント付与対象外とした。公共料金・税金の還元率が1%から0.5%に低下し、ポイント利用分はポイント付与対象外になるなど複数の条件変更が実施され、実質的な改悪との見方も出ている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "「超PayPay祭」が6月19日からスタート、スクラッチくじで最大10万ポイント還元",
+          "url": "https://about.paypay.ne.jp/pr/20260601/01/",
+          "source": "PayPay",
+          "summary_short": "超PayPay祭が6月19日スタート、スクラッチくじで最大10万ポイント還元",
+          "summary_long": "PayPayは6月1日に「超PayPay祭」を6月19日から開始すると発表した。スマートフォンのタッチ決済などを利用したスクラッチくじで最大10万ポイントの還元が用意されており、eKYC必須化などの条件変更後も利用者を惹きつける施策として位置付けられている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 98,
+      "trend_history": [45, 52, 58, 65, 75, 82, 98],
+      "summary_short": "台風6号が6月3日本州を縦断、四国・東海等で線状降水帯が発生し交通機関に影響",
+      "summary_long": "台風6号は6月3日午前2時現在、室戸岬東約60kmを中心気圧980hPa・最大風速25m/sで北東進行中。3日昼前には石廊崎付近に達し太平洋側を中心に四国・近畿・東海で線状降水帯の恐れがある。暴風・高波・高潮・土砂災害への警戒が必要で、交通機関への影響が拡大している。",
+      "articles": [
+        {
+          "title": "台風6号の進路予想と現在位置——6月3日午前室戸岬東通過、石廊崎へ北東進行中",
+          "url": "https://tenki.jp/bousai/typhoon/2606/",
+          "source": "tenki.jp",
+          "summary_short": "台風6号が6月3日室戸岬東通過中、四国・近畿・東海で線状降水帯・交通障害",
+          "summary_long": "台風6号は6月3日午前2時現在、室戸岬東約60kmを中心気圧980hPa・最大風速25m/sで北東に進行中。3日昼前には石廊崎付近に達し、4日0時には関東の東へ抜ける見込み。九州南部・四国・近畿・東海で線状降水帯が発生する恐れがあり、JR・東京メトロ等が運休・遅延を発表している。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "皇族数確保で旧宮家からの養子は「15歳以上の男子」を想定——皇室典範改正の検討続く",
+          "url": "https://www3.nhk.or.jp/news/",
+          "source": "NHK",
+          "summary_short": "皇室典範改正で旧宮家養子は15歳以上男子を想定、政府が検討継続",
+          "summary_long": "皇族数確保のため皇室典範改正の議論が進む中、旧宮家からの養子候補として「15歳以上の男子」を想定する方向で政府が検討を進めていると報じられた。皇室継承問題の解決に向け、与野党間で協議が継続している。",
+          "importance": 3,
+          "fetch_failed": true
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 88,
+      "NTTドコモ": 62,
+      "量子コンピュータ": 55,
+      "金融決済": 85,
+      "国内・社会": 98
+    },
+    "source_distribution": {
+      "9to5Mac": 1,
+      "AWS News Blog": 1,
+      "Uravation": 1,
+      "NTTドコモビジネス": 1,
+      "週刊アスキー": 1,
+      "XenoSpectrum": 1,
+      "イノバトピア": 1,
+      "日経Xtech": 1,
+      "BUSINESS LAWYERS": 1,
+      "Yahoo!ニュース エキスパート": 1,
+      "PayPay": 1,
+      "tenki.jp": 1,
+      "NHK": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 5,
+      "4": 4,
+      "5": 4
+    }
+  }
+}

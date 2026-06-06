@@ -1,0 +1,383 @@
+{
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T06:05:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "AnthropicがSECにIPO向けS-1を秘密提出し評価額9,650億ドルの株式公開への具体的歩みが始まった。IBMは量子コンピューティングへの5年間100億ドル超の投資を表明し、2026年末の量子優位性実証を目指す方針を明らかにした。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicはSECにS-1を秘密提出しIPO準備に入った。評価額9,650億ドル、売上ランレート470億ドル。GPT-5.6は150万トークン対応で6月中リリース確率85%超。Claude生成コードが自社産コードの80%超を占め、エンジニア生産性が2024年比8倍に達した。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTグループ等が岡山・水島コンビナートでフィジカルAI×IOWN APN×60GHz帯無線LANを用いた設備点検の実証成果を発表した。映像取得からAI解析まで500ms以内を達成。ドコモは爆アゲセレクションにSpotify Premium 3か月割引を6月24日から追加する。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMは今後5年で量子コンピューティングへ100億ドル超の投資を発表した。Nighthawkシステムは2026年末に7,500ゲートを目標とし、IBM株は発表後24%上昇した。2029年にはフォールトトレラント量子コンピュータの実現を目指す。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayは6月2日から公共料金カード払いの還元率半減など大幅なポイント付与ルール変更を実施した。改正資金決済法の6月1日施行後、外国発行ステーブルコインの電子決済手段認定制度が本格的に整備された。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "日経平均は6月3日に史上最高値68,402円を更新したが、6月5日は米・イラン緊張再燃とBroadcom業績見通し悪化を受けてAI・半導体関連株が下落し、約1.5%安の67,000円台となった。"
+        }
+      ],
+      "must_read": {
+        "title": "AnthropicがSECにS-1を秘密提出、評価額9,650億ドルでIPO準備",
+        "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+        "reason": "Anthropicが6月1日にSECへS-1を秘密提出。評価額9,650億ドル、売上ランレート470億ドルの未上場AI最大手が株式公開へ動き出した歴史的一手。10月上場を目指す。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "今日はすごいニュースがありましたよ！あのAnthropicがついにIPOの準備を始めて、SECに申請書類を出しました。IBMも量子コンピュータに100億ドルも投資するって発表して、AI・量子の世界が本格的に動き出している感じですね！",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicがついにIPOに向けて動き出しましたよ！評価額は約9,650億ドルで10月上場見込みです。OpenAIはGPT-5.6を6月中に出す可能性が85%との予測も出ていて、Claudeが書くコードがAnthropicの80%超になったというデータも話題ですね！"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTグループがフィジカルAIとIOWNの組み合わせで工場の設備点検をスマートにする実証実験の成果を発表しましたよ！岡山の水島コンビナートで映像取得からAI解析まで0.5秒以内に完了。ドコモはSpotify Premiumも6月24日から3か月割引で使えるようになりますよ！"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMが量子コンピューティングに5年間で100億ドル超を投資するって発表しましたよ！Nighthawkという量子チップで2026年末に7,500ゲートを目指して、2029年には本格的なフォールトトレラント量子コンピュータを作るという大きな目標ですね。IBM株も24%上がりました！"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayのポイント制度が6月2日から変わりましたよ。公共料金をカードで払った時の還元率が半減したりと、ちょっと厳しめの変更になりましたね。一方で改正資金決済法が6月1日から施行されて、外国のステーブルコインも正式に認められる新しい時代が始まりましたよ！"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "日経平均は6月3日に68,402円の過去最高値を更新したばかりですが、今日は米国とイランの緊張が再燃して、Broadcomの業績見通しも悪かったことでAI・半導体株が下落し1.5%安で67,000円台になりました。最高値更新後の一息という感じですね。"
+        }
+      ],
+      "must_read": {
+        "title": "AnthropicがSECにS-1を秘密提出、評価額9,650億ドルでIPO準備",
+        "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+        "reason": "AnthropicのIPOは今年最大のビジネストピックになりそうですよ。評価額はほぼ1兆ドルで10月ごろには上場するかもという話があります。AI業界全体に大きな影響がありそうなのでぜひチェックしてみてください！",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Anthropic IPO：SECにS-1秘密提出、評価額9,650億ドル・売上470億ドルランレート\n・GPT-5.6：150万トークン、6月中リリース確率85%超\n・Claude生成コードが自社産コードの80%超、エンジニア生産性8倍"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・フィジカルAI×IOWN×60GHz帯：水島コンビナートで設備点検500ms以内実証\n・爆アゲセレクションにSpotify Premium 3か月割引を6月24日追加"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・IBM：量子コンピューティングに5年100億ドル超投資を発表、IBM株+24%\n・Nighthawk：2026年末7,500ゲート・2029年フォールトトレラント目標"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・PayPay：6月2日から公共料金カード払い還元率半減等ポイントルール変更\n・改正資金決済法6月1日施行、外国SC認定制度が本格化"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・日経平均：6月3日68,402円最高値後、6月5日は米・イラン再燃で約1.5%下落\n・Broadcom業績悪化でAI・半導体株全面安"
+        }
+      ],
+      "must_read": {
+        "title": "AnthropicがSECにS-1を秘密提出、評価額9,650億ドルでIPO準備",
+        "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+        "reason": "AI最大手のAnthropicがIPO準備。評価額9,650億ドル、10月上場見込み。",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "AnthropicのIPO準備とIBMの100億ドル量子投資は、AI・量子計算の商業化フェーズへの移行を示す転換点として、国際的な技術覇権競争の文脈で重要な意味を持つ。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicのS-1秘密提出はAI商業化の本格移行を示す。評価額9,650億ドルの上場成功時にAI企業への資金流入が加速する可能性がある。GPT-5.6の150万トークンコンテキストはエンタープライズAI競争を激化させる。Claude生成コードの80%超という事実はAI自己改善ループの加速を示唆する。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "フィジカルAI×IOWN APNの500ms以下処理は製造業設備点検の自動化に向けた技術的裏付けとなる。三菱ケミカルとの連携はNTTグループが重厚長大産業へのデジタルツイン普及を加速させる戦略方向性を示す。爆アゲセレクション拡充は顧客囲い込みと収益多様化を兼ねた継続施策だ。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMの100億ドル超投資は、量子コンピューティングが研究から産業投資段階へ移行したことを示す象徴的出来事だ。Nighthawkの2026年末7,500ゲート目標は市場で最も具体的なロードマップの一つで、IBM株24%上昇は投資家の実用化期待を反映している。2029年フォールトトレラント実現後の暗号・医薬・最適化への影響は計り知れない。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayのポイント付与ルール変更は上場後の収益重視転換を反映する。公共料金還元率半減やeKYC強制はコスト転嫁と規制対応の両面がある。改正資金決済法施行で外国SC認定制度が整備されたが、消費者の実際の利用拡大には数カ月かかると見られる。金融庁の規制強化傾向は今後も継続する見込みだ。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "6月3日の日経平均68,402円最高値は米・イラン停戦期待と半導体株買いが主因だったが、6月5日はその両方が逆回転した。Broadcomの弱い業績見通しはAI設備投資の短期的踊り場を示唆し、地政学リスク再燃が重なりリスクオフに転じた。構造的なAI・半導体需要に変化はなく、野村証券等は中期上昇トレンドの維持を見込む。"
+        }
+      ],
+      "must_read": {
+        "title": "AnthropicがSECにS-1を秘密提出、評価額9,650億ドルでIPO準備",
+        "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+        "reason": "Anthropicのポストマネー9,650億ドルは、AI産業の規模が投資家期待を更新し続けていることを示す。IPO後の公開情報義務化によりAI産業の収益構造透明性が高まり、業界全体の評価基準に影響を与える可能性がある。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 92,
+      "trend_history": [90, 88, 88, 90, 92],
+      "summary_short": "AnthropicがIPO向けS-1を秘密提出、GPT-5.6が6月中リリース予測",
+      "summary_long": "AnthropicがSECにS-1を秘密提出し評価額9,650億ドルでのIPOに向け動き出した。OpenAI GPT-5.6は150万トークンコンテキストで6月中リリース確率85%超と予測される。Claude生成コードが自社産コードの80%超を占め、エンジニア1人当たり生産性が2024年比8倍に達した事実も注目される。",
+      "articles": [
+        {
+          "title": "AnthropicがSECにS-1を秘密提出、評価額9,650億ドルでIPO準備",
+          "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+          "source": "Anthropic",
+          "summary_short": "AnthropicがSECにS-1を秘密提出しIPO準備開始、評価額9,650億ドル",
+          "summary_long": "AnthropicはSECに株式公開に向けたS-1を秘密提出した。評価額は9,650億ドル、売上ランレートは470億ドルに達する。10月上場を目指し、Wilson Sonsiniを法律顧問に起用。上場後の公開情報義務化によりAI産業の収益構造透明性が高まる見込み。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "OpenAI GPT-5.6が6月中リリース予測、150万トークンコンテキスト対応",
+          "url": "https://www.geeky-gadgets.com/gpt-5-6-june-2026-release/",
+          "source": "Geeky Gadgets",
+          "summary_short": "OpenAI GPT-5.6が6月中リリース確率85%で150万トークン対応",
+          "summary_long": "OpenAIが開発中のGPT-5.6（iris-alpha）が内部ログから発見された。現行GPT-5.5比43%増の150万トークンコンテキストに対応し、数学推論・コーディング信頼性・エージェントワークフローが改善される見込み。Polymarketで6月末リリース確率が85%超。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Claudeが自社産コードの80%超を生成、エンジニア1人当たり生産性2024年比8倍",
+          "url": "https://beincrypto.com/anthropic-recursive-self-improvement-claude-code/",
+          "source": "BeInCrypto",
+          "summary_short": "Claude生成コードが自社産コードの80%超、エンジニア生産性8倍達成",
+          "summary_long": "Anthropicの内部報告によれば、ClaudeはAnthropicが製品に取り込むコードの80%超を生成し、エンジニア1人当たりのコード出荷量は2024年比8倍に達した。2025年末は人間より劣っていたが現在は同等水準で、近く人間を上回ると予測されている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "OpenAI GPT-5.5にwriting/coding blocksとActive sessions機能を追加",
+          "url": "https://releasebot.io/updates/openai",
+          "source": "Releasebot",
+          "summary_short": "GPT-5.5にwriting/coding blocksとActive sessions追加",
+          "summary_long": "OpenAIはGPT-5.5 Instantにwriting/coding blocksを追加し、以前のCanvas機能と置き換わった。会話内でコードや文書が構造化表示される。セキュリティ機能Active sessionsも追加され、不審なサインインをデバイスとロケーション単位で管理できる。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "Anthropicがプロジェクト「Glasswing」を約150組織へ拡大、15カ国超で重要インフラ防衛",
+          "url": "https://plus-web3.com/media/latestnews_1000_9287/",
+          "source": "Plus Web3",
+          "summary_short": "Project Glasswingを150組織超に拡大、15か国で重要インフラAI防衛強化",
+          "summary_long": "AnthropicはProject Glasswingの対象を約150組織に拡大した。Claude Mythos Previewを通じて金融・重要インフラの防衛力強化を支援するもので、世界15カ国超が参加している。2026年6月2日に発表され、OSSの脆弱性発見にも活用されている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 50,
+      "trend_history": [48, 50, 62, 52, 50],
+      "summary_short": "フィジカルAI×IOWN実証とSpotify割引追加が主要トピック",
+      "summary_long": "NTTグループが岡山・水島コンビナートでフィジカルAI×IOWN APN×60GHz帯無線LANによる設備点検実証を6月1日に発表。映像取得からAI解析・デジタルツイン反映まで500ms以内、パケット損失0.1%以下を達成した。ドコモは爆アゲセレクションにSpotify Premium 3か月割引を6月24日から追加する。",
+      "articles": [
+        {
+          "title": "フィジカルAI×IOWN®APN×60GHz帯無線LANによるコンビナート設備点検の高度化を国内初実証",
+          "url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0601_2.html",
+          "source": "NTTドコモビジネス",
+          "summary_short": "フィジカルAI×IOWN×60GHz帯無線LANで水島コンビナート設備点検を初実証",
+          "summary_long": "NTTグループ4社・1Finity・三菱ケミカルが岡山・水島コンビナートでフィジカルAI×IOWN APN×60GHz帯無線LANを用いた設備点検実証を実施。映像取得からAI解析・デジタルツイン反映まで500ms以内、パケット損失0.1%以下という高い性能を確認した。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "「爆アゲ セレクション」対象サービス「Spotify Premium」に「3か月割引特典」を追加",
+          "url": "https://www.docomo.ne.jp/binary/pdf/info/news_release/topics_260604_t1.pdf",
+          "source": "NTTドコモ",
+          "summary_short": "ドコモが爆アゲセレクションにSpotify Premium 3か月割引を6月24日追加",
+          "summary_long": "NTTドコモは2026年6月24日から爆アゲセレクションにSpotify Premiumの3か月割引特典を追加した。ドコモ経由で初めてSpotify Premiumを申し込んだユーザーが対象で、月額1,080円（税込）相当が3か月間割引される。抽選でdポイントが当たるキャンペーンも同時開催。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "「dポイントマーケット」のサービス提供を終了",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/05/26_01.html",
+          "source": "NTTドコモ",
+          "summary_short": "ドコモがdポイントマーケットを7月末でサービス終了",
+          "summary_long": "NTTドコモは2026年7月をもってdポイントマーケットのサービス提供を終了すると発表した。2024年10月より約600サイト・1,800万点超を対象に提供していたが、現在の事業環境を鑑みて終了を決定。dポイントの他サービスでの活用は継続される。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "6月開始の「dポイント」「d払い」キャンペーン複数展開",
+          "url": "https://prtimes.jp/main/html/rd/p/000000197.000141840.html",
+          "source": "PR TIMES",
+          "summary_short": "ドコモが6月から新たなdポイント・d払いキャンペーンを複数開始",
+          "summary_long": "NTTドコモは2026年6月から複数の新しいdポイント・d払いキャンペーンを開始した。d払い請求書払いで1,000万ポイント山分けキャンペーン（4月20日〜6月30日）やローソン銀行ATMチャージ連携キャンペーンなど、ポイント獲得機会を拡充している。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 78,
+      "trend_history": [60, 65, 55, 65, 78],
+      "summary_short": "IBM量子に5年100億ドル超投資、Nighthawkが2026年末7,500ゲート目標",
+      "summary_long": "IBMは2026年6月4日に量子コンピューティングへの今後5年間での100億ドル超の投資を発表した。Nighthawkシステムは2026年末に7,500ゲート、2029年にはフォールトトレラント量子コンピュータの実現を目指す。IBM株は発表後24%上昇し、投資家の期待の高さを示した。",
+      "articles": [
+        {
+          "title": "IBM、100億ドル超を量子コンピューティングに投資——フォールトトレラント量子コンピューター実現までのロードマップを推進",
+          "url": "https://jp.newsroom.ibm.com/2026-06-04-ibm-commits-more-than-10-billion-to-quantum-computing-funding-its-roadmap-from-todays-leading-systems-to-the-worlds-first-fault-tolerant-quantum-computers",
+          "source": "IBM",
+          "summary_short": "IBMが量子コンピューティングに5年間で100億ドル超の投資を表明",
+          "summary_long": "IBMは今後5年間で量子コンピューティングに100億ドル超を投資すると発表した。研究開発・設備投資・製造拡大・エコシステムパートナーシップ・M&Aが対象。IBMのパートナーが2026年中に量子優位性を実証すると確信しており、IBM株は発表後約24%上昇した。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "IBM NighthawkロードマップとNighthawk：2026年末7,500ゲート・2029年フォールトトレラント",
+          "url": "https://quantumcomputingreport.com/ibm-advances-quantum-roadmap-with-nighthawk-processor-and-300mm-wafer-fabrication-shift/",
+          "source": "Quantum Computing Report",
+          "summary_short": "IBM Nighthawkが2026年末に7,500ゲート目標、2029年フォールトトレラント化へ",
+          "summary_long": "IBMのNighthawk量子プロセッサは120量子ビットに218個の次世代チューナブルカプラーを搭載し、2026年末に7,500ゲート達成を目指す。2028年には1,000量子ビット以上に対応する予定で、2029年にはフォールトトレラント量子コンピュータの実現を目指す。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "純国産量子コンピューターの誕生秘話、開発者の阪大教授が解説",
+          "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03585/060100012/",
+          "source": "日経クロステック",
+          "summary_short": "阪大教授が純国産量子コンピュータの開発経緯と現状技術を詳説",
+          "summary_long": "2025年7月に稼働を開始した純国産量子コンピュータの開発者である大阪大学教授が、主要部品を全て国産化した経緯と現状の技術水準を解説した。国際競争が激化する量子コンピュータ分野において、日本独自の技術基盤確立の意義を説いた記事。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 68,
+      "trend_history": [90, 92, 85, 62, 68],
+      "summary_short": "PayPayポイントルール変更と改正資金決済法施行で金融デジタル化が進展",
+      "summary_long": "PayPayは6月2日から公共料金カード払いの還元率半減など大幅なポイント付与ルール変更を実施し、上場後の収益重視転換を示した。改正資金決済法は6月1日に施行され、外国発行ステーブルコインの電子決済手段認定制度が本格的に整備された。",
+      "articles": [
+        {
+          "title": "PayPayが6月2日からポイント付与ルール変更、公共料金カード払い還元率が半減",
+          "url": "https://news.yahoo.co.jp/expert/articles/271480bc7cac4220bf03cf9a1d2a0753afd72261",
+          "source": "Yahoo!ニュース エキスパート",
+          "summary_short": "PayPayが6月2日から公共料金カード払い還元率を半減するポイントルール変更",
+          "summary_long": "PayPayは6月2日からポイント付与ルールを大幅変更した。貯まったPayPayポイントを支払いに充当してもポイント付与対象外となり、公共料金のカード払いは還元率が半減。他社プリペイドカードへのチャージでのポイント付与も廃止。eKYC未完了ユーザーはPayPayステップ対象外となる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "令和8年6月施行！改正資金決済法の概要と実務対応",
+          "url": "https://www.businesslawyers.jp/articles/1476",
+          "source": "BUSINESS LAWYERS",
+          "summary_short": "改正資金決済法が6月1日に施行し電子決済手段認定整備が本格化",
+          "summary_long": "2026年6月1日に改正資金決済法が施行された。電子決済手段・暗号資産サービス仲介業の新設、信託型ステーブルコインの定義改正、資産の国内保有命令規定追加が主な内容。外国発行ステーブルコインの電子決済手段認定制度も整備され、金融デジタル化の法的基盤が整った。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "2026年6月～PayPayカードやPayPayステップの条件が改悪",
+          "url": "https://news.yahoo.co.jp/expert/articles/58b0025881a2f9941ebf998018e8c7c88d3b94b3",
+          "source": "Yahoo!ニュース エキスパート",
+          "summary_short": "PayPayカードとPayPayステップの優遇条件が2026年6月から改悪",
+          "summary_long": "2026年6月からPayPayカードおよびPayPayステップの還元条件が改悪された。特定の支払い方法や利用シーンでのポイント付与率が引き下げられ、ユーザーの実質的な還元率が低下する。上場後の収益改善策の一環と見られている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 72,
+      "trend_history": [72],
+      "summary_short": "日経平均最高値後に下落、米・イラン再燃とBroadcom悪化が要因",
+      "summary_long": "日経平均は6月3日に史上最高値68,402円を更新したが、6月5日は米・イラン緊張再燃とBroadcom業績見通し悪化によるAI・半導体株安を受けて1.5%下落し67,000円台となった。野村証券は衆院選後の経済環境を反映し2026年末の日本株見通しを引き上げている。",
+      "articles": [
+        {
+          "title": "日経平均最高値6万8402円 終値1667円高、キオクシア一時トヨタ超え",
+          "url": "https://www.nikkei.com/article/DGXZQOUB02C1LTS6A600C2000000/",
+          "source": "日本経済新聞",
+          "summary_short": "日経平均が6月3日に最高値68,402円を更新後、6月5日は下落に転じた",
+          "summary_long": "日経平均株価は6月3日に前日比1,667円高の68,402円を記録し、史上最高値を更新した。AI・半導体関連株への買いが主因でキオクシアは一時トヨタを超えた。しかし6月5日は米・イラン緊張再燃とBroadcom悪化でリスクオフとなり約1.5%下落した。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "米・イラン緊張再燃とBroadcom業績悪化でAI・半導体株全面安",
+          "url": "https://tradingeconomics.com/japan/stock-market",
+          "source": "Trading Economics",
+          "summary_short": "米・イラン緊張再燃とBroadcom業績悪化でAI・半導体関連株全面安",
+          "summary_long": "6月5日の東京株式市場はAI・半導体関連株が全面安となった。米国とイランの緊張再燃が投資家心理を悪化させ、Broadcomが弱い業績見通しを示したことで世界の半導体株に売りが波及した。ソフトバンクGは7.8%安、キオクシアは1%安、富士通グループ各社も下落した。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "野村証券、2026年末の日本株見通しを日経平均6万円に上方修正",
+          "url": "https://www.nomura.co.jp/wealthstyle/article/0607/",
+          "source": "野村証券",
+          "summary_short": "野村証券が衆院選後の経済好転を反映し2026年末日本株を6万円に上方修正",
+          "summary_long": "野村証券は2026年衆院選後の経済好転を反映し、2026年末の日経平均株価見通しを60,000円に上方修正した。上振れシナリオでは70,500円を試算。AI投資需要・半導体サイクル・賃上げ継続を強材料として挙げており、短期調整は長期上昇トレンドに影響しないとの見解を示した。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 92,
+      "NTTドコモ": 50,
+      "量子コンピュータ": 78,
+      "金融決済": 68,
+      "国内・社会": 72
+    },
+    "source_distribution": {
+      "Anthropic": 1,
+      "Geeky Gadgets": 1,
+      "BeInCrypto": 1,
+      "Releasebot": 1,
+      "Plus Web3": 1,
+      "NTTドコモビジネス": 1,
+      "NTTドコモ": 2,
+      "PR TIMES": 1,
+      "IBM": 1,
+      "Quantum Computing Report": 1,
+      "日経クロステック": 1,
+      "Yahoo!ニュース エキスパート": 2,
+      "BUSINESS LAWYERS": 1,
+      "日本経済新聞": 1,
+      "Trading Economics": 1,
+      "野村証券": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 8,
+      "4": 8,
+      "5": 2
+    }
+  }
+}
