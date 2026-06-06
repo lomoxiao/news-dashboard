@@ -1,0 +1,355 @@
+{
+  "date": "2026-06-07",
+  "generated_at": "2026-06-07T06:05:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "Anthropicが2026年5月時点でClaude自身がコードの80%超を執筆していると公式報告し、AIの再帰的自己改善リスクを警告してAI開発の国際的一時停止を呼びかけた。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicはClaude Opus 4.6が自社コードの80%以上を執筆していると公開レポートで認め、タスク処理能力が4ヶ月ごとに2倍化していると報告した。2028年までに60%の確率でAIが後継モデルの訓練を実施するとの予測も示し、協調停止メカニズム構築を提唱した。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "KDDIとNTTドコモが共用ミリ波中継器を共同開発し、2026年夏に上野公園での実証を予定している。NTTドコモはあんしんセキュリティに詐欺電話拒否・AI詐欺チェックなど3機能を追加した。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "2026年の量子コンピュータ業界は誤り訂正精度への焦点移行を軸に「実用化前夜」フェーズへ移行した。富士通・理研が144量子ビット「叡II」のクラウドサービスを開始し、2026年度内に1,000量子ビット稼働を目指している。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "2026年6月2日施行のPayPay改定でポイント払い還元が廃止され、公共料金還元率が0.5%に半減した。改正資金決済法施行後の円建てステーブルコインエコシステムの整備が加速している。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "ユネスコ諮問機関イコモスが奈良県「飛鳥・藤原の宮都」19資産すべての世界文化遺産登録を勧告し、7月の世界遺産委員会での正式登録が見通しとなった。"
+        }
+      ],
+      "must_read": {
+        "title": "「AIが、AIを作り始めた」──Anthropicが公式に認めた再帰的自己改善の現実",
+        "url": "https://xenospectrum.com/anthropic-ai-builds-itself-recursive-improvement/",
+        "reason": "Claude自身が自社コードの80%を執筆し4ヶ月ごとに能力が倍増する実態を示した一次報告であり、AI開発の根本的パラダイム変化と国際的規制議論の起点となる。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "Anthropicがびっくりな発表をしましたよ！Claudeが自分でAnthropicのコードを80%も書いているって認めたんですよ、AIがAIを作る時代がついに始まったみたいですよ！",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Claude自身がAnthropicのコードを80%以上書いているんですって！しかも4ヶ月ごとにその能力が2倍になっていくペースで成長中みたいですよ。Anthropicはそのスピードを心配して、世界的にAI開発を一時停止する仕組みが必要と呼びかけています。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモとKDDIが珍しく協力してミリ波を共有する中継器を作ったんですよ！今夏に上野公園で実証するとのことです。ドコモのあんしんセキュリティにも詐欺対策機能が3つ追加されていますよ。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "量子コンピュータの業界が「実験段階」から「実用化前夜」に来たとされていますよ！富士通と理研が一緒に144量子ビットのクラウドサービスも始めて、年内には1,000量子ビットを目指しているそうです。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayが6月2日から大きくルール変更になりましたよ。ポイントで払うと還元がゼロになって、公共料金の還元も半減しています。これからはPayPayカードとの使い分けが大切になりそうですね。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "奈良の「飛鳥・藤原の宮都」がユネスコの諮問機関から世界文化遺産への登録推奨を受けましたよ！19の遺跡すべてに満点の評価で、7月に正式決定の見通しですよ。"
+        }
+      ],
+      "must_read": {
+        "title": "「AIが、AIを作り始めた」──Anthropicが公式に認めた再帰的自己改善の現実",
+        "url": "https://xenospectrum.com/anthropic-ai-builds-itself-recursive-improvement/",
+        "reason": "ClaudeがAI開発の80%を担うようになったという事実は、これからのAI開発の在り方を根本から変える話なんですよ！AIの安全設計に関心のある方は特に要チェックですよ。",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・AnthropicがClaude自身によるコード80%執筆を公式報告・再帰的自己改善警告\n・AI開発一時停止の国際協調停止メカニズム構築を提唱\n・Anthropic Marketplace・Computer Use API実用化"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・KDDI×ドコモ ミリ波共用中継器開発・今夏上野公園実証\n・ドコモ あんしんセキュリティ詐欺対策プラス3機能追加"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・富士通・理研「叡II」144量子ビットクラウドサービス開始\n・業界評価軸が量子ビット数から誤り訂正精度へシフト"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・PayPay 6月改定：ポイント払い還元廃止・公共料金還元半減\n・改正資金決済法施行後の円建てSCエコシステム整備加速"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・ユネスコイコモスが「飛鳥・藤原の宮都」19資産全て世界遺産登録勧告\n・7月釜山世界遺産委員会で正式登録の見通し"
+        }
+      ],
+      "must_read": {
+        "title": "「AIが、AIを作り始めた」──Anthropicが公式に認めた再帰的自己改善の現実",
+        "url": "https://xenospectrum.com/anthropic-ai-builds-itself-recursive-improvement/",
+        "reason": "Anthropic公式報告：Claude自身がコード80%・能力4ヶ月で倍増・AI自己改善時代の到来",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "AnthropicのAI自己改善レポートは、AIが設計・訓練サイクルの中核を担いつつある事実を公式化したものであり、量子コンピュータの実用化前夜・金融インフラのSC化と相まって、テクノロジー産業全体の変質を示す複合的シグナルとなっている。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicのWhen AI builds itselfレポートが示すコード生成80%・4ヶ月倍増ペースは、フロンティアAI開発における人間の役割が質的に変化したことを示す。2028年60%確率でAIが後継を訓練するという予測は、AIガバナンスの緊急性を高め、国際規制・停止メカニズムの設計を急務とする議論を先取りする。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "KDDI×ドコモのミリ波共用中継器は、通信事業者間インフラ共用が商業展開フェーズに入ったことを示す。単独では費用対効果が低いミリ波展開をコスト分担で可能にする手法は、5G/6G高密度化に向けた産業標準的な取り組みとなり得る。ドコモのセキュリティ強化は利用者保護施策の継続的強化を示す。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "富士通・理研の「叡II」は純国産量子コンピュータとして希釈冷凍機の国産化も達成し、技術自立性の確保という点で戦略的意義を持つ。2026年度内の1,000量子ビット目標は、IBMのKookaburra展開と並んで誤り訂正フェーズ移行のグローバル競争を体現し、産業界の投資判断に影響する。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayの改定は成熟市場における収益化優先への転換を示し、高還元競争の終焉を意味する。改正資金決済法施行で外国SC認定が整備された中、JPYCを軸とした円建てエコシステムが拡大する一方、大手決済事業者の収益戦略が還元競争から付加価値創出へシフトしている。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "「飛鳥・藤原の宮都」世界文化遺産登録勧告は7月の正式決定を前に確定的となり、奈良県を中心とした文化観光・地域経済への経済波及効果が期待される。イコモス満額回答は19資産すべての価値が国際的に認定されたことを示し、観光政策・遺産保護のモデルケースとなる。"
+        }
+      ],
+      "must_read": {
+        "title": "「AIが、AIを作り始めた」──Anthropicが公式に認めた再帰的自己改善の現実",
+        "url": "https://xenospectrum.com/anthropic-ai-builds-itself-recursive-improvement/",
+        "reason": "AIのコード生成80%到達は再帰的自己改善サイクルの入口を示す事象であり、国際的な協調停止メカニズム設計の早急な議論が必要という技術・政策両面からの喚起情報として最重要と判断した。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 95,
+      "trend_history": [90, 88, 88, 90, 92, 93, 95],
+      "summary_short": "「AIがAIを作る」時代到来、Anthropicが再帰的自己改善リスクを警告",
+      "summary_long": "Anthropicが2026年5月時点でClaudeが自社コードの80%超を執筆していると報告し、AIの再帰的自己改善リスクを警告した。タスク処理能力は4ヶ月ごとに2倍化し、2028年までに60%の確率でAIが自身の後継を訓練すると予測。国際的なAI開発一時停止を呼びかけた。",
+      "articles": [
+        {
+          "title": "「AIが、AIを作り始めた」──Anthropicが公式に認めた再帰的自己改善の現実",
+          "url": "https://xenospectrum.com/anthropic-ai-builds-itself-recursive-improvement/",
+          "source": "XenoSpectrum",
+          "summary_short": "AnthropicがClaude自身が自社コードの80%を執筆と公式報告",
+          "summary_long": "Anthropicが2026年6月5日に公開した「When AI builds itself」レポートで、Claude自身が自社コードの80%以上を執筆していることを明らかにした。処理可能タスク長はClaude 3 Opusの4分からClaude Opus 4.6の12時間に延伸し、4ヶ月ごとに倍増している。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "Anthropicが世界へ呼びかけ「いざとなればAI開発を停止できるよう準備すべき」",
+          "url": "https://www.gizmodo.jp/article/anthropic_when_ai_builds_itself/",
+          "source": "Gizmodo Japan",
+          "summary_short": "Anthropic、AI開発一時停止の協調停止メカニズム構築を提唱",
+          "summary_long": "AnthropicはAIが自律的に自身を改善する「再帰的自己改善」リスクに対し、国際的な協調停止メカニズムの構築を提唱した。停止すべき閾値、停止解除条件、仲裁者決定の3要件を設定すべきと主張し、フロンティアAI開発の一時停止議論を先導している。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Anthropic、AIの「内なる声」を翻訳する新技術NLAを発表 Claude Opus 4.6が評価を察知する瞬間を捕捉",
+          "url": "https://innovatopia.jp/ai/ai-news/101638/",
+          "source": "イノバトピア",
+          "summary_short": "AnthropicがAI内部状態を自然言語に翻訳するNLA技術を発表",
+          "summary_long": "AnthropicはClaude Opus 4.6が評価を察知する瞬間を捕捉できる「Natural Language Annotations（NLA）」技術を発表した。AIの「内なる声」をリアルタイムで翻訳・可視化する技術で、AI安全性・解釈可能性研究の新手法となる。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "【2026年6月】生成AI主要アップデート総まとめ｜Anthropic Marketplace・Claude動的ワークフロー・Computer Use API",
+          "url": "https://uravation.com/media/ai-major-updates-june-2026-anthropic-openai-google/",
+          "source": "Uravation",
+          "summary_short": "Anthropic Marketplace開設、認証済みMCPサーバーを集約",
+          "summary_long": "Anthropic Marketplaceが開始され、認証済みMCPサーバー・ワークフローテンプレートを一元化するエコシステムが整備された。Claude Codeでは最大1,000並列処理の動的ワークフローが可能となり、Computer Use APIも実用段階に入った。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 48,
+      "trend_history": [48, 50, 62, 52, 50, 55, 48],
+      "summary_short": "KDDIとドコモがミリ波共用中継器を開発・今夏上野公園で実証",
+      "summary_long": "KDDIとNTTドコモが共用可能なミリ波帯中継器を共同開発し、2026年夏に東京・上野公園での実証実験を予定している。ミリ波高速通信のエリア拡大を低コストで実現し、複数事業者のインフラ共用推進に貢献する。NTTドコモはあんしんセキュリティに詐欺対策機能も追加した。",
+      "articles": [
+        {
+          "title": "KDDIとドコモ、ミリ波エリアを効率的に拡大する共用中継器を開発",
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/2113029.html",
+          "source": "ケータイ Watch",
+          "summary_short": "KDDIとドコモ、ミリ波共用中継器開発・今夏上野公園で実証",
+          "summary_long": "KDDIとNTTドコモが共用可能なミリ波帯中継器を共同開発し、2026年夏に東京・上野公園での実証実験を予定している。ミリ波高速通信のエリア拡大を低コストで実現する技術で、複数事業者のインフラ共用推進に道を開く取り組みとなる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "「あんしんセキュリティ」詐欺対策プラスの提供を開始｜NTTドコモ",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/05/25_00.html",
+          "source": "NTTドコモ",
+          "summary_short": "ドコモ、詐欺電話拒否・AI詐欺チェック等詐欺対策プラス提供開始",
+          "summary_long": "NTTドコモが「あんしんセキュリティ 詐欺対策プラス」の提供を開始した。迷惑電話の自動拒否、AIによる詐欺リスクチェック、フェイク画像診断の3機能を月額220円（税込）で提供し、特殊詐欺・フィッシング詐欺への対策を強化する。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 78,
+      "trend_history": [60, 65, 55, 65, 78, 83, 78],
+      "summary_short": "量子コンピュータ業界が「実用化前夜」フェーズへ、誤り訂正精度が評価軸に",
+      "summary_long": "2026年の量子コンピュータ業界は誤り訂正精度への焦点移行を軸に「実用化前夜」フェーズへと移行した。富士通・理研が144量子ビット「叡II」のクラウドサービスを開始し、2026年度内に1,000量子ビット超伝導機の稼働を目指している。IBMのKookaburraも2026年公開予定だ。",
+      "articles": [
+        {
+          "title": "量子コンピュータの実用化はいつ？最新動向・GoogleとIBMの戦略・実現時期を解説【2026年版】",
+          "url": "https://arpable.com/technology/quantum-computer/quantum-computing-latest-trends-2025/",
+          "source": "arpable.com",
+          "summary_short": "量子コンピュータ「実用化前夜」へ、誤り訂正精度が業界の焦点に",
+          "summary_long": "2026年の量子コンピュータ業界は「黎明期から実用化前夜へ」のフェーズ移行を遂げた年とされる。量子ビット数の拡大よりも誤り訂正精度が実用化を左右する指標となり、GoogleとIBMがそれぞれの戦略でフォールトトレラント実現を競っている。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "1万量子ビット超が視野、次世代機の供給網構築へ",
+          "url": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00139/00005/",
+          "source": "日経クロステック",
+          "summary_short": "富士通・理研、144量子ビット「叡II」クラウドサービス開始",
+          "summary_long": "富士通と理化学研究所が2026年3月より144量子ビット「叡II（エイツー）」のクラウドサービスを開始した。部品を全て国産化した純国産機で、2026年度内に1,000量子ビット超伝導量子コンピューターの稼働を目指している。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "量子コンピューターはついに実用フェーズへ IBM・量子融合の未来",
+          "url": "https://enterprisezine.jp/article/detail/24247",
+          "source": "EnterpriseZine",
+          "summary_short": "IBMのKookaburra 2026年公開・量子×HPC×AIの融合が本格化",
+          "summary_long": "IBMは2026年中に「IBM Quantum Kookaburra」の提供を予定し、モジュラー型プロセッサーで量子メモリと論理演算を組み合わせたシステムを実現する。量子コンピュータとHPC・AIを融合するハイブリッド実装が産業利用の現実的な形として本格化している。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 65,
+      "trend_history": [90, 92, 85, 62, 68, 68, 65],
+      "summary_short": "PayPayポイント払い還元廃止・eKYC必須化で利用者影響が拡大",
+      "summary_long": "2026年6月2日施行のPayPay改定でポイント払いの還元が廃止され、公共料金・税金の還元率が0.5%に半減した。eKYC未完了ユーザーはPayPayステップ付与対象外となった。改正資金決済法施行後の円建てステーブルコインエコシステムの整備も進んでいる。",
+      "articles": [
+        {
+          "title": "2026年6月～PayPayカードやPayPayステップの条件が改悪 今からやるべき対策",
+          "url": "https://news.yahoo.co.jp/expert/articles/58b0025881a2f9941ebf998018e8c7c88d3b94b3",
+          "source": "Yahoo!ニュース エキスパート",
+          "summary_short": "PayPay6月改定でポイント払い還元ゼロ・公共料金還元半減",
+          "summary_long": "2026年6月2日からPayPayの主要ルールが変更となった。ポイントで支払った分のポイント付与が廃止され、公共料金・税金の還元率が1.0%から0.5%に半減した。交通系ICチャージも還元対象外となり、ユーザーの実質的な還元水準が大幅に低下した。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "【2026年最新】「決済インフラになる」は本当か？ステーブルコインの動向",
+          "url": "https://www.fidx.co.jp/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91%E3%80%8C%E6%B1%BA%E6%B8%88%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%81%AB%E3%81%AA%E3%82%8B%E3%80%8D%E3%81%AF%E6%9C%AC%E5%BD%93%E3%81%8B%EF%BC%9F/",
+          "source": "フィデックス",
+          "summary_short": "日本のステーブルコインが決済インフラへ移行、米規制転換も追い風",
+          "summary_long": "改正資金決済法施行後の日本市場でステーブルコインが決済インフラとしての地位を確立しつつある。米SEC・CFTCの規制転換が日本事業者の海外展開余地を広げ、JPYCを軸とした円建てSCエコシステムの拡大が続いている。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "令和8年6月施行！改正資金決済法の概要と実務対応",
+          "url": "https://www.businesslawyers.jp/articles/1476",
+          "source": "BUSINESS LAWYERS",
+          "summary_short": "改正資金決済法6月1日施行・外国SC認定と実務対応まとめ",
+          "summary_long": "2026年6月1日施行の改正資金決済法により、外国ステーブルコインが「電子決済手段」として正式認定された。外国事業者の国内サービス提供に向けた登録要件・義務範囲が明確化され、国内金融機関の実務対応が本格化している。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 68,
+      "trend_history": [58, 60, 62, 58, 62, 62, 68],
+      "summary_short": "ユネスコイコモスが奈良「飛鳥・藤原の宮都」世界遺産登録を勧告",
+      "summary_long": "ユネスコ諮問機関イコモスが奈良県の遺跡群「飛鳥・藤原の宮都」19資産すべての世界文化遺産登録を勧告した。7月の世界遺産委員会で正式登録が決定する見通し。登録されれば国内世界遺産は計27件となる。",
+      "articles": [
+        {
+          "title": "「飛鳥・藤原の宮都」世界遺産へ ユネスコ諮問機関が登録を勧告",
+          "url": "https://www.nikkei.com/article/DGXZQOUD257560V20C26A5000000/",
+          "source": "日本経済新聞",
+          "summary_short": "奈良「飛鳥・藤原の宮都」19資産すべて世界遺産登録を勧告",
+          "summary_long": "ユネスコの諮問機関イコモスが2026年6月6日、奈良県の「飛鳥・藤原の宮都とその関連資産群」の世界文化遺産登録を勧告した。19の構成資産すべてに留保・条件なしの満額評価が与えられ、7月19〜29日の韓国・釜山世界遺産委員会で正式決定の見込み。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "奈良の「飛鳥・藤原の宮都」世界文化遺産に登録される見通しに",
+          "url": "https://news.web.nhk/newsweb/na/na-k10015142291000",
+          "source": "NHK",
+          "summary_short": "NHK、奈良「飛鳥・藤原の宮都」が世界文化遺産登録の見通しと報道",
+          "summary_long": "NHKは6日、ユネスコ諮問機関が奈良県の「飛鳥・藤原の宮都」が世界文化遺産に登録される見通しであると報じた。文化庁によると7月19〜29日に韓国・釜山で開かれる世界遺産委員会で審査され、登録されれば国内の世界遺産は計27件となる。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "飛鳥・藤原の宮都が世界文化遺産登録勧告｜2026年6月イコモス満額回答の全貌",
+          "url": "https://news.isotop.jp/archives/7352",
+          "source": "久兵衛の暮らしのニュース",
+          "summary_short": "イコモスが「飛鳥・藤原の宮都」19資産に留保・条件なしで満額評価",
+          "summary_long": "2026年6月6日にイコモスが「飛鳥・藤原の宮都」への登録勧告を日本政府に通知した。19件の構成資産すべてが特段の留保や条件付き指示なしに評価を受け、満額回答となった。飛鳥宮跡・藤原宮跡・高松塚古墳など多彩な遺産群が評価された。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 95,
+      "NTTドコモ": 48,
+      "量子コンピュータ": 78,
+      "金融決済": 65,
+      "国内・社会": 68
+    },
+    "source_distribution": {
+      "XenoSpectrum": 1,
+      "Gizmodo Japan": 1,
+      "イノバトピア": 1,
+      "Uravation": 1,
+      "ケータイ Watch": 1,
+      "NTTドコモ": 1,
+      "arpable.com": 1,
+      "日経クロステック": 1,
+      "EnterpriseZine": 1,
+      "Yahoo!ニュース エキスパート": 1,
+      "フィデックス": 1,
+      "BUSINESS LAWYERS": 1,
+      "日本経済新聞": 1,
+      "NHK": 1,
+      "久兵衛の暮らしのニュース": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 7,
+      "4": 5,
+      "5": 3
+    }
+  }
+}
