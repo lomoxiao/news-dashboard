@@ -6,6 +6,9 @@ Thumbs.db
 .vscode/
 *.swp
 
+# Claude Code
+.claude/
+
 # Python
 __pycache__/
 *.pyc
