@@ -1,6 +1,10 @@
 {
-  "last_updated": "2026-06-07T06:05:00+09:00",
+  "last_updated": "2026-06-08T06:05:00+09:00",
   "reports": [
+    {
+      "date": "2026-06-08",
+      "headline": "トランプ政権OpenAI政府出資協議・ChatGPTスーパーアプリ化・SBIとAnthropic提携Claude全社展開・ドコモ新料金4プラン開始・IBM量子「6〜7合目」Kookaburra年内公開・ダイナースJPYC交換日本初・日銀利上げ議論・25式高速滑空弾初公開"
+    },
     {
       "date": "2026-06-07",
       "headline": "Anthropic「AIがAIを作る」公式報告・コード80%・AI開発一時停止提唱・奈良飛鳥藤原19資産世界遺産登録勧告・PayPay改悪実態・量子「実用化前夜」・富士通理研叡IIクラウド開始"
@@ -1095,6 +1099,36 @@
     {
       "name": "JPYC",
       "url": "https://corporate.jpyc.co.jp",
+      "count": 1
+    },
+    {
+      "name": "Engadget",
+      "url": "https://www.engadget.com",
+      "count": 1
+    },
+    {
+      "name": "R&A IT Strategy & Architecture",
+      "url": "https://ea.rna.nl",
+      "count": 1
+    },
+    {
+      "name": "MM総研",
+      "url": "https://www.m2ri.jp",
+      "count": 1
+    },
+    {
+      "name": "TechTarget",
+      "url": "https://techtarget.itmedia.co.jp",
+      "count": 1
+    },
+    {
+      "name": "静岡新聞DIGITAL",
+      "url": "https://news.at-s.com",
+      "count": 1
+    },
+    {
+      "name": "The HEADLINE",
+      "url": "https://www.theheadline.jp",
       "count": 1
     }
   ],
