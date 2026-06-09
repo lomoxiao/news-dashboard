@@ -1,0 +1,342 @@
+{
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T06:10:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "MicrosoftがBuild 2026で発表した自社開発推論モデルMAI-Thinking-1が、独立評価でClaude Sonnet 4.6を上回ったと主張し、AI開発競争が新局面を迎えた。国内では日経平均が米雇用統計好調を受けたAI株売りで前週末比2,563円安の64,024円と急落した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "MicrosoftはBuild 2026で独自推論モデルMAI-Thinking-1を発表した。OpenAIやAnthropicへの依存を下げる戦略で、独立評価機関Surgeの盲目評価でClaude Sonnet 4.6より好まれたと発表した。AnthropicはClaude Partner Network Services Trackを公式化し、4万社以上が参加申請した。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモがパーソナルAIエージェント「SyncMe」の先行モニター5,000名の募集を継続している。dアカウントと連携して初回から個人最適化を実現し、夏の全ユーザー提供に向けた準備を進めている。6月5日開始のJALモバイルもahamo価格で国内線割引特典付きの展開を拡大している。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMは量子誤り訂正でBivariate Bicycle符号とAlgebraic Outer Concatenationの統合を発表した。Quantinuumは約2,688億円のIPOを完了し量子コンピュータ企業として主要取引所に上場した。SEALSQのポスト量子セキュア素子QS7001がNIST検証を取得した。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "改正資金決済法施行から9日が経過し、外国発行ステーブルコインの電子決済手段認定制度の整備が進んでいる。PayPayはeKYC必須化と公共料金還元率半減の施行後、本人確認未完了ユーザーへの還元率を0%とし、利用者への影響が広がっている。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "東京株式市場は6月8日（月）、前週末比2,563円安（3.85%）の64,024円で取引を終えた。5月の米雇用統計が好調で利上げ観測が高まり、AI銘柄で売りが相次いだ。高市首相は6月13日から欧州を訪問しフランス・エヴィアンのG7サミット（14〜16日）に出席する。"
+        }
+      ],
+      "must_read": {
+        "title": "MicrosoftのMAI-Thinking-1、盲目評価でClaude Sonnet 4.6を上回ると発表",
+        "url": "https://www.techtimes.com/articles/317989/20260608/microsoft-built-its-own-ai-depend-openai-anthropic-less-says-it-just-beat-claude-blind-tests.htm",
+        "reason": "OpenAIとAnthropicへの依存を断ち切る戦略的な独自モデルの発表であり、AI開発競争の構図が大手テック3社による三つ巴へと変化していることを示す最も影響の大きいニュースと判断した。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "AIの世界でまた大きな動きがありましたよ！MicrosoftがAnthropicのClaudeに勝ったと主張する独自AIモデルを発表しました。大手テック企業間の競争がますます激しくなっていますね！",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "MicrosoftがBuild 2026で独自の推論AIモデル「MAI-Thinking-1」を発表しましたよ！独立機関の評価でClaude Sonnet 4.6より好まれたと主張しています。Anthropicは4万社超が参加するパートナープログラムを正式化していて、AI業界の勢力図が大きく変わってきていますね。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモのAIエージェント「SyncMe」の先行モニター募集が続いていますよ！ワラピィとヨミドーリというかわいいキャラクターが相棒になってくれて、dアカウントで最初から自分のことを知ってくれるんですって。夏の本格提供が楽しみですね！"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "量子コンピュータ関連の動きが活発ですよ！IBMが新しいエラー訂正技術を発表したほか、量子コンピュータ企業のQuantinuumがIPOを完了して株式市場に上場しました。量子セキュリティの分野でも国際標準への認証が進んでいますよ。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "改正資金決済法の施行から約1週間が経ちましたね。外国のステーブルコインが正式に使えるようになる制度が整備されています。PayPayの変更が利用者に広がっていて、eKYC（本人確認）が済んでいないと還元率がゼロになってしまうので注意が必要ですよ！"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "月曜日（6月8日）の東京株式市場はかなり大きく下がりましたよ。前週末から2,563円安の64,024円と、2026年で2番目の下げ幅になりました。アメリカの雇用統計が良すぎて利上げ懸念でAI株が売られたんですって。来週はG7サミットで高市首相がフランスへ向かいます！"
+        }
+      ],
+      "must_read": {
+        "title": "MicrosoftのMAI-Thinking-1、盲目評価でClaude Sonnet 4.6を上回ると発表",
+        "url": "https://www.techtimes.com/articles/317989/20260608/microsoft-built-its-own-ai-depend-openai-anthropic-less-says-it-just-beat-claude-blind-tests.htm",
+        "reason": "OpenAIとAnthropicへの依存を下げるためのMicrosoftの独自AIが、Claudeを上回ったと主張するなんてかなりの注目ニュースですよ！AI業界の勢力図が変わるかもしれない重要な転換点ですね。",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Microsoft MAI-Thinking-1が盲目評価でClaude Sonnet 4.6を上回ると発表、35B MoEモデル\n・AnthropicがClaude Partner Network Services Track公式化・4万社超申請・1万人超認定\n・MiniMax M3 軽量オープンソースモデルリリース"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・SyncMe（AIエージェント）先行モニター5,000名募集継続・夏に全ユーザー提供予定\n・JALモバイル6月5日開始・ahamo価格30GB/2,970円・国内線78%割引特典"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・IBM量子 Bivariate Bicycle+外積連結エラー訂正統合発表（6月6日）\n・Quantinuum IPO完了・約2,688億円調達・量子コンピュータ企業初の主要上場\n・SEALSQ QS7001がNIST SP 800-90B検証取得"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・改正資金決済法施行9日・外国SC電子決済手段認定制度整備進行中\n・PayPay eKYC未完了ユーザーの還元率0%・影響範囲拡大"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・日経平均6月8日64,024円・前週末比2,563円安(-3.85%)・2026年2番目の下げ幅\n・高市首相6月13日欧州訪問・G7サミット（仏エヴィアン14〜16日）出席\n・W杯日本代表vsオランダ6月15日AM5時ダラス"
+        }
+      ],
+      "must_read": {
+        "title": "MicrosoftのMAI-Thinking-1、盲目評価でClaude Sonnet 4.6を上回ると発表",
+        "url": "https://www.techtimes.com/articles/317989/20260608/microsoft-built-its-own-ai-depend-openai-anthropic-less-says-it-just-beat-claude-blind-tests.htm",
+        "reason": "OpenAI・Anthropic依存を断ち切るMicrosoftの独自推論モデルがClaude対比で優位を主張",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "MicrosoftのMAI-Thinking-1発表はAI開発競争をOpenAI・Anthropic二強体制から三つ巴へと転換させる可能性を示し、Quantinuum上場・IBM誤り訂正統合・米雇用統計起因の日経急落が重なり、AI技術の商業化競争と金融市場の不安定性が同時進行する局面を映し出している。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Microsoft MAI-Thinking-1の独立評価でのClaude優位性主張は、AI企業の評価がベンチマーク数値から人間選好評価へとシフトしていることを示す。OpenAIへの依存低減は、Microsoftがモデル調達リスクを分散させる産業政策的判断であり、AnthropicのServices Track公式化と合わせて、AIパートナーエコシステムの構造化が加速している。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモのSyncMeは、dアカウントという2億超の既存ユーザーIDを活用することで初回から個人化を実現する。この戦略は汎用AIアシスタントとの差別化要因であり、通信キャリアがAIエージェント競争においてIDプラットフォームの優位性を武器にする典型事例である。JALモバイルとのエコシステム拡張も同軸上の動きとして捉えられる。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMのBivariate Bicycle+外積連結統合は論理量子ビットのエラー率低減に直結し、2029年耐障害性計算機ロードマップの中核をなす。QuantinuumのIPO完了は量子コンピュータ分野での資金調達が株式市場に移行したことを示し、ハードウェアスタートアップへの資本流入が制度的に整備されつつある。SEALSQのNIST認証はポスト量子暗号の実装準備が製品レベルで進んでいることを確認する。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "改正資金決済法施行後の外国SC整備は、日本がステーブルコイン規制で先進的な枠組みを構築した一方、実際の流通拡大には認定取得プロセスや国内事業者の準備期間が必要な段階にある。PayPayのeKYC必須化は本人確認の徹底という規制対応だが、還元率大幅縮小は決済シェア維持との利益相反を内包する。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "日経平均の-3.85%急落は米雇用統計好調→利上げ観測→AI銘柄売りという連鎖の結果であり、日銀の6月利上げ期待（78%確率）と米FRBの利上げ観測が同時に高まる局面での株価感応度の高さを示す。G7サミット前後の首脳会談・W杯初戦が重なる6月中旬は、外交・スポーツ・金融政策が複合的に交差する。"
+        }
+      ],
+      "must_read": {
+        "title": "MicrosoftのMAI-Thinking-1、盲目評価でClaude Sonnet 4.6を上回ると発表",
+        "url": "https://www.techtimes.com/articles/317989/20260608/microsoft-built-its-own-ai-depend-openai-anthropic-less-says-it-just-beat-claude-blind-tests.htm",
+        "reason": "OpenAI・Anthropic二強体制へのMicrosoftの参入宣言は、AI基盤モデル市場の競争構造を再定義する可能性を持ち、評価手法の変化・価格競争・エンタープライズ採用の方向性に対して最も広範な影響を持つと判断した。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 88,
+      "trend_history": [88, 90, 92, 93, 95, 85, 88],
+      "summary_short": "Microsoft独自AIがClaude評価超え主張、Anthropicがパートナー制度を公式化",
+      "summary_long": "MicrosoftはBuild 2026で自社開発推論モデルMAI-Thinking-1を発表し、独立評価でClaude Sonnet 4.6を上回ったと主張した。AnthropicはClaude Partner Network Services Trackを公式化し、4万社以上が申請・1万人超が認定を取得した。",
+      "articles": [
+        {
+          "title": "Microsoft MAI-Thinking-1、盲目評価でClaude Sonnet 4.6を上回ると発表 OpenAI・Anthropic依存低減へ",
+          "url": "https://www.techtimes.com/articles/317989/20260608/microsoft-built-its-own-ai-depend-openai-anthropic-less-says-it-just-beat-claude-blind-tests.htm",
+          "source": "TechTimes",
+          "summary_short": "MicrosoftのMAI-Thinking-1が盲目評価でClaude Sonnet 4.6を上回ると発表。",
+          "summary_long": "MicrosoftはBuild 2026で独自推論モデルMAI-Thinking-1を公開した。35Bアクティブパラメータ・MoEアーキテクチャで、独立評価機関SurgeのサイドバイサイドテストでClaude Sonnet 4.6より好まれたと主張した。数学推論ではAIME 2025で97%を達成した。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "AnthropicがClaude Partner Network Services Track & Partner Hubを正式化 4万社超が申請",
+          "url": "https://www.anthropic.com/news/services-track-partner-hub",
+          "source": "Anthropic",
+          "summary_short": "AnthropicがClaudeパートナーを3段階に格付けする新プログラムを公式化。",
+          "summary_long": "Anthropicは6月3日、Claudeパートナーネットワークの「Services Track」と「Partner Hub」を正式化した。Select・Preferred・Global Premierの3段階認定制度で、4万社以上が申請し1万人超がClaude認定を取得している。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "MiniMax M3 軽量オープンソースモデルをリリース 多言語対応で無償公開",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats",
+          "summary_short": "MiniMaxがM3軽量オープンソースモデルをリリース、多言語対応で無償公開。",
+          "summary_long": "MiniMaxは6月1日、軽量オープンソースモデルM3を公開した。多言語対応で商用利用可能なライセンスが付与されており、エッジデバイスや低コスト環境での展開を想定した設計となっている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 55,
+      "trend_history": [62, 52, 50, 55, 48, 52, 55],
+      "summary_short": "ドコモAIエージェント「SyncMe」先行モニター継続、JALモバイル開始",
+      "summary_long": "NTTドコモはパーソナルAIエージェント「SyncMe」の先行モニター5,000名の募集を継続している。キャラクター「ワラピィ」「ヨミドーリ」が相棒となるdアカウント連携型AIで夏に全ユーザーへ提供する。6月5日開始のJALモバイルはahamo価格で国内線割引特典付き。",
+      "articles": [
+        {
+          "title": "ドコモのパーソナルAIエージェント「SyncMe」先行モニター5,000名募集中 夏に全ユーザー提供へ",
+          "url": "https://weekly.ascii.jp/elem/000/004/381/4381321/",
+          "source": "週刊アスキー",
+          "summary_short": "ドコモのAIエージェント「SyncMe」が先行5,000名モニター募集を継続中。",
+          "summary_long": "NTTドコモはdアカウント連携型AIエージェント「SyncMe」の先行モニター5,000名を募集している。キャラ「ワラピィ」「ヨミドーリ」が個人最適化して相棒になる設計で、Android 13以上・iOS 16.3以上で無料利用可能。夏に全ユーザー提供予定。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "JALモバイルサービス6月5日開始 ahamo料金30GB/2,970円で国内線78%割引特典付き",
+          "url": "https://www.docomo.ne.jp/info/news_release/",
+          "source": "NTTドコモ",
+          "summary_short": "JALとドコモが連携するJALモバイルが6月5日からahamo価格で開始。",
+          "summary_long": "NTTドコモとJALが連携するモバイルサービス「JALモバイル」が6月5日に開始した。月30GBのデータを2,970円（税込）で提供し、JAL国内線航空券を78%割引で購入できる特典が付与される。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "「爆アゲ セレクション」にSpotify Premium 3か月割引特典を追加 6月4日発表",
+          "url": "https://www.docomo.ne.jp/info/news_release/topics/",
+          "source": "NTTドコモ",
+          "summary_short": "ドコモが「爆アゲ セレクション」にSpotify Premium 3か月割引特典を追加。",
+          "summary_long": "NTTドコモは6月4日、サービス特典プログラム「爆アゲ セレクション」の対象サービスにSpotify Premiumの「3か月割引特典」を追加した。ドコモユーザーが利用できる選択型サービス特典の拡充が続いている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 68,
+      "trend_history": [55, 65, 78, 83, 78, 65, 68],
+      "summary_short": "IBM量子誤り訂正新手法統合、QuantinuumがIPO完了し株式市場に上場",
+      "summary_long": "IBMは量子誤り訂正でBivariate Bicycle符号とAlgebraic Outer Concatenationの統合を発表した。QuantinuumはIPOを完了し約2,688億円の資金調達に成功した量子企業初の主要上場となった。SEALSQのポスト量子セキュア素子QS7001がNIST検証を取得した。",
+      "articles": [
+        {
+          "title": "IBM量子、Bivariate Bicycle符号と外積連結を統合したエラー訂正手法を発表",
+          "url": "https://quantumcomputingreport.com/ibm-quantum-integrates-bivariate-bicycle-formulations-with-algebraic-outer-concatenation/",
+          "source": "Quantum Computing Report",
+          "summary_short": "IBM量子が外積連結を活用したBivariate Bicycleエラー訂正統合を発表。",
+          "summary_long": "IBMは6月6日、量子誤り訂正における「Bivariate Bicycle」符号とAlgebraic Outer Concatenationの統合を発表した。論理量子ビットのエラー率をさらに低減し、2029年の耐障害性量子コンピュータ実現に向けた重要な技術的進展となる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Quantinuum IPO完了 約2,688億円（16.8億ドル）調達 量子企業初の主要取引所上場",
+          "url": "https://quantumcomputingreport.com/quantinuum-completes-its-ipo-at-an-upscale-price-and-number-of-shares/",
+          "source": "Quantum Computing Report",
+          "summary_short": "量子コンピュータ企業QuantinuumがIPOを完了し約2,688億円を調達。",
+          "summary_long": "Honeywell International傘下の量子コンピュータ企業QuantinuumがIPOを完了した。予定価格・株数を引き上げた条件での達成で、量子コンピュータ企業として初の主要取引所上場となり、約16.8億ドルの資金調達に成功した。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "SEALSQ QS7001ポスト量子セキュア素子がNIST SP 800-90B検証を取得",
+          "url": "https://quantumcomputingreport.com/sealsq-qs7001-post-quantum-secure-element-obtains-nist-sp-800-90b-entropy-source-validation/",
+          "source": "Quantum Computing Report",
+          "summary_short": "SEALSQのQS7001がNIST SP 800-90Bエントロピーソース検証を取得。",
+          "summary_long": "WISeSec（旧SEALSQ）のポスト量子セキュア素子「QS7001」がNIST SP 800-90Bエントロピーソース検証を取得した。量子コンピュータによる暗号解読への対応として、IoTデバイスなどの耐量子暗号実装が製品レベルで進んでいる。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 58,
+      "trend_history": [85, 62, 68, 68, 65, 60, 58],
+      "summary_short": "改正資金決済法施行9日、外国SC認定制度整備進行中、PayPay改悪影響拡大",
+      "summary_long": "改正資金決済法施行から9日が経過し、外国発行ステーブルコインの電子決済手段認定制度の整備が進んでいる。PayPayはeKYC必須化・公共料金還元率半減の施行後、本人確認未完了ユーザーへの還元率が0%となり実際の影響が拡大している。",
+      "articles": [
+        {
+          "title": "改正資金決済法施行9日 外国発行SC電子決済手段認定の制度整備が進行",
+          "url": "https://coinpost.jp/?p=709645",
+          "source": "CoinPost",
+          "summary_short": "改正資金決済法施行で外国発行SCの電子決済手段認定制度整備が進行中。",
+          "summary_long": "2026年6月1日に施行された改正資金決済法により、外国発行の信託型ステーブルコインが「電子決済手段」として正式認定される枠組みが整った。金融庁の内閣府令に基づき、日本と同等ライセンスを持つ海外SC発行者の国内流通申請が受け付けられている。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "PayPay eKYC未完了ユーザーの還元率0%に 6月施行の改悪が利用者に浸透",
+          "url": "https://b4c.jp/poigiken/articles/news/paypay-kaiaku.html",
+          "source": "ポイ活技研",
+          "summary_short": "PayPay eKYC未完了ユーザーの還元率0%・公共料金還元が半減と影響拡大。",
+          "summary_long": "PayPayは6月2日にeKYC必須化と公共料金還元率半減を施行した。本人確認未完了ユーザーへの還元率は最大0%となり、eKYC完了ユーザーでも一部特典が縮小された。PayPayステップの条件変更も重なり、利用者への影響が広がっている。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 65,
+      "trend_history": [62, 58, 62, 62, 68, 65, 65],
+      "summary_short": "日経平均6月8日64,024円急落、高市首相来週G7サミットへ欧州訪問",
+      "summary_long": "東京株式市場は6月8日に前週末比2,563円安（-3.85%）の64,024円で引けた。5月の米雇用統計好調で利上げ観測が高まり、AI・半導体関連銘柄に売りが集中した。高市首相は6月13日から欧州を訪問しフランス・エヴィアンのG7サミット（14〜16日）に出席する予定。",
+      "articles": [
+        {
+          "title": "日経平均、前週末比2,563円安の64,024円で終了 AI株売りで2026年2番目の下げ幅",
+          "url": "https://www.nikkei.com/article/DGXZQOFL080O7TY6A600C2000000/",
+          "source": "日本経済新聞",
+          "summary_short": "日経平均が米雇用統計起因のAI株売りで前週末比2,563円安の64,024円に。",
+          "summary_long": "東京株式市場は6月8日（月）、前週末比2,563円安（3.85%）の64,024円で取引を終えた。5月の米雇用統計が好調で米利上げ観測が台頭し、AI関連銘柄を中心に売りが相次いだ。この下げ幅は2026年で2番目の大きさとなった。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "高市首相、来週後半から欧州訪問 G7サミット（仏エヴィアン、6月14〜16日）出席へ",
+          "url": "https://news.web.nhk/newsweb/na/na-k10015139711000",
+          "source": "NHK",
+          "summary_short": "高市首相が6月13日欧州へ出発、G7サミット（仏エヴィアン14〜16日）出席予定。",
+          "summary_long": "高市総理大臣はG7サミット出席のため6月13日（土）に欧州へ出発する。英国・イタリアの首相との二国間会談を経て、6月14〜16日にフランス・エヴィアンで開催されるG7サミットに出席する予定。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "FIFAワールドカップ2026 日本代表が6月15日にオランダと初戦 ダラスで日本時間AM5時",
+          "url": "https://www.jfa.jp/samuraiblue/worldcup_2026/canadamexicousa2026/opponent/netherlands/",
+          "source": "JFA",
+          "summary_short": "FIFAワールドカップ2026で日本代表が6月15日AM5時にオランダと初戦。",
+          "summary_long": "FIFAワールドカップ2026で日本代表はグループFに属し、6月15日（月）日本時間午前5時にアメリカ・ダラスでオランダ代表と初戦を迎える。オランダのロベルト・マルティネス監督は「最高の準備」をしていると述べた。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 88,
+      "NTTドコモ": 55,
+      "量子コンピュータ": 68,
+      "金融決済": 58,
+      "国内・社会": 65
+    },
+    "source_distribution": {
+      "TechTimes": 1,
+      "Anthropic": 1,
+      "LLM Stats": 1,
+      "週刊アスキー": 1,
+      "NTTドコモ": 2,
+      "Quantum Computing Report": 3,
+      "CoinPost": 1,
+      "ポイ活技研": 1,
+      "日本経済新聞": 1,
+      "NHK": 1,
+      "JFA": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 6,
+      "4": 7,
+      "5": 1
+    }
+  }
+}
