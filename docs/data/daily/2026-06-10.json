@@ -1,0 +1,381 @@
+{
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T06:30:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "FIFA W杯2026が現地時間6月11日に北中米で開幕し、EU AI法の高リスクAI7分野への本格適用が8月2日（55日後）に迫る中、国内外で複数の重要動向が相次いだ。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "EU AI法は8月2日から高リスクAI7分野に適合義務が発効する。MicrosoftはMAI-Code-1-FlashとMAI-Thinking-1を6月2日に公開した。Gemini 3.5 Pro・Claude Mythos・GPT-5.6の3モデルが6月中にリリースされる見通しとなった。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモは通信キャリア初となるスマートフォン画面割れ保険付帯ガラスフィルムを6月9日に発売した。NTTグループはInterop Tokyo 2026でSIMカードを活用した量子安全相互認証システムを展示している。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "Interop Tokyo 2026が幕張メッセで開幕し、ポスト量子暗号（PQC）の機器・システム実装状況を解説するセッションが6月12日に予定される。arXiv論文では量子コンパイル手法によりVQEベンチマーク成功確率が最大68%向上した。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayは本人確認（eKYC）未完了ユーザーへのポイント付与を6月2日に停止し、実質的なeKYC義務化が完了した。HashPortはステーブルコイン決済の無料化サービスを開始し、決済手数料ゼロを実現した。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "FIFA W杯2026が現地時間6月11日にメキシコシティで開幕し、日本代表の初戦は6月15日のオランダ戦となった。G7サミットはフランス・エヴィアンで6月15〜17日に開催が予定され、高市首相が欧州訪問を調整している。"
+        }
+      ],
+      "must_read": {
+        "title": "EU AI法、8月2日から高リスクAI7分野に本格適用開始",
+        "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026",
+        "reason": "雇用判定・与信審査・教育評価など7分野のAIシステムに適合義務が課され、グローバル展開する日本企業にも55日後に直接影響する。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "W杯2026がいよいよ明日開幕ですね！AI・量子・決済の分野でも見逃せないニュースが盛りだくさんですよ。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "EU AI法が8月2日から本格スタートするのはご存知でしたか？雇用・教育・金融など7分野で適合義務が始まりますよ。Microsoftの新AIモデルも登場しているし、Gemini 3.5 Pro・Claude Mythos・GPT-5.6が今月中に一斉リリースされる見通しで目が離せませんね！"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモがスマホの画面割れを保険でカバーするガラスフィルムを出しましたよ！通信キャリアでは初めてなんだとか。NTTグループはInterop Tokyo 2026で量子時代の安全な認証システムも発表してますね。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "幕張でInterop Tokyo 2026が始まり、ポスト量子暗号の最前線セッションが12日に予定されていますよ。arXivでは量子コンパイル技術で成功確率が最大68%も向上する手法が発表されていましたね！"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayの本人確認が事実上必須になりましたね。eKYC未完了だとポイントがもらえなくなっています。一方で、ステーブルコイン決済を手数料ゼロで使えるサービスも広がってますよ。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "FIFA W杯2026がいよいよ現地時間11日に開幕！日本代表の初戦は15日（月）のオランダ戦ですよ。G7サミットも15〜17日にフランス・エヴィアンで開かれ、高市首相が欧州訪問する予定ですね。"
+        }
+      ],
+      "must_read": {
+        "title": "EU AI法、8月2日から高リスクAI7分野に本格適用開始",
+        "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026",
+        "reason": "8月2日まであと55日。AI関連業務に関わる方は今月中に適合状況を確認しておきたいですよ。",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・EU AI法8月2日から高リスクAI7分野に本格適用\n・Microsoft MAI-Code-1-Flash・MAI-Thinking-1 6月2日公開済み\n・Gemini 3.5 Pro・Claude Mythos・GPT-5.6が6月中にリリース見込み"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・ドコモ通信初スマホ割れ保険付帯ガラスフィルム6月9日発売\n・NTTがInterop Tokyo 2026でSIM量子安全認証を展示"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・Interop Tokyo 2026でPQCセッション（6月12日、幕張）\n・arXiv: 量子コンパイルでVQE成功確率最大68%向上"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・PayPayポイント eKYC未完了ユーザーへ停止済み（6月2日〜）\n・HashPortがステーブルコイン決済無料化開始"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・FIFA W杯2026現地6月11日開幕・日本初戦6月15日オランダ戦\n・G7エヴィアン6月15〜17日・高市首相欧州訪問調整中\n・トランプ大統領がイランへの報復を示唆"
+        }
+      ],
+      "must_read": {
+        "title": "EU AI法、8月2日から高リスクAI7分野に本格適用開始",
+        "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026",
+        "reason": "8月2日適用まで55日。AI事業者は対応確認を。",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "EU AI法の高リスクAI適用（8月2日）、3大フロンティアモデルの同時リリース収束、FIFA W杯とG7サミットの重複開催は、テクノロジー規制・競争・地政学が同期して推移する転換点を形成している。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "EU AI法は8月2日から雇用判定・与信審査・教育評価・重要インフラ等7分野のAIシステムにドキュメント整備・リスク評価・人間監視体制を義務付ける。グローバル展開する日本企業への直接影響が55日後に発効する。Gemini 3.5 Pro（2Mトークンコンテキスト）・Claude Mythos・GPT-5.6の3モデル同時期リリースはフロンティアモデル間の選好競争を加速させる。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモのスマホ割れ保険付帯ガラスフィルムは端末保証領域での付加価値競争に新軸を加え、au・SoftBankの追随を促す。NTTグループのInterop Tokyo 2026でのSIM量子安全認証展示は、量子コンピュータ普及後の通信インフラ安全性確保に向けた先行投資であり、QKDやPQCと組み合わせた次世代認証アーキテクチャの実証を意味する。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "Interop Tokyo 2026でのPQCセッション（6月12日）はNIST FIPS 203-205標準化後の企業移行課題を扱い、通信・金融・製造各業界での実装加速を促す。arXiv論文の量子コンパイル手法（VQE成功確率68%向上）はNISQ期ソフトウェア最適化の進展を示し、量子×金融（CVaRポートフォリオ）研究も活発化している。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayのeKYC義務化完成は改正資金決済法の要請と連動しており、匿名決済の実質的廃止が完了した。KYC厳格化は不正利用抑制と引き換えに利用障壁を高めており、ユーザー離れリスクを内包する。HashPortのSC決済無料化は従来決済手数料（1〜3%）の撤廃を宣言するものであり、既存決済インフラへの構造的挑戦となる。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "FIFA W杯2026開幕と同日程でG7サミット（6月15〜17日）が重なり、イラン情勢をめぐるトランプ大統領の報復示唆が原油供給リスクを高めている。日経平均は6月8日に2563円安の64024円で引け、AI株売り圧力が継続。中東緊張のエスカレーションは原油コストを通じて日本の物価・金融政策にも波及する可能性がある。"
+        }
+      ],
+      "must_read": {
+        "title": "EU AI法、8月2日から高リスクAI7分野に本格適用開始",
+        "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026",
+        "reason": "適用まで55日。グローバルAI規制の最重要マイルストーンで、日本のAI事業者は利用シーンの法的分類と対応策を今月中に確定する必要がある。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 80,
+      "trend_history": [90, 92, 93, 95, 85, 88, 80],
+      "summary_short": "EU AI法8月適用55日前・3大AIモデル6月中リリース収束",
+      "summary_long": "EU AI法は8月2日から高リスクAI7分野に本格適用される。MicrosoftはMAI-Thinking-1とMAI-Code-1-Flashを6月2日に公開し、コーディングAI競争が激化。Claude Opus 4.8はSWE-bench 88.6%でトップを維持し、Mythos・Gemini 3.5 Pro・GPT-5.6が6月中に一斉リリース見込み。",
+      "articles": [
+        {
+          "title": "EU AI法、8月2日から高リスクAI7分野に本格適用開始",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026",
+          "source": "Build Fast with AI",
+          "summary_short": "EU AI法8月2日から雇用・教育等7分野に本格適用",
+          "summary_long": "EU AI法の高リスクAI規定が8月2日（適用まで55日）から発効し、雇用判定・与信審査・教育評価・重要インフラ等7分野のAIシステムに適合義務が課される。ドキュメント整備・リスク評価・人間監視体制が必須となり、グローバル展開する日本企業にも直接影響する。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "MicrosoftとGoogleがコーディングAIでAnthropicとOpenAIに対抗",
+          "url": "https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html",
+          "source": "CNBC",
+          "summary_short": "MSがMAI-Thinking-1・MAI-Code-1-Flashを6月公開",
+          "summary_long": "6月2日、MicrosoftはMAI-Thinking-1（推論特化）とMAI-Code-1-Flash（高速コード生成）を公開した。MAI-Thinking-1は盲目評価でClaude Sonnet 4.6を上回ると主張しているが独立検証は未完了。Googleもコーディング特化モデルで対抗しており、AI大手3社の競争が新局面に入った。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Claude Opus 4.8がSWE-bench 88.6%で首位維持、Mythos一般公開間近",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats",
+          "summary_short": "Claude Opus 4.8 SWE-bench 88.6%首位・Mythos間近",
+          "summary_long": "Claude Opus 4.8はSWE-bench Verified 88.6%・Terminal-Bench 2.1で74.6%を記録し首位を維持。Anthropicは「数週間内」にClaude Mythosを全顧客へ展開する予定と報じられており、Project Glasswingで1000以上のOSSプロジェクトから2.3万件の脆弱性を検出した実績を持つ。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "ClaudeのDAUが1100%増でシェア17%、Copilotは低下",
+          "url": "https://www.itmedia.co.jp/enterprise/articles/2606/05/news051.html",
+          "source": "ITmedia AIプラス",
+          "summary_short": "Claude DAU 1100%増・シェア17%でCopilot低下",
+          "summary_long": "Apptopiaの調査によると2026年初から5月末までのClaudeモバイルDAUが約1100%増加し、市場シェアはChatGPT約37%・Claude約17%となった。CopilotはAI市場での存在感が低下しており、Claude Codeの普及がユーザー数急拡大の主因と分析されている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Gemini 3.5 Pro・Claude Mythos・GPT-5.6が6月中にリリース予定",
+          "url": "https://centerbit.co/en/blog/ai-rumors-june-2026-gpt-5-6-gemini-3-5-pro-claude-mythos",
+          "source": "centerbit.co",
+          "summary_short": "3大AIモデルが6月中に一斉リリース見通し",
+          "summary_long": "OpenAIのGPT-5.6、GoogleのGemini 3.5 Pro（2Mトークンコンテキスト）、AnthropicのClaude Mythos 1が6月中に揃ってリリースされる見通しとなった。前例のない3社同時期リリースはコーディングエージェント・複雑推論の2分野での競争を軸に展開される。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 48,
+      "trend_history": [52, 50, 55, 48, 52, 55, 48],
+      "summary_short": "通信初スマホ割れ保険ガラスフィルム発売・量子安全認証展示",
+      "summary_long": "NTTドコモは6月9日、通信キャリア初のスマートフォン画面割れ保険付帯ガラスフィルムを発売した。NTTグループはInterop Tokyo 2026でSIMカードを活用した耐量子暗号対応の相互認証システムを展示しており、6月10〜12日に幕張メッセで公開中。",
+      "articles": [
+        {
+          "title": "通信キャリア初「スマホ画面割れ保険」付帯ガラスフィルムをドコモが6月9日に発売",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/06/09_00.html",
+          "source": "NTTドコモ",
+          "summary_short": "ドコモが通信初スマホ割れ保険付帯ガラスフィルム発売",
+          "summary_long": "NTTドコモは6月9日、通信キャリアとして初めてスマートフォン画面割れ保険を付帯したガラスフィルムの販売を開始した。端末保証領域での付加価値競争に新軸を加える動きで、au・SoftBankの追随も注目される。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTがInterop Tokyo 2026でSIMカード活用の量子安全相互認証システムを展示",
+          "url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0608.html",
+          "source": "NTT",
+          "summary_short": "NTTがSIM活用の量子安全認証をInterop Tokyo展示",
+          "summary_long": "NTTグループは6月8日発表でInterop Tokyo 2026においてSIMカードを活用した耐量子暗号（PQC）対応の相互認証システムを展示すると明らかにした。量子コンピュータ時代の通信インフラ安全性確保を見据えた先行実証で、6月10〜12日に幕張メッセで一般公開されている。",
+          "importance": 3,
+          "fetch_failed": true
+        },
+        {
+          "title": "AmazonアカウントとdアカウントをはじめてS連携でローソンアイス獲得キャンペーン",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/06/03_00.html",
+          "source": "NTTドコモ",
+          "summary_short": "ドコモがAmazon連携でローソンアイス獲得キャンペーン",
+          "summary_long": "NTTドコモは6月3日、AmazonとdアカウントをはじめてS連携したユーザーにローソンでアイスが獲得できるキャンペーンを開始した。Amazonとの提携強化を通じたdアカウントの活用推進策の一環として実施されている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 60,
+      "trend_history": [65, 78, 83, 78, 65, 68, 60],
+      "summary_short": "Interop Tokyo PQCセッション開催・arXivで量子コンパイル68%向上",
+      "summary_long": "Interop Tokyo 2026でポスト量子暗号の実装動向を解説するセッションが6月12日に開催される。arXiv最新論文では量子コンパイル手法によりVQEベンチマーク成功確率が最大68%向上した。IBMは量子コンピュータが実用フェーズに入ったと宣言しており、量子×金融の研究も活発化している。",
+      "articles": [
+        {
+          "title": "Interop Tokyo 2026でポスト量子暗号起動セッション開催（6月12日、幕張）",
+          "url": "https://f2ff.jp/introduction/12300?event_id=conf-2026-06",
+          "source": "Interop Tokyo カンファレンス 2026",
+          "summary_short": "Interop Tokyo 2026でPQC実装状況のセッション開催",
+          "summary_long": "Interop Tokyo カンファレンス 2026は6月10〜12日に幕張メッセで開催され、12日にはPQC（ポスト量子暗号）の機器・システム実装状況と業界最新動向を解説するセッションが予定される。NIST FIPS 203-205が標準化済みで、企業のPQC移行が実務課題となっている。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "arXiv: ハードウェア対応低遅延量子コンパイル手法でVQEベンチマーク成功確率68%向上",
+          "url": "https://arxiv.org/rss/quant-ph",
+          "source": "arXiv",
+          "summary_short": "量子コンパイル手法でVQE成功確率最大68%向上",
+          "summary_long": "インド工科大学ジョードプル校のChongder氏らは初期耐性NISQプロセッサで量子エラー検出を統合したコンパイルフレームワークを提案した。キュービット割り当てとスワップ挿入の共同最適化によりVQEベンチマークの成功確率が最大68%向上した。CVaRポートフォリオ最適化の量子アルゴリズム耐性評価論文も同RSSで公開された。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "量子コンピューターはついに実用フェーズへ、IBMが達成した実用的量子優位性",
+          "url": "https://enterprisezine.jp/article/detail/24247",
+          "source": "EnterpriseZine",
+          "summary_short": "IBM量子が実用フェーズ突入し量子優位性を実証",
+          "summary_long": "IBM Researchは「真に役立つ量子コンピューティングはすでに現実」と宣言した。2026年3月に「ハーフ・メビウス」分子の電子構造が量子コンピューターで解読され古典シミュレーションと完全一致。年内公開予定のKookaburraはqLDPCメモリと接続LPUによる量子プロセッサモジュールとなる。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 52,
+      "trend_history": [62, 68, 68, 65, 60, 58, 52],
+      "summary_short": "PayPayポイントeKYC義務化完成・SC決済無料化拡大",
+      "summary_long": "PayPayカードは6月2日から本人確認（eKYC）未完了ユーザーへのポイント付与を停止し、実質的なeKYC義務化が完了した。HashPortは大阪万博アプリ実績を持つステーブルコイン決済の無料化サービスを開始し、改正資金決済法施行後の競争が加速している。",
+      "articles": [
+        {
+          "title": "PayPayカード・PayPayステップ改悪─本人確認未完了ユーザーへのポイント停止",
+          "url": "https://news.yahoo.co.jp/expert/articles/58b0025881a2f9941ebf998018e8c7c88d3b94b3",
+          "source": "Yahoo!ニュース エキスパート",
+          "summary_short": "PayPayポイント本人確認未完了ユーザーへ停止",
+          "summary_long": "2026年6月2日から、本人確認（eKYC）を完了していないユーザーはPayPayステップのポイント付与対象外となった。PayPayカードをPayPayアプリに連携していないユーザーへのポイント付与も停止され、eKYCが決済サービス利用の実質的前提条件となった。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "HashPortがステーブルコイン決済無料化サービスを開始",
+          "url": "https://www.nikkei.com/article/DGXZQOUB232A00T20C26A1000000/",
+          "source": "日本経済新聞",
+          "summary_short": "HashPortがSC決済の無料化サービスを開始",
+          "summary_long": "大阪・関西万博のアプリ開発実績を持つフィンテック企業HashPortが、店舗・消費者間でステーブルコインを無料決済できるサービスを開始した。従来の決済手数料（平均1〜3%）を排除することで商業施設への普及を目指す。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "改正資金決済法施行後の電子決済手段実務対応─仲介業新設と信託型SC定義改正",
+          "url": "https://www.businesslawyers.jp/articles/1476",
+          "source": "BUSINESS LAWYERS",
+          "summary_short": "改正資金決済法施行でSC仲介業が新設",
+          "summary_long": "6月施行の改正資金決済法では電子決済手段の仲介のみを業とする「電子決済手段・暗号資産サービス仲介業」が新設された。信託型ステーブルコインの定義も改正され、外国発行SCの電子決済手段認定スキームが整備された。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": ["https://arxiv.org/rss/quant-ph"]
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 75,
+      "trend_history": [58, 62, 62, 68, 65, 65, 75],
+      "summary_short": "W杯2026明日開幕・G7エヴィアン15日・イラン情勢緊迫",
+      "summary_long": "FIFA W杯2026が現地時間6月11日に開幕し、日本代表の初戦は6月15日のオランダ戦。G7サミットはフランス・エヴィアンで6月15〜17日に開催予定で、高市首相が欧州訪問を調整している。トランプ大統領が「イランが米軍ヘリを撃墜」と主張し報復を示唆した。",
+      "articles": [
+        {
+          "title": "FIFA W杯2026現地時間6月11日開幕、日本代表初戦は15日のオランダ戦",
+          "url": "https://prtimes.jp/main/html/rd/p/000000061.000160617.html",
+          "source": "NHK",
+          "summary_short": "W杯2026現地11日開幕・日本初戦15日オランダ戦",
+          "summary_long": "FIFA W杯2026は現地時間6月11日にメキシコシティで開幕し7月19日まで米・加・墨3カ国で開催される。NHKは地上波で19試合を生中継予定。日本代表の初戦は6月15日（日本時間5時）のオランダ戦で、ダラス・スタジアムで行われる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "G7サミット仏エヴィアンで6月15〜17日開催、高市首相が英伊訪問も調整",
+          "url": "https://news.web.nhk/newsweb/na/na-k10015139711000",
+          "source": "NHK",
+          "summary_short": "G7エヴィアン6月15〜17日・高市首相欧州訪問調整",
+          "summary_long": "第52回G7サミットがフランス・エヴィアンで6月15〜17日に開催される。高市早苗首相は英国・イタリアでも個別首脳会談を実施する方向で調整中で、イラン情勢・次期戦闘機共同開発・重要鉱物サプライチェーン強化が主要議題となる見通し。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "トランプ大統領「イランが米軍ヘリを撃墜」と主張し報復を示唆",
+          "url": "https://news.web.nhk/newsweb",
+          "source": "NHK",
+          "summary_short": "トランプ大統領がイランへの報復示唆",
+          "summary_long": "トランプ大統領は6月10日、イランが米軍ヘリコプターを撃墜したと主張し報復を示唆した。イランとの緊張がエスカレートすれば中東の原油供給への影響が懸念され、日本のエネルギーコストに波及する可能性がある。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "日経平均6月8日に2563円安の64024円、AI株売り圧力継続",
+          "url": "https://www.nikkei.com/article/DGXZQOFL080O7TY6A600C2000000/",
+          "source": "日本経済新聞",
+          "summary_short": "日経平均6月8日2563円安64024円・AI株売り",
+          "summary_long": "6月8日の日経平均株価は前日比2563円安の64024円で引け、2026年で2番目の下落幅となった。米国の雇用統計が強く利上げ観測が高まり、AI関連銘柄を中心に売りが広がった。6月10日の取引開始時点では541円安で始まった。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 80,
+      "NTTドコモ": 48,
+      "量子コンピュータ": 60,
+      "金融決済": 52,
+      "国内・社会": 75
+    },
+    "source_distribution": {
+      "Build Fast with AI": 1,
+      "CNBC": 1,
+      "LLM Stats": 1,
+      "ITmedia AIプラス": 1,
+      "centerbit.co": 1,
+      "NTTドコモ": 2,
+      "NTT": 1,
+      "Interop Tokyo カンファレンス 2026": 1,
+      "arXiv": 1,
+      "EnterpriseZine": 1,
+      "Yahoo!ニュース エキスパート": 1,
+      "日本経済新聞": 2,
+      "BUSINESS LAWYERS": 1,
+      "NHK": 3
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 8,
+      "4": 10,
+      "5": 0
+    }
+  }
+}

@@ -1,6 +1,10 @@
 {
-  "last_updated": "2026-06-09T06:10:00+09:00",
+  "last_updated": "2026-06-10T06:30:00+09:00",
   "reports": [
+    {
+      "date": "2026-06-10",
+      "headline": "FIFA W杯2026現地11日開幕・日本初戦15日オランダ戦・G7エヴィアン15〜17日・EU AI法8月適用55日前・Interop Tokyo PQCセッション・PayPay eKYC義務化完成・日経平均64024円"
+    },
     {
       "date": "2026-06-09",
       "headline": "MicrosoftMAI-Thinking-1が盲目評価でClaude Sonnet 4.6を上回ると主張・AnthropicパートナーServicesTrack公式化・ドコモSyncMe先行5000名モニター継続・QuantinuumIPO完了16.8億ドル・日経平均64024円急落AI株売り・高市首相来週G7サミット仏エヴィアン"
@@ -243,7 +247,7 @@
     {
       "name": "NTTドコモ",
       "url": "https://www.docomo.ne.jp",
-      "count": 41
+      "count": 43
     },
     {
       "name": "NTTドコモビジネス",
@@ -253,7 +257,7 @@
     {
       "name": "arXiv",
       "url": "https://arxiv.org",
-      "count": 17
+      "count": 18
     },
     {
       "name": "日本銀行",
@@ -268,7 +272,7 @@
     {
       "name": "日本経済新聞",
       "url": "https://www.nikkei.com",
-      "count": 58
+      "count": 60
     },
     {
       "name": "NVIDIA",
@@ -303,7 +307,7 @@
     {
       "name": "CNBC",
       "url": "https://www.cnbc.com",
-      "count": 5
+      "count": 6
     },
     {
       "name": "BigGo",
@@ -393,7 +397,7 @@
     {
       "name": "ITmedia AIプラス",
       "url": "https://www.itmedia.co.jp",
-      "count": 11
+      "count": 12
     },
     {
       "name": "gihyo.jp",
@@ -448,7 +452,7 @@
     {
       "name": "Yahoo!ニュース エキスパート",
       "url": "https://news.yahoo.co.jp",
-      "count": 9
+      "count": 10
     },
     {
       "name": "AI Academy Note",
@@ -483,7 +487,7 @@
     {
       "name": "NHK",
       "url": "https://news.web.nhk.newsweb",
-      "count": 23
+      "count": 26
     },
     {
       "name": "PR TIMES",
@@ -528,7 +532,7 @@
     {
       "name": "BUSINESS LAWYERS",
       "url": "https://www.businesslawyers.jp",
-      "count": 6
+      "count": 7
     },
     {
       "name": "DGフィナンシャルテクノロジー",
@@ -603,7 +607,7 @@
     {
       "name": "NTT",
       "url": "https://group.ntt",
-      "count": 1
+      "count": 2
     },
     {
       "name": "QNews Channel",
@@ -678,7 +682,7 @@
     {
       "name": "LLM Stats",
       "url": "https://llm-stats.com",
-      "count": 3
+      "count": 4
     },
     {
       "name": "富士通広報note",
@@ -828,7 +832,7 @@
     {
       "name": "EnterpriseZine",
       "url": "https://enterprisezine.jp",
-      "count": 5
+      "count": 6
     },
     {
       "name": "Ledge.ai",
@@ -1133,6 +1137,21 @@
     {
       "name": "The HEADLINE",
       "url": "https://www.theheadline.jp",
+      "count": 1
+    },
+    {
+      "name": "Build Fast with AI",
+      "url": "https://www.buildfastwithai.com",
+      "count": 1
+    },
+    {
+      "name": "centerbit.co",
+      "url": "https://centerbit.co",
+      "count": 1
+    },
+    {
+      "name": "Interop Tokyo カンファレンス 2026",
+      "url": "https://f2ff.jp",
       "count": 1
     }
   ],
