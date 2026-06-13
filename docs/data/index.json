@@ -1,6 +1,10 @@
 {
-  "last_updated": "2026-06-10T06:30:00+09:00",
+  "last_updated": "2026-06-13T06:30:00+09:00",
   "reports": [
+    {
+      "date": "2026-06-13",
+      "headline": "Claude Fable 5一般公開Mythos級6月22日まで無料・ドコモdカードGoogle Pay対応・タイミー住信SBI金融提携・IBM量子100億ドル投資・G7エヴィアン15日開幕・日経平均66,020円"
+    },
     {
       "date": "2026-06-10",
       "headline": "FIFA W杯2026現地11日開幕・日本初戦15日オランダ戦・G7エヴィアン15〜17日・EU AI法8月適用55日前・Interop Tokyo PQCセッション・PayPay eKYC義務化完成・日経平均64024円"
@@ -227,7 +231,7 @@
     {
       "name": "Anthropic",
       "url": "https://www.anthropic.com",
-      "count": 15
+      "count": 16
     },
     {
       "name": "SAP",
@@ -247,7 +251,7 @@
     {
       "name": "NTTドコモ",
       "url": "https://www.docomo.ne.jp",
-      "count": 43
+      "count": 47
     },
     {
       "name": "NTTドコモビジネス",
@@ -257,7 +261,7 @@
     {
       "name": "arXiv",
       "url": "https://arxiv.org",
-      "count": 18
+      "count": 19
     },
     {
       "name": "日本銀行",
@@ -272,7 +276,7 @@
     {
       "name": "日本経済新聞",
       "url": "https://www.nikkei.com",
-      "count": 60
+      "count": 61
     },
     {
       "name": "NVIDIA",
@@ -392,7 +396,7 @@
     {
       "name": "Gizmodo Japan",
       "url": "https://www.gizmodo.jp",
-      "count": 11
+      "count": 12
     },
     {
       "name": "ITmedia AIプラス",
@@ -492,7 +496,7 @@
     {
       "name": "PR TIMES",
       "url": "https://prtimes.jp",
-      "count": 11
+      "count": 12
     },
     {
       "name": "マイナビニュース",
@@ -517,12 +521,12 @@
     {
       "name": "Medium",
       "url": "https://medium.com",
-      "count": 1
+      "count": 2
     },
     {
       "name": "The Quantum Insider",
       "url": "https://thequantuminsider.com",
-      "count": 5
+      "count": 6
     },
     {
       "name": "AIメディア",
@@ -532,7 +536,7 @@
     {
       "name": "BUSINESS LAWYERS",
       "url": "https://www.businesslawyers.jp",
-      "count": 7
+      "count": 8
     },
     {
       "name": "DGフィナンシャルテクノロジー",
@@ -637,7 +641,7 @@
     {
       "name": "フィデックス",
       "url": "https://www.fidx.co.jp",
-      "count": 4
+      "count": 5
     },
     {
       "name": "CoinPost",
@@ -767,7 +771,7 @@
     {
       "name": "外務省",
       "url": "https://www.mofa.go.jp",
-      "count": 2
+      "count": 3
     },
     {
       "name": "エキサイトニュース",
@@ -897,12 +901,12 @@
     {
       "name": "Yahoo!ファイナンス",
       "url": "https://finance.yahoo.co.jp",
-      "count": 2
+      "count": 3
     },
     {
       "name": "テクノエッジ",
       "url": "https://www.techno-edge.net",
-      "count": 5
+      "count": 6
     },
     {
       "name": "Tom's Hardware",
@@ -1152,6 +1156,16 @@
     {
       "name": "Interop Tokyo カンファレンス 2026",
       "url": "https://f2ff.jp",
+      "count": 1
+    },
+    {
+      "name": "ホワイトハウス",
+      "url": "https://www.whitehouse.gov",
+      "count": 1
+    },
+    {
+      "name": "JFA",
+      "url": "https://www.jfa.jp",
       "count": 1
     }
   ],

@@ -1,0 +1,384 @@
+{
+  "date": "2026-06-13",
+  "generated_at": "2026-06-13T06:30:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "AnthropicがMythos級AI「Claude Fable 5」を6月9日に一般公開し、G7エヴィアンサミット（15〜17日）開幕を翌々日に控えた。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicはMythos級最高性能AIモデル「Claude Fable 5」を6月9日に一般公開した。デフォルト100万トークン対応でAPI価格は入力10ドル・出力50ドル/百万トークン、6月22日まで有料プランで無料利用可能。サブスクリプション料金体系は6月15日から対話型とエージェント型で別枠化される。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモは6月12日にdカードのGoogle Pay対応を発表し、6月11日にはタイミー・住信SBIネット銀行との金融業務提携基本合意を締結した。MR技術「World Link Door」の体験型実証実験も同日開始し、グループ全体でAI活用度4段階評価の人材制度を整備した。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMとGoogleがqLDPC符号による100対1の論理量子ビット比を達成し、NISQ期から耐故障量子時代への移行を宣言した。IBMは5年間で100億ドル超の量子投資計画を公表し、2029年までの大規模耐故障型量子コンピュータ実現を目指す。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "改正資金決済法の6月施行に伴い外国ステーブルコインの電子決済手段認定制度が本格始動した。JPYCとTISは2026年秋のステーブルコイン決済支援サービス正式提供を目指しPoC推進中で、NTTドコモも金融領域での提携を拡大している。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "G7首脳会議が6月15〜17日にフランス・エヴィアンで開催される。AI・重要鉱物が主要議題で2年連続の首脳宣言見送りが調整中。日経平均は6月12日終値66,020円で推移し、FIFA W杯2026の日本代表初戦は6月15日オランダ戦となった。"
+        }
+      ],
+      "must_read": {
+        "title": "AnthropicがMythos級AI「Claude Fable 5」を一般公開、100万トークン対応",
+        "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+        "reason": "限定公開だったMythos級能力が一般開放され、ソフトウェアエンジニアリング・知識労働・ビジョン処理の全分野で最高性能を誇る。6月22日まで無料試用可能で企業導入の判断材料として今週中の確認が重要。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "AnthropicがついにMythos級AI「Claude Fable 5」を一般公開しましたよ！しかも6月22日まで無料で使えるチャンスです。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "なんとAnthropicが「Claude Fable 5」を一般公開しました！これまでProject Glasswingで限定提供してきたMythos級の最強AIですよ。100万トークン対応で、22日まで有料プランなら無料で試せますよ。6月15日からはエージェント利用のクレジットが別枠になるので要チェックですね！"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモからいくつかニュースがありましたね。dカードがGoogle Payに対応したのは便利ですね！タイミーや住信SBIネット銀行との金融提携も発表されていますよ。MR技術「World Link Door」の実証実験も始まり、AI人材の評価制度も整備されているみたいですよ。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMとGoogleが量子コンピュータの大きな壁を超えましたよ！qLDPC符号で100個の物理量子ビットから1個の論理量子ビットを作れるようになって、実用化に向けた耐故障時代に入ったとのことです。IBMが5年で100億ドルも投資するのも納得ですね。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "改正資金決済法が施行されて、外国のステーブルコインが正式に電子決済手段として使えるようになりましたよ。JPYCとTISの協業も進んでいて、秋には本格サービスが始まる見通しです。ドコモも金融分野に力を入れていますね。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "いよいよ15日からG7サミットがフランス・エヴィアンで始まりますよ。AIや重要鉱物が議題になる見通しです。同じ15日には日本代表のW杯初戦、オランダ戦もありますね！日経平均は6万6020円で推移していますよ。"
+        }
+      ],
+      "must_read": {
+        "title": "AnthropicがMythos級AI「Claude Fable 5」を一般公開、100万トークン対応",
+        "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+        "reason": "6月22日まで有料プランで無料利用できるので今すぐ試すチャンスですよ。企業での本格活用を検討している方は今週中が勝負ですね！",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Claude Fable 5（Mythos級）一般公開・1Mトークン・6月22日まで無料\n・Anthropicサブスク料金6月15日から対話型とエージェント型を別枠化\n・米大統領令でAI革新・安全保障促進方針を表明（6月2日発令）"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・dカードGoogle Pay対応（6月12日発表）\n・タイミー・住信SBIネット銀行と金融業務提携基本合意（6月11日）\n・MR技術「World Link Door」体験型実証実験開始"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・IBM・GoogleがqLDPC符号で100:1論理量子ビット達成・FTQC時代へ\n・IBM5年100億ドル量子投資計画・2029年大規模耐故障機目標"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・改正資金決済法6月施行・外国SC電子決済手段認定制度始動\n・JPYC×TISが秋に正式サービス提供へ向けPoC推進中"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・G7エヴィアンサミット6月15〜17日開幕（2日後）\n・FIFA W杯日本代表初戦6月15日オランダ戦・日経平均66,020円（6月12日終値）"
+        }
+      ],
+      "must_read": {
+        "title": "AnthropicがMythos級AI「Claude Fable 5」を一般公開、100万トークン対応",
+        "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+        "reason": "6月22日まで無料試用可。AI最前線ユーザーは今週中の確認を。",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "Claude Fable 5の一般公開はAIアクセス民主化の転換点を画し、同時進行するAnthropicの料金再設計・米政府AI大統領令・G7議題化はAI産業の規制・競争・ガバナンス構造が収束する局面を示す。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Claude Fable 5は従来のMythos-classモデル（Project Glasswing限定）を一般公開したもので、サイバーセキュリティ・生物学等の高リスク領域ではOpus 4.8へ自動フォールバックする安全機構を内蔵する。Stripe社の事例では50Mライン規模のRubyコードベース移行を2ヶ月相当から1日に短縮した実績がある。API価格は入力$10・出力$50/百万トークンとOpus 4.8の2倍で、6月15日のエージェント利用別枠化は従量課金モデルへの本格移行を意味する。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "dカードのGoogle Pay対応とタイミー・住信SBIネット銀行との金融業務提携は、ドコモFGが掲げる2030年金融収益倍増計画の実行フェーズを示す。タイミー（スポットワーク）との連携は短期労働者の給与即時受取ニーズへの対応で、住信SBIとの協業は銀行免許を持たないMVNO事業者が金融サービスを拡充するBaaS型戦略の典型例である。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMとGoogleのqLDPC符号による100:1物理/論理量子ビット達成はNature誌掲載レベルの成果で、NISQからFTQC時代への産業移行の公式宣言に相当する。IBMの10億ドル規模投資計画は米国の量子技術覇権維持戦略と連動しており、中国・欧州との競争が激化する中で2029年大規模耐故障機の実現が地政学的重要性を持つ。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "改正資金決済法施行による外国SC認定制度は、海外発行ステーブルコインの国内法的地位を確立し外資系フィンテックの参入障壁を整備する一方、既存銀行・決済事業者との競争環境を激変させる。JPYC・TISのPoC進展と組み合わせると、2026年秋以降に日本のデジタル決済市場でSCが実用インフラ化する第一段階が完成する見通しである。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "G7エヴィアンで2年連続の首脳宣言見送りが濃厚な背景には、重要鉱物・AIガバナンスでの米欧間の溝があり、AIについては6月2日発令の米大統領令（革新優先・規制最小）とEUのAI法（義務化路線）の対立が象徴的である。日経平均は6月8日の64,024円から12日に66,020円へ回復しており、Claude Fable 5公開に伴うAI関連株の買い戻しも一因と分析される。"
+        }
+      ],
+      "must_read": {
+        "title": "AnthropicがMythos級AI「Claude Fable 5」を一般公開、100万トークン対応",
+        "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+        "reason": "Mythos級能力の一般開放はAI性能格差の急速な縮小を意味し、エンタープライズAI導入戦略の再設計を迫る。6月22日以降の有料化・エージェント別枠化と組み合わせて、今後のAnthropicコスト構造を早期把握する必要がある。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 88,
+      "trend_history": [95, 85, 88, 80, 90, 91, 88],
+      "summary_short": "Claude Fable 5一般公開・6月22日まで無料・米AI大統領令発令",
+      "summary_long": "AnthropicがMythos級「Claude Fable 5」を6月9日に一般公開した。1Mトークン対応で6月22日まで有料プランで無料利用可能。APIは入力$10・出力$50/百万トークン。6月15日からサブスクでエージェント利用クレジットが別枠化。米政府は6月2日にAI革新・安全保障促進大統領令を発令した。",
+      "articles": [
+        {
+          "title": "AnthropicがMythos級AI「Claude Fable 5」「Claude Mythos 5」を発表・一般公開",
+          "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+          "source": "Anthropic",
+          "summary_short": "AnthropicがMythos級「Claude Fable 5」を6月9日に一般公開した。",
+          "summary_long": "AnthropicはProject Glasswing限定だったMythos級モデルを「Claude Fable 5」として一般公開した。デフォルト1Mトークン対応でソフトウェアエンジニアリング・知識労働・ビジョン処理で最高性能。API価格は入力$10・出力$50/百万トークン。6月22日まで有料プランで無料利用可能。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "AnthropicがClaude Fable 5を一般公開—危険すぎて公開できなかったMythosクラスをセーフガード付きで解禁",
+          "url": "https://www.gizmodo.jp/article/anthropic_releases_claude_fable_5_and_mythos_5/",
+          "source": "Gizmodo Japan",
+          "summary_short": "Fable 5は高リスク領域でOpus 4.8に自動フォールバックする安全機構を内蔵。",
+          "summary_long": "Gizmodo Japanによると、Claude Fable 5はサイバーセキュリティ・生物学など高リスク領域では自動的にClaude Opus 4.8へフォールバックする安全機構を内蔵する。Stripe社の事例では50Mラインのコードベース移行を2ヶ月相当から1日に短縮した実績が報告されている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "AnthropicがClaudeサブスク刷新—エージェント利用を別枠化、6月15日から実質値上げも",
+          "url": "https://www.techno-edge.net/article/2026/05/14/5064.html",
+          "source": "テクノエッジ",
+          "summary_short": "Anthropicが6月15日からエージェント利用クレジットを対話型と分離する。",
+          "summary_long": "テクノエッジの報道によれば、6月15日からAnthropicのサブスクは「対話型Claude利用」と「コードからのAPI自動実行」で独立したクレジットプールに分離される。エージェントを多用するユーザーには実質的な値上げとなり、利用パターンの見直しが必要になる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "米ホワイトハウス、AI革新・安全保障促進に関する大統領令を発令（6月2日）",
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
+          "source": "ホワイトハウス",
+          "summary_short": "米政府がAI革新・安全保障促進を目的とした大統領令を6月2日に発令した。",
+          "summary_long": "米政府は6月2日、AI産業革新促進と国家安全保障強化を両立する大統領令を発令した。政府情報システムのサイバー防御を30〜60日以内に優先化し、業界との協力でフロンティアAIモデルの安全配置枠組みを設計するとした。過度な規制を避け急速なAI導入を加速させる方針が示された。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 58,
+      "trend_history": [55, 48, 52, 55, 48, 55, 58],
+      "summary_short": "dカードGoogle Pay対応・タイミー住信SBIと金融提携・MR実証開始",
+      "summary_long": "NTTドコモは6月12日にdカードのGoogle Pay対応を発表し、6月11日にはタイミー・住信SBIネット銀行と金融業務提携の基本合意を締結した。同日、MR技術「World Link Door」の体験型実証実験も開始した。グループ全体でAI活用度4段階評価の新人材制度も整備されている。",
+      "articles": [
+        {
+          "title": "「dカード」がGoogle Payに対応—NTTドコモが6月12日に発表",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/06/12_00.html",
+          "source": "NTTドコモ",
+          "summary_short": "NTTドコモがdカードのGoogle Pay対応を6月12日に発表した。",
+          "summary_long": "NTTドコモは6月12日、dカードがGoogle Payに対応することを発表した。Android端末でのiD決済に加え、Google Payのタッチ決済にも対応可能となり、決済の利便性が向上する。ドコモFGの金融収益拡大計画の一環として位置づけられている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモ、タイミーおよび住信SBIネット銀行と金融領域で業務提携基本合意",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/06/11_00.html",
+          "source": "NTTドコモ",
+          "summary_short": "ドコモがタイミー・住信SBIと金融業務提携の基本合意を6月11日に締結した。",
+          "summary_long": "NTTドコモは6月11日、スポットワーク大手タイミーと住信SBIネット銀行の3社間で金融領域における業務提携の基本合意書を締結した。短期労働者の給与即時受取ニーズと通信キャリアの顧客基盤を組み合わせたBaaS型金融サービスの拡充を目指す。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモ系、社員のAI活用度を4段階で評価する新人材制度を開始",
+          "url": "https://www.nikkei.com/article/DGXZQOUC1252H0S6A310C2000000/",
+          "source": "日本経済新聞",
+          "summary_short": "NTTドコモグループが社員のAI活用度を4段階で評価する新人材制度を整備した。",
+          "summary_long": "NTTドコモソリューションズは社員のAI活用実践力をWhiteBelt・YellowBelt・GreenBelt・BlackBeltの4段階で認定する人材制度を開始した。AIエージェントによる客観評価を採用し、2027年度末までにGreenBelt以上400人の育成を目標とする。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "「dカード」のオンライン入会にiPhoneのマイナンバーカード本人確認を追加",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/06/11_01.html",
+          "source": "NTTドコモ",
+          "summary_short": "dカード入会手続きにiPhoneマイナンバーカード本人確認が追加された。",
+          "summary_long": "NTTドコモは6月11日、dカードのオンライン入会手続きの本人確認にiPhoneのマイナンバーカードを活用したオンライン本人確認を追加すると発表した。eKYCの多様化により入会ハードルの低下と不正申込防止の両立を図る。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモ、リアルとバーチャルを行き来するMR技術「World Link Door」の実証実験を開始",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/06/11_02.html",
+          "source": "NTTドコモ",
+          "summary_short": "ドコモがリアル・バーチャル融合MR技術「World Link Door」の実証実験を開始した。",
+          "summary_long": "NTTドコモは6月11日、リアル空間とバーチャル空間を自然に行き来できるMR（Mixed Reality）技術「World Link Door」の体験型実証実験を開始した。5G回線を活用した没入型コミュニケーション基盤の実用化に向けた技術検証が目的で、商業施設や公共空間での展開を見据える。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 65,
+      "trend_history": [83, 78, 65, 68, 60, 62, 65],
+      "summary_short": "IBM・Google qLDPC100:1達成でFTQC時代へ・IBM100億ドル投資",
+      "summary_long": "IBMとGoogleが共同研究でqLDPC符号による物理100対1論理量子ビット比を達成し、NISQ期から耐故障量子コンピューティング時代への移行を宣言した。IBMは5年間100億ドル超の量子投資計画を公表し2029年の大規模耐故障型実現を目指す。arXiv quant-phには50件の新着論文が登録された。",
+      "articles": [
+        {
+          "title": "IBMとGoogleがqLDPC量子誤り訂正で100:1ブレイクスルー達成—FTQC時代へ移行",
+          "url": "https://medium.com/@smallpamela5189/the-quantum-convergence-decoding-the-2026-ibm-google-breakthrough-84bd7851a541",
+          "source": "Medium",
+          "summary_short": "IBMとGoogleが物理量子ビット100対1論理量子ビットを達成し耐故障量子時代へ移行した。",
+          "summary_long": "2026年5月、IBMとGoogleはqLDPC符号を用いた共同研究で物理100個に対して論理1個の量子ビット比率を達成した。NISQからFTQC（耐故障量子コンピューティング）時代への移行が業界公式に宣言され、量子コンピューティングの商業化に向けた重要マイルストーンとなった。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "IBMが5年間で100億ドル超の量子コンピューティング投資計画を発表",
+          "url": "https://thequantuminsider.com/2026/05/28/ibm-plans-10-billion-quantum-push-as-efforts-to-commercialize-quantum-intensifies/",
+          "source": "The Quantum Insider",
+          "summary_short": "IBMが5年間で100億ドルの量子コンピューティング投資計画を発表した。",
+          "summary_long": "IBMは2026年5月、量子コンピューティングに5年間で100億ドル超を投資する計画を発表した。2029年までの大規模耐故障型量子コンピュータ実現を目標とし、Kookaburraプロセッサを含む次世代ロードマップを推進。世界の量子投資総額は2026年に173億ドルに達した。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "arXiv quant-ph 2026年6月12日付 新着論文50件—量子誤り訂正・量子アルゴリズム中心",
+          "url": "https://arxiv.org/rss/quant-ph",
+          "source": "arXiv",
+          "summary_short": "6月12日付arXiv quant-phに量子論文が50件新着登録された。",
+          "summary_long": "arXivのquant-ph（量子物理学）フィードには6月12日付で50件の新着論文が登録された。量子誤り訂正・量子アルゴリズム・量子シミュレーションが主要トピックで、金融最適化（CVaR）や創薬分野への量子アルゴリズム応用研究も含まれる。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 45,
+      "trend_history": [68, 65, 60, 58, 52, 46, 45],
+      "summary_short": "改正資金決済法6月施行SC認定制度始動・JPYC×TIS秋提供へ",
+      "summary_long": "改正資金決済法の6月施行に伴い外国ステーブルコインの電子決済手段認定制度が本格始動した。JPYCとTISは2026年秋のステーブルコイン決済支援サービス正式提供を目指してPoCを推進中。NTTドコモのタイミー・住信SBI提携も金融デジタル化を加速させている。",
+      "articles": [
+        {
+          "title": "改正資金決済法6月施行—外国SC電子決済手段認定制度と仲介業新設の実務対応",
+          "url": "https://www.businesslawyers.jp/articles/1476",
+          "source": "BUSINESS LAWYERS",
+          "summary_short": "改正資金決済法6月施行で外国SC認定制度が始動し仲介業も新設された。",
+          "summary_long": "6月施行の改正資金決済法では外国発行ステーブルコインの電子決済手段認定スキームが整備され、「電子決済手段・暗号資産サービス仲介業」が新設された。信託型ステーブルコインの定義改正により要求払預貯金以外での信託財産管理も条件付きで認められることとなった。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "JPYCとTIS、ステーブルコイン決済支援サービスのPoC開始・2026年秋の正式提供目指す",
+          "url": "https://prtimes.jp/main/html/rd/p/000000290.000054018.html",
+          "source": "PR TIMES",
+          "summary_short": "JPYCとTISが2026年秋のステーブルコイン決済支援サービス正式提供を目指す。",
+          "summary_long": "JPYC株式会社とTIS株式会社は日本円建ステーブルコイン「JPYC」の社会実装に向けPoC（概念実証）を推進中で、2026年春から夏のPoC結果を踏まえ秋以降に「ステーブルコイン決済支援サービス」の正式提供開始を目指す。Ethereum・Avalanche等複数チェーンに対応する。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "2026年最新ステーブルコイン市場動向—「決済インフラになる」は本当か？",
+          "url": "https://www.fidx.co.jp/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91%E3%80%8C%E6%B1%BA%E6%B8%88%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%81%AB%E3%81%AA%E3%82%8B%E3%80%8D%E3%81%AF%E6%9C%AC%E5%BD%93%E3%81%8B%EF%BC%9F/",
+          "source": "フィデックス",
+          "summary_short": "2026年のステーブルコイン市場動向と決済インフラ化の実態を分析した。",
+          "summary_long": "フィデックスの分析によると、2026年の日本のステーブルコイン市場は改正資金決済法施行とJPYC一般提供開始を契機に実用化フェーズへ移行した。国内発行の信託型・前払式の2形態が並行して普及しており、PayPay等の既存決済プラットフォームとの棲み分けが課題となっている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": [
+        "https://www.docomo.ne.jp/info/news_release/2026/06/11_00.html"
+      ]
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 62,
+      "trend_history": [62, 68, 65, 65, 75, 66, 62],
+      "summary_short": "G7エヴィアン6月15日開幕・W杯日本初戦15日・日経平均66,020円",
+      "summary_long": "G7首脳会議が6月15〜17日にフランス・エヴィアンで開催される。AI・重要鉱物が主要議題で2年連続の首脳宣言見送りが調整中。FIFA W杯2026の日本代表初戦は6月15日のオランダ戦。日経平均は6月12日終値66,020円で推移しAI関連株の買い戻しも一因と分析される。",
+      "articles": [
+        {
+          "title": "G7サミット仏エヴィアン6月15〜17日開催—AI・重要鉱物を主要議題に首脳宣言は見送り調整",
+          "url": "https://www.mofa.go.jp/mofaj/ecm/ec/pagew_000001_02321.html",
+          "source": "外務省",
+          "summary_short": "G7エヴィアンサミットが6月15〜17日に開催、首脳宣言は2年連続見送り調整中。",
+          "summary_long": "第52回G7サミットが6月15〜17日にフランス・エヴィアンで開催される（日程は当初14〜16日から変更）。AI・重要鉱物・量子技術の3分野が主要議題で、米欧のAIガバナンス路線の対立から2年連続で首脳宣言の見送りが調整されている。高市首相は英・伊との個別首脳会談も調整中。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "FIFA W杯2026日本代表初戦は6月15日オランダ戦、ダラスで現地時間16時キックオフ",
+          "url": "https://www.jfa.jp/samuraiblue/worldcup_2026/schedule_result/",
+          "source": "JFA",
+          "summary_short": "W杯2026日本代表初戦が6月15日オランダ戦、日本時間5時キックオフ。",
+          "summary_long": "FIFA W杯2026グループステージの日本代表初戦は6月15日（日本時間5:00）にダラス・スタジアムでオランダと対戦する。W杯は現地時間6月11日に北中米で開幕済みで、NHKが地上波19試合を生中継予定。グループステージ突破には3試合での結果が鍵となる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "日経平均6月12日終値66,020円—AI関連株の買い戻しで6月8日安値から約2,000円回復",
+          "url": "https://finance.yahoo.co.jp/quote/998407.O/history",
+          "source": "Yahoo!ファイナンス",
+          "summary_short": "日経平均6月12日終値66,020円、6月8日安値64,024円から回復基調。",
+          "summary_long": "6月12日の日経平均終値は66,020円で、6月8日の64,024円（2026年2番目の下落幅）からおよそ2,000円回復した。Claude Fable 5公開に伴うAI関連株の買い戻しと外国為替（1ドル160.21円台）の落ち着きが回復の一因と分析されている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 88,
+      "NTTドコモ": 58,
+      "量子コンピュータ": 65,
+      "金融決済": 45,
+      "国内・社会": 62
+    },
+    "source_distribution": {
+      "Anthropic": 1,
+      "Gizmodo Japan": 1,
+      "テクノエッジ": 1,
+      "ホワイトハウス": 1,
+      "NTTドコモ": 4,
+      "日本経済新聞": 1,
+      "Medium": 1,
+      "The Quantum Insider": 1,
+      "arXiv": 1,
+      "BUSINESS LAWYERS": 1,
+      "PR TIMES": 1,
+      "フィデックス": 1,
+      "外務省": 1,
+      "JFA": 1,
+      "Yahoo!ファイナンス": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 6,
+      "4": 10,
+      "5": 2
+    }
+  }
+}
