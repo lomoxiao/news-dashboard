@@ -1,0 +1,371 @@
+{
+  "date": "2026-06-14",
+  "generated_at": "2026-06-14T06:30:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "米政府の輸出管理指令によりAnthropicがFable 5・Mythos 5の提供を全面停止した。G7エヴィアンサミットは明日15日に開幕し、高市首相が重要鉱物の共同備蓄を提案する。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "米政府は6月12日、国家安全保障を理由にAnthropicへ輸出管理指令を発令。Anthropicは同日午後、「Claude Fable 5」「Claude Mythos 5」への全顧客アクセスを即時停止した。Claude Opus 4.8・Sonnet 4.6・Haiku 4.5は引き続き利用可能。SpaceXは6月12日にNASDAQ上場し、時価総額2.1兆ドルで史上最大IPOを達成した。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモビジネスがInterop Tokyo 2026 Best of Show Awardグランプリを受賞した。IOWN APNを活用した過去最大距離のダイナミック動態展示が受賞対象で、6G時代の光ネットワーク優位性を実証した。ドコモはSIMカードを活用した量子コンピュータ時代対応の耐量子暗号認証システムも展示した。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "富士通と理化学研究所は2026年内に1,000量子ビット超伝導量子コンピュータを神奈川・川崎の量子棟に建設すると明らかにした。2030年度には1万量子ビットを目指す長期ロードマップが示された。arXiv quant-phの6月分合計論文数は697件に達し、量子誤り訂正・量子アルゴリズム分野が牽引している。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "SpaceXが6月12日にNASDAQ上場し、初値は公開価格比19%高で時価総額は1.75兆ドルに達した。史上最大のIPOとなり、日本の楽天証券など国内証券会社でも初日から取引可能となった。PayPay改悪（eKYC必須・ポイント付与ルール変更・公共料金還元半減）の全容が6月2日の施行後に明確化された。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "高市首相は6月13日に欧州に向け出発し、6月15〜17日のG7エヴィアンサミットに出席する。重要鉱物の共同備蓄提案とグリーンランドでのレアアース採掘調査（今夏開始）が日本の戦略的課題として報じられた。トランプ米大統領はイラン60日停戦延長合意に6月14日署名予定とSNSに投稿した。"
+        }
+      ],
+      "must_read": {
+        "title": "Anthropic、「Claude Fable 5」「Mythos 5」の提供を全面停止—米政府輸出管理指令を受け緊急措置",
+        "url": "https://it.impress.co.jp/articles/-/29459",
+        "reason": "6月9日に一般公開されたばかりのMythos級最上位モデルが、わずか3日で全停止となった。主要AI企業が公開済みモデルを政府指令でオフラインにした史上初の事例で、AIガバナンスと輸出規制の新局面を示す。Opus 4.8以下のモデルは引き続き利用可能だが、代替戦略の即時検討が必要。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "大変な週末になりました！Anthropicが最新AI「Fable 5」「Mythos 5」を米政府指令で全面停止するという、AI業界では前代未聞の事態が起きましたよ。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "驚きました…AnthropicがリリースしたばかりのFable 5とMythos 5を、米政府の指令で全面停止しましたよ。理由は「脱獄（ジェイルブレイク）の懸念」とのことです。Opus 4.8やSonnet 4.6は引き続き使えるので、そちらで対応しましょう。AIが政府に止められた史上初の事例ですね。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモビジネスがInterop Tokyo 2026でグランプリを取りましたよ！IOWNを使った光ネットワークの展示が高評価でした。量子時代に対応したSIM認証システムの展示も話題になっていますね。ドコモはじわじわとネットワーク技術でリードを広げているみたいです。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "富士通と理研が2026年内に1,000量子ビットのコンピュータを作る予定だと発表しましたよ！川崎の新しい量子棟に設置されるとのことです。さらに2030年には1万量子ビットを目指すとのことで、日本の量子技術の底力を感じますね。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "SpaceXが株式上場しましたよ！時価総額が約280兆円（1.75兆ドル）で、史上最大のIPOだそうです。初日から日本でも買えたとのことで、宇宙企業に直接投資できる時代になりましたね。PayPayの改悪も6月2日から本格化していて、ポイントが貯まりにくくなっているので要注意です。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "高市首相が昨日から欧州に出発して、明日からG7エヴィアンサミットですね。重要鉱物の共同備蓄を提案するとのことです。トランプ大統領もイランとの停戦合意に今日署名する予定とのことで、中東情勢が少し落ち着きそうですね。日本代表のW杯初戦は明日（15日）オランダ戦です！"
+        }
+      ],
+      "must_read": {
+        "title": "Anthropic、「Claude Fable 5」「Mythos 5」の提供を全面停止—米政府輸出管理指令を受け緊急措置",
+        "url": "https://it.impress.co.jp/articles/-/29459",
+        "reason": "最強AIが政府に止められるというのは前代未聞です。今後のAI規制の流れを知るうえで必読ですよ。",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・米政府輸出管理指令でAnthropicがFable 5・Mythos 5を全面提供停止（6月12日）\n・Opus 4.8・Sonnet 4.6・Haiku 4.5は継続利用可能\n・SpaceX NASDAQ上場・時価総額1.75兆ドル・史上最大IPO（6月12日）"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・NTTドコモビジネスがInterop Tokyo 2026 Best of Show Awardグランプリ受賞\n・SIMカード活用耐量子暗号認証システムを展示\n・スマホ画面割れ保険付きガラスフィルムを業界初発売（6月9日）"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・富士通・理研が2026年内に1,000量子ビット超伝導量子コンピュータ構築予定\n・2030年度に1万量子ビット目標\n・arXiv quant-ph 6月分合計697件・cs.AI 2,715件"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・SpaceX NASDAQ上場・初値公開価格比19%高・時価総額1.75兆ドル\n・PayPay改悪全容判明・eKYC必須化・公共料金還元半減・ポイント払い廃止"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・G7エヴィアンサミット明日15日開幕・高市首相が重要鉱物共同備蓄を提案\n・トランプ大統領がイラン60日停戦延長合意に今日署名予定\n・日本政府が今夏グリーンランドでレアアース採掘調査開始"
+        }
+      ],
+      "must_read": {
+        "title": "Anthropic、「Claude Fable 5」「Mythos 5」の提供を全面停止—米政府輸出管理指令を受け緊急措置",
+        "url": "https://it.impress.co.jp/articles/-/29459",
+        "reason": "AIガバナンス上の歴史的事例。代替モデルの確認を。",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "米政府によるAnthropicへの輸出管理指令はAI産業規制の新局面を開き、SpaceXのNASDAQ上場とG7エヴィアン開幕は、重要技術・資本・資源の覇権争いが重なる週の到来を象徴する。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "米政府がFable 5・Mythos 5への輸出管理指令を発令した背景には、AI安全対策のジェイルブレイク耐性を国家安全保障の基準で判断する姿勢が読み取れる。Anthropicが「他の公開モデルでも同等機能が利用可能」と反論している点は、規制の一貫性欠如を示唆し、今後のAIガバナンス論争の焦点になる可能性がある。Opus 4.8以下は継続利用可能なため即時業務影響は限定的だが、Mythos-class能力への依存度が高い企業は代替戦略の即時設計が求められる。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモビジネスのInterop Awardグランプリ受賞は、IOWNアーキテクチャの技術実証が業界評価を得た点で注目される。SIMカードを活用した耐量子暗号認証の展示は、ポスト量子暗号（PQC）標準化（NIST 2024〜）の商用実装に向けた先行投資と位置づけられ、金融・政府向けセキュリティ需要の取り込みを狙う戦略と分析できる。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "富士通・理研の1,000量子ビットロードマップは、IBMのKookaburra（2026年末予定）との直接競合を意味する。日本政府のNEDO量子産業化事業と連動した国内エコシステム形成の観点から、2030年の1万量子ビット目標は産業界・学術界・政府の協調を前提とする。米国の対中輸出規制とも絡み、量子技術は今後の技術覇権争いの中核的争点になる。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "SpaceXの上場は1.75兆ドルの時価総額でメタ・テスラを上回り、米国株式市場に対するグロース資本の集中をさらに加速させる。日本の個人投資家が国内証券経由で初日から参加可能な点は、リテール資産の米国ハイテク流出を促進する構造要因となる。PayPayの改悪と並行してユーザーの決済行動が分散しており、主要QR決済の還元力低下が他サービスへの移行を加速させるか注視が必要。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "G7エヴィアンでの重要鉱物共同備蓄提案と日本政府のグリーンランドレアアース調査は、中国が世界生産量の約7割を占める現状への対抗措置として一体的に分析すべきである。トランプ・イラン停戦合意署名はホルムズ海峡の安定化を通じてエネルギー調達コストに影響し、日本の電力・製造業コスト見通しの改善要因となり得る。日経平均は6月12日終値66,020円で週末を迎えており、Anthropic停止ニュースが来週月曜の市場に与える影響を注視する必要がある。"
+        }
+      ],
+      "must_read": {
+        "title": "Anthropic、「Claude Fable 5」「Mythos 5」の提供を全面停止—米政府輸出管理指令を受け緊急措置",
+        "url": "https://it.impress.co.jp/articles/-/29459",
+        "reason": "公開済みAIモデルへの政府介入は前例がなく、今後のAI開発・提供に関する法的枠組みの構築を急速に促進する。AIガバナンスと輸出規制の交差点における戦略的意思決定の参照点として必読。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 96,
+      "trend_history": [95, 85, 88, 80, 90, 91, 88, 96],
+      "summary_short": "Anthropic Fable 5・Mythos 5が米政府指令で全面停止・史上初",
+      "summary_long": "米政府は6月12日、「ジェイルブレイク懸念」を理由にAnthropicへ輸出管理指令を発令。AnthropicはFable 5とMythos 5への全アクセスを即時停止した。主要AI企業が公開済みモデルを政府指令でオフラインにした史上初の事例。Opus 4.8・Sonnet 4.6・Haiku 4.5は継続利用可能。",
+      "articles": [
+        {
+          "title": "AnthropicがLLM「Fable 5/Mythos 5」の提供を停止、米政府の輸出管理指令を受けて緊急措置",
+          "url": "https://it.impress.co.jp/articles/-/29459",
+          "source": "IT Leaders",
+          "summary_short": "米輸出管理指令を受けAnthropicがFable 5・Mythos 5を全面停止した。",
+          "summary_long": "米政府は6月12日午後5時21分（米東部時間）、Anthropicに対して外国籍者によるFable 5・Mythos 5へのアクセスを禁じる輸出管理指令を発令。Anthropicは同日中に全ユーザーへのアクセスを停止した。指摘されたジェイルブレイク手法は「特定コードベース読み込みによる限定的なもの」とAnthropicは反論している。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "Anthropic、最上位AIモデル「Fable 5」「Mythos 5」を全面提供停止 米政府の輸出管理指令受け",
+          "url": "https://www.zaikei.co.jp/article/20260613/856910.html",
+          "source": "財経新聞",
+          "summary_short": "Fable 5とMythos 5が6月12日に全面停止、Opus 4.8以下は継続利用可能。",
+          "summary_long": "財経新聞によると、AnthropicはFable 5とMythos 5の提供を停止し、Opus 4.8・Sonnet 4.6・Haiku 4.5・Claude Codeは引き続き利用可能としている。今回の措置はAIモデルの輸出規制において世界初のケースとみられ、AIガバナンスに関する国際的な議論の引き金となる可能性がある。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "AnthropicがFable 5とMythos 5の提供停止 米政府指示、「脱獄」を懸念か",
+          "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11825/",
+          "source": "日経クロステック",
+          "summary_short": "Fable 5の安全制限回避手法を米政府が問題視し輸出規制を発動した。",
+          "summary_long": "日経クロステックの報道では、米政府がFable 5の安全制限を回避する脱獄手法の存在を国家安全保障上の問題と判断し輸出管理指令を発令した経緯が詳報されている。AnthropicはOpenAI GPT-5.5など他社モデルでも同等機能が利用可能と主張しており、規制の一貫性をめぐる論争が続いている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "【2026年6月13日】Fable 5とMythos 5が突然使えなくなった理由｜米政府の輸出規制と、私たちが意識すべきこと",
+          "url": "https://note.com/kazu_t/n/n8138e02885b9",
+          "source": "AI Academy Note",
+          "summary_short": "Fable 5・Mythos 5停止の詳細と輸出規制の背景、代替モデルを解説した。",
+          "summary_long": "AIエデュケーターによる解説記事で、Fable 5・Mythos 5停止の経緯と代替モデルの選択肢（Opus 4.8・GPT-5.5 Instant等）を整理。輸出管理の法的根拠（EAR）と今後の展開予測を含む実務的な対応ガイドとして参照価値が高い。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 52,
+      "trend_history": [55, 48, 52, 55, 48, 55, 58, 52],
+      "summary_short": "Interop 2026グランプリ受賞・IOWNソリューション・耐量子暗号SIM展示",
+      "summary_long": "NTTドコモビジネスソリューションズがInterop Tokyo 2026 Best of Show Awardグランプリを受賞した。IOWN APNを活用した過去最大距離の動態展示が受賞対象。SIMカードを活用した量子コンピュータ時代対応の耐量子暗号認証システムも展示し、次世代セキュリティ技術をアピールした。",
+      "articles": [
+        {
+          "title": "NTTドコモビジネスがInterop Tokyo 2026 Best of Show Awardグランプリを受賞",
+          "url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0613.html",
+          "source": "NTTドコモビジネス",
+          "summary_short": "IOWNを活用した過去最大距離ソリューション展示でグランプリを受賞した。",
+          "summary_long": "NTTドコモビジネスソリューションズは、Interop Tokyo 2026において過去最大距離のIOWN（Innovative Optical and Wireless Network）APNを利用したソリューションの動態展示でBest of Show Awardグランプリを受賞した。超低遅延・高帯域の光ネットワーク技術の実証に成功し、6G時代の通信インフラ優位性を示した。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモビジネス、Interop Tokyo 2026で量子コンピュータ時代対応SIM認証を展示",
+          "url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0608.html",
+          "source": "NTTドコモビジネス",
+          "summary_short": "SIMカードを活用した耐量子暗号相互認証システムをInteropで展示した。",
+          "summary_long": "NTTドコモビジネスはInterop Tokyo 2026において、量子コンピュータ時代にも安全なSIMカードを活用した相互認証システムを展示した。NIST標準のポスト量子暗号アルゴリズムをSIMカードに実装し、将来の量子コンピュータによる暗号解読に対応する次世代認証基盤として開発が進められている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモ、通信キャリア初のスマホ画面割れ保険付きガラスフィルムを発売",
+          "url": "https://www.docomo.ne.jp/binary/pdf/info/news_release/topics_260609_x2.pdf",
+          "source": "NTTドコモ",
+          "summary_short": "ドコモが通信キャリア初のスマホ画面割れ保険付きガラスフィルムを6月9日発売した。",
+          "summary_long": "NTTドコモは6月9日、通信キャリアとして初めてスマホ画面割れ保険を付帯したガラスフィルムの販売を開始した。フィルムの購入により一定期間内の画面割れを保証するサービスで、端末保護の新たな収益モデルとして注目される。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 60,
+      "trend_history": [83, 78, 65, 68, 60, 62, 65, 60],
+      "summary_short": "富士通・理研が2026年内1,000量子ビット構築へ・arXiv 6月分697件",
+      "summary_long": "富士通と理化学研究所は2026年内に1,000量子ビット超伝導量子コンピュータを神奈川・川崎の量子棟に設置し、2030年度には1万量子ビットを目指すロードマップを示した。arXivのquant-ph分野では6月の合計投稿数が697件に達し、量子誤り訂正・量子アルゴリズムが主要トピックとなっている。",
+      "articles": [
+        {
+          "title": "富士通・理研が2026年内に1,000量子ビット超伝導量子コンピュータを構築、川崎量子棟に設置",
+          "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/10549/",
+          "source": "日経クロステック",
+          "summary_short": "富士通・理研が2026年内に1,000量子ビット超伝導機を川崎量子棟に設置する。",
+          "summary_long": "富士通と理化学研究所は256量子ビット機（2025年4月）に続き、2026年内に1,000量子ビット超伝導量子コンピュータを川崎市の量子棟に建設・設置する計画を明らかにした。2030年度には1万量子ビットを目標とし、量子誤り訂正の実現に向けた技術開発を加速させる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "arXiv quant-ph 2026年6月分合計697件—量子誤り訂正・アルゴリズム応用が主要テーマ",
+          "url": "https://arxiv.org/list/quant-ph/current",
+          "source": "arXiv",
+          "summary_short": "arXiv quant-ph 2026年6月分合計697件、cs.AI分野は2,715件に達した。",
+          "summary_long": "arXivの量子物理（quant-ph）カテゴリの2026年6月分投稿論文数は697件に達した。量子誤り訂正・量子アルゴリズム・量子シミュレーションが主要分野で、金融最適化や創薬分野への応用研究も増加している。同時期のcs.AI分野は2,715件と量子分野の約4倍の投稿数を記録した。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "IBMが「量子コンピューターはもう実現している」と宣言—Think 2026での発言詳報",
+          "url": "https://www.gizmodo.jp/2026/04/interview-with-ibm-researchers-on-quantum-computing-qh2.html",
+          "source": "Gizmodo Japan",
+          "summary_short": "IBMフェローが「真に役立つ量子コンピューティングは既に現実」と宣言した。",
+          "summary_long": "IBM Think 2026でIBMフェローのジェイ・ガンベッタ氏が「量子コンピューターはもう実現している」と明言した。2026年末までにIBMユーザーが量子優位性を実現できると確信しているとし、qLDPC符号による論理量子ビット達成とKookaburraプロセッサ（2026年末公開予定）を根拠に挙げた。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 78,
+      "trend_history": [68, 65, 60, 58, 52, 46, 45, 78],
+      "summary_short": "SpaceX NASDAQ上場・時価総額1.75兆ドル史上最大IPO・PayPay改悪全容",
+      "summary_long": "SpaceXが6月12日にNASDAQ上場し、初値は公開価格比19%高・時価総額1.75兆ドルで史上最大のIPOとなった。日本国内の楽天証券でも初日から取引可能で個人投資家も参加できた。PayPay改悪（eKYC必須化・ポイント付与変更・公共料金還元半減）の全容が6月2日施行後に確定した。",
+      "articles": [
+        {
+          "title": "スペースX、NASDAQ上場—時価総額1.75兆ドル・初値公開価格比19%高・史上最大IPO",
+          "url": "https://www.tradingkey.com/jp/analysis/stocks/us-stocks/261932809-spacex-ipo-what-youre-actually-buying-tradingkey",
+          "source": "TradingKey",
+          "summary_short": "SpaceXが6月12日にNASDAQ上場、時価総額1.75兆ドルで史上最大のIPO達成。",
+          "summary_long": "SpaceXは6月12日にNASDAQへ上場し、公開価格135ドルに対し初値は約160ドル（19%高）を記録。時価総額は約1.75兆ドル（約280兆円）に達し、メタ・テスラを上回る米国株式市場トップ7位となった。調達額は750億ドルで、楽天証券など国内証券会社でも初日から取引可能となった。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "【2026年6月】PayPay改悪の全貌：eKYC必須・ポイント払い0%・公共料金半減",
+          "url": "https://b4c.jp/poigiken/articles/news/paypay-kaiaku.html",
+          "source": "ポイ活技研",
+          "summary_short": "PayPayがeKYC必須・ポイント払い廃止・公共料金還元半減など大幅改悪した。",
+          "summary_long": "6月2日施行のPayPay改悪の全容が明らかになった。本人確認（eKYC）未完了者へのポイント付与停止、ポイントを使って決済した場合の該当分還元廃止、電気・ガス・水道の還元率1%→0.5%半減が主な内容。PayPayゴールド会員の優遇も縮小し、実質的なコスト増となっている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "PayPay銀行、7月1日から円普通預金でPayPayポイント付与特典を新設・一部機能終了",
+          "url": "https://www.paypay-bank.co.jp/news/2026/0601.html",
+          "source": "PayPay銀行",
+          "summary_short": "PayPay銀行が7月1日から円普通預金へのPayPayポイント付与特典を開始する。",
+          "summary_long": "PayPay銀行は7月1日から円普通預金残高に応じてPayPayポイントを付与する新特典を開始する。一方、一部機能の終了も同時に告知されており、改悪と新サービスを組み合わせてユーザー体験の維持を図る方針が示されている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 82,
+      "trend_history": [62, 68, 65, 65, 75, 66, 62, 82],
+      "summary_short": "G7エヴィアン明日開幕・トランプ・イラン合意署名・グリーンランド調査",
+      "summary_long": "高市首相は6月13日に欧州へ出発し、6月15〜17日のG7エヴィアンサミットで重要鉱物共同備蓄を提案する。トランプ大統領はイランとの60日停戦延長合意に6月14日署名予定とSNSに投稿した。日本政府は今夏からデンマーク領グリーンランドでのレアアース採掘調査を開始する。",
+      "articles": [
+        {
+          "title": "高市首相G7エヴィアン出席・重要鉱物共同備蓄を提案—6月15〜17日開催",
+          "url": "https://www.nikkei.com/article/DGXZQOUA121OW0S6A610C2000000/",
+          "source": "日本経済新聞",
+          "summary_short": "高市首相がG7エヴィアンで重要鉱物共同備蓄を提案、6月13日に欧州へ出発。",
+          "summary_long": "高市首相は6月13〜18日の欧州訪問でG7エヴィアンサミット（15〜17日）に出席し、重要鉱物の共同備蓄を主要提案とする予定。米欧のAIガバナンス路線の対立から2年連続の首脳宣言見送りが調整中。英スターマー首相・伊メローニ首相との個別首脳会談も調整されている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "トランプ大統領、イランとの60日停戦延長合意に6月14日署名予定とSNSに投稿",
+          "url": "https://www.jetro.go.jp/biznews/2026/06/aeb4bed01a4ce739.html",
+          "source": "JETRO",
+          "summary_short": "トランプ大統領がイラン60日停戦延長合意への署名を6月14日に行う予定。",
+          "summary_long": "トランプ米大統領はSNSへの投稿でイラン戦闘終結合意への署名を6月14日に行う予定と明らかにした。覚書（MOU）には60日間の停戦延長・ホルムズ海峡の自由航行確保・段階的制裁緩和が含まれる。核開発問題など主要論点は今後の交渉に委ねられ、最終合意には至っていない。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "日本政府が今夏にもデンマーク領グリーンランドでレアアース採掘調査を開始",
+          "url": "https://www.nikkei.com/article/DGXZQOGR080070Y6A600C2000000/",
+          "source": "日本経済新聞",
+          "summary_short": "日本政府が今夏からグリーンランドでレアアース採掘調査を開始する。",
+          "summary_long": "日本政府は今夏にもデンマーク領グリーンランドでのレアアース・重要鉱物の採掘調査を開始する。中国が世界のレアアース総生産量の約7割を占める状況下での調達先多様化戦略の一環で、G7エヴィアンでの共同備蓄提案とも連動している。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "東京海上、海外旅行保険を7月から約2割値上げ—円安・現地医療費高騰が理由",
+          "url": "https://www.nikkei.com/article/DGXZQOUB092JG0Z00C26A6000000/",
+          "source": "日本経済新聞",
+          "summary_short": "東京海上が7月から海外旅行保険を約2割値上げ、円安・医療費高騰が背景。",
+          "summary_long": "東京海上は7月から海外旅行保険の保険料を約2割引き上げる。円安の進行と海外現地の医療費高騰が主な要因で、他の損保各社も同様の値上げを検討中とされる。海外渡航が活発化している夏シーズンを前に家計負担の増加が見込まれる。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 96,
+      "NTTドコモ": 52,
+      "量子コンピュータ": 60,
+      "金融決済": 78,
+      "国内・社会": 82
+    },
+    "source_distribution": {
+      "IT Leaders": 1,
+      "財経新聞": 1,
+      "日経クロステック": 2,
+      "AI Academy Note": 1,
+      "NTTドコモビジネス": 2,
+      "NTTドコモ": 1,
+      "arXiv": 1,
+      "Gizmodo Japan": 1,
+      "TradingKey": 1,
+      "ポイ活技研": 1,
+      "PayPay銀行": 1,
+      "日本経済新聞": 3,
+      "JETRO": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 6,
+      "4": 7,
+      "5": 3
+    }
+  }
+}
