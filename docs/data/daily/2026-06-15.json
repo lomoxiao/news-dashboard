@@ -1,0 +1,364 @@
+{
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T06:30:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "MicrosoftがMajorana 2量子プロセッサのパリティ寿命を1000倍超改善したと発表し、量子コンピューティングの実用化へ向けた技術的進展となった。国内では公的年金の6月15日支給分から基礎年金が初めて月7万608円に達し、G7エヴィアン・サミットが開幕した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "TCSが6月12日にAnthropicと提携し金融・ヘルスケア等の規制業界向けClaudeを展開すると発表した。Claude Fable 5のPro/Maxプランへの無料提供は6月22日に終了し、翌23日からクレジット課金に移行する。Anthropicはまた、Claudeが自社コードの80%超を自己生成していると報告した。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモは6月12日にdカードのGoogle Pay対応を発表し、スマートフォンによるタッチ決済が可能となった。6月11日にはMR技術「World Link Door」の体験型実証実験を開始し、現実とバーチャルを横断する体験技術の実証を進めている。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "MicrosoftはMajorana 2量子プロセッサで超伝導材料をアルミからリードに変更し量子状態の保護ギャップを2倍以上拡大、パリティ寿命を数ミリ秒から20秒超（1000倍超）に改善したと発表した。IBMも6月13日にAIを活用した量子誤り訂正コードの探索手法を公表した。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayは6月2日に公共料金クレジット還元率を1%から0.5%へ引き下げ、交通系ICチャージのポイント付与も廃止した。LINE BITMAXは6月1日に全サービスを終了した。主要フィンテック各社がAIエージェント機能の開発を本格化させている。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "2026年度の公的年金支給が6月15日から始まり、基礎年金満額が初めて月7万608円に達した（前年比1.9%増・1300円増）。G7エヴィアン・サミットが同日開幕し、首脳宣言は2年連続見送りで調整中。FIFA W杯2026で日本代表がグループF初戦のオランダ戦に臨んだ。"
+        }
+      ],
+      "must_read": {
+        "title": "Microsoft、Majorana 2量子プロセッサでパリティ寿命を1000倍超改善—フォールトトレラント量子計算への大きな前進",
+        "url": "https://blog.mean.ceo/quantum-computing-news-june-2026/",
+        "reason": "超伝導材料をアルミからリードに変更することで量子ビットのパリティ寿命が数msから20秒超（1000倍超）に改善された。フォールトトレラント量子コンピュータ実現の最重要課題の一つが突破され、IBM・Googleとの覇権競争が新局面を迎えた。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "量子コンピュータの世界で大ニュースですよ！Microsoftが量子ビットの寿命を1000倍以上に伸ばしたと発表しました。国内でも年金が初めて月7万円台になり、G7サミットも始まりましたね。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Claude Fable 5の無料期間が6月22日で終わりますよ。23日以降はクレジットが必要になります。TCSという大手ITがAnthropicと組んで金融・医療向けにClaudeを使い始めるみたいですね。AIがAIのコードを80%以上書く時代になったとAnthropicが報告していましたよ！"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモのdカードがGoogle Payに対応しましたよ！スマホでタッチ決済できるようになりますね。それと「World Link Door」という現実とバーチャルを行き来できるMR技術の実証実験も始めているみたいです。着実に新技術を試していますね。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "Microsoftが量子コンピュータの重要な問題を大きく改善しましたよ！量子ビットの「パリティ寿命」という指標を1000倍以上に延ばすことに成功。IBMも量子のエラー訂正にAIを使う新しい方法を発表しました。量子コンピュータの実用化がどんどん近づいていますね。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayの変更、影響が続いていますね。6月2日から公共料金の還元率が半分になり、交通系ICのポイントもゼロになりました。LINE BITMAXも6月1日に終わりました。一方でフィンテック各社がAIエージェント機能を開発中みたいですよ。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "今日6月15日から年金が振り込まれましたよ！基礎年金が初めて月7万円を超えて7万608円になりましたね。G7サミットもエヴィアンで始まりました。高市首相も参加予定です。W杯2026の日本代表初戦、オランダ戦が今朝5時から始まりましたよ！"
+        }
+      ],
+      "must_read": {
+        "title": "Microsoft、Majorana 2量子プロセッサでパリティ寿命を1000倍超改善—フォールトトレラント量子計算への大きな前進",
+        "url": "https://blog.mean.ceo/quantum-computing-news-june-2026/",
+        "reason": "量子ビットの「パリティ寿命」が1000倍以上に伸びたというのは、量子コンピュータ実用化への大きな一歩ですよ。超伝導材料をアルミからリードに変えるという工夫で実現した、見逃せない技術的な進歩です！",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Claude Fable 5無料提供は6月22日まで、23日以降クレジット制に移行\n・TCS×Anthropic提携で規制業界向けClaude展開\n・AnthropicがAIコード自己生成比率80%超と報告"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・dカードがGoogle Pay対応（6月12日発表）\n・MR技術「World Link Door」体験型実証実験を開始（6月11日）"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・Microsoft Majorana 2のパリティ寿命が1000倍超改善（数msから20秒超へ）\n・IBM、AIによる量子誤り訂正コード自動探索手法を発表（6月13日）"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・PayPay6月2日改定：公共料金還元率1%→0.5%、交通系ICポイントゼロ\n・LINE BITMAX全サービス終了（6月1日）\n・フィンテック各社AIエージェント機能開発を加速"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・国民年金初の月7万608円支給（6月15日から）\n・G7エヴィアン・サミット開幕（15〜17日）、首脳宣言見送りで調整\n・FIFA W杯2026日本代表初戦、グループFオランダ戦（6月15日5時〜）"
+        }
+      ],
+      "must_read": {
+        "title": "Microsoft、Majorana 2量子プロセッサでパリティ寿命を1000倍超改善—フォールトトレラント量子計算への大きな前進",
+        "url": "https://blog.mean.ceo/quantum-computing-news-june-2026/",
+        "reason": "量子ビットのパリティ寿命が1000倍超改善。フォールトトレラント量子計算への決定的前進。",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "Microsoft Majorana 2の超伝導材料置換による1000倍超のパリティ寿命改善は量子コンピューティングの実用化障壁を低減し、IBMの100億ドル投資と相乗してフォールトトレラント量子計算競争が新局面を迎える一方、国内では年金・G7・W杯が社会指標として同日に重なる異例の6月15日となった。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Fable 5無料終了（6月22日）はAnthropicの収益化転換点を示す。TCS×Anthropic提携は規制業界のAI標準化を加速し、OpenAIとの差別化要因となる。コード自己生成80%超は開発効率の劇的向上を示すが、コード品質・セキュリティの自動検証体制整備が急務となる。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "dカードのGoogle Pay対応はdポイント経済圏とGoogle決済エコシステムの接続による顧客基盤の相互強化を狙った戦略的施策。MR技術「World Link Door」は、メタバース低迷期における空間コンピューティングの収益化モデル模索と解釈できる。SyncMeは夏の本格展開で差別化が本格試される。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "MicrosoftのMajorana 2超伝導材料置換でパリティ寿命が数msから20秒超（1000倍超）に改善されたことは論理量子ビットの実現可能性を示す画期的成果。IBMの100億ドル投資との相乗効果で2029年フォールトトレラント量子計算競争が加速。金融・創薬・暗号技術への影響が2028〜2030年に顕在化する見通し。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayの大規模ポイント改定は上場後の収益改善優先の戦略転換の実質的結果。LINE BITMAX終了は国内暗号資産サービス再編の継続を示す。フィンテック各社のAIエージェント化は経費精算・財務分析の自動化を通じた法人向け収益拡大を狙うもので、2026年後半に本格的なコスト削減効果が表れる見込み。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "基礎年金の月7万608円突破は賃金上昇反映のマクロスライド調整の結果だが、実質賃金上昇が名目増額を上回るかが焦点。G7エヴィアンでの首脳宣言2年連続見送りは米国と他国の対立深化を示し、重要鉱物共同備蓄構想の実現可能性を低下させるリスクがある。W杯日本の戦績は国内消費センチメントへの短期的影響が予想される。"
+        }
+      ],
+      "must_read": {
+        "title": "Microsoft、Majorana 2量子プロセッサでパリティ寿命を1000倍超改善—フォールトトレラント量子計算への大きな前進",
+        "url": "https://blog.mean.ceo/quantum-computing-news-june-2026/",
+        "reason": "超伝導材料置換によるパリティ寿命1000倍超の改善は量子エラー率の根本的削減を意味し、フォールトトレラント量子コンピュータ実現に向けた最重要課題の一つが解決に近づいたことを示す。IBM・Googleとの技術競争の均衡を崩す可能性があり、量子関連投資判断への影響も大きい。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 85,
+      "trend_history": [95, 92, 93, 88, 92, 87, 85],
+      "summary_short": "Fable 5無料提供6月22日終了・TCS×Anthropic規制業界展開",
+      "summary_long": "AnthropicはClaude Fable 5のPro/Maxプランへの無料提供を6月22日に終了し、翌23日からクレジット課金に変更する。TCSがAnthropicと提携し金融・ヘルスケア等の規制業界向けClaude展開を6月12日に発表した。Claudeが自社コードの80%超を自己生成していることもAnthropicが報告した。",
+      "articles": [
+        {
+          "title": "Claude Fable 5・Mythos 5のPro/Maxプランへの無料提供は6月22日終了—翌23日からクレジット課金に",
+          "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+          "source": "Anthropic",
+          "summary_short": "Fable 5の無料提供が6月22日終了、翌23日からクレジット制に移行",
+          "summary_long": "AnthropicはClaude Fable 5のPro/Max/Team/Enterprise各プランへの無料提供を6月22日に終了し、6月23日以降はクレジット課金に移行すると発表している。Fable 5は6月9日に一般公開され、コーディング・科学推論・視覚理解で大幅な性能向上を実現した。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "TCSがAnthropicと提携—金融・ヘルスケアなど規制業界向けにClaude AIを展開（6月12日発表）",
+          "url": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/tcs-taps-anthropic-s-claude-for-regulated-industries",
+          "source": "StartupHub.ai",
+          "summary_short": "TCSがAnthropicと提携し規制業界へClaude AIを展開",
+          "summary_long": "インドIT大手TCSは6月12日にAnthropicとの戦略的提携を発表し、金融・ヘルスケアなど規制業界の各社システムにClaude AIを統合していく方針を示した。DXCも同様にClaudeを銀行・航空会社等のシステムに組み込む予定であることが明らかになった。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "AnthropicがClaudeの自己コード生成比率80%超を報告—1年前の10%未満から急増",
+          "url": "https://uk.finance.yahoo.com/news/anthropic-says-something-unsettling-happening-103500529.html",
+          "source": "Yahoo Finance",
+          "summary_short": "ClaudeがAnthropicコードの80%超を自己生成すると報告",
+          "summary_long": "Anthropicの最新報告によると、Claudeが同社コードの80%以上を自己生成していることが明らかになった。昨年2月時点では10%未満だったが急速に自動化が進んでいる。自己生成コードの品質は人間のコードと同等水準に達しているという。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 60,
+      "trend_history": [62, 60, 60, 58, 55, 58, 60],
+      "summary_short": "dカードがGoogle Pay対応・MR技術「World Link Door」実証開始",
+      "summary_long": "NTTドコモは6月12日にdカードのGoogle Pay対応を発表し、スマートフォンによるタッチ決済が可能となった。6月11日にはMR技術「World Link Door」の体験型実証実験を開始した。パーソナルAIエージェント「SyncMe」は夏の全ユーザー提供に向けてパイロット運用を継続中。",
+      "articles": [
+        {
+          "title": "dカードがGoogle Payに対応—スマートフォンでのタッチ決済が利用可能に",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/06/12_00.html",
+          "source": "NTTドコモ",
+          "summary_short": "dカードがGoogle Payに対応、スマホでタッチ決済が可能に",
+          "summary_long": "NTTドコモは6月12日、dカードをGoogle Payに追加することで、AndroidスマートフォンやAndroid Watchを使ったコンタクトレス決済に対応したと発表した。国内の主要なタッチ決済端末での利用が可能となる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "ドコモがMR技術「World Link Door」の体験型実証実験を開始—現実とバーチャルを自然に行き来",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/06/11_00.html",
+          "source": "NTTドコモ",
+          "summary_short": "ドコモがMR技術「World Link Door」の体験型実証実験を開始",
+          "summary_long": "NTTドコモは6月11日、現実空間とバーチャル空間を自然に行き来できるMR（複合現実）技術「World Link Door」の体験型実証実験を開始した。日常のリアル空間からバーチャル空間に違和感なく移行できる体験を検証する取り組みで、次世代通信サービスへの応用を目指す。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "ドコモのパーソナルAIエージェント「SyncMe」—2026年夏の全ユーザー提供に向けパイロット継続",
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/2088259.html",
+          "source": "ケータイWatch",
+          "summary_short": "SyncMeが2026年夏の全ユーザー提供に向けパイロット継続中",
+          "summary_long": "NTTドコモが3月に発表したパーソナルAIエージェント「SyncMe」は、先行5000人のモニター向けパイロット運用を継続中。dアカウントのデータと写真分析でパーソナライズされた会話を提供し、2026年夏の全ユーザー提供を目指している。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 68,
+      "trend_history": [68, 72, 70, 65, 65, 67, 68],
+      "summary_short": "Microsoft Majorana 2パリティ寿命1000倍超改善・IBM量子AIでQEC発表",
+      "summary_long": "MicrosoftはMajorana 2量子プロセッサで超伝導材料をアルミからリードに変更し量子状態の保護ギャップを2倍以上拡大、パリティ寿命を数ミリ秒から20秒超（1000倍超）に改善した。IBMも6月13日にAIを活用した量子誤り訂正コードの自動探索手法を発表し、フォールトトレラント量子計算の実現が加速している。",
+      "articles": [
+        {
+          "title": "Microsoft、Majorana 2量子プロセッサで超伝導材料をアルミからリードに変更—パリティ寿命が1000倍超に改善",
+          "url": "https://blog.mean.ceo/quantum-computing-news-june-2026/",
+          "source": "Quantum Computing News",
+          "summary_short": "MicrosoftがMajorana 2のパリティ寿命を1000倍超改善と発表",
+          "summary_long": "MicrosoftはMajorana 2量子プロセッサで超伝導材料スタックのアルミをリードに置換することでトポロジカルギャップを2倍以上拡大し、パリティ寿命を数ミリ秒から20秒超に改善した。1000倍超の向上はフォールトトレラント量子計算に向けた重要な技術的進展となる。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "IBM、AIを活用した量子誤り訂正コードの自動探索手法を発表（6月13日）",
+          "url": "https://www.programming-helper.com/tech/quantum-computing-commercial-breakthrough-2026-ibm-google-achievements",
+          "source": "IBM",
+          "summary_short": "IBMがAIによる量子誤り訂正コード自動探索手法を6月13日発表",
+          "summary_long": "IBMは6月13日、AIを活用して新しい量子誤り訂正（QEC）コードを特定する手法を発表した。従来は人手で設計していたQECコードをAIが自動探索することで、フォールトトレラント量子計算の実用化を加速させる。IBMは同月2日に量子分野への100億ドル超の投資も発表済み。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "RIKEN、量子系が一方向のみに同期する新方式を提案—フォノンの一方向ストリート",
+          "url": "https://www.sciencedaily.com/news/matter_energy/quantum_computing/",
+          "source": "ScienceDaily",
+          "summary_short": "RIKENが量子系の一方向同期フォノン新手法を提案",
+          "summary_long": "理化学研究所（RIKEN）の研究チームは、量子系がフォノン（音粒子）によって一方向のみに同期する新方式を提案した。まるで「フォノンの一方向道路」のような制御が可能となり、量子デバイスの設計に新たなアーキテクチャの選択肢をもたらす研究成果となった。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 48,
+      "trend_history": [65, 62, 58, 45, 50, 52, 48],
+      "summary_short": "PayPay6月2日大規模改定・LINE BITMAX終了・Fintech AI加速",
+      "summary_long": "PayPayは6月2日にeKYC必須化・公共料金クレジット還元率を1%から0.5%に半減・交通系ICチャージのポイント付与廃止を実施し影響が続く。LINE BITMAXは6月1日に全サービスを終了した。国内主要フィンテック各社はAIエージェント機能の開発を本格化させている。",
+      "articles": [
+        {
+          "title": "PayPayが6月2日に大規模改定—公共料金クレジット還元率半減・交通系ICポイントゼロに",
+          "url": "https://ameblo.jp/npesan0123/entry-12955854367.html",
+          "source": "PayPayオタクの家計管理",
+          "summary_short": "PayPayが6月2日に大規模改定、公共料金還元率を1%から0.5%に削減",
+          "summary_long": "PayPayは6月2日施行の大規模改定で、PayPayカードの公共料金クレジット還元率を1%から0.5%に半減し、交通系ICチャージのポイント付与を廃止した。eKYC（電子本人確認）必須化も実施され、未実施の場合はPayPayステップの達成条件を満たせなくなる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "LINE BITMAXが6月1日に全サービス終了—暗号資産はPayPayマネーへ出金で対応",
+          "url": "https://paypay.ne.jp/notice/20260409/f-lb-paypaymoney/",
+          "source": "PayPay",
+          "summary_short": "LINE BITMAXが6月1日に全サービスを終了、PayPayマネーへ移行",
+          "summary_long": "LINE BITMAXは2026年6月1日12時をもって全サービスを終了した。ユーザーは保有する暗号資産をPayPayマネーに出金する手続きが必要だった。国内の暗号資産交換サービスの再編が加速している。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "主要フィンテック各社がAIエージェント機能の開発を本格化—経費精算・財務分析の自動化が進む",
+          "url": "https://www.sbbit.jp/article/fj/177565",
+          "source": "ビジネスIT",
+          "summary_short": "主要フィンテック各社がAIエージェント機能の開発を本格化",
+          "summary_long": "マネーフォワード・LayerX・freeeなど国内主要フィンテック企業が2026年に入りAIエージェント機能の開発を本格化させている。経費精算の自動化・請求書処理・財務分析レポートの自動生成などの実現が進みつつある。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "2024年の国内キャッシュレス決済額が141兆円に達する—前年比11%増",
+          "url": "https://bookplus.nikkei.com/atcl/column/020500658/020500022/",
+          "source": "日経BOOKプラス",
+          "summary_short": "2024年キャッシュレス決済額が141兆円、前年比11%増を記録",
+          "summary_long": "経済産業省の集計によると、2024年の国内キャッシュレス決済額は前年比11%増の141兆円に達した。市場の拡大基調が続く一方、PayPay等主要サービスのポイント改悪が今後の市場シェアに影響を及ぼす可能性が指摘されている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 75,
+      "trend_history": [68, 70, 72, 65, 70, 73, 75],
+      "summary_short": "国民年金が初の月7万608円支給・G7エヴィアン開幕・日本W杯初戦",
+      "summary_long": "2026年度の公的年金支給が6月15日から始まり、基礎年金は満額で初めて月7万608円に達した（前年比1.9%増・1300円増）。G7エヴィアン・サミットが6月15〜17日の日程で開幕し首脳宣言は2年連続見送りで調整中。FIFAワールドカップ2026で日本代表がグループF初戦のオランダ戦に臨んだ。",
+      "articles": [
+        {
+          "title": "2026年度の公的年金が6月15日から支給—基礎年金が初めて月7万608円に",
+          "url": "https://www.nikkei.com/article/DGXZQOUA112HS0R10C26A6000000/",
+          "source": "日本経済新聞",
+          "summary_short": "2026年度年金が6月15日から支給、基礎年金が初の月7万608円",
+          "summary_long": "2026年度最初の公的年金が6月15日に支給され、基礎年金満額が初めて月7万円を超え7万608円（前年比1.9%増・1300円増）となった。モデル世帯（会社員夫+専業主婦）の合計受給額は月23万7279円で、前年度より4495円増加した。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "G7エヴィアン・サミットが6月15日開幕—高市首相が重要鉱物共同備蓄を提案予定",
+          "url": "https://www.mofa.go.jp/mofaj/ecm/ec/pagew_000001_02321.html",
+          "source": "外務省",
+          "summary_short": "G7エヴィアン・サミットが15日開幕、首脳宣言2年連続見送りで調整",
+          "summary_long": "フランス・エヴィアンで6月15〜17日の日程でG7首脳会議が開幕した。高市首相が重要鉱物の共同備蓄提案とグリーンランドのレアアース採掘調査協力を訴える予定。米国と他国の意見対立から首脳宣言は2年連続見送りで調整中とされる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "FIFAワールドカップ2026—日本代表がグループF第1節のオランダ戦に出場（6月15日5時〜）",
+          "url": "https://www.jleague.jp/sp/match/japan/2026/061404/live/",
+          "source": "Jリーグ公式",
+          "summary_short": "日本代表がFIFA W杯2026グループF初戦でオランダと対戦",
+          "summary_long": "FIFAワールドカップ2026グループF第1節として、日本代表がオランダ代表と対戦（日本時間6月15日5時、テキサス州ダラス）。日本はFIFAランキング18位、オランダは8位。遠藤・三笘・南野らの欠場が報じられており戦力構成が注目された。収集時点では試合は進行中。",
+          "importance": 4,
+          "fetch_failed": true
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 85,
+      "NTTドコモ": 60,
+      "量子コンピュータ": 68,
+      "金融決済": 48,
+      "国内・社会": 75
+    },
+    "source_distribution": {
+      "Anthropic": 2,
+      "StartupHub.ai": 1,
+      "Yahoo Finance": 1,
+      "NTTドコモ": 2,
+      "ケータイWatch": 1,
+      "Quantum Computing News": 1,
+      "IBM": 1,
+      "ScienceDaily": 1,
+      "PayPayオタクの家計管理": 1,
+      "PayPay": 1,
+      "ビジネスIT": 1,
+      "日経BOOKプラス": 1,
+      "日本経済新聞": 1,
+      "外務省": 1,
+      "Jリーグ公式": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 6,
+      "4": 7,
+      "5": 2
+    }
+  }
+}

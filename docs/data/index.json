@@ -1,6 +1,10 @@
 {
-  "last_updated": "2026-06-14T06:30:00+09:00",
+  "last_updated": "2026-06-15T06:30:00+09:00",
   "reports": [
+    {
+      "date": "2026-06-15",
+      "headline": "国民年金初の月7万608円支給・G7エヴィアン開幕・Microsoft Majorana 2パリティ寿命1000倍超改善・FIFA W杯日本代表初戦・dカードGoogle Pay対応・日経平均66,020円"
+    },
     {
       "date": "2026-06-14",
       "headline": "AnthropicがFable 5・Mythos 5を米政府輸出管理指令で全面停止・史上初・SpaceX上場時価総額1.75兆ドル・G7エヴィアン明日15日開幕・トランプ・イラン合意署名・日経平均66,020円"
@@ -235,7 +239,7 @@
     {
       "name": "Anthropic",
       "url": "https://www.anthropic.com",
-      "count": 16
+      "count": 18
     },
     {
       "name": "SAP",
@@ -255,7 +259,7 @@
     {
       "name": "NTTドコモ",
       "url": "https://www.docomo.ne.jp",
-      "count": 47
+      "count": 49
     },
     {
       "name": "NTTドコモビジネス",
@@ -280,7 +284,7 @@
     {
       "name": "日本経済新聞",
       "url": "https://www.nikkei.com",
-      "count": 61
+      "count": 62
     },
     {
       "name": "NVIDIA",
@@ -335,7 +339,7 @@
     {
       "name": "ビジネスIT",
       "url": "https://www.sbbit.jp",
-      "count": 7
+      "count": 8
     },
     {
       "name": "野村証券",
@@ -385,7 +389,7 @@
     {
       "name": "日経BOOKプラス",
       "url": "https://bookplus.nikkei.com",
-      "count": 7
+      "count": 8
     },
     {
       "name": "外為どっとコム",
@@ -425,7 +429,7 @@
     {
       "name": "ケータイ Watch",
       "url": "https://k-tai.watch.impress.co.jp",
-      "count": 4
+      "count": 5
     },
     {
       "name": "NTTデータグループ",
@@ -445,7 +449,7 @@
     {
       "name": "PayPay",
       "url": "https://paypay.ne.jp",
-      "count": 5
+      "count": 6
     },
     {
       "name": "TradingKey",
@@ -720,7 +724,7 @@
     {
       "name": "IBM",
       "url": "https://www.ibm.com",
-      "count": 13
+      "count": 14
     },
     {
       "name": "NEDO",
@@ -775,7 +779,7 @@
     {
       "name": "外務省",
       "url": "https://www.mofa.go.jp",
-      "count": 3
+      "count": 4
     },
     {
       "name": "エキサイトニュース",
@@ -1170,6 +1174,31 @@
     {
       "name": "JFA",
       "url": "https://www.jfa.jp",
+      "count": 1
+    },
+    {
+      "name": "StartupHub.ai",
+      "url": "https://www.startuphub.ai",
+      "count": 1
+    },
+    {
+      "name": "ScienceDaily",
+      "url": "https://www.sciencedaily.com",
+      "count": 1
+    },
+    {
+      "name": "Quantum Computing News",
+      "url": "https://blog.mean.ceo",
+      "count": 1
+    },
+    {
+      "name": "Jリーグ公式",
+      "url": "https://www.jleague.jp",
+      "count": 1
+    },
+    {
+      "name": "PayPayオタクの家計管理",
+      "url": "https://ameblo.jp/npesan0123",
       "count": 1
     }
   ],
