@@ -1,6 +1,10 @@
 {
-  "last_updated": "2026-06-16T06:30:00+09:00",
+  "last_updated": "2026-06-17T06:35:00+09:00",
   "reports": [
+    {
+      "date": "2026-06-17",
+      "headline": "Claude Agent SDK別枠クレジット制移行・G7エヴィアン閉幕首脳宣言2年連続見送り・日経平均6万9404円連日最高値・理研叡II量子クラウド・W杯アルゼンチン・フランス初戦"
+    },
     {
       "date": "2026-06-16",
       "headline": "日銀政策金利1.0%に引き上げ決定・DXC×Anthropic多年グローバル提携・Microsoft×Quantinuum量子誤り訂正800倍削減Nature発表・G7エヴィアン最終日首脳宣言見送り・日本W杯オランダ2-2ドロー"
@@ -1203,6 +1207,21 @@
     {
       "name": "PayPayオタクの家計管理",
       "url": "https://ameblo.jp/npesan0123",
+      "count": 1
+    },
+    {
+      "name": "AI革命株式会社メディア",
+      "url": "https://ai-revolution.co.jp",
+      "count": 1
+    },
+    {
+      "name": "流通ニュース",
+      "url": "https://www.ryutsuu.biz",
+      "count": 1
+    },
+    {
+      "name": "nippon.com",
+      "url": "https://www.nippon.com",
       "count": 1
     }
   ],
