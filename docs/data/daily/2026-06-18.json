@@ -1,0 +1,370 @@
+{
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T06:45:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "Anthropicが6月17日にソウルオフィスを開設しNAVER・Samsung SDSら韓国大手との提携を発表した。国内では参院選の6月21日投開票を3日後に控え、日経平均株価は6万9902円に上昇した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicはアジアAP3番目となるソウルオフィスを6月17日に開設した。NAVERがエンジニア組織全体でClaude Codeを導入、Samsung SDSはSamsung Electronics従業員へ展開を開始した。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモは7月1日から「d払いdカードスタンプ」の名称を「d払いスタンプ」に変更し、dカード各種での支払いをスタンプ付与の対象外とすることを発表した。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "フランスがAlice & Bobの18猫量子ビットコンピュータを国家として世界初取得した。SandboxAQは米CHIPS法助成5億ドルを獲得し、IQMはオークリッジ国立研究所への米国初設置を完了した。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayカードの有効発行枚数が1600万枚を突破した。QRコード決済市場シェアは56%、年間取扱高は12.5兆円に達し日本最大のキャッシュレス決済基盤としての地位を固めた。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "参院選は6月21日投開票を迎える。日経平均株価は6万9902円となり前日比497円高と最高値圏での推移が続いた。ドル円は160円40〜50銭台で日銀利上げ後も円高は限定的だった。"
+        }
+      ],
+      "must_read": {
+        "title": "AnthropicがソウルにアジアAP3番目のオフィスを開設—NAVER・Samsung SDS・LG CNSと大型提携を同時発表",
+        "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+        "reason": "AnthropicのアジアAP拠点開設と韓国大手IT企業との大型提携は、Claude活用がアジア全体に急速に拡大している実態を示す。NAVERの全エンジニアへのClaude Code導入はアジア最大規模の企業利用事例となる。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "AnthropicがソウルにアジアAP3番目のオフィスを開いたんですよ！NAVERやSamsungとの大型提携も同時に発表されて、Claudeの波がアジア全体に広がっていますね。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicがソウルにアジアAP3番目のオフィスを開設しましたよ。NAVERのエンジニア組織全体がClaude Codeを使い始めたし、Samsung SDSもSamsung Electronics全体に展開中なんだとか。韓国のAI業界が一気に動いてきましたね！"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモのd払いスタンプが7月1日から変わりますよ！「d払いdカードスタンプ」が「d払いスタンプ」に名称変更されて、dカードでの支払いはスタンプ付与の対象外になります。dカードユーザーは注意が必要ですね。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "量子コンピュータで世界初のニュースが！フランスがAlice & Bobの18猫量子ビットコンピュータを国家として取得しましたよ。SandboxAQはCHIPS法で5億ドルの助成金も獲得。量子技術の国家活用が本格化してきましたね。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayカードの発行枚数が1600万枚を突破したみたいですよ！QR決済シェアも56%に達して、年間取扱高は12.5兆円。日本最大のキャッシュレス基盤としての地位がますます固まっていますね。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "参院選がいよいよ21日に投開票を迎えますよ。日経平均は6万9902円とまた上昇して最高値圏が続いています。円相場は160円台と円安が続いている状況ですね。"
+        }
+      ],
+      "must_read": {
+        "title": "AnthropicがソウルにアジアAP3番目のオフィスを開設—NAVER・Samsung SDS・LG CNSと大型提携を同時発表",
+        "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+        "reason": "NAVERが全エンジニアにClaude Codeを導入するなど、ClaudeのアジアAP展開が急加速していますよ。韓国大手との提携がまとめて発表されたのは大きなニュースですね！",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・AnthropicがソウルオフィスをアジアAP3番目として開設（NAVER全エンジニアClaude Code導入等）\n・Anthropic Claude Corps：1000人フェローを非営利団体へ派遣、$1.5億ドル拠出\n・Claude Code v2.1.179：mid-stream接続切断修正・安定性改善"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・7月1日から「d払いdカードスタンプ」→「d払いスタンプ」に名称変更、dカード決済がスタンプ対象外\n・Amazonプライムデーでd払いdポイント10%還元キャンペーン開始\n・7月から全国自治体連携dポイント・d払いキャンペーン開始"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・フランスがAlice & Bob製18猫量子ビットコンピュータを世界初・国家取得（CEA-TGCC設置）\n・SandboxAQがCHIPS法助成5億ドルを獲得し半導体材料開発に活用\n・IQMが20量子ビットをオークリッジ国立研究所（ORNL）に米国初設置"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・PayPayカード発行枚数1600万枚突破、QR決済シェア56%、年間取扱高12.5兆円\n・LINE Pay終了でPayPay残高移行が可能に\n・PayPayステップ：eKYC未完了者はポイント付与対象外"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・参院選2026は6月21日投開票、各党が最終盤の活動を展開\n・日経平均6万9902円（+497円）、AI関連株に買い\n・ドル円160円40〜50銭台・日銀利上げ後も円高限定的"
+        }
+      ],
+      "must_read": {
+        "title": "AnthropicがソウルにアジアAP3番目のオフィスを開設—NAVER・Samsung SDS・LG CNSと大型提携を同時発表",
+        "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+        "reason": "韓国大手IT企業との大型提携を一括発表。NAVERの全エンジニアClaude Code導入はアジア最大規模。",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "AnthropicのソウルオフィスとClaude Corps $1.5億ドルフェロープログラムは商業展開と社会的責任を両輪で推進する戦略を示すと同時に、参院選前日の日経平均最高値圏維持は日本市場の底堅さを反映している。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicのソウルオフィスはNAVER（全エンジニアClaude Code）・Samsung SDS（Samsung Electronics全社）・LG CNSと提携しアジアAP展開を加速する。Claude Corpsの$1.5億ドルは非営利セクターへのAI浸透を図る社会的戦略であり、OpenAIが主導した企業向け市場と異なる差別化軸を明確に打ち出した。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "d払いスタンプのdカード除外はドコモ経済圏の決済フロー再設計を示す。dカード利用者へのスタンプ付与停止でdカード→d払いへの誘導インセンティブが消滅しユーザーの行動変容を促す可能性がある。9月1日のd払い特典ポイント種別変更と合わせてドコモの決済ポイント政策の大きな方向転換が進行中だ。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "フランスの猫量子ビット国家取得は欧州が量子コンピュータを国家インフラと位置づける政策転換を示す。SandboxAQのCHIPS法助成$5億ドルは量子AIと半導体材料を融合させた次世代サプライチェーン戦略の実装であり米国の量子商用化ロードマップが政府支援で加速している。IQMのORNL設置は欧州系ベンダーの米国市場参入を加速させる。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayカードの1600万枚突破とQRシェア56%は国内キャッシュレス市場の事実上の標準がPayPayに集中していることを示す。LINE Pay統合による競合消滅が更なるシェア拡大の追い風となっており独占的市場支配による規制リスクが今後の課題となりうる。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "参院選前日の6月18日に日経平均が6万9902円を維持したことは市場が政治リスクを限定的と評価していることを示す。円相場が160円台にあるにもかかわらずAI・半導体・量子関連の成長期待が株価を下支えしている。米5月小売売上高+0.9%の堅調さはFRB利下げ後ずれの可能性を示唆し日米金利差継続が円安要因となる。"
+        }
+      ],
+      "must_read": {
+        "title": "AnthropicがソウルにアジアAP3番目のオフィスを開設—NAVER・Samsung SDS・LG CNSと大型提携を同時発表",
+        "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+        "reason": "NAVERのエンジニア組織全体へのClaude Code導入はアジア最大規模のLLM企業採用事例であり、AnthropicのアジアAP戦略の中核に韓国が位置づけられたことは同地域での競合（OpenAI・Google）との地政学的AI競争を加速させる重要な転換点となる。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 88,
+      "trend_history": [85, 88, 92, 87, 88, 85, 88],
+      "summary_short": "Anthropicがソウルオフィス開設・Claude Corps $1.5億ドルフェロー発表",
+      "summary_long": "AnthropicはアジアAP3番目となるソウルオフィスを6月17日に開設し、NAVERの全エンジニアへのClaude Code導入など韓国大手との大規模提携を発表した。Claude Corpsでは1,000人のフェローを非営利団体に派遣する$1.5億ドルプログラムも始動した。",
+      "articles": [
+        {
+          "title": "AnthropicがソウルをアジアAP3番目の拠点に開設—NAVER・Samsung SDS・LG CNS・Hanwhaと韓国大手との提携を一括発表",
+          "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+          "source": "Anthropic",
+          "summary_short": "AnthropicがアジアAP3拠点目のソウルオフィスを開設し韓国大手と提携",
+          "summary_long": "Anthropicが2026年6月17日にソウルオフィスを開設した。NAVERのエンジニア組織全体（アジア最大規模事例）、Samsung SDSがSamsung Electronics全社、LG CNS全社員、Hanwha SolutionsのAWS Bedrock経由でのClaude導入を同時発表した。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "AnthropicがClaude Corps発表—$1.5億ドル拠出で1000人フェローを非営利団体に派遣",
+          "url": "https://www.anthropic.com/news/claude-corps",
+          "source": "Anthropic",
+          "summary_short": "Anthropicが1.5億ドル拠出で1000人のAIフェローを非営利団体に派遣",
+          "summary_long": "AnthropicはClaude Corps（年収$8.5万・フルベネフィット付）で1,000名のフェローを全米400以上の非営利団体に派遣する$1.5億ドルプログラムを発表した。CodePathと提携し初回100名は2026年10月に開始予定。別途$2億ドルをAI影響で職を失う労働者支援に拠出する。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "Claude Code v2.1.179リリース—mid-stream接続切断の修正・WSL2スクロール問題を解決",
+          "url": "https://releasebot.io/updates/anthropic",
+          "source": "Releasebot",
+          "summary_short": "Claude Code v2.1.179が接続安定性を改善・部分レスポンス保持機能追加",
+          "summary_long": "Anthropicは2026年6月17日にClaude Code v2.1.179をリリースした。mid-stream接続切断時に部分レスポンスを保持してエラーを表示しない改善を実施した。WSL2環境でのマウスホイールスクロール問題とLinuxのサンドボックス設定不具合も修正された。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "AnthropicがAI労働者支援に$2億ドルを拠出—経済的影響の研究・支援枠組みの構築へ",
+          "url": "https://www.anthropic.com/news/claude-corps",
+          "source": "Anthropic",
+          "summary_short": "AnthropicがAI影響で職を失う労働者支援に2億ドルを拠出",
+          "summary_long": "AnthropicはClaude Corpsと同時に、AIによって職を失う労働者を支援する経済的枠組みとして$2億ドルを拠出すると発表した。AIが労働市場に与える影響の研究・実態調査への投資から開始し具体的な支援策を構築する。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 62,
+      "trend_history": [55, 58, 60, 60, 65, 60, 62],
+      "summary_short": "d払いスタンプが7月1日に名称変更、dカード決済がスタンプ対象外に",
+      "summary_long": "NTTドコモは7月1日から「d払いdカードスタンプ」を「d払いスタンプ」に名称変更し、dカード各種での支払いをスタンプ付与対象外とする。Amazonプライムデーでのdポイント10%還元キャンペーンや自治体連携キャンペーンも発表された。",
+      "articles": [
+        {
+          "title": "「d払いdカードスタンプ」が7月1日に「d払いスタンプ」へ名称変更—dカード各種での決済はスタンプ対象外に",
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/2109399.html",
+          "source": "ケータイ Watch",
+          "summary_short": "7月1日からdカード決済がd払いスタンプ付与の対象外に",
+          "summary_long": "NTTドコモは7月1日から「d払いdカードスタンプ」の名称を「d払いスタンプ」に変更し、dカード・dカード GOLD・dカード GOLD U・dカード PLATINUMでの支払いをスタンプ付与の対象外とする。スタンプ対象はd払い・d払いタッチのみとなる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Amazonプライムデーでd払いdポイント10%還元キャンペーン—抽選で10万ポイントが当たる企画も",
+          "url": "https://www.docomo.ne.jp/binary/pdf/info/news_release/topics_260616_g1.pdf",
+          "source": "NTTドコモ",
+          "summary_short": "Amazonプライムデーでd払いによるdポイント10%還元キャンペーンを開催",
+          "summary_long": "NTTドコモは2026年6月16日、Amazonプライムデー期間中にd払いで購入するとdポイント10%を還元するキャンペーンを発表した。抽選で10万ポイントが当たる特典も実施する。d払いの利用拡大とAmazonとの連携を強化したプロモーションとなる。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモが7月開始の「dポイント・d払い」全国自治体連携キャンペーンを発表",
+          "url": "https://www.docomo.ne.jp/binary/pdf/info/news_release/topics_260617_x3.pdf",
+          "source": "NTTドコモ",
+          "summary_short": "ドコモが7月より自治体連携のdポイント・d払いキャンペーンを開始",
+          "summary_long": "NTTドコモは2026年6月17日、全国の自治体と連携した7月開始のdポイント・d払いキャンペーンを発表した。地域経済の活性化を目的にd払い・dポイントの利用を通じた地域特化の還元特典を提供する予定で、詳細は7月に公開される。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 74,
+      "trend_history": [68, 75, 72, 70, 65, 72, 74],
+      "summary_short": "フランスが猫量子ビットコンピュータ世界初取得・SandboxAQがCHIPS法で5億ドル獲得",
+      "summary_long": "フランスがAlice & Bobの18猫量子ビット量子コンピュータを国家として世界初取得しCEAのTGCC施設に設置した。SandboxAQが米CHIPS法助成5億ドルを獲得し、IQMは20量子ビットをオークリッジ国立研究所に米国初設置した。",
+      "articles": [
+        {
+          "title": "フランスが世界初・Alice & Bob製18猫量子ビットコンピュータを国家取得—CEAのTGCC施設に設置",
+          "url": "https://quantumcomputingreport.com/news/",
+          "source": "Quantum Computing Report",
+          "summary_short": "フランスがAlice & Bobの18猫量子ビット量子コンピュータを世界初取得",
+          "summary_long": "フランスはHQIイニシアティブを通じAlice & Bob製18猫量子ビット量子コンピュータを国家として世界初取得した。CEAのTGCC施設に設置し欧州研究インフラとして活用する。猫量子ビットはエラー耐性に優れたアーキテクチャが特徴で欧州量子技術の国家導入として注目される。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "SandboxAQがCHIPS法連邦助成5億ドルを獲得—量子AIで半導体材料開発・レアアース削減に活用",
+          "url": "https://quantumcomputingreport.com/news/",
+          "source": "Quantum Computing Report",
+          "summary_short": "SandboxAQがCHIPS法助成5億ドルを獲得・半導体材料開発に量子AI活用",
+          "summary_long": "Alphabet傘下の量子AI企業SandboxAQは米CHIPS法に基づく連邦助成金5億ドルを獲得した。半導体サプライチェーン強化を目的に量子AI技術を活用した材料開発とレアアース元素削減の研究を推進する。国防・航空宇宙・製薬分野への量子AI応用も加速する。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "IQMが20量子ビット「Pathfinder」をオークリッジ国立研究所に設置—米国初の商業量子システム導入",
+          "url": "https://quantumcomputingreport.com/news/",
+          "source": "Quantum Computing Report",
+          "summary_short": "IQMが米国初となる20量子ビット量子コンピュータをオークリッジ国立研究所に設置",
+          "summary_long": "フィンランドの量子コンピュータ企業IQMは20量子ビットの「Pathfinder」システムを米オークリッジ国立研究所（ORNL）に設置した。IQMにとって米国初の設置であり、ORNLが商業調達した初の量子コンピュータとなる。欧州系ベンダーの米国国立研究所への参入が実現した。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 55,
+      "trend_history": [48, 82, 62, 58, 45, 78, 55],
+      "summary_short": "PayPayカード1600万枚突破・QRシェア56%・LINE Pay統合完了",
+      "summary_long": "PayPayカードの有効発行枚数が1,600万枚を突破しQRコード決済市場シェアは56%・年間取扱高12.5兆円に達した。LINE Payサービス終了後の残高移行でPayPayへの集約が完了した。PayPayステップのeKYC義務化でポイント付与条件が厳格化された。",
+      "articles": [
+        {
+          "title": "PayPayカード有効発行枚数が1600万枚を突破—QR決済シェア56%・年間取扱高12.5兆円・純増290万枚で業界最高",
+          "url": "https://finwave.jp/archives/2472",
+          "source": "FinWave Japan",
+          "summary_short": "PayPayカード発行枚数1600万枚突破・QR決済シェア56%・取扱高12.5兆円",
+          "summary_long": "PayPayカードの有効発行枚数が2026年1月末に1,600万枚を突破した。2025年の純増数290万枚は業界最高水準。PayPayはローンチ8年で登録ユーザー7,300万人・年間取扱高12.5兆円・QRコード決済市場シェア56%に到達し日本最大のキャッシュレス決済基盤となった。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "LINE Pay残高がPayPay残高へ移行可能に—LINE Payは2025年4月末にサービスを終了",
+          "url": "https://www.lycorp.co.jp/ja/news/release/016863/",
+          "source": "LINEヤフー",
+          "summary_short": "LINE Pay残高をPayPay残高へ移行可能に・LINE Payは2025年4月にサービス終了",
+          "summary_long": "LINEヤフーは2025年4月末にLINE Payのサービスを終了し、LINE Pay残高をPayPay残高へ移行できるサービスを提供した。国内二大スマホ決済の統合が完了しPayPayへの一元化が進んでいる。残高移行により利便性を維持しつつキャッシュレス競争の集約が進んだ。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "PayPayステップの条件が6月から変更—eKYC未完了者はポイント付与対象外・ポイント利用分もポイント除外",
+          "url": "https://news.yahoo.co.jp/expert/articles/58b0025881a2f9941ebf998018e8c7c88d3b94b3",
+          "source": "Yahoo!ニュース エキスパート",
+          "summary_short": "PayPayステップ改悪・eKYC未完了者はポイント付与対象外・ポイント利用は除外",
+          "summary_long": "2026年6月からPayPayカード・PayPayステップの条件が変更された。ポイント利用分はポイント付与対象外となり、PayPayカードからのSuica・PASMOチャージはポイント付与0%となった。eKYC（電子本人確認）が未完了の場合、ポイント付与自体が受けられなくなる仕様となった。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 75,
+      "trend_history": [75, 72, 70, 72, 65, 80, 75],
+      "summary_short": "参院選6月21日投開票目前、日経平均6万9902円で上昇続く",
+      "summary_long": "参院選2026は6月21日の投開票を3日後に控え各党が選挙戦最終盤の活動を展開した。日経平均株価は6万9902円に上昇し前日比+497円で最高値圏を維持した。ドル円は160円40〜50銭台で推移し米5月小売売上高+0.9%と個人消費の堅調さが確認された。",
+      "articles": [
+        {
+          "title": "参院選2026が6月21日投開票—各党が選挙戦最終盤の活動を展開、AI・経済・社会保障が争点",
+          "url": "https://go2senkyo.com/sangiin",
+          "source": "選挙ドットコム",
+          "summary_short": "参院選が6月21日投開票、各党が選挙戦最終盤の活動",
+          "summary_long": "2026年参議院議員通常選挙は6月21日に投開票が行われる。6月18日は各党が選挙区・比例区で最終盤の活動を展開した。AI政策・経済対策・社会保障が主要争点となっており各党の最終盤の訴えに注目が集まった。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "日経平均が6万9902円に上昇—前日比+497円・AI関連株に買い・最高値圏を維持",
+          "url": "https://finance.yahoo.co.jp/quote/998407.O",
+          "source": "Yahoo!ファイナンス",
+          "summary_short": "日経平均が6万9902円に上昇・前日比+497円・AI関連株に買い",
+          "summary_long": "6月18日の日経平均株価は6万9,902.25円となり前日比+497.75円（+0.72%）の上昇となった。AI関連株に買いが集まり最高値圏での推移が続いた。6月17日の6万9,404円から続伸し連日最高値圏で推移している。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "ドル円が160円40〜50銭台で続落—日銀利上げ観測でも円買い限定的・ダウ平均上昇が下支え",
+          "url": "https://www.nikkei.com/markets/currencies/",
+          "source": "日本経済新聞",
+          "summary_short": "ドル円160円40〜50銭台・日銀利上げ観測でも円買い限定的",
+          "summary_long": "6月18日のドル円相場は1ドル=160円40〜50銭台で続落した。日銀の追加利上げ観測から円買いの動きが見られたが、ダウ平均の上昇を背景に円高は限定的となった。日米金利差が依然として大きく円高への転換は限定的な状況が続いている。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "米5月小売業売上高が前月比+0.9%増—個人消費が堅調を維持、FRBの利下げ判断に影響",
+          "url": "https://news.web.nhk/newsweb",
+          "source": "NHK",
+          "summary_short": "米5月小売売上高前月比+0.9%増で個人消費は堅調を維持",
+          "summary_long": "米国の2026年5月の小売業売上高が前月比+0.9%増となった。個人消費の堅調さが維持されており米国経済の底堅さが確認された。FRBの利下げ判断に影響する重要経済指標として年内利下げのタイミングが後ずれする可能性も示唆されている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 88,
+      "NTTドコモ": 62,
+      "量子コンピュータ": 74,
+      "金融決済": 55,
+      "国内・社会": 75
+    },
+    "source_distribution": {
+      "Anthropic": 3,
+      "Releasebot": 1,
+      "ケータイ Watch": 1,
+      "NTTドコモ": 2,
+      "Quantum Computing Report": 3,
+      "FinWave Japan": 1,
+      "LINEヤフー": 1,
+      "Yahoo!ニュース エキスパート": 1,
+      "選挙ドットコム": 1,
+      "Yahoo!ファイナンス": 1,
+      "日本経済新聞": 1,
+      "NHK": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 6,
+      "4": 9,
+      "5": 2
+    }
+  }
+}

@@ -1,6 +1,10 @@
 {
-  "last_updated": "2026-06-17T06:35:00+09:00",
+  "last_updated": "2026-06-18T06:45:00+09:00",
   "reports": [
+    {
+      "date": "2026-06-18",
+      "headline": "Anthropicがソウルオフィス開設・NAVER全エンジニアClaude Code導入・Claude Corps $1.5億ドル・d払いスタンプ7月dカード除外・フランス猫量子ビット国家初取得・参院選21日投開票・日経平均6万9902円"
+    },
     {
       "date": "2026-06-17",
       "headline": "Claude Agent SDK別枠クレジット制移行・G7エヴィアン閉幕首脳宣言2年連続見送り・日経平均6万9404円連日最高値・理研叡II量子クラウド・W杯アルゼンチン・フランス初戦"
@@ -247,7 +251,7 @@
     {
       "name": "Anthropic",
       "url": "https://www.anthropic.com",
-      "count": 18
+      "count": 21
     },
     {
       "name": "SAP",
@@ -267,7 +271,7 @@
     {
       "name": "NTTドコモ",
       "url": "https://www.docomo.ne.jp",
-      "count": 49
+      "count": 51
     },
     {
       "name": "NTTドコモビジネス",
@@ -292,7 +296,7 @@
     {
       "name": "日本経済新聞",
       "url": "https://www.nikkei.com",
-      "count": 62
+      "count": 63
     },
     {
       "name": "NVIDIA",
@@ -437,7 +441,7 @@
     {
       "name": "ケータイ Watch",
       "url": "https://k-tai.watch.impress.co.jp",
-      "count": 5
+      "count": 6
     },
     {
       "name": "NTTデータグループ",
@@ -472,7 +476,7 @@
     {
       "name": "Yahoo!ニュース エキスパート",
       "url": "https://news.yahoo.co.jp",
-      "count": 10
+      "count": 11
     },
     {
       "name": "AI Academy Note",
@@ -507,7 +511,7 @@
     {
       "name": "NHK",
       "url": "https://news.web.nhk.newsweb",
-      "count": 26
+      "count": 27
     },
     {
       "name": "PR TIMES",
@@ -562,7 +566,7 @@
     {
       "name": "Releasebot",
       "url": "https://releasebot.io",
-      "count": 3
+      "count": 4
     },
     {
       "name": "@DIME",
@@ -712,7 +716,7 @@
     {
       "name": "選挙ドットコム",
       "url": "https://go2senkyo.com",
-      "count": 1
+      "count": 2
     },
     {
       "name": "8and",
@@ -917,7 +921,7 @@
     {
       "name": "Yahoo!ファイナンス",
       "url": "https://finance.yahoo.co.jp",
-      "count": 3
+      "count": 4
     },
     {
       "name": "テクノエッジ",
@@ -1062,7 +1066,7 @@
     {
       "name": "Quantum Computing Report",
       "url": "https://quantumcomputingreport.com",
-      "count": 3
+      "count": 6
     },
     {
       "name": "CRYPTO TIMES",
@@ -1222,6 +1226,16 @@
     {
       "name": "nippon.com",
       "url": "https://www.nippon.com",
+      "count": 1
+    },
+    {
+      "name": "FinWave Japan",
+      "url": "https://finwave.jp",
+      "count": 1
+    },
+    {
+      "name": "LINEヤフー",
+      "url": "https://www.lycorp.co.jp",
       "count": 1
     }
   ],
