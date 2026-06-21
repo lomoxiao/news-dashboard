@@ -1,0 +1,378 @@
+{
+  "date": "2026-06-22",
+  "generated_at": "2026-06-22T06:30:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "QuantinuumとSandia国立研究所が98量子ビットHeliosのNature論文を発表し、単一量子ビット99.9975%の精度を記録した。FIFA W杯2026では日本がチュニジアを4-0で下し、アジア勢史上最多得点を達成してグループF首位に立った。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicはClaude CodeにDynamic Workflows機能を研究プレビューで公開した。Max・Team・Enterprise向けに数百の並列サブエージェントを1セッションで実行でき、コードベース全体の移行・セキュリティ監査に対応する。Claude Designも刷新し1週間で100万人が利用した。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTは6月18日の株主総会でIOWN(R)APNがInterop Tokyoグランプリを受賞したこと、2025年度に基地局1万2000局を増設したことを報告した。WOWOWとの資本業務提携を6月16日に締結し、映像コンテンツと通信サービスの連携強化を図る。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "Quantinuumの98量子ビット機HeliosがNature論文で単一量子ビット99.9975%・2量子ビット99.921%の精度を報告した。IBM Nighthawkも粒子物理・サイバーセキュリティ分野で独立機関による検証が完了し、2026年末の量子優位性達成への道筋が示された。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayは6月にeKYC未完了者のステップ対象外化・ポイント払い還元率0%・公共料金還元率0.5%への引き下げを実施した。PayPay銀行は7月1日から円普通預金にPayPayポイントを付与する新特典を開始する。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "FIFA W杯2026でサッカー日本代表がチュニジアを4-0で下し、アジア勢史上最多の4得点を記録してグループF首位に立った。米国とイランは核合意覚書後初の協議を行い、イランがトランプ政権の姿勢に反発した。"
+        }
+      ],
+      "must_read": {
+        "title": "Quantinuum Helios 98量子ビット、Nature論文で単一量子ビット99.9975%・2量子ビット99.921%精度を報告",
+        "url": "https://thequantuminsider.com/2026/06/18/researchers-publish-peer-reviewed-results-on-quantinuums-helios-quantum-computer/",
+        "reason": "Sandiaとの共同査読論文でHeliosが業界最高水準の精度を達成した。耐量子暗号移行期における量子脅威の現実化を示す重要指標であり、金融・セキュリティ分野への直接的な影響が想定される。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "Claude CodeのDynamic Workflowsが公開されましたよ！数百のサブエージェントを並列で動かせる機能で、大規模な開発作業がかなり楽になりそうですね。量子コンピュータも着実に精度向上が進んでいます。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicがClaude CodeにDynamic Workflows機能を研究プレビューで公開しましたよ！数百のサブエージェントを並列で動かせて、大きなコードベースの移行やセキュリティ監査も一気にできるみたいですね。Claude Designも刷新されて1週間100万人が使ったそうです。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTの株主総会でIOWNがInterop Tokyoグランプリ受賞と基地局1万2000局増設が報告されましたよ。WOWOWとの資本業務提携も発表されて、映像コンテンツと通信の連携が強化されそうですね。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "QuantinuumのHeliosという98量子ビットのシステムがNature論文で99.9975%という驚きの精度を達成したそうですよ！IBMのNighthawkも独立機関で検証が完了して、量子コンピュータがいよいよ実用段階に近づいていますね。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayの改悪が6月も続いていますよ。eKYC未完了だとステップ対象外になるし、ポイント払いでは還元率0%になってしまうんです。PayPay銀行は7月から円普通預金にポイント付与の新特典を開始するみたいですよ。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "W杯で日本が昨日チュニジアに4-0で勝ちましたよ！アジア勢最多の4得点でグループF首位に立ちましたね。米国とイランの核協議も始まりましたが、イランがトランプ政権の姿勢に反発しているみたいですよ。"
+        }
+      ],
+      "must_read": {
+        "title": "Quantinuum Helios 98量子ビット、Nature論文で単一量子ビット99.9975%・2量子ビット99.921%精度を報告",
+        "url": "https://thequantuminsider.com/2026/06/18/researchers-publish-peer-reviewed-results-on-quantinuums-helios-quantum-computer/",
+        "reason": "SandiaとQuantinuumがNatureに共同論文を掲載して、業界最高水準の量子精度を実証しましたよ。量子コンピュータの実用化が着実に近づいていることを示す重要なマイルストーンですね。",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Claude Code Dynamic Workflows機能を研究プレビュー公開（数百並列サブエージェント対応）\n・Claude Design刷新—Codeとの連携強化・直接編集・1週間100万人利用\n・TCS×Anthropic規制産業向けグローバル提携締結"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・NTT株主総会—IOWN進捗・基地局1万2000局増設報告\n・WOWOW×NTTドコモ資本業務提携締結（6月16日）\n・AQUOS R11 SH-51Gおよびオープンイヤーcocoe Ear発売"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・Quantinuum Helios 98量子ビット—99.9975%精度をNature論文で報告（Sandia共同）\n・IBM Nighthawk 120量子ビット—粒子物理・サイバーで独立検証完了\n・EigenQ、30億ドルSPACマージャーで上場承認"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・PayPay6月改悪継続—eKYC未完了者はステップ対象外・ポイント払い0%\n・PayPay銀行7月から円普通預金にPayPayポイント付与特典開始"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・FIFA W杯2026 日本4-0チュニジア—アジア勢最多4得点・グループF首位\n・米イラン、覚書後初の協議—イランがトランプ政権に反発\n・ウクライナ、2000km超の石油精製施設をドローン攻撃"
+        }
+      ],
+      "must_read": {
+        "title": "Quantinuum Helios 98量子ビット、Nature論文で単一量子ビット99.9975%・2量子ビット99.921%精度を報告",
+        "url": "https://thequantuminsider.com/2026/06/18/researchers-publish-peer-reviewed-results-on-quantinuums-helios-quantum-computer/",
+        "reason": "Sandia×Quantinuum、Nature掲載で業界最高精度を実証。量子実用化の現実化を示す。",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "QuantinuumのHelios Nature論文はトラップドイオン方式による実用的量子精度の確立を示し、Claude CodeのDynamic Workflows公開はAIエージェントのエンタープライズ展開モデルが並列オーケストレーション競争フェーズへ移行したことを意味する。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Claude CodeのDynamic Workflowsは、LLMを単一推論エンジンとして使う従来型から、多数のサブエージェントを動的オーケストレーションするアーキテクチャへの転換を示す。Claude Designとの統合でデザイン→実装のフルパイプラインをAnthropicが垂直統合した。エンタープライズ向け価値提案が競合に対し明確な差別化軸となる。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTT株主総会でのIOWN進捗報告は、光電融合技術を基盤とする次世代インフラ戦略の着実な実行を示す。WOWOW提携はコンテンツ×通信の垂直統合戦略の一環であり、d払い改悪（9月〜）で高ランクユーザーの離反リスクが高まる中、メディア付加価値での囲い込みに転換している。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "HeliosのNature論文はトラップドイオン方式の精度優位性を査読を経て確立し、IBM Nighthawkの独立検証完了と合わせて、量子ハードウェアが実用アプリケーション評価に耐える段階に達したことを示す。EigenQのSPAC上場は量子投資家の期待値を反映するが、実用優位性証明との時間軸乖離が課題となる。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayの段階的改悪（eKYC・ポイント払い・公共料金）は、ユーザー獲得フェーズから収益最適化フェーズへの移行を示す。6月1日施行の外国SC電子決済手段認定は制度インフラが整備された段階であり、PayPay銀行のポイント特典新設はデジタル銀行との競争強化を狙う布石となっている。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "日本のW杯4-0勝利は2022年大会のドイツ・スペイン撃破に続く欧米列強への挑戦というナレーションで国内メディアが報道する。一方、米イラン覚書後初協議は中東緊張の一時的な緩和を示すが、イランの反発姿勢が残る。ウクライナの2000km超ドローン攻撃は戦争の長期化と戦場の地理的拡大を示す構造的変化だ。"
+        }
+      ],
+      "must_read": {
+        "title": "Quantinuum Helios 98量子ビット、Nature論文で単一量子ビット99.9975%・2量子ビット99.921%精度を報告",
+        "url": "https://thequantuminsider.com/2026/06/18/researchers-publish-peer-reviewed-results-on-quantinuums-helios-quantum-computer/",
+        "reason": "トラップドイオン方式が超伝導方式と並ぶ実用水準の精度を査読論文で確立した。耐量子暗号移行スケジュール（NIST PQC標準化2024年完了・政府移行期限設定中）に照らすと、HeliosレベルのQPUが商用展開に近づくことは金融・通信・防衛の暗号インフラへの現実的脅威時間軸を短縮させる。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 85,
+      "trend_history": [93, 91, 88, 87, 88, 90, 85],
+      "summary_short": "Claude CodeのDynamic Workflows機能が研究プレビューで公開",
+      "summary_long": "AnthropicはClaude CodeにDynamic Workflows機能を研究プレビューで公開した。Max・Team・Enterprise向けに数百の並列サブエージェントを1セッションで実行でき、コードベース移行やセキュリティ監査に対応する。Claude Designも刷新し、1週間で100万人が利用した。",
+      "articles": [
+        {
+          "title": "Anthropic launches dynamic workflows in Claude Code for parallel agent coordination",
+          "url": "https://itbrief.news/story/anthropic-launches-dynamic-workflows-in-claude-code",
+          "source": "ITBrief",
+          "summary_short": "Dynamic Workflows機能が研究プレビューで公開、大規模並列処理が可能に",
+          "summary_long": "AnthropicはClaude CodeにDynamic Workflows機能を研究プレビューで公開した。Max・Team・Enterpriseプラン向けに数百の並列サブエージェントを1セッションで実行でき、コードベース全体の移行・セキュリティ監査・大規模リファクタリングに対応し、中断後の再開も可能となった。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Claude Designを刷新—Codeとの双方向連携・直接編集追加で1週間100万人利用",
+          "url": "https://www.anthropic.com/news",
+          "source": "Anthropic",
+          "summary_short": "Claude Designを刷新、Codeとの双方向連携・直接編集追加で1週間100万人",
+          "summary_long": "AnthropicはClaude Designを刷新し、デザインシステムのインポートとClaude Codeへの同期を追加した。キャンバス直接編集と10社以上のコネクタ対応でデザインから実装まで一貫したワークフローが可能となり、公開1週間で100万人が利用した。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "TCS and Anthropic partner to bring Claude to regulated industries",
+          "url": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+          "source": "Anthropic",
+          "summary_short": "TCSとAnthropicが規制対象産業向けClaudeを展開する提携を締結",
+          "summary_long": "TCSとAnthropicは規制対象産業向けClaude展開のグローバル提携を締結した。銀行・製造・医療など監査証跡・コンプライアンスが求められる業界でのAIエージェント活用を目指す。TCSの5000社超の顧客基盤を通じてClaudeが展開される。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 65,
+      "trend_history": [70, 68, 62, 65, 70, 68, 65],
+      "summary_short": "NTT株主総会でIOWN進捗公表、WOWOWと資本業務提携締結",
+      "summary_long": "NTTは6月18日の株主総会でIOWN(R)APNがInterop Tokyoグランプリを受賞したこと、2025年度に基地局1万2000局を増設したことを報告した。WOWOWとの資本業務提携を6月16日に締結し、映像コンテンツと通信サービスの連携強化を図る。",
+      "articles": [
+        {
+          "title": "NTT株主総会、ドコモ品質への厳しい声やIOWNで示す反転攻勢への道筋",
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/2118224.html",
+          "source": "ケータイ Watch",
+          "summary_short": "NTT株主総会でIOWN進捗と通信品質改善を報告、基地局1.2万局増設",
+          "summary_long": "NTTは6月18日に第41期定時株主総会を開催した。IOWN(R)APNがInterop Tokyo 2026 Best of Show Awardグランプリを受賞したこと、2025年度に基地局1万2000局を増設したことを公表した。株主からはNTTドコモの通信品質改善への厳しい意見も出された。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "株式会社WOWOWと株式会社NTTドコモ、資本業務提携契約を締結",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/06/16_01.html",
+          "source": "NTTドコモ",
+          "summary_short": "WOWOWとNTTドコモが資本業務提携、コンテンツと通信の連携強化",
+          "summary_long": "NTTドコモとWOWOWは6月16日、資本業務提携契約を締結した。映像コンテンツサービスとドコモの通信・決済サービスとの連携強化を目的とし、双方の顧客基盤を活用したサービス開発を進める。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "ドコモ、「AQUOS R11 SH-51G」を発売",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/06/16_00.html",
+          "source": "NTTドコモ",
+          "summary_short": "ドコモAQUOS R11 SH-51Gを6月16日に発売",
+          "summary_long": "NTTドコモは6月16日、シャープ製「AQUOS R11 SH-51G」を発売した。最新のSnapdragonチップを搭載し、高精細ディスプレイとカメラ性能が強化されたフラグシップモデルとなる。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "世界初のオープンイヤー型集音器「cocoe Ear」を発売—全国56店舗のドコモショップで体験展示開始",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/06/18_00.html",
+          "source": "NTTドコモ",
+          "summary_short": "世界初オープンイヤー型集音器cocoe Earをドコモが発売",
+          "summary_long": "NTTドコモは6月18日、世界初のオープンイヤー型集音器「cocoe Ear」を発売した。全国47都道府県・合計56店舗のドコモショップで体験展示を開始し、耳掛け型で外音を遮らない自然な聴こえを実現する医療機器を一般向けに展開する。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 75,
+      "trend_history": [68, 74, 74, 65, 68, 72, 75],
+      "summary_short": "QuantinuumHelios98量子ビットがNature掲載、IBM Nighthawk独立検証",
+      "summary_long": "Quantinuumの98量子ビット機HeliosがNature論文で単一量子ビット99.9975%・2量子ビット99.921%の精度を報告した。IBMのNighthawkも粒子物理・サイバーセキュリティで独立機関による検証が完了し、量子コンピュータの実用フェーズへの移行が複数ハードウェアで示された。",
+      "articles": [
+        {
+          "title": "Researchers Publish Peer-Reviewed Results on Quantinuum's Helios Quantum Computer",
+          "url": "https://thequantuminsider.com/2026/06/18/researchers-publish-peer-reviewed-results-on-quantinuums-helios-quantum-computer/",
+          "source": "The Quantum Insider",
+          "summary_short": "Helios 98量子ビット、単体99.99%・2量子99.9%精度をNature論文で報告",
+          "summary_long": "Sandia国立研究所とQuantinuumは6月17日、98量子ビットのHeliosシステムのNature論文を発表した。単一量子ビット99.9975%・2量子ビット99.921%・SPAM99.967%の精度を記録し、バリウム hyperfine clock状態を用いたQCCDアーキテクチャで業界最高水準を達成した。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "IBM Nighthawk Processor Validated in Quantum Chromodynamics and Cybersecurity Benchmarks",
+          "url": "https://quantumcomputingreport.com/ibm-nighthawk-processor-validated-in-quantum-chromodynamics-and-cybersecurity-benchmarks/",
+          "source": "Quantum Computing Report",
+          "summary_short": "IBM Nighthawk 120量子ビット、粒子物理・サイバーで独立機関が検証",
+          "summary_long": "IBMのNighthawk 120量子ビットプロセッサが粒子物理シミュレーション（量子色力学）とグラフ型サイバーセキュリティ最適化の2分野で独立研究者による査読論文で検証された。2026年末の量子優位性達成と2027年1万ゲート実装の目標に向けた進捗が示された。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Duke University and IonQ Demonstrate Tripartite Entanglement Across a Three-Node Quantum Network",
+          "url": "https://quantumcomputingreport.com/duke-university-and-ionq-demonstrate-tripartite-entanglement-across-a-three-node-quantum-network/",
+          "source": "Quantum Computing Report",
+          "summary_short": "Duke大とIonQが3ノード量子ネットワークで三者間エンタングルメント実証",
+          "summary_long": "Duke大とIonQは3ノードの量子ネットワークで遠隔原子量子ビットを用いた三者間エンタングルメントを実証した。光子インターコネクトで離れた処理ノードを接続するモジュラー量子コンピューティングの基盤を確立し、分散量子計算の実現に向けた枠組みを示した。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "EigenQ to Go Public via $3 Billion SPAC Merger",
+          "url": "https://quantumcomputingreport.com/eigenq-to-go-public-via-3-billion-spac-merger/",
+          "source": "Quantum Computing Report",
+          "summary_short": "量子コンピュータ企業EigenQが30億ドルSPAC経由で上場承認",
+          "summary_long": "量子コンピューティング企業EigenQが30億ドル規模のSPACマージャーによる上場を承認された。Quantinuum IPO（16.8億ドル）に続き量子関連上場が相次いでおり、投資家の量子コンピューティング市場への期待が高まっている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 52,
+      "trend_history": [54, 55, 55, 52, 50, 52, 52],
+      "summary_short": "PayPay6月改悪継続・外国SC電子決済手段認定で普及加速",
+      "summary_long": "PayPayは6月にeKYC未完了者のステップ対象外化・ポイント払い還元率0%・公共料金還元率0.5%への引き下げを実施した。PayPay銀行は7月1日から円普通預金にPayPayポイントを付与する新特典を開始する。金融庁の外国SC電子決済手段認定（6月1日施行）による制度活用が広がっている。",
+      "articles": [
+        {
+          "title": "2026年6月〜PayPayカードやPayPayステップの条件が改悪 今からやるべき対策",
+          "url": "https://b4c.jp/poigiken/articles/news/paypay-kaiaku.html",
+          "source": "ポイ活技研",
+          "summary_short": "PayPay6月改悪継続、eKYC未完了者はステップ外れポイント停止",
+          "summary_long": "2026年6月からPayPayステップの条件が変更された。eKYC未完了者はステップ対象外となりポイント付与が受けられなくなる。ポイント払い分への新たなポイント付与は0%、公共料金は還元率が1%から0.5%に引き下げられた。6月2日施行分に続き改悪が継続している。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "【円普通預金】PayPayポイントがもらえる新特典開始および一部機能終了のお知らせ（7月1日）",
+          "url": "https://www.paypay-bank.co.jp/news/2026/0601.html",
+          "source": "PayPay銀行",
+          "summary_short": "PayPay銀行が7月から円普通預金にPayPayポイント付与の新特典",
+          "summary_long": "PayPay銀行は7月1日から「ステップアップ円預金」を対象に、利息に加えて0.1%分のPayPayポイントを付与する新特典を開始する。デジタルバンクとの競争を背景にPayPay経済圏での預金獲得を強化する。同時に一部機能の終了もアナウンスされた。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "金融庁、外国発行ステーブルコインを電子決済手段に正式認定 内閣府令改正を公布",
+          "url": "https://coinpost.jp/?p=709645",
+          "source": "CoinPost",
+          "summary_short": "金融庁が外国発行ステーブルコインを電子決済手段に正式認定",
+          "summary_long": "金融庁は改正資金決済法（6月1日施行）に基づき、外国発行ステーブルコインを電子決済手段として正式認定する内閣府令改正を公布した。海外SC発行体が日本の認定制度に基づいて国内サービスを提供できる制度基盤が整備され、円建てSCの競合環境が形成される。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 72,
+      "trend_history": [70, 72, 75, 68, 70, 68, 72],
+      "summary_short": "FIFA W杯日本が4-0チュニジアでアジア最多得点記録",
+      "summary_long": "FIFA W杯2026でサッカー日本代表が6月21日にチュニジアを4-0で下し、アジア勢史上最多の4得点を記録してグループF首位に立った。米国とイランは核合意覚書後初の協議を実施したが、イランがトランプ政権の姿勢に反発した。ウクライナは2000km超先の石油精製施設を攻撃した。",
+      "articles": [
+        {
+          "title": "Tunisia 0-4 Japan — FIFA World Cup 2026 Group F Match Result",
+          "url": "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021475",
+          "source": "FIFA",
+          "summary_short": "W杯2026で日本が4-0チュニジア勝利、アジア史上最多4得点",
+          "summary_long": "6月21日のFIFA W杯2026グループF第2節で日本がチュニジアを4-0で下した。鎌田4分、上田31分・83分、伊東69分が得点し、アジア勢のW杯1試合最多得点記録を達成した。日本はオランダと並びグループF首位（勝ち点4）に立ち、決勝トーナメント進出に大きく前進した。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "米とイラン 覚書後初の協議 イランがトランプ大統領に反発",
+          "url": "https://www3.nhk.or.jp/news/html/20260622/k10014927541000.html",
+          "source": "NHK",
+          "summary_short": "米・イラン覚書後初の協議、イランがトランプ政権の姿勢に反発",
+          "summary_long": "米国とイランは核合意覚書締結後初の協議を実施した。イランはトランプ政権の姿勢に反発しており、協議の進展は不透明な状況となっている。中東情勢の緊張緩和への期待と不確実性が共存する状態が続く。",
+          "importance": 4,
+          "fetch_failed": true
+        },
+        {
+          "title": "ウクライナ大統領、前線から2000km超の石油精製施設をドローンで攻撃と報告",
+          "url": "https://www3.nhk.or.jp/news/html/20260622/k10014927531000.html",
+          "source": "NHK",
+          "summary_short": "ウクライナが2000km超先の石油精製施設をドローンで攻撃",
+          "summary_long": "ウクライナのゼレンスキー大統領は前線から2000km以上離れた石油精製施設へのドローン攻撃を報告した。長距離打撃能力の拡大を示す事例であり、ロシアのエネルギーインフラへの圧力が継続されている。",
+          "importance": 4,
+          "fetch_failed": true
+        },
+        {
+          "title": "出版業界15社が書店存続のための収益改善で共同声明",
+          "url": "https://www3.nhk.or.jp/news/html/20260622/k10014927621000.html",
+          "source": "NHK",
+          "summary_short": "出版業界15社が書店存続のための収益改善を共同声明で求める",
+          "summary_long": "出版業界15社は書店の収益改善と存続を目的とした共同声明を発表した。書店の閉店が続く中、出版社・取次・書店が連携して流通構造の改善と利益配分の見直しを進める方針を示した。",
+          "importance": 3,
+          "fetch_failed": true
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 85,
+      "NTTドコモ": 65,
+      "量子コンピュータ": 75,
+      "金融決済": 52,
+      "国内・社会": 72
+    },
+    "source_distribution": {
+      "Anthropic": 2,
+      "ITBrief": 1,
+      "ケータイ Watch": 1,
+      "NTTドコモ": 3,
+      "The Quantum Insider": 1,
+      "Quantum Computing Report": 3,
+      "ポイ活技研": 1,
+      "PayPay銀行": 1,
+      "CoinPost": 1,
+      "FIFA": 1,
+      "NHK": 3
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 8,
+      "4": 9,
+      "5": 1
+    }
+  }
+}

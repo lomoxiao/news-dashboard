@@ -1,6 +1,10 @@
 {
-  "last_updated": "2026-06-20T06:30:00+09:00",
+  "last_updated": "2026-06-22T06:30:00+09:00",
   "reports": [
+    {
+      "date": "2026-06-22",
+      "headline": "Claude Code Dynamic Workflows公開・Quantinuum Helios 98量子ビットNature掲載・NTT株主総会IOWN報告・PayPay改悪継続・W杯日本4-0チュニジアアジア最多得点・米イラン初協議・日経7万1250円"
+    },
     {
       "date": "2026-06-20",
       "headline": "Claude Design大型更新Claude Code双方向連携・9社コネクタ追加1週間100万人・d払い特典9月から一律200P改悪・IBM量子実用フェーズ宣言・参院選本日選挙戦最終日21日投開票・日経7万1250円"
@@ -255,7 +259,7 @@
     {
       "name": "Anthropic",
       "url": "https://www.anthropic.com",
-      "count": 21
+      "count": 23
     },
     {
       "name": "SAP",
@@ -275,7 +279,7 @@
     {
       "name": "NTTドコモ",
       "url": "https://www.docomo.ne.jp",
-      "count": 53
+      "count": 56
     },
     {
       "name": "NTTドコモビジネス",
@@ -445,7 +449,7 @@
     {
       "name": "ケータイ Watch",
       "url": "https://k-tai.watch.impress.co.jp",
-      "count": 7
+      "count": 8
     },
     {
       "name": "NTTデータグループ",
@@ -515,7 +519,7 @@
     {
       "name": "NHK",
       "url": "https://news.web.nhk.newsweb",
-      "count": 28
+      "count": 31
     },
     {
       "name": "PR TIMES",
@@ -550,7 +554,7 @@
     {
       "name": "The Quantum Insider",
       "url": "https://thequantuminsider.com",
-      "count": 6
+      "count": 7
     },
     {
       "name": "AIメディア",
@@ -670,7 +674,7 @@
     {
       "name": "CoinPost",
       "url": "https://coinpost.jp",
-      "count": 8
+      "count": 9
     },
     {
       "name": "JTB総合研究所",
@@ -1070,7 +1074,7 @@
     {
       "name": "Quantum Computing Report",
       "url": "https://quantumcomputingreport.com",
-      "count": 6
+      "count": 9
     },
     {
       "name": "CRYPTO TIMES",
@@ -1255,6 +1259,26 @@
     {
       "name": "ITmedia Mobile",
       "url": "https://www.itmedia.co.jp/mobile",
+      "count": 1
+    },
+    {
+      "name": "ITBrief",
+      "url": "https://itbrief.news",
+      "count": 1
+    },
+    {
+      "name": "ポイ活技研",
+      "url": "https://b4c.jp",
+      "count": 1
+    },
+    {
+      "name": "FIFA",
+      "url": "https://www.fifa.com",
+      "count": 1
+    },
+    {
+      "name": "PayPay銀行",
+      "url": "https://www.paypay-bank.co.jp",
       "count": 1
     }
   ],
