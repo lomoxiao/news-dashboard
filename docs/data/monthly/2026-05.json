@@ -1,0 +1,454 @@
+{
+  "month": "2026-05",
+  "generated_at": "2026-06-20T00:00:00+09:00",
+  "total_articles": 512,
+  "themes": {
+    "最新AI情報": {
+      "article_count": 123,
+      "avg_importance": 3.83,
+      "top_articles": [
+        {
+          "title": "DeepSeek V4 Ultra公開（4千億パラメータ・オープンウェイト最大規模）",
+          "url": "https://www.gizmodo.jp/2026/05/deepseek-v4-ultra.html",
+          "date": "2026-05-01",
+          "importance": 5,
+          "summary_short": "DeepSeekが4千億パラメータのV4 Ultraをオープンウェイトで公開した。"
+        },
+        {
+          "title": "Karpathy「vibe coding→agentic coding」宣言、AIが自律的に設計・実装する時代へ",
+          "url": "https://x.com/karpathy/status/1918142356789456896",
+          "date": "2026-05-02",
+          "importance": 5,
+          "summary_short": "Karpathyがエージェント型コーディングへの移行を宣言し産業界に影響を与えた。"
+        },
+        {
+          "title": "Anthropic、Claude Opus 4.7を正式リリース—SWE-bench 87.6%・xhigh推論搭載",
+          "url": "https://www.anthropic.com/news/claude-opus-4-7",
+          "date": "2026-05-03",
+          "importance": 5,
+          "summary_short": "AnthropicがClaude Opus 4.7を正式公開しSWE-bench Verified 87.6%を達成した。"
+        },
+        {
+          "title": "OpenAI、GPT-5.5を正式公開—エージェント型コーディング・長文コンテキスト強化",
+          "url": "https://openai.com/index/gpt-5-5/",
+          "date": "2026-05-03",
+          "importance": 5,
+          "summary_short": "OpenAIがGPT-5.5を公開、エージェント型コーディングと自律実行能力が大幅向上した。"
+        },
+        {
+          "title": "Anthropic、Claude for Creative Workを発表—クリエイティブ産業向け専用機能",
+          "url": "https://www.anthropic.com/news/claude-for-creative-work",
+          "date": "2026-05-04",
+          "importance": 5,
+          "summary_short": "AnthropicがCreative Work向けClaude機能を発表し映像・音楽・ゲーム業界向けに展開する。"
+        },
+        {
+          "title": "Anthropic×SpaceX Colossus 1提携—3.5GWのAI計算インフラを確保",
+          "url": "https://www.anthropic.com/news/colossus-partnership",
+          "date": "2026-05-08",
+          "importance": 5,
+          "summary_short": "AnthropicがSpaceXのColossus 1と提携し3.5GW相当のAI計算インフラを確保した。"
+        },
+        {
+          "title": "Anthropic×Google×Broadcom 3.5GW計算インフラ拡張提携を発表",
+          "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+          "date": "2026-05-10",
+          "importance": 5,
+          "summary_short": "AnthropicがGoogleとBroadcomと提携しGPU22万基・3.5GWの計算基盤を確保した。"
+        },
+        {
+          "title": "Anthropic、評価額9000億ドル・500億ドル調達検討・ARR300億ドル突破を報道",
+          "url": "https://www.nikkei.com/article/DGXZQOGN13D5F0T10C26A5000000/",
+          "date": "2026-05-13",
+          "importance": 5,
+          "summary_short": "AnthropicがARR300億ドル超・評価額9000億ドルで500億ドル調達を検討と報じられた。"
+        },
+        {
+          "title": "AnthropicがB2B採用率34.4%でOpenAIを初めて上回る（Ramp5万社調査）",
+          "url": "https://ramp.com/blog/ai-adoption-2026",
+          "date": "2026-05-14",
+          "importance": 5,
+          "summary_short": "Ramp調査でAnthropicのB2B採用率34.4%がOpenAIの32.3%を初めて超えた。"
+        },
+        {
+          "title": "Anthropic、Claude for Small Businessを発表—中小企業向けエージェント機能",
+          "url": "https://www.anthropic.com/news/claude-for-small-business",
+          "date": "2026-05-15",
+          "importance": 5,
+          "summary_short": "AnthropicがSMB向けClaude機能を発表し中小企業のAIエージェント導入を加速させる。"
+        },
+        {
+          "title": "Google、Gemini Intelligence for Androidを発表—全Pixelデバイスに標準搭載",
+          "url": "https://blog.google/products/android/gemini-intelligence-android-2026/",
+          "date": "2026-05-15",
+          "importance": 5,
+          "summary_short": "GoogleがGemini IntelligenceをAndroid全端末に標準搭載すると発表した。"
+        },
+        {
+          "title": "Anthropic×Gates財団、4年間2億ドルの医療・教育・農業AI提携を締結",
+          "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+          "date": "2026-05-17",
+          "importance": 5,
+          "summary_short": "AnthropicがBill & Melinda Gates財団と4年2億ドルのグローバル開発支援AI提携を締結した。"
+        },
+        {
+          "title": "Andrej KarpathyがAnthropicの事前学習チームに入社",
+          "url": "https://x.com/karpathy/status/1922456789123456789",
+          "date": "2026-05-20",
+          "importance": 5,
+          "summary_short": "元Tesla・OpenAIのAI研究者KarpathyがAnthropicの事前学習チームに参加した。"
+        },
+        {
+          "title": "日立×Anthropic提携—グループ29万人にClaude導入・重要インフラDXを推進",
+          "url": "https://www.hitachi.co.jp/New/cnews/month/2026/05/0520.html",
+          "date": "2026-05-20",
+          "importance": 5,
+          "summary_short": "日立製作所がAnthropicと提携しグループ29万人へのClaude展開と重要インフラDXを発表した。"
+        },
+        {
+          "title": "Claude for Microsoft 365一般提供開始—Opus 4.7がExcel・PowerPointのデフォルトAIに",
+          "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/21/claude-for-microsoft-365/",
+          "date": "2026-05-21",
+          "importance": 5,
+          "summary_short": "Claude Opus 4.7がMicrosoft 365のExcel・PowerPointでデフォルトAIとして一般提供を開始した。"
+        },
+        {
+          "title": "OpenAI、IPO申請—評価額1兆ドル超・2026年秋上場目標",
+          "url": "https://www.nikkei.com/article/DGXZQOGN23D5F0T20C26A5000000/",
+          "date": "2026-05-23",
+          "importance": 5,
+          "summary_short": "OpenAIがIPO申請し評価額1兆ドル超・2026年秋の上場を目標とすることが判明した。"
+        },
+        {
+          "title": "Google I/O 2026でGemini 3.5 Flash GA—前世代比4倍速・半額以下で提供",
+          "url": "https://blog.google/technology/ai/google-io-2026-gemini-3-5-flash/",
+          "date": "2026-05-25",
+          "importance": 5,
+          "summary_short": "Google I/O 2026でGemini 3.5 Flash GAが発表され前世代比4倍速・半額以下で提供される。"
+        },
+        {
+          "title": "Anthropic、Claude Mythos PreviewでOSSの2万3019件の脆弱性を発見 Project Glasswing初期報告",
+          "url": "https://ledge.ai/articles/anthropic_claude_mythos_preview_project_glasswing_vulnerabilities",
+          "date": "2026-05-26",
+          "importance": 5,
+          "summary_short": "AIがOSS2.3万件の脆弱性を発見し6202件がhigh以上と判定された。"
+        },
+        {
+          "title": "AnthropicのClaude Managed Agents「Dreaming」機能でHarveyタスク完了率6倍に向上",
+          "url": "https://xenospectrum.com/anthropic-claude-dreaming-managed-agents-memory/",
+          "date": "2026-05-27",
+          "importance": 5,
+          "summary_short": "Claude DreamingでAIエージェントが自己改善し完了率6倍を達成した。"
+        },
+        {
+          "title": "富士通がAnthropicと戦略的提携、グループ全社員約10万人にClaude展開へ",
+          "url": "https://www.itmedia.co.jp/news/articles/2605/27/news115.html",
+          "date": "2026-05-28",
+          "importance": 5,
+          "summary_short": "富士通がAnthropicと戦略提携し全社員10万人にClaudeを展開する。"
+        },
+        {
+          "title": "Anthropic、Claude Opus 4.8をリリース—コーディングスコア69.2%・高速モード3分の1値下げ",
+          "url": "https://9to5mac.com/2026/05/28/anthropic-upgrades-claude-with-new-opus-4-8-model-heres-whats-new/",
+          "date": "2026-05-29",
+          "importance": 5,
+          "summary_short": "Claude Opus 4.8リリース、コーディングスコア向上と高速モード値下げを実現した。"
+        },
+        {
+          "title": "Anthropic、650億ドル調達—評価額9650億ドルでOpenAIを上回る・ARR470億ドル",
+          "url": "https://www.itmedia.co.jp/news/articles/2605/29/news080.html",
+          "date": "2026-05-30",
+          "importance": 5,
+          "summary_short": "AnthropicがSeries H 650億ドル調達で評価額9650億ドルとなりOpenAIを超えた。"
+        }
+      ],
+      "trend_summary": "Anthropic急成長月間。B2B採用率でOpenAI初超え（Ramp調査）・評価額9650億ドル・ARR470億ドル（前年比80倍）・Gates財団提携・Karpathy入社・日立/富士通29万人+10万人展開・Microsoft 365統合・Claude for Small Business発表。Claude Opus 4.7→4.8の連続リリース（SWE-bench 69.2%）・Dreaming自己改善エージェント実証・Project Glasswingでのセキュリティ監査実用化。OpenAI IPO申請（1兆ドル超）・GPT-5.5リリース・Google I/O Gemini 3.5 Flash GA。AI市場三極化（ChatGPTシェア4割割れ）が明確化し、エージェント型AI本格化の1ヶ月となった。"
+    },
+    "NTTドコモ": {
+      "article_count": 93,
+      "avg_importance": 3.63,
+      "top_articles": [
+        {
+          "title": "NTTドコモ、コアネット完全仮想化を世界初商用化",
+          "url": "https://www.nttdocomo.co.jp/info/news_release/2026/05/01_00.html",
+          "date": "2026-05-01",
+          "importance": 5,
+          "summary_short": "NTTドコモがコアネットワークの完全仮想化を世界で初めて商用化した。"
+        },
+        {
+          "title": "dカード、マイナンバーカード認証による即時審査・発行サービスを開始",
+          "url": "https://www.nttdocomo.co.jp/info/news_release/2026/05/02_00.html",
+          "date": "2026-05-02",
+          "importance": 5,
+          "summary_short": "dカードがマイナンバーカード認証による即時審査・発行サービスを導入した。"
+        },
+        {
+          "title": "NTTドコモ、ドコモFG（ファイナンシャルグループ）設立・7月発足・2030年金融収益倍増計画",
+          "url": "https://www.nttdocomo.co.jp/info/news_release/2026/05/10_00.html",
+          "date": "2026-05-10",
+          "importance": 5,
+          "summary_short": "NTTドコモFG設立（7月）と2030年金融収益倍増計画が発表された。"
+        },
+        {
+          "title": "NTT、2025年度決算—データG売上5兆円突破・AIビジネス収益3倍",
+          "url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0510.html",
+          "date": "2026-05-10",
+          "importance": 5,
+          "summary_short": "NTT2025年度決算でデータG売上5兆円突破・AIビジネス収益3倍を達成した。"
+        },
+        {
+          "title": "dカード「スキップ払い」5月18日開始—最長6カ月先への支払い延期が可能に",
+          "url": "https://www.nttdocomo.co.jp/info/news_release/2026/05/15_00.html",
+          "date": "2026-05-15",
+          "importance": 5,
+          "summary_short": "dカードスキップ払いが5月18日開始、最長6カ月先への支払い変更が可能となる。"
+        },
+        {
+          "title": "NTTドコモ、RCS（リッチコミュニケーションサービス）を2026年夏に提供開始と発表",
+          "url": "https://www.nttdocomo.co.jp/info/news_release/2026/05/15_01.html",
+          "date": "2026-05-15",
+          "importance": 5,
+          "summary_short": "NTTドコモがRCSを2026年夏に提供開始すると発表した。"
+        },
+        {
+          "title": "NTTドコモビジネス、AI SOC（サイバー攻撃脅威分析・自動対処）の提供を5月20日開始",
+          "url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0520.html",
+          "date": "2026-05-21",
+          "importance": 5,
+          "summary_short": "AI SOCが5月20日提供開始、脅威分析を約10分に短縮し95%を自動対処する。"
+        }
+      ],
+      "trend_summary": "NTTドコモFG（ファイナンシャルグループ）が7月設立予定（元金融庁長官会長・2030年金融収益倍増）。dカードスキップ払い開始（5/18）・d払い他社カード還元0%化（8/26予定）・RCS夏提供。AI SOC商用化（5/20）・AIエージェンティックプラットフォーム部新設（7/1）。AIOWN展開・AIエージェント属性情報レジストリ試作。KDDIとの5Gミリ波共用中継器開発（今夏上野公園実証）。NTTデータG売上5兆円突破。コアネット完全仮想化世界初商用化。山間部ロボット農機遠隔操作実証。"
+    },
+    "量子コンピュータ": {
+      "article_count": 100,
+      "avg_importance": 3.89,
+      "top_articles": [
+        {
+          "title": "IBM量子クラウド10周年—「量子コンピューティングは既に実用フェーズ」と宣言",
+          "url": "https://research.ibm.com/blog/ibm-quantum-cloud-10-years",
+          "date": "2026-05-05",
+          "importance": 5,
+          "summary_short": "IBM量子クラウド10周年に際し「実用フェーズ到達」を宣言した。"
+        },
+        {
+          "title": "Project Eleven、Q-Day 2030〜2033楽観シナリオを発表—RSA-2048解読リスクが確定的",
+          "url": "https://projecteleven.com/q-day-report-2026",
+          "date": "2026-05-09",
+          "importance": 5,
+          "summary_short": "Project ElevenがQ-Day 2030年楽観シナリオを確定しRSA-2048解読リスクを警告した。"
+        },
+        {
+          "title": "Cleveland Clinic・RIKEN・IBM、量子コンピュータで12,635原子タンパク質シミュレーションに成功—過去最大規模",
+          "url": "https://jp.newsroom.ibm.com/2026-05-07-cleveland-clinic,-riken,-and-ibm-model-a-12,635-atom-protein-the-largest-known-to-be-simulated-with-quantum-computers",
+          "date": "2026-05-17",
+          "importance": 5,
+          "summary_short": "IBM・理研・クリーブランドクリニックが12635原子タンパク質の量子シミュレーションに成功した。"
+        },
+        {
+          "title": "Q-CTRL×IBM、120量子ビットで材料シミュレーション3000倍高速化—実用量子優位性の初証拠",
+          "url": "https://thequantuminsider.com/2026/05/06/qctrl-practical-quantum-advantage-materials-discovery/",
+          "date": "2026-05-26",
+          "importance": 5,
+          "summary_short": "Q-CTRL×IBMが120量子ビットで古典比3000倍の高速化を達成した。"
+        },
+        {
+          "title": "IBM、2029年誤り耐性量子コンピュータ「Quantum Starling」向け100億ドル投資・Anderon設立",
+          "url": "https://quantumcomputingreport.com/ibm-pledges-10-billion-global-quantum-expansion-to-deliver-fault-tolerant-supercomputers-by-2029/",
+          "date": "2026-05-30",
+          "importance": 5,
+          "summary_short": "IBMが量子に5年100億ドル投資し2029年に200論理量子ビットのStarlingを構築する。"
+        },
+        {
+          "title": "Google Quantum AI、WillowチップでQuantum Echoesアルゴリズムを実証—世界最速スパコン比13000倍高速（Nature掲載）",
+          "url": "https://quantumcomputingreport.com/google-quantum-ai-achieves-verifiable-quantum-advantage-on-willow-chip-with-quantum-echoes-algorithm/",
+          "date": "2026-05-30",
+          "importance": 5,
+          "summary_short": "GoogleがWillowで世界最速スパコン比13000倍高速を実証し初の検証可能量子優位性を示した。"
+        }
+      ],
+      "trend_summary": "Q-Day 2030年楽観シナリオ（Project Eleven）確定でPQC移行が急務に。IBM量子クラウド10周年・実用フェーズ宣言・Kookaburra 4158量子ビット年内公開目標。Cleveland Clinic×RIKEN×IBM 12635原子タンパク質シミュレーション（史上最大）。Q-CTRL×IBM 3000倍高速化・Google Willow 13000倍高速化（Nature掲載）・IBMの100億ドル投資・Anderon量子ファウンドリ設立。富士通・理研256量子ビット・1000量子ビット年内目標。米政府CHIPS法で量子9社に20億ドル投資提案。OptQC JSTムーンショット参画（全光学式）。欧州QuantWare等大型調達。"
+    },
+    "金融決済": {
+      "article_count": 96,
+      "avg_importance": 3.76,
+      "top_articles": [
+        {
+          "title": "GENIUS法（米ステーブルコイン包括規制法）が成立—発行体規制・準備資産要件を整備",
+          "url": "https://coinpost.jp/?p=709645",
+          "date": "2026-05-01",
+          "importance": 5,
+          "summary_short": "米国でGENIUS法が成立し初の包括的ステーブルコイン規制が整備された。"
+        },
+        {
+          "title": "改正資金決済法（2025年成立）の主要条文が5月1日より順次施行開始",
+          "url": "https://www.businesslawyers.jp/articles/1476",
+          "date": "2026-05-01",
+          "importance": 5,
+          "summary_short": "改正資金決済法の主要条文が順次施行開始され暗号資産・SC規制が強化された。"
+        },
+        {
+          "title": "財務省、5月2日に円買い介入を実施—USD/JPY 161円台から157円台に急落",
+          "url": "https://www.mof.go.jp/policy/international_policy/reference/feio/data/20260502.htm",
+          "date": "2026-05-02",
+          "importance": 5,
+          "summary_short": "財務省が5月2日に円買い介入を実施しドル円が161円台から急落した。"
+        },
+        {
+          "title": "G7がポスト量子暗号（PQC）移行ロードマップを発表—2026年末期限で対応急務",
+          "url": "https://www.g7germany.de/g7-pqc-roadmap-2026",
+          "date": "2026-05-02",
+          "importance": 5,
+          "summary_short": "G7がPQC移行ロードマップを発表し2026年末を期限として各国に対応を求めた。"
+        },
+        {
+          "title": "3メガバンク（MUFG・SMBC・みずほ）、ステーブルコイン共同実証実験を開始",
+          "url": "https://www.sbbit.jp/article/fj/177565",
+          "date": "2026-05-05",
+          "importance": 5,
+          "summary_short": "三菱UFJ・三井住友・みずほが共同でステーブルコイン決済の実証実験を開始した。"
+        },
+        {
+          "title": "PayPay通期決算—純利益3倍・売上27%増・時価総額1.9兆円を達成",
+          "url": "https://paymentnavi.com/paymentnews/174319.html",
+          "date": "2026-05-13",
+          "importance": 5,
+          "summary_short": "PayPayが純利益3倍・売上27%増・時価総額1.9兆円の好決算を発表した。"
+        },
+        {
+          "title": "GENIUS法、施行規則の期限を2026年7月に設定—米国SC事業者の対応急務",
+          "url": "https://coinpost.jp/?p=709646",
+          "date": "2026-05-13",
+          "importance": 5,
+          "summary_short": "GENIUS法施行規則の期限が2026年7月に設定されSC事業者の対応が急務となった。"
+        },
+        {
+          "title": "G7パリ財務相会議でClaude Mythosサイバー攻撃対策共同声明を採択",
+          "url": "https://www.mof.go.jp/international_policy/g7/paris2026.html",
+          "date": "2026-05-19",
+          "importance": 5,
+          "summary_short": "G7パリ財務相会議でClaude Mythosを活用した金融サイバー攻撃対策共同声明が採択された。"
+        },
+        {
+          "title": "3メガバンク、Claude Mythosへのアクセス権取得へ—金融サイバー防衛に活用",
+          "url": "https://www.nikkei.com/article/DGXZQOUB190U50Z10C26A5000000/",
+          "date": "2026-05-19",
+          "importance": 5,
+          "summary_short": "3メガバンクがClaude Mythosへのアクセス権を取得し金融サイバー防衛に活用する。"
+        },
+        {
+          "title": "金融庁、外国発行の信託型ステーブルコインを電子決済手段として正式認定・6月1日施行",
+          "url": "https://coinpost.jp/?p=709645",
+          "date": "2026-05-22",
+          "importance": 5,
+          "summary_short": "金融庁が外国発行SCを電子決済手段として正式認定し6月1日施行の内閣府令を公布した。"
+        },
+        {
+          "title": "金融庁、外国発行ステーブルコインを電子決済手段に正式認定・内閣府令改正を公布",
+          "url": "https://coinpost.jp/?p=709645",
+          "date": "2026-05-30",
+          "importance": 5,
+          "summary_short": "外国SC電子決済手段認定の内閣府令が公布され6月1日施行が確定した。"
+        },
+        {
+          "title": "令和8年6月施行！改正資金決済法の概要と実務対応—海外SC解禁・新仲介業創設",
+          "url": "https://www.businesslawyers.jp/articles/1476",
+          "date": "2026-05-31",
+          "importance": 5,
+          "summary_short": "改正資金決済法が6月1日施行。海外SC合法化・電子決済手段仲介業創設が同時発効する。"
+        }
+      ],
+      "trend_summary": "金融庁外国SC電子決済手段認定（6/1施行）・改正資金決済法施行・金融庁暗号資産・SC課新設（夏）。G7パリ会議でClaude Mythosサイバー攻撃対策共同声明。3メガバンクMythosアクセス権取得。PayPay純利益3倍・NASDAQ上場後初好決算（EBITDA89%増）。キャッシュレス決済162.7兆円過去最高。GENIUS法成立・施行規則7月期限。財務省5月2日円買い介入。G7 PQC移行ロードマップ2026年末期限。3メガSC共同実証・野村大和×3メガSC証券決済実証・金融庁支援。MUFG×Google AIペイメント2027年へ。日銀CBDC2026年内発行可否判断。"
+    },
+    "国内・社会": {
+      "article_count": 100,
+      "avg_importance": 3.65,
+      "top_articles": [
+        {
+          "title": "高市内閣支持率74.2%—AIガバナンス法成立後の高支持率を維持",
+          "url": "https://www.nikkei.com/article/DGXZQOUA040OK0U6A500C2000000/",
+          "date": "2026-05-04",
+          "importance": 5,
+          "summary_short": "高市内閣支持率が74.2%を記録しAIガバナンス法成立後の高水準を維持した。"
+        },
+        {
+          "title": "高市首相、豪州訪問でレアアース共同開発・サプライチェーン共同声明に署名",
+          "url": "https://www.kantei.go.jp/jp/102_takaichi/actions/202605/05australia.html",
+          "date": "2026-05-05",
+          "importance": 5,
+          "summary_short": "高市首相が豪州を訪問しレアアース共同開発・サプライチェーン確保の共同声明に署名した。"
+        },
+        {
+          "title": "子ども人口、45年連続で最少を更新—1401万人に（総務省）",
+          "url": "https://www.soumu.go.jp/main_content/000965432.pdf",
+          "date": "2026-05-06",
+          "importance": 5,
+          "summary_short": "総務省発表で子ども人口が45年連続最少更新の1401万人となった。"
+        },
+        {
+          "title": "日経平均株価、終値62,833円で史上最高値を更新",
+          "url": "https://www.nikkei.com/article/DGXZQOFL080GW0Y6A500C2000000/",
+          "date": "2026-05-08",
+          "importance": 5,
+          "summary_short": "日経平均が終値62833円と史上最高値を更新した。"
+        },
+        {
+          "title": "ベッセント米財務長官が訪日—高市首相・植田日銀総裁と円安・関税問題を協議",
+          "url": "https://www.kantei.go.jp/jp/102_takaichi/actions/202605/11bessent.html",
+          "date": "2026-05-11",
+          "importance": 5,
+          "summary_short": "ベッセント財務長官が訪日し高市首相・植田日銀総裁と円安・関税問題を協議した。"
+        },
+        {
+          "title": "ニデック、品質不正疑い1000件超—社内調査委員会を設置",
+          "url": "https://www.nikkei.com/article/DGXZQOUF130PC0T10C26A5000000/",
+          "date": "2026-05-13",
+          "importance": 5,
+          "summary_short": "ニデックが品質不正疑い1000件超を公表し社内調査委員会を設置した。"
+        },
+        {
+          "title": "キオクシア、4-6月期純利益が前年比48倍・8690億円の見通し—AI半導体需要急増",
+          "url": "https://www.nikkei.com/article/DGXZQOUF160PL0W6A510C2000000/",
+          "date": "2026-05-16",
+          "importance": 5,
+          "summary_short": "キオクシアの4-6月期純利益がAI半導体需要急増で前年比48倍の見通しとなった。"
+        },
+        {
+          "title": "1-3月期GDP速報、前期比年率+2.9%成長—大和総研予測で2四半期連続プラス",
+          "url": "https://www.dir.co.jp/research/report/japan-econ/2026/20260519-01.html",
+          "date": "2026-05-19",
+          "importance": 5,
+          "summary_short": "1-3月期GDP速報が前期比年率+2.9%となり2四半期連続プラス成長が確認された。"
+        },
+        {
+          "title": "日経平均終値、63,339円で史上最高値を更新（5月22日比）",
+          "url": "https://www.nikkei.com/article/DGXZQOFL250GW0V20C26A5000000/",
+          "date": "2026-05-25",
+          "importance": 5,
+          "summary_short": "日経平均が63339円で再び史上最高値を更新した。"
+        },
+        {
+          "title": "高市首相、中東情勢対応で3兆円強の補正予算案を今週中に国会提出と表明",
+          "url": "https://news.web.nhk/newsweb/na/na-k10015130481000",
+          "date": "2026-05-29",
+          "importance": 5,
+          "summary_short": "高市首相が中東対応の3兆円強補正予算を今週国会提出すると表明した。"
+        },
+        {
+          "title": "2025年国勢調査速報—日本総人口1億2305万人・5年間で309万人減（史上最大の減少幅）",
+          "url": "https://www.nikkei.com/article/DGXZQOUA262CH0W6A520C2000000/",
+          "date": "2026-05-30",
+          "importance": 5,
+          "summary_short": "国勢調査速報で人口5年309万人減と史上最大の減少幅を記録した。"
+        }
+      ],
+      "trend_summary": "ベッセント財務長官訪日・円安協議（5/11-13）。日経平均史上最高値63339円（5/22）→66329円（5/30）。GDP年率+2.1%（2四半期連続プラス）。国勢調査2025速報：人口309万人減（史上最大・45道府県減少）。キオクシア純利益48倍予想・AI半導体需要急増。ニデック品質不正1000件超。W杯代表発表（三笘落選）。春季賃上げ率5.15%確定・実質賃金3月+1.0%（3ヶ月連続プラス）。補正予算3兆円強（エネルギー負担軽減）。高市支持率74.2%。国家情報局設置法成立（7月発足）。"
+    }
+  },
+  "metrics_summary": {
+    "arxiv_ai_avg": 78,
+    "arxiv_quantum_avg": 57,
+    "nikkei_range": "52,518〜66,329円",
+    "usdjpy_range": "156.26〜159.26円"
+  }
+}

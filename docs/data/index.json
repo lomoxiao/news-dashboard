@@ -1,6 +1,10 @@
 {
-  "last_updated": "2026-06-18T06:45:00+09:00",
+  "last_updated": "2026-06-20T06:30:00+09:00",
   "reports": [
+    {
+      "date": "2026-06-20",
+      "headline": "Claude Design大型更新Claude Code双方向連携・9社コネクタ追加1週間100万人・d払い特典9月から一律200P改悪・IBM量子実用フェーズ宣言・参院選本日選挙戦最終日21日投開票・日経7万1250円"
+    },
     {
       "date": "2026-06-18",
       "headline": "Anthropicがソウルオフィス開設・NAVER全エンジニアClaude Code導入・Claude Corps $1.5億ドル・d払いスタンプ7月dカード除外・フランス猫量子ビット国家初取得・参院選21日投開票・日経平均6万9902円"
@@ -246,7 +250,7 @@
     {
       "name": "VentureBeat",
       "url": "https://venturebeat.com",
-      "count": 1
+      "count": 2
     },
     {
       "name": "Anthropic",
@@ -271,7 +275,7 @@
     {
       "name": "NTTドコモ",
       "url": "https://www.docomo.ne.jp",
-      "count": 51
+      "count": 53
     },
     {
       "name": "NTTドコモビジネス",
@@ -351,7 +355,7 @@
     {
       "name": "ビジネスIT",
       "url": "https://www.sbbit.jp",
-      "count": 8
+      "count": 9
     },
     {
       "name": "野村証券",
@@ -386,7 +390,7 @@
     {
       "name": "イノバトピア",
       "url": "https://innovatopia.jp",
-      "count": 10
+      "count": 11
     },
     {
       "name": "SBIホールディングス",
@@ -421,7 +425,7 @@
     {
       "name": "ITmedia AIプラス",
       "url": "https://www.itmedia.co.jp",
-      "count": 12
+      "count": 13
     },
     {
       "name": "gihyo.jp",
@@ -441,7 +445,7 @@
     {
       "name": "ケータイ Watch",
       "url": "https://k-tai.watch.impress.co.jp",
-      "count": 6
+      "count": 7
     },
     {
       "name": "NTTデータグループ",
@@ -476,7 +480,7 @@
     {
       "name": "Yahoo!ニュース エキスパート",
       "url": "https://news.yahoo.co.jp",
-      "count": 11
+      "count": 12
     },
     {
       "name": "AI Academy Note",
@@ -511,12 +515,12 @@
     {
       "name": "NHK",
       "url": "https://news.web.nhk.newsweb",
-      "count": 27
+      "count": 28
     },
     {
       "name": "PR TIMES",
       "url": "https://prtimes.jp",
-      "count": 12
+      "count": 13
     },
     {
       "name": "マイナビニュース",
@@ -606,7 +610,7 @@
     {
       "name": "CodeZine",
       "url": "https://codezine.jp",
-      "count": 1
+      "count": 2
     },
     {
       "name": "jetstream.blog",
@@ -736,7 +740,7 @@
     {
       "name": "IBM",
       "url": "https://www.ibm.com",
-      "count": 14
+      "count": 15
     },
     {
       "name": "NEDO",
@@ -856,7 +860,7 @@
     {
       "name": "EnterpriseZine",
       "url": "https://enterprisezine.jp",
-      "count": 6
+      "count": 7
     },
     {
       "name": "Ledge.ai",
@@ -921,7 +925,7 @@
     {
       "name": "Yahoo!ファイナンス",
       "url": "https://finance.yahoo.co.jp",
-      "count": 4
+      "count": 5
     },
     {
       "name": "テクノエッジ",
@@ -1236,6 +1240,21 @@
     {
       "name": "LINEヤフー",
       "url": "https://www.lycorp.co.jp",
+      "count": 1
+    },
+    {
+      "name": "EY Japan",
+      "url": "https://www.ey.com/ja_jp",
+      "count": 1
+    },
+    {
+      "name": "オリコン",
+      "url": "https://life.oricon.co.jp",
+      "count": 1
+    },
+    {
+      "name": "ITmedia Mobile",
+      "url": "https://www.itmedia.co.jp/mobile",
       "count": 1
     }
   ],

@@ -1,0 +1,363 @@
+{
+  "month": "2026-04",
+  "generated_at": "2026-06-20T00:00:00+09:00",
+  "total_articles": 182,
+  "themes": {
+    "最新AI情報": {
+      "article_count": 42,
+      "avg_importance": 4.0,
+      "top_articles": [
+        {
+          "title": "Claude Code Routine 正式リリース",
+          "url": "https://www.anthropic.com/news/claude-code-routine",
+          "date": "2026-04-18",
+          "importance": 5,
+          "summary_short": "Anthropicがコーディング自動化機能を正式公開した。"
+        },
+        {
+          "title": "Anthropic、Claude Opus 4.7を発表—コーディング・視覚推論強化と自動セキュリティ検知機能を搭載",
+          "url": "https://www.anthropic.com/news/claude-opus-4-7",
+          "date": "2026-04-19",
+          "importance": 5,
+          "summary_short": "AnthropicがClaude Opus 4.7をリリースし、コーディングと視覚推論が向上した。"
+        },
+        {
+          "title": "Anthropic、AIデザインツール「Claude Design」プレビュー公開——Opus 4.7搭載でコーディングツールとの連携も",
+          "url": "https://www.itmedia.co.jp/aiplus/articles/2604/18/news022.html",
+          "date": "2026-04-21",
+          "importance": 5,
+          "summary_short": "AnthropicがClaude Designを公開、発表当日にFigma株が約6%下落した。"
+        },
+        {
+          "title": "AmazonがAnthropicに最大250億ドル追加投資——AWS上でClaude完全統合と5GWのTrainium供給を確保",
+          "url": "https://www.anthropic.com/news/anthropic-amazon-compute",
+          "date": "2026-04-22",
+          "importance": 5,
+          "summary_short": "AmazonがAnthropicに最大250億ドルの追加投資を発表した。"
+        },
+        {
+          "title": "AnthropicがClaude Managed Agentsを公開ベータ開始——AIエージェント導入時間を10倍短縮",
+          "url": "https://biggo.jp/news/202604111850_Anthropic-Claude-Managed-Agents-Launch",
+          "date": "2026-04-23",
+          "importance": 5,
+          "summary_short": "AIエージェント実行基盤をクラウド一括提供・開発期間10倍短縮"
+        },
+        {
+          "title": "OpenAIがGPT-5.5を公開・エージェント型コーディングと長文コンテキストでClaude Opus 4.7と差別化",
+          "url": "https://note.com/kazu_t/n/n9240d2218852",
+          "date": "2026-04-25",
+          "importance": 5,
+          "summary_short": "OpenAIがGPT-5.5を4月23日公開、エージェント型コーディングと抽象推論で強みを示した。"
+        },
+        {
+          "title": "Google、Anthropicに最大400億ドル投資を発表—ARRは300億ドル突破",
+          "url": "https://www.nikkei.com/article/DGXZQOGN24D5M0U6A420C2000000/",
+          "date": "2026-04-26",
+          "importance": 5,
+          "summary_short": "Googleが初回100億ドル、最大400億ドルをAnthropicに出資すると発表した。"
+        },
+        {
+          "title": "Anthropicが新AI「Claude Mythos Preview」を発表—危険すぎて非公開、Project Glasswingで防御活用",
+          "url": "https://www.gizmodo.jp/2026/04/anthropic_claude_mythos_preview.html",
+          "date": "2026-04-29",
+          "importance": 5,
+          "summary_short": "AnthropicがClaude Mythos Previewを発表し、危険すぎるとして一般公開を断念した。"
+        },
+        {
+          "title": "OpenAI、最新AIモデル「GPT-5.5」発表—エージェンティックAIとして大幅進化、API提供も開始",
+          "url": "https://gihyo.jp/article/2026/04/gpt-5-5",
+          "date": "2026-04-30",
+          "importance": 5,
+          "summary_short": "OpenAIがGPT-5.5を公開、自律型AIエージェントとして大幅進化した。"
+        },
+        {
+          "title": "Anthropic、最新モデル「Claude Opus 4.7」を提供開始—SWE-bench 87.6%、xhigh推論追加",
+          "url": "https://aismiley.co.jp/ai_news/anthropic-claude-opus-4-7/",
+          "date": "2026-04-30",
+          "importance": 5,
+          "summary_short": "AnthropicがClaude Opus 4.7を公開、SWE-bench Verified 87.6%を達成した。"
+        },
+        {
+          "title": "OpenAI、Codexを強化——バックグラウンドでデスクトップアプリを操作する機能でAnthropicに対抗",
+          "url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+          "date": "2026-04-21",
+          "importance": 4,
+          "summary_short": "OpenAIがCodexを強化し、バックグラウンドでデスクトップアプリを操作する機能を追加した。"
+        },
+        {
+          "title": "MCP、AIエージェントと業務システムをつなぐ事実上の標準プロトコルに—1年でダウンロード80倍",
+          "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03423/120200002/",
+          "date": "2026-04-27",
+          "importance": 4,
+          "summary_short": "MCPのダウンロード数が1年で10万件から800万件へ80倍増加し、業界標準として定着した。"
+        },
+        {
+          "title": "Google、Gemini Mac向けネイティブアプリを正式リリース—画面共有・ショートカット起動でデスクトップAI市場に参入",
+          "url": "https://biggo.jp/news/202604180450_Google-Gemini-Mac-App-Launch",
+          "date": "2026-04-20",
+          "importance": 4,
+          "summary_short": "GoogleがMac向けネイティブGeminiアプリをリリースし、画面共有とショートカット起動に対応した。"
+        }
+      ],
+      "trend_summary": "4月はAI業界で資本・技術・製品が同時に動いた月となった。AmazonとGoogleがAnthropicへ合計650億ドル超の巨額投資を相次いで発表し、AnthropicのARRは300億ドルを突破した。製品面ではClaude Code Routine・Claude Design・Claude Managed AgentsとGPT-5.5・Claude Opus 4.7が相次いでリリースされ、AIエージェント競争が本格化した。"
+    },
+    "NTTドコモ": {
+      "article_count": 34,
+      "avg_importance": 3.9,
+      "top_articles": [
+        {
+          "title": "Starlink衛星とスマートフォンの直接通信サービス「docomo Starlink Direct」を4月27日から提供開始",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/04/02_01.html",
+          "date": "2026-04-20",
+          "importance": 5,
+          "summary_short": "NTTドコモが4月27日から申込不要・無料の衛星直接通信サービスを84機種向けに開始する。"
+        },
+        {
+          "title": "NTTドコモが橋梁診断支援AI「橋梁アセスタ」の販売を開始・診断業務を最大80%省力化",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/04/23_00.html",
+          "date": "2026-04-25",
+          "importance": 5,
+          "summary_short": "ドコモが橋梁診断支援AI「橋梁アセスタ」の販売を開始し、診断業務を最大80%削減した。"
+        },
+        {
+          "title": "ドコモビジネスの液冷データセンター、Rapidusの次世代半導体開発に提供",
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/2105025.html",
+          "date": "2026-04-30",
+          "importance": 5,
+          "summary_short": "ドコモビジネスがRapidusに液冷データセンターを提供、半導体開発を支援する。"
+        },
+        {
+          "title": "生成AI利用率、1年で27%→51%に急増—ドコモ調査",
+          "url": "https://www.itmedia.co.jp/aiplus/articles/2604/06/news078.html",
+          "date": "2026-04-30",
+          "importance": 5,
+          "summary_short": "NTTドコモ調査でAI活用率が1年で27%から51%に急増した。"
+        },
+        {
+          "title": "「ドコモしかできない」AIエージェントSyncMe—決済・位置情報も駆使して自律的にサービスを提供",
+          "url": "https://www.nikkei.com/article/DGXZQOUC054XB0V00C26A3000000/",
+          "date": "2026-04-28",
+          "importance": 4,
+          "summary_short": "ドコモのAIエージェント「SyncMe」が決済・位置情報を活用した自律サービスを提供する。"
+        },
+        {
+          "title": "NTTドコモ、モバイルコアネットワークの完全仮想化を完了—次世代ネットワーク基盤整備が完成",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/04/02_00.html",
+          "date": "2026-04-28",
+          "importance": 4,
+          "summary_short": "ドコモがモバイルコアネットワークの完全仮想化を完了し、次世代通信インフラの整備が一段落した。"
+        },
+        {
+          "title": "NTTドコモビジネス、自由発話認識AI-IVR「docomo business ANCAR® Routing」と「ANCAR® Chat」を提供開始",
+          "url": "https://www.ntt.com/about-us/information/info_20260417.html",
+          "date": "2026-04-19",
+          "importance": 4,
+          "summary_short": "ドコモビジネスが自由発話認識AI-IVRとチャットボットの提供を開始した。"
+        },
+        {
+          "title": "ドコモFOMA・iモードが3月31日に終了——4月以降、3G端末での通話・通信が不可に",
+          "url": "https://www.docomo.ne.jp/info/3g_closed/",
+          "date": "2026-04-23",
+          "importance": 4,
+          "summary_short": "FOMA・iモード終了で3G端末の通話・通信が4月以降不可に"
+        }
+      ],
+      "trend_summary": "4月27日にdocomo Starlink Directが開始し、約2,200万人が山間部・離島・洋上でも衛星通信を無料利用可能になった。橋梁診断AI「橋梁アセスタ」の販売開始と生成AI利用率51%の急増で、インフラ×AI活用の社会実装が加速した。RapidusへのAI液冷DCの提供も発表され、AIネイティブインフラ企業への転換が進んでいる。"
+    },
+    "量子コンピュータ": {
+      "article_count": 33,
+      "avg_importance": 3.7,
+      "top_articles": [
+        {
+          "title": "理化学研究所・大阪大、144量子ビット国産量子コンピュータ「叡-Ⅱ」のクラウドサービスを開始",
+          "url": "https://www.riken.jp/pr/news/2026/20260326_1/index.html",
+          "date": "2026-04-19",
+          "importance": 4,
+          "summary_short": "理研と阪大が144量子ビットの国産量子コンピュータ叡-Ⅱのクラウド運用を開始した。"
+        },
+        {
+          "title": "NVIDIA Launches Ising, the World's First Open AI Models to Accelerate the Path to Useful Quantum Computers",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers",
+          "date": "2026-04-23",
+          "importance": 5,
+          "summary_short": "NVIDIAが世界初の量子AIオープンモデルIsingを発表・精度3倍"
+        },
+        {
+          "title": "IBMとシドニー大学がゲージ理論応用の量子誤り訂正新手法をNature Physicsに発表",
+          "url": "https://xenospectrum.com/quantum-error-correction-gauge-theory-ibm/",
+          "date": "2026-04-24",
+          "importance": 4,
+          "summary_short": "IBMとシドニー大学が量子誤り訂正の新手法をNature Physicsに発表した。"
+        },
+        {
+          "title": "QuEra、超高率量子誤り訂正コードを実証—論理エラー率10⁻¹³を達成し実用化へ前進",
+          "url": "https://thequantuminsider.com/2026/04/21/quera-led-study-points-to-ultra-high-rate-quantum-error-correction-moving-closer-to-practical-hardware/",
+          "date": "2026-04-28",
+          "importance": 5,
+          "summary_short": "QuEraが論理エラー率10⁻¹³の超高率量子誤り訂正コードを達成し、量子実用化に前進した。"
+        },
+        {
+          "title": "富士通・理研が実現、世界最大級の256量子ビット超伝導量子コンピュータ—クラウドサービスを開始",
+          "url": "https://www.businessinsider.jp/article/2504-fujitsu-riken-new-quantum-computer/",
+          "date": "2026-04-29",
+          "importance": 4,
+          "summary_short": "富士通と理研が世界最大級の256量子ビット超伝導量子コンピュータのクラウド提供を開始した。"
+        },
+        {
+          "title": "東北大など、トポロジカル量子計算の鍵「量子スピン液体」を電気的に測定",
+          "url": "https://news.mynavi.jp/techplus/article/20260427-4393818/",
+          "date": "2026-04-30",
+          "importance": 5,
+          "summary_short": "東北大と東大がトポロジカル量子計算の鍵となる量子スピン液体の測定に成功した。"
+        },
+        {
+          "title": "量子コンピュータによる暗号解読、必要な量子ビット数が従来予測の20分の1に—Google Quantum AI・Stanford共同研究",
+          "url": "https://theconversation.com/quantum-computers-are-coming-to-break-our-codes-faster-than-anyone-expected-280303",
+          "date": "2026-04-30",
+          "importance": 4,
+          "summary_short": "Google Quantum AIが暗号解読に必要な量子ビット数は従来予測の1/20と発表した。"
+        }
+      ],
+      "trend_summary": "NVIDIAのIsing量子AIモデル（エラー訂正速度2.5倍・精度3倍）が業界標準となりつつある。QuEraが論理エラー率10⁻¹³を達成し、東北大学が量子スピン液体の電気的測定に成功した。富士通・理研の256量子ビット機クラウド提供も開始され、NISQから誤り訂正実装段階への産業移行が本格化した。"
+    },
+    "金融決済": {
+      "article_count": 34,
+      "avg_importance": 3.7,
+      "top_articles": [
+        {
+          "title": "日本の長期金利が2.275%と27年ぶり高水準—中東情勢と財政悪化懸念が上昇圧力",
+          "url": "https://www.nikkei.com/article/DGXZQOUB140I60U6A110C2000000/",
+          "date": "2026-04-19",
+          "importance": 5,
+          "summary_short": "日本の長期金利が2.275%と1999年以来27年ぶりの高水準を記録した。"
+        },
+        {
+          "title": "東京都、円建てステーブルコインの社会実装支援——最大4,000万円補助金の公募を開始",
+          "url": "https://www.metro.tokyo.lg.jp/information/press/2026/04/2026041705",
+          "date": "2026-04-22",
+          "importance": 4,
+          "summary_short": "東京都が円建てステーブルコイン社会実装支援の補助金公募を4月17日に開始した。"
+        },
+        {
+          "title": "SBIとStartaleが日本初信託型円建てステーブルコイン「JPYSC」を2026年Q2に発行予定と発表",
+          "url": "https://www.sbigroup.co.jp/news/2026/0227_16153.html",
+          "date": "2026-04-24",
+          "importance": 5,
+          "summary_short": "SBIとStartaleが日本初信託型円建てステーブルコインJPYSCの2026年Q2発行を発表。"
+        },
+        {
+          "title": "3メガバンク、金融庁後押しのもとステーブルコイン共同発行実証を開始—乱立回避で単一ブランドへ",
+          "url": "https://www.nikkei.com/article/DGXZQOUC083N30Y6A400C2000000/",
+          "date": "2026-04-26",
+          "importance": 4,
+          "summary_short": "3メガバンクが円建てステーブルコイン共同発行実証を金融庁支援のもとで開始した。"
+        },
+        {
+          "title": "日銀、4月28日の金融政策決定会合で政策金利0.75%を据え置き—追加利上げは6月以降に先送り",
+          "url": "https://www.nikkei.com/article/DGXZQOUB2116H0R20C26A4000000/",
+          "date": "2026-04-28",
+          "importance": 5,
+          "summary_short": "日銀が4月28日の会合で政策金利を0.75%に据え置き、追加利上げの判断を6月に先送りした。"
+        },
+        {
+          "title": "三菱UFJ・三井住友・みずほの3メガバンク、共同で円建てステーブルコイン発行へ",
+          "url": "https://www.gfa.co.jp/crypto/news/market-news/news-2108/",
+          "date": "2026-04-30",
+          "importance": 5,
+          "summary_short": "三大メガバンクが共同で円建てステーブルコイン発行へ、Progmat基盤を活用する。"
+        },
+        {
+          "title": "日銀4月会合の利上げ確率31%に急低下—イラン情勢・貿易不確実性が重し",
+          "url": "https://www.nikkei.com/article/DGXZQOCD110EN0R10C26A4000000/",
+          "date": "2026-04-19",
+          "importance": 4,
+          "summary_short": "日銀4月会合の利上げ確率がOIS市場で先週57%から31%へ急低下した。"
+        }
+      ],
+      "trend_summary": "日本の長期金利が27年ぶり高水準の2.275%を記録し、日銀は利上げを見送り6月以降に判断を先送りした。円ステーブルコイン分野ではJPYSCの2026年Q2発行予定や3大メガバンクの共同発行実証が進み、改正資金決済法施行前の基盤整備が加速した。ドル円は月末に一時160円台を突破した。"
+    },
+    "国内・社会": {
+      "article_count": 39,
+      "avg_importance": 4.0,
+      "top_articles": [
+        {
+          "title": "ホルムズ海峡封鎖継続—日本の精製所稼働率67.7%に急落、国家備蓄70日分超放出",
+          "url": "https://www.jiji.com/jc/v8?id=202604hormuz-team",
+          "date": "2026-04-19",
+          "importance": 5,
+          "summary_short": "ホルムズ海峡封鎖継続で日本の精製所稼働率が67.7%へ急落した。"
+        },
+        {
+          "title": "2026年4月「世界経済見通し」——中東情勢で成長率3.1%に下方修正",
+          "url": "https://www.imf.org/ja/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026",
+          "date": "2026-04-23",
+          "importance": 5,
+          "summary_short": "IMFが2026年世界成長率3.1%予測・中東悪化で2.6%シナリオも"
+        },
+        {
+          "title": "政府がMBKパートナーズに牧野フライス買収中止勧告・安全保障上の懸念で経済安保発動",
+          "url": "https://www.jiji.com/jc/article?k=2026042300446&g=eco",
+          "date": "2026-04-24",
+          "importance": 5,
+          "summary_short": "政府が外為法に基づきMBKの牧野フライス買収計画に中止勧告を発令した。"
+        },
+        {
+          "title": "岩手・大槌町山林火災730ヘクタール焼失・3,233人に避難指示・4日目も延焼継続",
+          "url": "https://news.web.nhk/newsweb/na/na-k10015107961000",
+          "date": "2026-04-26",
+          "importance": 5,
+          "summary_short": "岩手県大槌町の山林火災で730ヘクタールが焼失し3,233人に避難指示が出ている。"
+        },
+        {
+          "title": "日銀、4月27〜28日の政策決定会合で金利0.75%据え置きへ—中東情勢受け6月に判断先送り",
+          "url": "https://www.nikkei.com/article/DGXZQOUB2116H0R20C26A4000000/",
+          "date": "2026-04-27",
+          "importance": 5,
+          "summary_short": "日銀が本日から開催の政策会合で金利0.75%据え置きへ、追加利上げ判断は6月に先送りとなった。"
+        },
+        {
+          "title": "日経平均株価 4月27日終値で史上初の6万円台—2025年10月の5万円から半年で1万円高",
+          "url": "https://www.nikkei.com/article/DGXZQOUB270KH0X20C26A4000000/",
+          "date": "2026-04-28",
+          "importance": 5,
+          "summary_short": "日経平均株価が4月27日の終値で史上初めて6万円台に達し、戦後77年目で新たな節目となった。"
+        },
+        {
+          "title": "日経平均が4月28日に3日ぶり反落—終値5万9917円、日銀早期利上げ観測で6万円台を割り込む",
+          "url": "https://www.nikkei.com/article/DGXZQOUB279ZDTX20C26A4000000/",
+          "date": "2026-04-29",
+          "importance": 5,
+          "summary_short": "日経平均が4月28日に3日ぶり反落、終値5万9917円で史上初6万円台から一転した。"
+        },
+        {
+          "title": "日銀、4月利上げ見送りへ—2026年度コアCPI見通し1.9%→2.8%、成長率1.0%→0.5%に修正",
+          "url": "https://www.nikkei.com/article/DGXZQOUB2116H0R20C26A4000000/",
+          "date": "2026-04-30",
+          "importance": 5,
+          "summary_short": "日銀が2026年度CPI見通しを1.9%から2.8%に引き上げ、成長率は0.5%に下方修正した。"
+        },
+        {
+          "title": "軽タクシー6月解禁、地方の交通空白解消—女性ドライバー掘り起こし、国交省が方針決定",
+          "url": "https://www.nikkei.com/article/DGXZQOUA238UD0T20C26A4000000/",
+          "date": "2026-04-30",
+          "importance": 5,
+          "summary_short": "国交省が軽自動車タクシーを2026年6月から解禁、交通空白の解消を図る。"
+        },
+        {
+          "title": "2026年度予算が参院可決・成立、過去最大122兆3092億円—4月成立は11年ぶり",
+          "url": "https://www.jiji.com/jc/article?k=2026040700797&g=pol",
+          "date": "2026-04-19",
+          "importance": 4,
+          "summary_short": "2026年度予算が過去最大122兆円超で成立、4月成立は11年ぶりとなった。"
+        }
+      ],
+      "trend_summary": "ホルムズ海峡封鎖継続でエネルギー供給不安が続くなか、IMFが世界成長率を3.1%に下方修正した。岩手・大槌町では大規模山林火災が発生し3,233人に避難指示。日経平均は史上初の6万円台を達成後に反落した。日銀はCPI見通しを2.8%に引き上げ、円安が一時160円台に達するなど経済・金融の激動が続いた。"
+    }
+  },
+  "metrics_summary": {
+    "arxiv_ai_avg": 92,
+    "arxiv_quantum_avg": 59,
+    "nikkei_range": { "min": 37850, "max": 60537 },
+    "usdjpy_range": { "min": 151.9, "max": 160.39 }
+  }
+}

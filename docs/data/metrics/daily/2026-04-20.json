@@ -1,4 +1,4 @@
-{
+﻿{
   "date": "2026-04-20",
   "arxiv_ai": 0,
   "arxiv_quantum": 0,
@@ -12,4 +12,6 @@
     "nikkei": 58475.90,
     "usdjpy": 158.60
   }
+,
+  "archived": true
 }

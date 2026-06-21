@@ -1,0 +1,368 @@
+{
+  "date": "2026-06-20",
+  "generated_at": "2026-06-20T06:30:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "AnthropicがClaude Designを大型更新しClaude Codeとの双方向連携を実現した。本日6月20日は参院選選挙戦最終日を迎え、明日21日に全国一斉投開票が行われる。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicはClaude Designを6月17日に大型更新し、GitHubからのデザインシステムインポートとClaude Codeとの/design-sync双方向連携を実現した。Adobe・Canva・Miro・Vercel等9社への出力コネクタを追加し、提供開始1週間で100万人が利用した。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモは2026年9月1日からd払い特典の進呈上限を一律200ポイントに変更すると発表した。現行ランク5（最大600ポイント）等は実質改悪となる。dカード支払い特典のdポイント有効期限も12ヶ月から94日へ短縮される。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMは理化学研究所・Boeing・Cleveland Clinicらとの共同研究で実用的量子優位性を達成し、2026年を量子コンピュータ実用化元年と宣言した。香港大学はSiCトランジスタを用いた脳型極低温チップを開発し、量子配線問題への新たなアプローチを示した。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayは6月からステップ条件を改定し、他社プリペイドカード・モバイルSuicaへのチャージでのポイント付与を停止した。EY Japanは2026年度グローバル金融規制の4大シフトとしてサイバー・AI倫理・デジタル資産・気候リスク開示義務化を挙げた。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "第27回参議院議員通常選挙の選挙運動が本日最終日を迎え、明日21日に全国一斉投開票が行われる。日経平均株価は6月19日終値7万1250円と連日高値圏で推移し、ドル円は161円台の円安が継続している。"
+        }
+      ],
+      "must_read": {
+        "title": "第27回参議院議員通常選挙 選挙戦最終日—6月21日に全国一斉投開票",
+        "url": "https://news.web.nhk/senkyo/schedule/monthly/",
+        "reason": "参院選は明日21日に全国投開票を迎え、経済政策・AI規制・安全保障が主要争点の選挙結果が日本の政策方向性を決定する。日経平均7万円超・ドル円161円台の市場環境下での政権信任投票となる。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "AnthropicのClaude Designが大型アップデートしましたよ！Claude Codeとの双方向連携やCanva・Miro・Vercel等9社コネクタが追加されて、デザインから実装まで一気通貫になりましたね。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Claude Designがリニューアルされましたよ！GitHubからデザインシステムを取り込んで、Claude Codeへそのまま引き継げる「/design-sync」機能が目玉ですね。Adobe・Canva・Miro・Vercel等への出力も対応して、1週間で100万人が使ったみたいですよ。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモのd払い特典が9月1日から変わりますよ。還元上限が一律200ポイントになるので、ランク4・5の人には改悪になってしまいますね。dカードの支払いポイントの有効期限も12ヶ月から94日に縮まるので要チェックですよ！"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMが量子コンピュータの「実用フェーズ突入」を宣言しましたよ！理化学研究所やBoeingとの研究で実用的量子優位性を達成したそうです。香港大学もSiCトランジスタで脳型の極低温チップを開発したとのことで、量子研究が着実に進んでいますね。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPayが6月から条件を変更して、他社プリペイドカードへのチャージでポイントが付かなくなったんですよ。EYの分析では2026年がフィンテック規制の大転換期とのことで、各社の対応が本格化しているみたいですよ。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "参院選の選挙運動が今日（6月20日）最終日ですよ！明日21日に全国で投開票が行われますね。日経平均は6月19日に7万1250円と最高値圏で推移していて、経済的な活況が続いていますよ。"
+        }
+      ],
+      "must_read": {
+        "title": "第27回参議院議員通常選挙 選挙戦最終日—6月21日に全国一斉投開票",
+        "url": "https://news.web.nhk/senkyo/schedule/monthly/",
+        "reason": "参院選がいよいよ明日ですよ！経済政策やAI規制・安全保障など今後の日本を左右する争点が並んでいて、明日の投票結果が注目されますね。",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Claude Design大型更新—Claude Code双方向連携・9社コネクタ追加（Adobe/Canva/Miro/Vercel等）・1週間100万人利用\n・Code with Claude東京—ハッカソン上位5組中4組が非エンジニア"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・9月1日よりd払い特典を一律200ポイント上限に変更（ランク4・5は実質改悪）\n・dカード支払い特典ポイント有効期限を12ヶ月→94日に短縮"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・IBM量子コンピュータ実用的量子優位性達成・実用フェーズ突入を宣言\n・香港大学SiC脳型極低温チップ開発—量子配線問題への材料科学的アプローチ"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・PayPay6月改定—他社プリペイドカードチャージでポイント停止\n・EY、2026年グローバル金融規制4大シフト（サイバー・AI倫理・デジタル資産・気候）を指摘"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・参院選選挙戦本日最終日、明日6月21日投開票\n・日経平均6月19日終値7万1250円・ドル円161円台（構造的円安継続）"
+        }
+      ],
+      "must_read": {
+        "title": "第27回参議院議員通常選挙 選挙戦最終日—6月21日に全国一斉投開票",
+        "url": "https://news.web.nhk/senkyo/schedule/monthly/",
+        "reason": "参院選6月21日投開票。与野党結果により経済・AI・安全保障政策の方向性が決定。",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "AnthropicのClaude Design統合はデザインと開発の境界を解体するプロダクト戦略を示し、ドコモのd払い改悪と明日の参院選は日本のデジタル経済・政治環境の変化局面を同時に示している。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Claude DesignとClaude Codeの統合は設計から実装・公開までを単一AIワークフローで完結させる方向性を明確化した。GitHubからのデザインシステム取得・/design-sync・9社コネクタはエンタープライズが求めるブランドガバナンスとアジリティを同時実現しようとする戦略的配置だ。1週間100万人の採用速度はClaude製品ファミリー間でのユーザー流入が加速している証左となる。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "d払い特典の一律200ポイント上限化は、ポイント還元コスト抑制が主目的とみられる。ランク4・5（月間4〜6万円以上利用者）の実質改悪は高利用者のdカード離反リスクを高める可能性がある。同時にdポイント有効期限の94日短縮は消費喚起効果を持つ一方、ポイント消化圧力としてユーザー行動変化を促す可能性がある。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMの実用的量子優位性宣言は、量子技術が投資対効果を示せるフェーズに入ったことを示す。香港大学のSiC極低温チップは量子ビット規模拡大の制約である「配線問題」への材料科学的アプローチであり、将来の量子マシン集積化に寄与しうる。AI・量子融合がこれらを橋渡しし、材料・創薬・金融分野での実用が広がっている。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPay条件改悪は6月から累積的に進んでおり、eKYC必須・ステップ変更・Suicaチャージ停止により高度利用者のインセンティブが大幅低下した。EYが指摘する4大規制シフトのうちサイバーセキュリティ規制強化とAI倫理規制は日本の金融庁動向とも連動し、2026年下半期の制度対応が各社の課題となる。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "参院選選挙戦最終日（6月20日）を迎え、明日の投開票が焦点となる。経済政策・AI規制・安全保障が主要争点とされ、高市政権の政策継続か否かの信任投票となる。日経平均7万1250円（最高値圏）とドル円161円台の市場環境は政治結果への注目度が高まっていることを示す。"
+        }
+      ],
+      "must_read": {
+        "title": "第27回参議院議員通常選挙 選挙戦最終日—6月21日に全国一斉投開票",
+        "url": "https://news.web.nhk/senkyo/schedule/monthly/",
+        "reason": "参院選の結果は高市政権の経済・AI・安全保障政策の継続可否を決定し、日経平均7万円超・ドル円161円台の市場への政治プレミアムに直結する重要指標となる。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 87,
+      "trend_history": [88, 87, 85, 88, 90, 88, 87],
+      "summary_short": "Claude DesignがClaude Codeと双方向連携、9社コネクタ追加で実装まで一貫",
+      "summary_long": "AnthropicはClaude Designを6月17日に大幅更新した。GitHubからのデザインシステムインポートとClaude Codeとの双方向連携機能（/design-sync）を追加し、Adobe・Canva・Miro・Vercel等9社への出力コネクタが加わった。利用枠をChat/Code/Coworkと統合し、1週間で100万人が利用した。",
+      "articles": [
+        {
+          "title": "Anthropic、Claude Designを強化—Codeとの双方向連携やCanvaなどへの出力をサポート",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000102/",
+          "source": "ITmedia AIプラス",
+          "summary_short": "Claude DesignがClaude Codeと双方向連携、9社コネクタ追加で設計から実装まで統合",
+          "summary_long": "Anthropicは6月17日、Claude Designを大型更新した。GitHubからのデザインシステムインポート、Claude Codeとの/design-sync双方向連携、Adobe・Canva・Miro・Vercel等9社への出力コネクタを追加した。利用枠をChat/Code/Coworkと統合し、1週間で100万人が利用した。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Anthropic ships major Claude Design overhaul with design system imports, code round-trips",
+          "url": "https://venturebeat.com/technology/anthropic-ships-major-claude-design-overhaul-with-design-system-imports-code-round-trips-and-a-fix-for-its-token-burning-problem",
+          "source": "VentureBeat",
+          "summary_short": "VentureBeat、Claude Design刷新を「デザインから実装まで統合」と評価",
+          "summary_long": "VentureBeatはAnthropicのClaude Design大型更新を詳報した。デザインシステムインポートの刷新、Codeとのラウンドトリップ、トークン消費問題の解決が主な変更点で、エンタープライズ向けの管理者権限（コンポーネントロック機能）も追加された。",
+          "importance": 4,
+          "fetch_failed": true
+        },
+        {
+          "title": "ドメイン知識こそがAI時代の開発力—Anthropic「Code with Claude」で語られたソフトウェア民主化",
+          "url": "https://codezine.jp/article/detail/24532",
+          "source": "CodeZine",
+          "summary_short": "Code with Claude東京でハッカソン上位5組中4組が非エンジニアと判明",
+          "summary_long": "Anthropic主催「Code with Claude」東京イベントで、世界1万3000件の応募から選ばれた上位5組中4組が職業エンジニアではなかった。ドメイン知識とAIを組み合わせたソフトウェア開発の民主化が示され、非エンジニアによるAI活用拡大が顕著となった。",
+          "importance": 3,
+          "fetch_failed": true
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 70,
+      "trend_history": [60, 62, 65, 70, 68, 62, 70],
+      "summary_short": "ドコモ、9月からd払い特典を一律200ポイント上限・有効期限94日に変更",
+      "summary_long": "NTTドコモは2026年9月1日からd払い特典の進呈上限を一律200ポイントに統一する。現行ではランク5が最大600ポイントだったが、ランク4・5ユーザーには実質改悪となる。dカード支払い特典のdポイント有効期限も12ヶ月から94日へ大幅に短縮される。",
+      "articles": [
+        {
+          "title": "ドコモからのお知らせ：「d払い特典」の進呈上限ポイントおよびdカード支払い特典の進呈ポイント種別の変更について",
+          "url": "https://www.docomo.ne.jp/info/notice/page/260615_00.html",
+          "source": "NTTドコモ",
+          "summary_short": "d払い特典、9月から一律200ポイント上限・dポイント有効期限94日に変更",
+          "summary_long": "NTTドコモが6月15日に公式発表。2026年9月1日からd払い特典の進呈上限を一律200ポイントへ変更する。現行のランク別還元（ランク5で最大600ポイント）は廃止となる。dカード支払い特典のdポイント有効期限も「最後に利用した日から12ヶ月」から「進呈日から94日後」へ短縮される。",
+          "importance": 4,
+          "fetch_failed": true
+        },
+        {
+          "title": "ドコモ、「d払い特典」の還元上限を「一律200ポイント」に変更 ランクによっては改悪",
+          "url": "https://www.itmedia.co.jp/mobile/articles/2606/16/news119.html",
+          "source": "ITmedia Mobile",
+          "summary_short": "ITmedia、d払い特典変更を「高ランク利用者に改悪」と報道",
+          "summary_long": "ITmedia Mobileが6月16日に報道。ランク4・5ユーザーは月間4〜6万円超の利用でも9月以降は200ポイント上限となり、従来より少ない還元となる。一方でランク3以下の低利用者には実質改善となる。変更はd払い利用者約6,000万人に影響する。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "ドコモ「d払い」のバーチャルカードに新機能「支払いロック」",
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/2082682.html",
+          "source": "ケータイ Watch",
+          "summary_short": "ドコモd払いバーチャルカードに「支払いロック」機能を追加",
+          "summary_long": "NTTドコモはd払いバーチャルカードに新機能「支払いロック」を追加した。設定することで対象バーチャルカードを使った決済を停止でき、不正利用リスク低減やカード管理に活用できる。ロック設定・解除はd払いアプリから操作可能。",
+          "importance": 3,
+          "fetch_failed": true
+        },
+        {
+          "title": "6月開始の「d払い」エリアキャンペーン",
+          "url": "https://prtimes.jp/main/html/rd/p/000000196.000141840.html",
+          "source": "PR TIMES",
+          "summary_short": "全国自治体連携のd払いエリアキャンペーンが2026年6月から順次開始",
+          "summary_long": "NTTドコモは全国の地域・商店街と連携した「d払い」エリアキャンペーンを6月から順次開始した。参加自治体ごとのポイント還元率が設定され、地域消費活性化を目的とする。d払い特典変更（9月〜）と並行してキャンペーンで利用促進を図る。",
+          "importance": 3,
+          "fetch_failed": true
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 65,
+      "trend_history": [72, 74, 70, 68, 74, 74, 65],
+      "summary_short": "IBM量子コンピュータが実用フェーズ突入を宣言、香港大学が新チップを発表",
+      "summary_long": "IBMは理化学研究所・Boeing・Cleveland Clinicらとの共同研究で実用的量子優位性を実証し、2026年を実用化元年と宣言した。香港大学は炭化ケイ素（SiC）MOSFETを用いた脳型極低温チップを開発し、量子システムの配線問題解決の糸口を示した。",
+      "articles": [
+        {
+          "title": "量子コンピューターはついに実用フェーズへ IBMらが達成した実用的量子優位性、AI・量子融合の未来",
+          "url": "https://enterprisezine.jp/article/detail/24247",
+          "source": "EnterpriseZine",
+          "summary_short": "IBM、量子コンピュータが実用的量子優位性を達成し実用フェーズ突入を宣言",
+          "summary_long": "EnterpriseZineが報道。IBMは理化学研究所・Boeing・Cleveland Clinicらとの研究で実用的量子優位性を達成し、量子技術が実用フェーズに突入したと宣言した。量子化学・材料・創薬へと応用重心が広がり、AI・量子融合が次の焦点となっている。",
+          "importance": 4,
+          "fetch_failed": true
+        },
+        {
+          "title": "香港大学、SiCトランジスタで「脳型」極低温チップ開発—量子コンピューターの配線問題に光",
+          "url": "https://innovatopia.jp/quantum/quantum-news/109090/",
+          "source": "イノバトピア",
+          "summary_short": "香港大学がSiCトランジスタで脳型極低温チップを開発、量子配線問題に光",
+          "summary_long": "香港大学の研究チームが炭化ケイ素（SiC）MOSFETを用いたプログラマブルなニューロモーフィック・ハードウェアプラットフォームを開発した。量子コンピュータ拡張の制約である「配線問題」解決に寄与しうる極低温対応チップとして注目される。",
+          "importance": 3,
+          "fetch_failed": true
+        },
+        {
+          "title": "IBMが世界初の大規模フォールト・トレラント量子コンピューターを構築する方法",
+          "url": "https://www.ibm.com/jp-ja/think/insights/large-scale-fault-tolerant-quantum-computers",
+          "source": "IBM",
+          "summary_short": "IBM、CPU・GPU・QPU統合の量子中心スーパーコンピューティングアーキテクチャを公開",
+          "summary_long": "IBMは2026年3月、CPU・GPU・QPUを統合する量子中心スーパーコンピューティングの参照アーキテクチャを公開した。これにより大規模フォールトトレラント量子コンピュータ構築に向けた設計指針が業界に示された。耐量子暗号との組み合わせ活用も想定されている。",
+          "importance": 3,
+          "fetch_failed": true
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 52,
+      "trend_history": [48, 50, 52, 54, 55, 55, 52],
+      "summary_short": "PayPay6月改定でSuicaチャージポイント停止、フィンテック規制が2026年転換点",
+      "summary_long": "PayPayは6月から他社プリペイドカード・モバイルSuicaへのチャージでのポイント付与を停止した。EY Japanは2026年度グローバル金融規制の4大シフトとして、サイバーセキュリティ強化・AI倫理規制・デジタル資産規制統一・気候リスク開示義務化を予測した。",
+      "articles": [
+        {
+          "title": "2026年6月〜PayPayカードやPayPayステップの条件が改悪 今からやるべき対策",
+          "url": "https://news.yahoo.co.jp/expert/articles/58b0025881a2f9941ebf998018e8c7c88d3b94b3",
+          "source": "Yahoo!ニュース エキスパート",
+          "summary_short": "PayPay、6月からステップ条件変更・Suicaチャージ等でポイント停止",
+          "summary_long": "2026年6月からPayPayステップの条件が変更され、他社プリペイドカード・モバイルSuica・PASMOへのチャージでポイントが付与されなくなった。PayPayカードからのチャージも対象で、高度利用者のインセンティブが大幅に低下した。",
+          "importance": 3,
+          "fetch_failed": true
+        },
+        {
+          "title": "【フィンテック10大予測】2026年が分岐点、「次の10年」への業界変化を全解説",
+          "url": "https://www.sbbit.jp/article/fj/177565",
+          "source": "ビジネスIT",
+          "summary_short": "ビジネスIT、2026年をフィンテック分岐点と分析し10大予測を公表",
+          "summary_long": "ビジネスITは2026年がフィンテック業界の「次の10年」への分岐点と分析した。AIと決済の融合・Open Banking標準化・デジタル通貨の実用化・リアルタイム決済拡大など10の予測を示した。日本では改正資金決済法施行後の制度定着が課題となっている。",
+          "importance": 3,
+          "fetch_failed": true
+        },
+        {
+          "title": "2026年度グローバル金融サービス規制の展望",
+          "url": "https://www.ey.com/ja_jp/insights/financial-services/four-regulatory-shifts-financial-firms-must-watch-in-2026",
+          "source": "EY Japan",
+          "summary_short": "EY、2026年グローバル金融規制の4大シフトを発表",
+          "summary_long": "EY Japanは2026年度グローバル金融サービス規制として、サイバーセキュリティ規制強化・AI倫理規制・デジタル資産規制統一・気候リスク開示義務化の4つの変化を予測した。日本の金融庁動向との連動が想定され、各金融機関の制度対応が急務となっている。",
+          "importance": 3,
+          "fetch_failed": true
+        }
+      ],
+      "related": [
+        "https://www.docomo.ne.jp/info/notice/page/260615_00.html",
+        "https://www.itmedia.co.jp/mobile/articles/2606/16/news119.html"
+      ]
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 75,
+      "trend_history": [60, 62, 65, 68, 70, 72, 75],
+      "summary_short": "参院選選挙戦が本日最終日、明日6月21日に全国投開票を迎える",
+      "summary_long": "参院選の選挙運動が6月20日に最終日を迎え、明日21日に全国一斉投開票が行われる。経済政策・物価高対策・AI規制・安全保障が主要争点とされた。日経平均は6月19日終値7万1250円と高値圏で推移し、ドル円は161円台の円安が続いている。",
+      "articles": [
+        {
+          "title": "第27回参議院議員通常選挙 選挙戦最終日—6月21日に全国一斉投開票",
+          "url": "https://news.web.nhk/senkyo/schedule/monthly/",
+          "source": "NHK",
+          "summary_short": "参院選が本日6月20日選挙戦最終日、明日21日投開票",
+          "summary_long": "第27回参議院議員通常選挙の選挙運動が6月20日に終了し、翌21日に投開票を迎える。経済政策・物価高対策・AI規制・安全保障が主要争点として各党が最終訴えを行った。投票率は前回（2023年）比で変動が注目される。",
+          "importance": 5,
+          "fetch_failed": true
+        },
+        {
+          "title": "日経平均、6月19日終値7万1250円—連日の高値圏で推移",
+          "url": "https://finance.yahoo.co.jp/quote/998407.O/history",
+          "source": "Yahoo!ファイナンス",
+          "summary_short": "日経平均6月19日終値7万1250円、連日高値圏で推移",
+          "summary_long": "日経平均株価の6月19日終値は7万1250円（前日比+197円）となり、連日の高値圏での推移となった。6月19日の高値は7万1953円を記録した。米国株高と円安継続が支援材料となっており、参院選前の市場環境は総じて安定している。",
+          "importance": 4,
+          "fetch_failed": true
+        },
+        {
+          "title": "【2026年6月】円安はいつまで続く？今後の見通しと対策方法を解説",
+          "url": "https://life.oricon.co.jp/rank-foreign-currency-deposits/special/weak-yen/how-long-yen-low/",
+          "source": "オリコン",
+          "summary_short": "ドル円161円台、日銀利上げ後も構造的円安が継続",
+          "summary_long": "ドル円相場は2026年6月に入り161円台で推移している。2026年3月の日銀利上げ（0.75%→1.0%）後も日米金利差が大きく、構造的な円安圧力が続いている。専門家は「円安がいつまで続くか」の見通しについて引き続き注視が必要と指摘している。",
+          "importance": 3,
+          "fetch_failed": true
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 87,
+      "NTTドコモ": 70,
+      "量子コンピュータ": 65,
+      "金融決済": 52,
+      "国内・社会": 75
+    },
+    "source_distribution": {
+      "ITmedia AIプラス": 1,
+      "VentureBeat": 1,
+      "CodeZine": 1,
+      "NTTドコモ": 1,
+      "ITmedia Mobile": 1,
+      "ケータイ Watch": 1,
+      "PR TIMES": 1,
+      "EnterpriseZine": 1,
+      "イノバトピア": 1,
+      "IBM": 1,
+      "Yahoo!ニュース エキスパート": 1,
+      "ビジネスIT": 1,
+      "EY Japan": 1,
+      "NHK": 1,
+      "Yahoo!ファイナンス": 1,
+      "オリコン": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 9,
+      "4": 6,
+      "5": 1
+    }
+  }
+}
