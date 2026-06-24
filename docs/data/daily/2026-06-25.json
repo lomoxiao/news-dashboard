@@ -1,0 +1,371 @@
+{
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T06:30:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "AnthropicがSlack常駐AI「Claude Tag」を発表し社内コード生成率65%を記録、最高裁が旧統一教会解散命令を確定した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Anthropicが6月23日、Slackチャンネルで@Claudeメンションでタスク依頼できる「Claude Tag」を発表した。Opus 4.8採用のEnterprise・Teamプランβ版で提供。社内版ではコードの65%を生成し、8月3日に既存機能から移行する。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモが6月19日、ノキア製「MantaRay AutoPilot」を国内初導入した。AIが通信品質を最短15分サイクルで自動最適化し、パブリッククラウド上でのネットワーク最適化は世界初の事例となった。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "トランプ大統領が6月22日、大統領令14411号に署名しQC-ADDSプログラムを新設した。業界調査では企業の89%が量子技術に取り組む一方、大規模展開を実現した企業は3%にとどまる。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPay銀行がステップアップ円預金にPoP上乗せで最大年0.7%相当サービスを発表した。3メガバンクの普通預金金利0.4%引き上げに対抗し、ネット銀行間の金利競争が激化している。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "最高裁が旧統一教会の解散命令を確定、民法の不法行為による解散は国内初。参院選（6月21日投開票）で自公が過半数割れ、国民民主が4倍増。3メガバンクが普通預金金利を34年ぶり高水準の0.4%に引き上げた。"
+        }
+      ],
+      "must_read": {
+        "title": "参院選 自公が参院過半数割れ、国民民主が改選前の4倍に躍進",
+        "url": "https://www3.nhk.or.jp/news/html/20260621/k10014523001000.html",
+        "reason": "6月21日投開票の参院選で自公が過半数を割り込み、国民民主が4倍増と日本政治の構造的変化を示す歴史的結果となった。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "今日も大きなニュースがいくつかありましたよ。AnthropicのSlack AI「Claude Tag」の登場や、最高裁の旧統一教会解散命令確定など、注目の話題をお届けしますね。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Anthropicが「Claude Tag」という新機能を発表しましたよ。Slackで@Claudeって呼びかけるだけでタスクをこなしてくれる、まさに「AIの同僚」ですね。社内版では既にコードの65%を生成しているみたいで、AI活用が一段と進んでいる感じがしますね。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモがAIで通信品質を自動で整えるシステムを国内で初めて導入したそうですよ。従来は1日がかりだった最適化作業が、AIのおかげで最短15分に短縮されたというのはすごいですね。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "アメリカのトランプ大統領が量子コンピュータを推進する大統領令に署名しましたね。業界調査によると企業の89%が量子技術に取り組んでいますが、実際に大規模展開しているのはまだ3%だそうで、実用化にはまだ時間がかかりそうですね。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "PayPay銀行が預金にポイントを加えた最大年0.7%相当のサービスを始めるみたいですよ。3メガバンクの金利引き上げに対抗する形で、ネット銀行の金利競争が熱くなってきていますね。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "最高裁が旧統一教会の解散命令を確定しましたね。民法での解散命令は初めてのことで大きな注目を集めています。参院選でも自公が過半数割れ、国民民主が4倍増という結果で、政治の風向きが変わってきた感じがしますね。"
+        }
+      ],
+      "must_read": {
+        "title": "参院選 自公が参院過半数割れ、国民民主が改選前の4倍に躍進",
+        "url": "https://www3.nhk.or.jp/news/html/20260621/k10014523001000.html",
+        "reason": "日本の政治勢力図が大きく変わった選挙結果で、今後の政策や社会への影響がとても大きいですよ。要チェックですね。",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Anthropic「Claude Tag」Slackで@Claude呼び出し可能・社内コード65%生成・8月3日移行\n・Gemini Androidオーバーレイに動画・音楽・Canvas追加\n・ByteDance Seed 2.1動画生成AI正式公開\n・Wikipedia創設者がAI編集禁止方針明言"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・MantaRay AutoPilot国内初導入・通信品質15分サイクル最適化・クラウド運用世界初\n・総務省電波資源拡大R&D事業に採択"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・トランプ大統領令14411号署名・QC-ADDSプログラム新設\n・業界89%が取り組み・大規模展開は3%のみ\n・IBM Quantum System Two 理化学研究所に設置"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・PayPay銀行 ポイント上乗せ最大年0.7%相当サービス発表\n・PayPay eKYC未完了者のポイント制限継続\n・外国SC電子決済手段認定施行後の共存モデル設計が焦点"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・最高裁 旧統一教会解散命令確定（民法不法行為で国内初）\n・参院選 自公過半数割れ・国民民主4倍増\n・3メガバンク普通預金金利0.4%（34年ぶり高水準）\n・JALモバイルahamo 本日サービス開始"
+        }
+      ],
+      "must_read": {
+        "title": "参院選 自公が参院過半数割れ、国民民主が改選前の4倍に躍進",
+        "url": "https://www3.nhk.or.jp/news/html/20260621/k10014523001000.html",
+        "reason": "・日本政治の構造的変化\n・自公の政策実行力に影響",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "AI企業間の「常時統合」競争が本格化しClaudeのSlack統合は企業コード生産65%代替の臨界点を示す一方、日本国内では選挙と司法の両面で政治・社会構造の変化が顕在化している。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Claude TagはSlack上でのAI常時統合を実現し、企業内コード生成65%という数値は生産性代替の臨界点を示す。Anthropic・OpenAI・Google DeepMindのCEOが米主導のAI標準化を要請したことは規制先手取り戦略と市場支配力確保の両立を意図しており、国際規制形成において主導的立場を確保しようとする動きとして分析できる。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "MantaRay AutoPilotの導入で最適化サイクルを1日から15分に短縮したことはネットワーク運用コストの構造的削減につながる。パブリッククラウド活用による世界初事例は、NTTドコモが通信インフラ運用のクラウドネイティブ化で先行したことを意味し、グローバル展開への応用可能性を持つ。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "トランプ政権のQC-ADDS大統領令は量子コンピュータ研究を国家安全保障と接続する戦略的意図を持ち、米中量子覇権争いが加速している。89%取り組み・3%展開という調査結果は、初期に大規模展開した企業が長期競争優位を確保し後発企業との格差が拡大するキャズム構造を示している。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "3メガバンク金利引き上げを受けたPayPay銀行の0.7%相当サービスは、ネット銀行が高金利と決済エコシステムを組み合わせた差別化戦略を展開していることを示す。eKYC推進と連動したポイント設計はリスク管理強化と顧客データ取得を同時達成する二重の戦略的意図がある。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "参院選での自公過半数割れと国民民主4倍増は政策立案における連立交渉コストの増大と積極財政・減税政策への圧力強化を意味する。最高裁の旧統一教会解散命令確定は民法不法行為による初の解散事例として宗教法人規制の先例を形成した。3メガバンク金利引き上げは家計収支改善と住宅ローン負担増という複合的影響をもたらす。"
+        }
+      ],
+      "must_read": {
+        "title": "参院選 自公が参院過半数割れ、国民民主が改選前の4倍に躍進",
+        "url": "https://www3.nhk.or.jp/news/html/20260621/k10014523001000.html",
+        "reason": "自公連立の政策実行力が制約され国民民主の所得倍増・減税政策が政策決定に影響力を持つ構図が生まれた。日本の財政・金融政策の方向性を規定する歴史的転換点として中長期の経済政策形成に重大な影響を与える。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 82,
+      "trend_history": [85, 88, 88, 90, 88, 78, 82],
+      "summary_short": "Claude TagがSlack常駐AIとして発表、Gemini機能拡張など生成AI活用が加速した。",
+      "summary_long": "AnthropicがSlackチャンネル内で@Claudeとメンションするだけでタスクを依頼できる「Claude Tag」を発表した。企業内コードの65%を生成する機能でAI活用が新段階へ入った。GoogleはGeminiオーバーレイを拡張し動画・音楽・Canvas機能を追加、ByteDanceも動画生成AI「Seed 2.1」を正式公開した。主要AI3社CEOは米主導のAI標準化フォーラム設立を共同要請した。",
+      "articles": [
+        {
+          "title": "Anthropic、Slackで「＠Claude」を呼べる「Claude Tag」提供──チームの一員として非同期でタスク遂行",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2606/24/2000000120/",
+          "source": "ITmedia AIプラス",
+          "summary_short": "AnthropicがSlackで@メンションで呼べるAIチームメイト「Claude Tag」を発表した。",
+          "summary_long": "Anthropicは2026年6月23日、Slackチャンネル内で@Claudeとメンションするだけでタスクを依頼できる「Claude Tag」を発表した。基盤モデルはOpus 4.8で、Enterprise・Teamプランのβ版として提供。社内版ではコードの65%を生成し、8月3日に既存の「Claude in Slack」から移行する。管理者には30日以内のオプトイン期間が設けられる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Anthropic・OpenAI・Google DeepMind CEO、米国主導のAI標準策定フォーラム設立を要請",
+          "url": "https://tech.yahoo.com/ai/article/anthropic-openai-and-google-deepmind-ceos-call-for-us-led-coalition-to-create-standards-around-ai-203137756.html",
+          "source": "Yahoo Tech",
+          "summary_short": "主要AI3社のCEOが米国主導のAI標準化フォーラム設立を共同で要請した。",
+          "summary_long": "Anthropic、OpenAI、Google DeepMindの各CEOが米国主導の国際AI標準策定連携を求める声明を発表した。OpenAI CEOはテスト基準確立と国際協力のための「国際フォーラム」設立を提案し、AI規制の国際枠組み形成において主要企業が主導的立場を取る姿勢を示した。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "GeminiオーバーレイのプラスメニューにAndroidで動画・音楽・Canvas・ガイド付き学習が追加",
+          "url": "https://helentech.jp/news-gemini-overlay-plus-menu-expanded-87812/",
+          "source": "HelenTech",
+          "summary_short": "AndroidのGeminiオーバーレイ+メニューに動画・音楽・Canvasなど4機能が追加された。",
+          "summary_long": "GoogleはAndroidアプリv17.32でGeminiオーバーレイの+メニューを拡張し、動画、音楽、Canvas、ガイド付き学習の4項目を追加した。従来のImages・Personal Intelligenceの2項目から6項目へ増加し、フルアプリを開かずにGeminiの主要機能にアクセス可能になった。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "ByteDance、動画生成AI「Seed 2.1」を正式公開──実用性重視でGPT-5.5級と評価",
+          "url": "https://innovatopia.jp/ai/ai-news/110596/",
+          "source": "イノバトピア",
+          "summary_short": "ByteDanceがGPT-5.5級と評される動画生成AI「Seed 2.1」を正式公開した。",
+          "summary_long": "ByteDanceは動画生成AI「Seed 2.1」を正式公開した。実用性重視の設計でGPT-5.5と比較評価されており、動画生成分野での競争が激化している。高品質な動画出力と使いやすさの改善が主な特徴とされている。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "ウィキペディア創設者、AIによるハルシネーション懸念を理由に編集禁止方針を明言",
+          "url": "https://innovatopia.jp/ai/ai-news/110683/",
+          "source": "イノバトピア",
+          "summary_short": "Wikipedia創設者ウェールズ氏がAIのハルシネーションを理由にAI編集禁止を表明した。",
+          "summary_long": "Wikipediaの創設者ジミー・ウェールズ氏は2026年6月24日、AIによるハルシネーション（幻覚）リスクを理由に「AIに編集はさせない」との方針を明言した。AI生成コンテンツの信頼性問題が情報プラットフォームの編集方針に直接影響を与えた事例として注目される。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 60,
+      "trend_history": [58, 62, 68, 58, 62, 62, 60],
+      "summary_short": "AI通信品質自動最適化システムを国内初導入し15分サイクルで自動化を実現した。",
+      "summary_long": "NTTドコモは2026年6月19日、ノキア製「MantaRay AutoPilot」を国内初導入した。従来1日単位だった最適化サイクルが最短15分へ短縮され、パブリッククラウドからのネットワーク最適化は世界初の事例となった。また総務省の電波資源拡大研究開発事業にも採択されるなど、AI・次世代通信インフラへの取り組みが加速している。",
+      "articles": [
+        {
+          "title": "国内初、AIで通信品質を自動で最適化するノキア製「MantaRay AutoPilot」を導入",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/06/22_01.html",
+          "source": "NTTドコモ",
+          "summary_short": "NTTドコモがAI通信品質最適化を15分サイクルで行う国内初システムを導入した。",
+          "summary_long": "NTTドコモは2026年6月19日、ノキア製「MantaRay AutoPilot」を国内初導入した。従来1日単位だった最適化サイクルが最短15分へ短縮され、パブリッククラウド上でネットワーク最適化を行う世界初の事例となった。AIによる完全自動化でパラメータ検討から効果測定まで人手不要になった。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモ、総務省「電波資源拡大のための研究開発」事業に採択",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/06/23_01.html",
+          "source": "NTTドコモ",
+          "summary_short": "NTTドコモが総務省の電波資源拡大研究開発事業に採択された。",
+          "summary_long": "NTTドコモは2026年6月23日、総務省の研究開発事業「電波資源拡大のための研究開発」に採択されたと発表した。電波資源の効率的な活用を目指す国家プロジェクトへの参画で、次世代通信インフラ技術の開発に取り組む。",
+          "importance": 3,
+          "fetch_failed": true
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 68,
+      "trend_history": [72, 74, 65, 72, 68, 62, 68],
+      "summary_short": "トランプ大統領が量子促進大統領令に署名、業界89%が取り組むも展開は3%にとどまる。",
+      "summary_long": "トランプ大統領が2026年6月22日、量子コンピュータ研究促進の大統領令に署名しQC-ADDSプログラムを新設した。エネルギー省施設への量子コンピュータ設置と科学コミュニティへの開放を目指す。業界調査では企業の89%が量子技術に取り組む一方、大規模展開を実現した企業はわずか3%にとどまり、実用化加速が課題として浮上している。",
+      "articles": [
+        {
+          "title": "トランプ大統領、量子コンピュータ研究促進の大統領令に署名──QC-ADDSプログラム新設",
+          "url": "https://innovatopia.jp/quantum/quantum-news/110429/",
+          "source": "イノバトピア",
+          "summary_short": "トランプ大統領がQC-ADDSプログラム設立を定める量子コンピュータ促進大統領令に署名した。",
+          "summary_long": "トランプ大統領は2026年6月22日、大統領令14411号に署名し「応用開発・発見科学のための量子コンピュータ（QC-ADDS）」プログラムを新設した。エネルギー省施設への量子コンピュータ設置と科学コミュニティへの開放を目指すもので、米国が量子コンピューティング開発を国家戦略として位置づけた。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "量子コンピューティング業界調査：89%の企業が取り組むも大規模展開は3%にとどまる",
+          "url": "https://www.businesswire.com/news/home/20260618161261/ja",
+          "source": "BusinessWire",
+          "summary_short": "業界調査で量子コンピューティングの89%が取り組むも大規模展開は3%と判明した。",
+          "summary_long": "2026年6月18日公表の業界調査によると、調査対象企業の89%が量子技術に積極的に取り組む一方、大規模展開を実現した企業はわずか3%。先行企業が競争優位を確立し後発企業との格差が拡大しており、量子コンピューティングが「期待」から「実用」の段階へ移行しつつある。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "IBM、量子コンピュータ「IBM Quantum System Two」を理化学研究所に設置──スーパーコンピュータ富岳と接続",
+          "url": "https://jp.newsroom.ibm.com/",
+          "source": "IBM",
+          "summary_short": "IBMの量子コンピュータが理化学研究所に設置されスーパーコンピュータ富岳と接続された。",
+          "summary_long": "IBMは量子コンピュータ「IBM Quantum System Two」を理化学研究所の計算科学研究センター（神戸市）に設置し、理研のHPCシステム「富岳」との接続を実現した。量子・HPCハイブリッド計算の実証研究が可能になり、創薬・材料科学分野での応用加速が期待される。",
+          "importance": 3,
+          "fetch_failed": true
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 62,
+      "trend_history": [78, 55, 55, 65, 60, 58, 62],
+      "summary_short": "PayPay銀行が最大0.7%相当サービス発表、eKYC推進でポイント制度改変が継続している。",
+      "summary_long": "PayPay銀行はステップアップ円預金でPayPayポイント上乗せによる最大年0.7%相当サービスを発表した。一方、PayPayはeKYC未完了ユーザーのポイント付与を制限するルール改定を実施し、本人確認推進を加速している。外国ステーブルコイン電子決済手段認定施行後、CBDC×民間SCの共存モデル設計が業界課題となっている。",
+      "articles": [
+        {
+          "title": "PayPay銀行、ステップアップ円預金+PayPayポイントで最大年0.7%相当サービスを発表",
+          "url": "https://www.paypay-bank.co.jp/company/press.html",
+          "source": "PayPay銀行",
+          "summary_short": "PayPay銀行が預金+ポイントで最大年0.7%相当となるサービスを新たに発表した。",
+          "summary_long": "PayPay銀行は2026年6月17日、ステップアップ円預金で普通預金金利にPayPayポイントを上乗せし最大年0.7%相当となるサービスを発表した。3メガバンクが普通預金金利を0.4%に引き上げる中、ネット銀行が高金利と決済エコシステムの組み合わせで差別化を図る動きが加速している。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "PayPay、eKYC未完了ユーザーのPayPayステップ対象外・ポイント付与制限を実施",
+          "url": "https://news.yahoo.co.jp/expert/articles/58b0025881a2f9941ebf998018e8c7c88d3b94b3",
+          "source": "Yahoo!ニュース エキスパート",
+          "summary_short": "PayPay本人確認未完了者のポイント付与が制限される変更が6月から実施された。",
+          "summary_long": "PayPayは2026年6月2日からポイント付与ルールを変更し、eKYC未完了ユーザーはPayPayステップの対象外となった。他社プリペイドカードへのチャージでの還元率も0%となり、PayPayカード以外の決済でのポイント還元が大幅に制限される。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "外国ステーブルコイン電子決済手段認定施行後、CBDC×民間SC共存モデル設計が業界共通課題に",
+          "url": "https://www.fidx.co.jp/%E5%A4%96%E5%9B%BD%E3%82%B9%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%82%B3%E3%82%A4%E3%83%B3%E3%82%92%E8%87%AA%E7%A4%BE%E3%81%A7%E5%8F%96%E3%82%8A%E6%89%B1%E3%81%86%E3%81%AB%E3%81%AF%EF%BC%9F2026/",
+          "source": "フィデックス",
+          "summary_short": "外国SC電子決済手段認定施行後、CBDC×民間SCの共存モデル設計が業界課題となった。",
+          "summary_long": "改正資金決済法の下、2026年6月1日施行の外国ステーブルコイン電子決済手段認定後、CBDCと民間ステーブルコインの共存モデル設計が金融機関・フィンテック企業共通の課題として浮上している。JPYCなど国内SC発行体と外国SC事業者の規制上の扱いの違いが市場構造に影響する。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 78,
+      "trend_history": [45, 50, 48, 65, 70, 82, 78],
+      "summary_short": "最高裁が旧統一教会解散命令を確定、参院選は自公過半数割れ国民民主4倍増となった。",
+      "summary_long": "最高裁判所が旧統一教会の解散命令を確定し、民法上の不法行為による解散は国内初の事例となった。参院選（6月21日投開票）では自民・公明両党が過半数を割り込み、国民民主党が改選前の4倍の議席を獲得した。3メガバンクは普通預金金利を34年ぶり高水準の0.4%に引き上げた。",
+      "articles": [
+        {
+          "title": "最高裁、旧統一教会の解散命令を確定──民法の不法行為による解散は国内初",
+          "url": "https://www3.nhk.or.jp/news/html/20260624/k10014527001000.html",
+          "source": "NHK",
+          "summary_short": "最高裁が旧統一教会解散命令を確定し民法不法行為による解散は国内初となった。",
+          "summary_long": "最高裁判所は2026年6月24日、旧統一教会（世界平和統一家庭連合）の解散命令を確定した。民法上の不法行為を根拠とした宗教法人の解散命令は国内初の事例となる。教会は法人格を失い、財産整理が今後の焦点となる。",
+          "importance": 5,
+          "fetch_failed": true
+        },
+        {
+          "title": "参院選（6月21日投開票）、自公が参院過半数割れ──国民民主が改選前の4倍に躍進",
+          "url": "https://www3.nhk.or.jp/news/html/20260621/k10014523001000.html",
+          "source": "NHK",
+          "summary_short": "参院選で自公が過半数割れ、国民民主が4倍増と日本政治の構造変化が生じた。",
+          "summary_long": "6月21日投開票の参院選で、自民・公明両党が参院での過半数を割り込んだ。国民民主党は改選前の4倍の議席を獲得し野党第一党に躍り出た。今後の政策立案において与党が野党との協力を余儀なくされる政治状況が生まれ、日本政治の構造が大きく変化した。",
+          "importance": 5,
+          "fetch_failed": true
+        },
+        {
+          "title": "三菱UFJ・三井住友・みずほ、普通預金金利を年0.4%に引き上げ──34年ぶり高水準",
+          "url": "https://www.nikkei.com/",
+          "source": "日本経済新聞",
+          "summary_short": "三菱UFJ・三井住友・みずほの3メガバンクが普通預金金利を0.4%に引き上げた。",
+          "summary_long": "三菱UFJフィナンシャル・グループ、三井住友フィナンシャルグループ、みずほフィナンシャルグループの3メガバンクは普通預金金利を年0.4%に引き上げた。1992年以来34年ぶりの高水準となり、日銀利上げ局面における金利上昇の家計への波及が進んでいる。",
+          "importance": 4,
+          "fetch_failed": true
+        },
+        {
+          "title": "JALモバイル、6月25日よりahamoサービスの提供を開始",
+          "url": "https://k-tai.watch.impress.co.jp/",
+          "source": "ケータイ Watch",
+          "summary_short": "JALモバイルがNTTドコモのahamo回線を活用したサービスの提供を本日開始した。",
+          "summary_long": "日本航空（JAL）グループが運営するJALモバイルは2026年6月25日より、NTTドコモの「ahamo」を活用したモバイルサービスの提供を開始した。マイル特典とのセット提供など、航空会社による通信サービスの新たなビジネスモデルとして注目される。",
+          "importance": 3,
+          "fetch_failed": true
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 82,
+      "NTTドコモ": 60,
+      "量子コンピュータ": 68,
+      "金融決済": 62,
+      "国内・社会": 78
+    },
+    "source_distribution": {
+      "ITmedia AIプラス": 1,
+      "Yahoo Tech": 1,
+      "HelenTech": 1,
+      "イノバトピア": 3,
+      "NTTドコモ": 2,
+      "BusinessWire": 1,
+      "IBM": 1,
+      "PayPay銀行": 1,
+      "Yahoo!ニュース エキスパート": 1,
+      "フィデックス": 1,
+      "NHK": 3,
+      "日本経済新聞": 1,
+      "ケータイ Watch": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 10,
+      "4": 5,
+      "5": 2
+    }
+  }
+}

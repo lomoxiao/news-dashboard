@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-23T06:30:00+09:00",
+  "last_updated": "2026-06-25T06:30:00+09:00",
   "reports": [
+    {
+      "date": "2026-06-25",
+      "headline": "最高裁旧統一教会解散命令確定民法初・Claude TagSlack常駐AI発表コード65%・3メガ銀普通預金0.4%34年ぶり・トランプ量子大統領令QC-ADDS新設・日経6万9222円"
+    },
+    {
+      "date": "2026-06-24",
+      "headline": "最高裁旧統一教会解散命令確定・民法不法行為初・参院選自公過半数割れ国民民主4倍増・Anthropic ARR$300億突破法人1000社超・GPT-5.6今週リリース90%・JALモバイルahamo25日開始・3メガ銀預金0.4%34年ぶり高水準"
+    },
     {
       "date": "2026-06-23",
       "headline": "GPT-5.6今週後半リリース予測83%・NTTドコモMantaRay AutoPilot国内初AI通信品質自動最適化・円相場161円80銭台2年ぶり円安・PayPay初決算GMV19兆円・量子ケイパビリティ時代突入調査"
@@ -283,7 +291,7 @@
     {
       "name": "NTTドコモ",
       "url": "https://www.docomo.ne.jp",
-      "count": 56
+      "count": 60
     },
     {
       "name": "NTTドコモビジネス",
@@ -308,7 +316,7 @@
     {
       "name": "日本経済新聞",
       "url": "https://www.nikkei.com",
-      "count": 63
+      "count": 66
     },
     {
       "name": "NVIDIA",
@@ -343,7 +351,7 @@
     {
       "name": "CNBC",
       "url": "https://www.cnbc.com",
-      "count": 6
+      "count": 7
     },
     {
       "name": "BigGo",
@@ -363,7 +371,7 @@
     {
       "name": "ビジネスIT",
       "url": "https://www.sbbit.jp",
-      "count": 9
+      "count": 10
     },
     {
       "name": "野村証券",
@@ -398,7 +406,7 @@
     {
       "name": "イノバトピア",
       "url": "https://innovatopia.jp",
-      "count": 11
+      "count": 14
     },
     {
       "name": "SBIホールディングス",
@@ -453,7 +461,7 @@
     {
       "name": "ケータイ Watch",
       "url": "https://k-tai.watch.impress.co.jp",
-      "count": 8
+      "count": 9
     },
     {
       "name": "NTTデータグループ",
@@ -483,7 +491,7 @@
     {
       "name": "日経Xtech",
       "url": "https://xtech.nikkei.com",
-      "count": 13
+      "count": 15
     },
     {
       "name": "Yahoo!ニュース エキスパート",
@@ -523,7 +531,7 @@
     {
       "name": "NHK",
       "url": "https://news.web.nhk.newsweb",
-      "count": 31
+      "count": 35
     },
     {
       "name": "PR TIMES",
@@ -568,7 +576,7 @@
     {
       "name": "BUSINESS LAWYERS",
       "url": "https://www.businesslawyers.jp",
-      "count": 8
+      "count": 9
     },
     {
       "name": "DGフィナンシャルテクノロジー",
@@ -673,7 +681,7 @@
     {
       "name": "フィデックス",
       "url": "https://www.fidx.co.jp",
-      "count": 5
+      "count": 6
     },
     {
       "name": "CoinPost",
@@ -728,7 +736,7 @@
     {
       "name": "選挙ドットコム",
       "url": "https://go2senkyo.com",
-      "count": 2
+      "count": 3
     },
     {
       "name": "8and",
@@ -748,7 +756,7 @@
     {
       "name": "IBM",
       "url": "https://www.ibm.com",
-      "count": 15
+      "count": 17
     },
     {
       "name": "NEDO",
@@ -888,7 +896,7 @@
     {
       "name": "NEC",
       "url": "https://jpn.nec.com",
-      "count": 1
+      "count": 2
     },
     {
       "name": "久兵衛の暮らしのニュース",
@@ -1283,6 +1291,31 @@
     {
       "name": "PayPay銀行",
       "url": "https://www.paypay-bank.co.jp",
+      "count": 2
+    },
+    {
+      "name": "TechWire Asia",
+      "url": "https://techwireasia.com",
+      "count": 1
+    },
+    {
+      "name": "TechTimes",
+      "url": "https://www.techtimes.com",
+      "count": 1
+    },
+    {
+      "name": "BusinessWire",
+      "url": "https://www.businesswire.com",
+      "count": 2
+    },
+    {
+      "name": "HelenTech",
+      "url": "https://helentech.jp",
+      "count": 1
+    },
+    {
+      "name": "Yahoo Tech",
+      "url": "https://tech.yahoo.com",
       "count": 1
     }
   ],
