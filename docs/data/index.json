@@ -1,6 +1,10 @@
 {
-  "last_updated": "2026-06-25T06:30:00+09:00",
+  "last_updated": "2026-06-26T06:30:00+09:00",
   "reports": [
+    {
+      "date": "2026-06-26",
+      "headline": "3メガ銀SC共同発行協議会設置2026年度内へ・GPT-5.6 Polymarket89%6月末リリース・NTTドコモAI障害初動6割削減生成AI51%・Pasqal量子論理ビット物理限界突破・株主総会609社ピーク・日銀6月利上げ観測"
+    },
     {
       "date": "2026-06-25",
       "headline": "最高裁旧統一教会解散命令確定民法初・Claude TagSlack常駐AI発表コード65%・3メガ銀普通預金0.4%34年ぶり・トランプ量子大統領令QC-ADDS新設・日経6万9222円"
@@ -296,7 +300,7 @@
     {
       "name": "NTTドコモビジネス",
       "url": "https://www.ntt.com",
-      "count": 12
+      "count": 13
     },
     {
       "name": "arXiv",
@@ -316,7 +320,7 @@
     {
       "name": "日本経済新聞",
       "url": "https://www.nikkei.com",
-      "count": 66
+      "count": 69
     },
     {
       "name": "NVIDIA",
@@ -386,7 +390,7 @@
     {
       "name": "TechCrunch",
       "url": "https://techcrunch.com",
-      "count": 4
+      "count": 5
     },
     {
       "name": "AIFOD",
@@ -401,7 +405,7 @@
     {
       "name": "XenoSpectrum",
       "url": "https://xenospectrum.com",
-      "count": 3
+      "count": 4
     },
     {
       "name": "イノバトピア",
@@ -436,7 +440,7 @@
     {
       "name": "Gizmodo Japan",
       "url": "https://www.gizmodo.jp",
-      "count": 12
+      "count": 13
     },
     {
       "name": "ITmedia AIプラス",
@@ -491,7 +495,7 @@
     {
       "name": "日経Xtech",
       "url": "https://xtech.nikkei.com",
-      "count": 15
+      "count": 17
     },
     {
       "name": "Yahoo!ニュース エキスパート",
@@ -851,7 +855,7 @@
     {
       "name": "GIGAZINE",
       "url": "https://gigazine.net",
-      "count": 2
+      "count": 3
     },
     {
       "name": "KSI政策ニュース",
@@ -881,7 +885,7 @@
     {
       "name": "Ledge.ai",
       "url": "https://ledge.ai",
-      "count": 3
+      "count": 4
     },
     {
       "name": "テレビ朝日",
@@ -1251,7 +1255,7 @@
     {
       "name": "FinWave Japan",
       "url": "https://finwave.jp",
-      "count": 1
+      "count": 2
     },
     {
       "name": "LINEヤフー",
@@ -1316,6 +1320,21 @@
     {
       "name": "Yahoo Tech",
       "url": "https://tech.yahoo.com",
+      "count": 1
+    },
+    {
+      "name": "AIフレンズ",
+      "url": "https://aifriends.jp",
+      "count": 1
+    },
+    {
+      "name": "東洋経済",
+      "url": "https://shikiho.toyokeizai.net",
+      "count": 1
+    },
+    {
+      "name": "三菱UFJフィナンシャル・グループ",
+      "url": "https://www.mufg.jp",
       "count": 1
     }
   ],
