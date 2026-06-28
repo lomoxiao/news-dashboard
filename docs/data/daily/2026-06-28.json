@@ -1,0 +1,406 @@
+{
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28T06:30:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "OpenAIがGPT-5.6（Sol/Terra/Luna）を約20社に限定公開し、米政府がAnthropicのClaude Mythos 5を約100社・政府機関に解放した。台風7号・8号の接近で山口県平生町の土砂崩れで高齢男性1人が死亡し、愛媛県でもSUP中の2人が流されて死亡した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "OpenAIがGPT-5.6をSol・Terra・Lunaの3モデルで発表し約20社に限定提供した。Solは主要ベンチマーク88.8%でClaude Mythos 5と互角の性能を示した。米政府がAnthropicのMythos 5を約100社・政府機関に解放し、2週間の輸出制限が部分的に解除された。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモが総務省の「電波資源拡大のための研究開発」事業に採択され2030年代の6G実現に向けた研究を本格化させた。世界初のオープンイヤー型集音器「cocoe Ear」が発売され全国47都道府県56店舗での体験展示を開始した。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "トランプ大統領が量子イノベーション推進の大統領令14413に署名しDOE施設への量子コンピュータ配備を指示するQC-ADDSプログラムを創設した。MicrosoftのMajorana 2はリード採用でパリティ寿命をミリ秒から20秒超に大幅向上させた。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "三菱UFJ・三井住友・みずほの3メガバンクが円ステーブルコイン共同発行の協議会を設置し2026年度内の実取引開始を目指す。米GENIUS法は6月9日FinCEN期限・7月18日全面施行の重要局面を迎えた。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "台風7号・8号が相次ぎ接近し気象庁が土砂災害・浸水への厳重警戒を呼びかけた。山口県平生町の土砂崩れで高齢男性1人が死亡し愛媛県西条でSUP中の2人も死亡した。日経平均株価は前日比3005円安の6万9360円と大幅反落した。"
+        }
+      ],
+      "must_read": {
+        "title": "OpenAI、GPT-5.6（Sol・Terra・Luna）を発表―限定公開で約20社に提供開始",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+        "reason": "Claude Mythos 5に真正面から挑む新世代モデルが価格・性能両面での新基準を提示し、生成AI業界の競争構図が決定的に変わる。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "今日はOpenAIが強力な新しいAI「GPT-5.6」を発表して、AnthropicのMythos 5も一部の会社や機関で使えるようになるというAI業界の大ニュースがありましたよ。台風の影響で各地に被害が出ているので、引き続き気をつけてくださいね。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "OpenAIがGPT-5.6（Sol・Terra・Luna）を発表しましたよ！いちばん高性能なSolはClaude Mythos 5とほぼ同水準の性能で、価格もSolが入力$5・出力$30/100万トークンと分かりやすいですね。米政府がAnthropicのMythos 5も一部の会社に使えるよう許可したので、AI競争がますます激しくなりますよ。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモが総務省の6G研究開発事業に選ばれましたよ！2030年代の6G実現に向けて研究が本格化するそうです。それに世界で初めての耳をふさがない「cocoe Ear」という集音器が発売されて、全国のドコモショップで体験できるみたいですよ。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "トランプ大統領が量子コンピュータを国家的に推進する大統領令に署名しましたよ。MicrosoftのMajorana 2チップは材料を変えてパリティの寿命が20秒以上に大幅に伸びたそうで、量子コンピュータの実用化への歩みが着実に進んでいますね。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "三菱UFJ・三井住友・みずほの3大銀行が円のデジタルコイン（ステーブルコイン）を一緒に作るための協議会を設置しましたよ。今年度中に実際の取引を始める予定だそうです。アメリカでもGENIUS法の重要な期限が来ていて、世界のデジタル通貨が一気に動き出していますね。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "台風7号と8号が続けて日本に接近して各地で大雨になっていますよ。山口県平生町では土砂崩れで高齢の方が亡くなってしまいました。愛媛でもSUP中の方が流されて2人が亡くなったそうです。株価も3000円以上下がってしまいましたので、安全に過ごしてくださいね。"
+        }
+      ],
+      "must_read": {
+        "title": "OpenAI、GPT-5.6（Sol・Terra・Luna）を発表―限定公開で約20社に提供開始",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+        "reason": "OpenAIがClaude Mythos 5に真正面から挑む新しいモデルを出してきましたよ。業務でAIを使っている方は性能と価格をチェックしておくといいですね。",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・OpenAI GPT-5.6（Sol/Terra/Luna）限定発表・SolがTerminalBench-2.1で88.8%・Sol価格$5/$30/Mトークン\n・米政府Anthropic Mythos 5解禁・約100社・政府機関への提供許可\n・Alibaba偽2.5万アカウントでClaude蒸留攻撃・最大規模の不正アクセスをAnthropicが告発"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・総務省6G研究開発事業採択・2030年代の6G実現に向け研究加速\n・世界初オープンイヤー型集音器「cocoe Ear」発売・47都道府県56店舗体験"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・米大統領令14413（QC-ADDS）でDOE施設への量子コンピュータ配備指示\n・Microsoft Majorana 2リード採用でパリティ寿命ミリ秒から20秒超に向上\n・Pasqal中性原子QPU欧州HPCデータセンターへ統合展開"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・3メガ銀（三菱UFJ・三井住友・みずほ）円SC共同発行協議会設置・2026年度内発行目標\n・米GENIUS法6月9日FinCEN期限・7月18日全面施行期限到来\n・PayPay銀行8月から普通預金+ポイント最大0.7%相当"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・台風7号・8号相次ぎ接近・気象庁が土砂災害厳重警戒呼びかけ\n・山口県平生町土砂崩れ高齢男性死亡・愛媛西条SUP2人死亡\n・日経平均6万9360円・前日比3005円安大幅反落"
+        }
+      ],
+      "must_read": {
+        "title": "OpenAI、GPT-5.6（Sol・Terra・Luna）を発表―限定公開で約20社に提供開始",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+        "reason": "・SolがTerminalBench-2.1で88.8%→Mythos 5とほぼ同水準のベンチマーク\n・数週間以内に一般公開予定→業務AI選択に直結",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "OpenAIのGPT-5.6（Sol/Terra/Luna）限定公開とAnthropicのClaude Mythos 5部分解禁が重なり生成AI競争はベンチマーク・価格・政府承認の三軸による「制度的競争」と「技術的競争」の二重構造に入った。台風ダブル接近による複合災害が日本各地に人的被害をもたらし、日経平均は3005円安で大幅反落した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "GPT-5.6 SolのTerminalBench-2.1スコア88.8%（ultraモード91.9%）は政府承認モデル間の性能差を数値で可視化した。AnthropicへのAlibaba蒸留攻撃（2.5万アカウント・2880万件）は国家的AIキャパビリティ争奪戦の一端を示しており、クローズドモデルのアクセス管理が安全保障問題化している。モデル価格の3層設計（Sol/Terra/Luna）は企業のAI予算配分に新たな指標を提供する。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "総務省6G研究開発採択は2030年代通信インフラ制覇に向けた国家的レース参入を確定させる。cocoe Earは医療機器ではなく集音器カテゴリで通信事業者が高齢者市場に直接アクセスする新収益モデルとして注目される。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "大統領令14413のQC-ADDSはDOE施設への量子コンピュータ配備を国家投資として確定させ量子研究への政府資源の本格投入を示す。Microsoft Majorana 2のパリティ寿命20秒超への向上はトポロジカル量子ビット実現の重要マイルストーンであり論理量子ビット実現への技術的障壁が低下しつつある。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "3メガ銀の円SC協議会設置は改正資金決済法施行による外国SC参入解禁と同時進行しており国内勢・海外勢の円SC市場獲得競争が2026年度内に本格化する。米GENIUS法の7月施行後は日米のSC規制枠組みが整合する方向となりクロスボーダー決済の加速が見込まれる。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "台風7号・8号のダブル接近は梅雨前線と重なり広域土砂災害を引き起こしており、気候変動下の複合自然災害リスクの増大を示す。日経平均の3005円安はOpenAI IPO延期報道に端を発したAI投資の採算性懸念が波及したものであり、AI関連株の高バリュエーション是正リスクを示唆する。"
+        }
+      ],
+      "must_read": {
+        "title": "OpenAI、GPT-5.6（Sol・Terra・Luna）を発表―限定公開で約20社に提供開始",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+        "reason": "GPT-5.6とClaude Mythos 5の同時代競争は生成AI業界の頂上決戦の本格化を意味し、ベンチマーク・価格・政府承認の3軸で評価が決まる新しい競争構造を確立した。今後の企業AI選択と投資配分に直結する。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 85,
+      "trend_history": [88, 78, 82, 78, 78, 82, 85],
+      "summary_short": "OpenAI GPT-5.6とAnthropic Mythos 5部分解禁でAI競争が新局面に入った。",
+      "summary_long": "OpenAIがGPT-5.6（Sol/Terra/Luna）を発表し約20社に限定提供した。SolはTerminalBench-2.1で88.8%を記録。米政府はClaude Mythos 5を約100社・機関に解放した。AnthropicはAlibabaによる2880万件の不正モデル蒸留を告発した。",
+      "articles": [
+        {
+          "title": "OpenAI、GPT-5.6（Sol・Terra・Luna）を発表―限定公開で約20社に提供開始",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+          "source": "OpenAI",
+          "summary_short": "OpenAIがGPT-5.6を3モデル体制で発表し約20社に限定提供を開始した。",
+          "summary_long": "OpenAIは2026年6月26日にGPT-5.6（Sol・Terra・Luna）を発表し米政府承認の約20社に限定提供を開始した。SolはTerminalBench-2.1で88.8%（ultraモードで91.9%）を記録しClaude Mythos 5の88%を上回った。価格はSolが入力$5・出力$30/100万トークン。数週間以内の一般公開を予定する。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "米政府がAnthropicのClaude Mythos 5を約100社・政府機関に解放―輸出管理制限を部分解除",
+          "url": "https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html",
+          "source": "CNBC",
+          "summary_short": "米政府がClaude Mythos 5を約100社と政府機関への提供を許可した。",
+          "summary_long": "米商務長官ハワード・ルトニック氏は2026年6月26日、適切な保護措置があるとして約100社・政府機関へのClaude Mythos 5提供を許可した。約2週間の停止を経た部分的な解除で、AnthropicはFable 5とMythos 5の輸出制限解除に向けた交渉を継続中だ。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "AnthropicがAlibabaによるClaudeモデル不正抽出を告発―2万5000偽アカウントで2880万件の会話を実施",
+          "url": "https://www.cnbc.com/2026/06/24/anthropic-alibaba-distillation-campaign.html",
+          "source": "CNBC",
+          "summary_short": "AnthropicがAlibabaの2万5000偽アカウントによるモデル蒸留攻撃を告発した。",
+          "summary_long": "Anthropicは2026年6月24日、Alibaba関連事業者が4月22日〜6月5日の間に約2万5000の偽アカウントを使い2880万件の会話で自社最大のモデル蒸留攻撃を行ったとして米政府に書簡を送った。ソフトウェアエンジニアリングとエージェント推論の能力が標的とされた。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Claude API全プランでSonnet・HaikuがOpusと同水準にレート制限を引き上げ",
+          "url": "https://releasebot.io/updates/anthropic",
+          "source": "Releasebot",
+          "summary_short": "Claude APIのSonnet・HaikuのレートがOpus水準に引き上げられた。",
+          "summary_long": "Anthropicは2026年6月26日にClaude APIのレート制限を改定し、Claude SonnetとHaikuのレート制限がOpusと同水準に統合された。利用ティアはStart・Build・Scaleの3段階に整理され、開発者の利便性が向上した。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "Claude Code v2.1.195リリース―フルスクリーンマウス制御と音声入力修正を追加",
+          "url": "https://releasebot.io/updates/anthropic/claude",
+          "source": "Releasebot",
+          "summary_short": "Claude Code v2.1.195がフルスクリーンマウス制御と音声修正を追加した。",
+          "summary_long": "Claude Code v2.1.195が2026年6月27日にリリースされ、フルスクリーンマウス制御・音声入力修正・Linuxでの音声検出改善が追加された。環境変数CLAUDE_CODE_DISABLE_MOUSE_CLICKSでマウス操作を無効化できる機能も追加された。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 62,
+      "trend_history": [68, 65, 68, 65, 65, 65, 62],
+      "summary_short": "NTTドコモが総務省6G研究開発事業に採択され世界初cocoe Earを発売した。",
+      "summary_long": "NTTドコモは総務省の「電波資源拡大のための研究開発」事業に採択され2030年代の6G実現に向けた研究を加速させる。2026年6月18日には世界初のオープンイヤー型集音器「cocoe Ear」を発売し全国47都道府県56店舗で体験展示を開始した。dポイント・d払いの自治体キャンペーンは7月から開始予定だ。",
+      "articles": [
+        {
+          "title": "NTTドコモが総務省「電波資源拡大のための研究開発」に採択―2030年代6G実現へ研究加速",
+          "url": "https://www.docomo.ne.jp/info/news_release/topics/",
+          "source": "NTTドコモ",
+          "summary_short": "NTTドコモが総務省6G研究開発事業に採択され2030年代の6G実現に向けた研究を加速する。",
+          "summary_long": "NTTドコモは2026年6月23日、総務省の「電波資源拡大のための研究開発」事業に採択されたと発表した。2030年代の第6世代移動通信システム（6G）の実現に向けて研究開発を加速させる。5Gの約10倍の高速・大容量化を目指す次世代通信の研究が本格化する。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモ、世界初オープンイヤー型集音器「cocoe Ear」を発売―47都道府県56店舗で体験展示",
+          "url": "https://www.docomo.ne.jp/info/news_release/topics/",
+          "source": "NTTドコモ",
+          "summary_short": "NTTドコモが世界初オープンイヤー型集音器「cocoe Ear」を全国発売した。",
+          "summary_long": "NTTドコモは2026年6月18日に世界初のオープンイヤー型集音器「cocoe Ear」を発売した。全国47都道府県・56店舗のドコモショップで体験展示を開始した。耳をふさがない設計で周囲の音を聞きながら集音機能を活用できる高齢者向け製品だ。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモ、7月開始の「dポイント」「d払い」自治体キャンペーンを公開―石川県珠洲市で産業振興",
+          "url": "https://www.docomo.ne.jp/info/news_release/topics/",
+          "source": "NTTドコモ",
+          "summary_short": "dポイント・d払いの7月開始自治体キャンペーンの詳細が公開された。",
+          "summary_long": "NTTドコモは2026年6月17日にdポイントとd払いを活用した自治体向けキャンペーン情報を公開した。7月から開始予定で、石川県珠洲市での産業振興を支援する「d払いショップスタンプ」が第一弾として6月15日より提供開始済みだ。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 65,
+      "trend_history": [65, 62, 65, 62, 62, 65, 65],
+      "summary_short": "米大統領令でQC-ADDSを創設しMajorana 2パリティ寿命が20秒超に向上した。",
+      "summary_long": "トランプ大統領は2026年6月22日に量子コンピュータ推進の大統領令14413に署名しQC-ADDSプログラムを創設した。MicrosoftはMajorana 2の超伝導材料スタックにリードを採用しパリティ寿命をミリ秒から20秒超に大幅向上させた。PasqalはHPC施設への中性原子型QPU統合を欧州全域で推進している。",
+      "articles": [
+        {
+          "title": "トランプ大統領令（EO14413）でQC-ADDSプログラム創設―米エネルギー省施設への量子コンピュータ配備を指示",
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/06/ushering-in-the-next-frontier-of-quantum-innovation/",
+          "source": "ホワイトハウス",
+          "summary_short": "米大統領令でQC-ADDSを創設、DOE施設への量子コンピュータ配備を指示した。",
+          "summary_long": "トランプ大統領は2026年6月22日に大統領令14413を署名し「量子イノベーションの次なるフロンティア」と題したQC-ADDSプログラムを創設した。米エネルギー省施設への量子コンピュータ整備を指示し、量子研究・開発・実装の加速を国家目標として掲げた。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Microsoft Majorana 2、アルミをリードに変更でパリティ寿命をミリ秒から20秒超に大幅向上",
+          "url": "https://quantumcomputingreport.com/news/",
+          "source": "Quantum Computing Report",
+          "summary_short": "MicrosoftのMajorana 2がリード採用でパリティ寿命をミリ秒から20秒超に伸長した。",
+          "summary_long": "Microsoftは2026年6月、Majorana 2プロセッサの超伝導材料スタックのアルミをリードに置き換えた。量子状態を保護するトポロジカルギャップが2倍超に拡大し、パリティ寿命がミリ秒から20秒超に大幅に向上した。耐雑音量子ビット実現に向けた重要なマイルストーンとなる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Pasqalが中性原子QPUをHPCデータセンターへ統合―欧州全域でオープンソースWarden導入",
+          "url": "https://quantumcomputingreport.com/news/",
+          "source": "Quantum Computing Report",
+          "summary_short": "Pasqalが中性原子型QPUを欧州HPCデータセンターへ統合しWarden OSS基盤を展開した。",
+          "summary_long": "Pasqalは中性原子量子処理ユニット（QPU）を欧州のHPCデータセンターへ統合する計画を発表した。オープンソースのオーケストレーションレイヤーWardenとQuantum Resource Management Interface仕様を採用し、量子・古典混合計算の商用インフラ展開を推進する。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "実用規模の量子コンピューター実現に向けた2つの課題―誤り訂正とスケーリング",
+          "url": "https://www.nikkei.com/article/DGXZQOSG23CD30T20C26A6000000/",
+          "source": "日本経済新聞",
+          "summary_short": "実用規模の量子コンピュータ実現に向けて誤り訂正とスケーリングが主要課題とされた。",
+          "summary_long": "日本経済新聞は2026年6月、実用規模の量子コンピューター実現に向けた主要課題として量子誤り訂正の精度向上と量子ビット数のスケーリングを挙げた。現在の量子コンピューターは誤り率が高く、フォールトトレラント量子コンピューター実現には数百万の物理量子ビットが必要とされる。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 73,
+      "trend_history": [70, 72, 75, 78, 80, 75, 73],
+      "summary_short": "3メガ銀行が円SC共同発行協議会を設置し米GENIUS法が重要期限を迎えた。",
+      "summary_long": "三菱UFJ・三井住友・みずほ3メガバンクは円ステーブルコイン共同発行の協議会を設置し2026年度内の実取引開始を目指す。米GENIUS法は6月9日のFinCEN期限・7月18日の完全施行期限という重要局面を迎えた。PayPay銀行は8月から最大年0.7%相当に引き上げる。",
+      "articles": [
+        {
+          "title": "三菱UFJ・三井住友・みずほの3メガバンク、円ステーブルコイン共同発行に向けた協議会を設置",
+          "url": "https://www.nikkei.com/article/DGXZQOUB0966P0Z00C26A6000000/",
+          "source": "日本経済新聞",
+          "summary_short": "3メガバンクが円ステーブルコイン共同発行の協議会を設置し2026年度内の発行を目指す。",
+          "summary_long": "三菱UFJ銀行・三井住友銀行・みずほ銀行は2026年6月10日に信託型円ステーブルコインの共同発行に向けた協議会の設置を発表した。2026年度内の実取引開始を目標とし、株式・債券の決済への活用も視野に入れる。2025年11月から協議を開始し金融庁の支援のもとで実証実験を継続してきた。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "米GENIUS法6月・7月の重要期限―FinCENコメント期限と7月18日全面施行を確認",
+          "url": "https://en.spaziocrypto.com/stablecoins/genius-act-stablecoin-deadlines-june-july-2026/",
+          "source": "SpazioCrypto",
+          "summary_short": "米GENIUS法が6月9日のFinCEN期限と7月18日の全面施行期限を迎える。",
+          "summary_long": "米上院でのデジタル資産クラリティ法案審議が再開され、2025年7月成立のGENIUS法は6月9日にFinCEN-OFACへのコメント期限、7月18日に完全施行の期限を迎える。CBDCを実質排除した同法はステーブルコイン事業者への明確なライセンス制度を定める。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "日本、改正資金決済法で外国ステーブルコインを「電子決済手段」に正式認定―アジア展開を加速",
+          "url": "https://en.spaziocrypto.com/stablecoins/japan-foreign-stablecoins-yen-on-chain-2026/",
+          "source": "SpazioCrypto",
+          "summary_short": "改正資金決済法施行で外国ステーブルコインが日本で電子決済手段として正式認定された。",
+          "summary_long": "2026年6月1日施行の改正資金決済法により、一定要件を満たす外国の信託受益権型ステーブルコインが日本で電子決済手段として正式認定された。円のオンチェーン展開の支援が目的で、USDCなどの外国ステーブルコイン事業者の国内参入が解禁された。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "PayPay銀行、8月から「ステップアップ円預金」最大年0.7%相当に引き上げ",
+          "url": "https://www.paypay-bank.co.jp/company/press/2026/0617.html",
+          "source": "PayPay銀行",
+          "summary_short": "PayPay銀行が8月から普通預金金利とポイント合算で最大年0.7%相当に引き上げた。",
+          "summary_long": "PayPay銀行は2026年8月1日より「ステップアップ円預金」の最大金利を引き上げると発表した。普通預金金利とPayPayポイントを合算した実質利回りは最大年0.7%相当となる。日銀の利上げ継続を受け、銀行各社が預金金利の引き上げ競争を加速させている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 72,
+      "trend_history": [68, 65, 62, 60, 58, 62, 72],
+      "summary_short": "台風7号・8号接近で土砂崩れ死亡、日経平均3005円安の6万9360円となった。",
+      "summary_long": "台風7号・8号が相次いで日本に接近し気象庁が土砂災害への厳重警戒を呼びかけた。山口県平生町では住宅裏山崩れで高齢男性1人が死亡、3人がけがをした。中国・ロシア空軍が日本海で合同パトロールを実施した。日経平均株価は前日比3005円安の6万9360円と大幅反落した。",
+      "articles": [
+        {
+          "title": "台風7号・8号が相次ぎ日本に接近、気象庁が土砂災害・浸水への厳重警戒を呼びかけ",
+          "url": "https://news.web.nhk/newsweb/na/na-k10015160621000",
+          "source": "NHK",
+          "summary_short": "台風7号・8号が相次ぎ接近し気象庁が土砂災害と浸水への厳重警戒を呼びかけた。",
+          "summary_long": "台風7号（メーカラー）と8号（ヒーゴス）が相次いで日本に接近し、気象庁は梅雨前線と重なって総雨量が多くなるとして土砂災害・浸水・強風への厳重警戒を呼びかけた。6月27日に九州から関東にかけて大雨となり、静岡県・神奈川県でレベル4土砂災害危険情報が発令された。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "山口県平生町で住宅裏山が崩れ高齢男性1人死亡・3人けが―台風接近の大雨が原因",
+          "url": "https://news.web.nhk/newsweb/na/na-k10015162731000",
+          "source": "NHK",
+          "summary_short": "山口県平生町の住宅裏山崩れで高齢男性1人が死亡し3人がけがをした。",
+          "summary_long": "台風接近に伴う大雨の影響で山口県平生町の住宅裏山が崩れ、住人の高齢男性1人が死亡、3人がけがをした。同日、愛媛県西条市でも川でSUP中の2人が流されて死亡した。東海道新幹線は台風の影響で一時運転見合わせとなり、広域での交通障害が発生した。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "中国・ロシア空軍が日本海で合同パトロール実施―6月27日に連携を誇示",
+          "url": "https://news.web.nhk/newsweb/genre/politics",
+          "source": "NHK",
+          "summary_short": "中国とロシアの空軍が日本海などで合同パトロールを実施し連携を誇示した。",
+          "summary_long": "中国軍とロシア軍の空軍が2026年6月27日に日本海などで合同パトロールを実施したと報道された。両国は軍事連携を続けており、日本周辺の安全保障環境への影響が注目される。防衛省は引き続き状況を注視するとしている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "日経平均株価、前日比3005円安の6万9360円で大幅反落―AI株の売り圧力が拡大",
+          "url": "https://online.nikkei-cnbc.co.jp/vod/66266",
+          "source": "日経CNBC",
+          "summary_short": "日経平均が前日比3005円安の6万9360円と大幅反落しAI株が売られた。",
+          "summary_long": "2026年6月26日の東京株式市場で日経平均株価は前日比3005円安の6万9360円で取引を終えた。前日に最高値を更新したが一転して急落した。米ナスダック総合株価指数の5日続落とOpenAIのIPO延期報道を受けたAI投資の採算性への懸念が広がり、半導体・AI関連株が売られた。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "来週（6月29日〜7月3日）の日経平均予想レンジは6万4000〜7万2000円―キオクシア動向に注目",
+          "url": "https://diamond.jp/zai/articles/-/1069301",
+          "source": "ダイヤモンド・オンライン",
+          "summary_short": "来週の日経平均予想レンジは6万4000〜7万2000円でキオクシア動向に注目が集まる。",
+          "summary_long": "証券アナリストは来週（6月29日〜7月3日）の日経平均株価の予想レンジを6万4000〜7万2000円と設定した。AI・半導体株が不安定な中でキオクシア等の動向に注目が集まる。出遅れ銘柄への資金流入の有無が相場の方向性を決める鍵とされている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 85,
+      "NTTドコモ": 62,
+      "量子コンピュータ": 65,
+      "金融決済": 73,
+      "国内・社会": 72
+    },
+    "source_distribution": {
+      "OpenAI": 1,
+      "CNBC": 2,
+      "Releasebot": 2,
+      "NTTドコモ": 3,
+      "ホワイトハウス": 1,
+      "Quantum Computing Report": 2,
+      "日本経済新聞": 2,
+      "SpazioCrypto": 2,
+      "PayPay銀行": 1,
+      "NHK": 3,
+      "日経CNBC": 1,
+      "ダイヤモンド・オンライン": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 9,
+      "4": 8,
+      "5": 4
+    }
+  }
+}
