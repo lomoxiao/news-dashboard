@@ -1,0 +1,349 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T06:30:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "AnthropicはClaude Sonnet 5を公開しFable 5の輸出規制解除によるグローバル再提供が始まった。NTTドコモ・フィナンシャルグループが7月1日付で事業を開始し、d払い・dカードなど金融事業を集約した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicがClaude Sonnet 5を公開し、SWE-bench Pro 63.2%でOpus 4.8（69.2%）に迫るエージェント性能を実現した。Fable 5は輸出規制解除で7月1日からグローバル再提供が開始された。科学者向けAIワークベンチ「Claude Science」もパブリックベータ公開された。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモ・フィナンシャルグループが7月1日付で事業を開始した。dカード・d払い・住信SBIネット銀行（8月にドコモSMTBネット銀行に商号変更予定）など金融事業を集約し、社長にはNTT副社長の広井孝史氏が就任した。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "GoogleはQuantum EchoesアルゴリズムでWillow量子チップが古典スパコン比13,000倍高速を初検証。IQM Quantum ComputersはNasdaqに上場し欧州初の公開取引量子企業となった。IBMはQiskit Paulice（誤り検出自動注入ツール）を公開した。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "3メガバンク円建てステーブルコイン共同発行協議会は2026年度内の実取引開始目標を継続している。日銀6月短観では設備投資意欲が強く、2026年度計画が前年比+6.8%増となった。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "中部電力は浜岡原発の地震データを原子力規制委員会の調査開始後も改ざんしていたことが7月1日に判明し、225件中69件が調査後に書き換えられていた。W杯日本代表はラウンド32でブラジルに1-2で逆転負けし3大会連続ベスト32敗退となった。"
+        }
+      ],
+      "must_read": {
+        "title": "Claude Fable 5・Mythos 5の輸出規制解除 7月1日からグローバル再提供開始",
+        "url": "https://www.watch.impress.co.jp/docs/news/2121360.html",
+        "reason": "6月12日から約3週間にわたり全世界でアクセス停止されていたAnthropicの最高性能モデルが復活し、AI業界全体の利用可能環境が正常化した。Sonnet 5リリースやClaude Scienceと合わせAnthropicが一日で複数の重大アップデートを実施した転換点となる。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "今日はAnthropicの大きな動きが続きましたよ！Fable 5がついにグローバルで使えるようになって、Sonnet 5という新モデルも公開されました。ドコモも金融の新会社を動かし始めましたね！",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicのFable 5が3週間ぶりにグローバルで再び使えるようになりましたよ！米商務省が輸出規制を解除したんです。同日にSonnet 5という新モデルも公開されて、Opus 4.8に迫る性能で全プランで使えます。研究者向けの「Claude Science」も同日パブリックベータで公開されましたね！"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモの金融持株会社「ドコモ・フィナンシャルグループ」がついに7月1日から動き始めましたよ！d払い・dカード・住信SBIネット銀行などがまとめて新会社に移りました。8月にはドコモSMTBネット銀行という名前に変わる予定ですね。社長はNTTの広井副社長が就任しましたよ。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "Googleが量子コンピュータの優位性を初めてちゃんと検証できる形で示しましたよ！Willowチップが古典コンピュータの1万3千倍速で計算できると確認されたんです。それとIQMというフィンランドの企業がNasdaqに上場して欧州初の公開量子企業になりましたね！"
+        },
+        {
+          "theme": "金融決済",
+          "text": "3大銀行（三菱UFJ・みずほ・三井住友）の円デジタルコイン共同プロジェクトは今年度中の実取引開始目標をしっかり続けていますよ。日銀の調査では企業の設備投資意欲が前年比+6.8%増と強く、景気見通しは明るいみたいですね！"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "浜岡原発で中部電力が規制委員会の調査が始まった後もデータ改ざんを続けていたことがわかりました。225件のうち69件が調査後に書き換えられていたそうで、深刻な問題ですね。W杯では日本代表がブラジルに1-2で惜しくも敗れてベスト32で終わりました。佐野選手のゴールは素晴らしかったですね！"
+        }
+      ],
+      "must_read": {
+        "title": "Claude Fable 5・Mythos 5の輸出規制解除 7月1日からグローバル再提供開始",
+        "url": "https://www.watch.impress.co.jp/docs/news/2121360.html",
+        "reason": "3週間近く使えなかったFable 5がついにグローバルで再び使えるようになりましたよ！Sonnet 5やClaude Scienceとまとめて発表されてAnthropicにとって大きな1日でしたね。",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Claude Fable 5輸出規制解除・7/1グローバル再提供開始（トークン制限50%）\n・Claude Sonnet 5公開・SWE-bench Pro 63.2%・全プラン入力$3/出力$15\n・Claude Scienceパブリックベータ・60種DB連携・研究者向けワークベンチ"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・NTTドコモFG 7/1事業開始・d払い・dカード・住信SBI銀を集約\n・住信SBIネット銀行は8月にドコモSMTBネット銀行へ商号変更予定\n・社長：NTT副社長 広井孝史氏・会長：元金融庁長官 栗田照久氏"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・Google Quantum Echoes・Willowで古典スパコン比13,000倍高速を初検証\n・IQM Quantum Computers Nasdaq上場・欧州初公開量子企業\n・IBM Qiskit Paulice公開・量子回路誤り検出ループ自動注入ツール"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・3メガバンク円SC協議会 2026年度内実取引目標を継続\n・日銀6月短観 設備投資2026年度計画+6.8%・景況感改善"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・浜岡原発データ改ざん：規制委調査開始後も69件書き換え・中部電力\n・W杯日本代表 ブラジルに1-2逆転負け・ラウンド32で敗退\n・総務省 全自治体USBメモリ使用状況調査実施（自衛隊USB感染問題受け）"
+        }
+      ],
+      "must_read": {
+        "title": "Claude Fable 5・Mythos 5の輸出規制解除 7月1日からグローバル再提供開始",
+        "url": "https://www.watch.impress.co.jp/docs/news/2121360.html",
+        "reason": "・6月12日から停止していたFable 5がグローバル再提供\n・Sonnet 5・Claude Scienceも同日公開でAnthropicが一日に複数更新",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "AnthropicによるSonnet 5・Fable 5復活・Claude Scienceの同日公開は、輸出規制終結後の地位回復戦略であり、NTTドコモFGの金融持株会社化はAI・通信・金融の三領域を統合する垂直型プラットフォーム戦略の実装フェーズ突入を意味する。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Claude Sonnet 5のSWE-bench Pro 63.2%はOpus 4.8（69.2%）との差4.9ptへ縮小し、プレミアム性能をミドルコストで提供する戦略的価格破壊を意味する。Fable 5のグローバル復活はトークン制限50%付きとの条件は残るが、輸出規制期間に競合他社へ流出したユーザー取り戻しを急務とするAnthropicの迅速な対応を示す。Claude Scienceは科学研究AI市場でGoogle・OpenAIとの三極競争を本格化させる。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモFGの7月1日事業開始は単なる組織再編ではなく、dカード会員数（約3,700万件）・d払い（月次取引1兆円超）・ドコモSMTBネット銀行の三者を一体運営することでデータ・決済・融資を統合したスーパーアプリ化の基盤確立を意味する。元金融庁長官を会長に迎えた布陣は金融規制対応を重視した事業設計を示す。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "Google Quantum EchoesによるWillow量子チップの13,000倍高速化初検証は、これまで「未検証」だった量子優位性の主張に初めて検証可能な形を与え、量子コンピューティング業界の信頼性を高める。IQMのNasdaq上場（欧州初）は量子企業の資本市場アクセスが本格化した証左であり、Quantinuum、IonQ等との上場量子企業競争に欧州勢が参入したことを示す。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "3メガバンク円SC協議会の目標堅持は外国SC参入本格化への対抗策として機能する一方、日銀6月短観の設備投資+6.8%は企業部門の景況感が堅調であることを示す。円安継続（162円台後半）は輸入コスト上昇圧力を維持しており、日銀の次回利上げ判断と円SC実現時期の両方が金融決済市場の重要変数となっている。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "浜岡原発データ改ざんが規制委調査開始後も継続していた事実は、原子力規制の実効性に根本的な疑問を投げかける。225件中69件（約31%）が調査後に書き換えられたことは、組織的な隠蔽行動を示唆し再稼働審査への影響が不可避となった。W杯敗退（ブラジル1-2）は競技成績だが、アディショナルタイムの失点は守備組織の課題を再確認させた。"
+        }
+      ],
+      "must_read": {
+        "title": "Claude Fable 5・Mythos 5の輸出規制解除 7月1日からグローバル再提供開始",
+        "url": "https://www.watch.impress.co.jp/docs/news/2121360.html",
+        "reason": "輸出規制解除はAI産業規制の運用変化を示す先例であり、Sonnet 5・Claude Science同時公開と合わせてAnthropicの市場再奪取戦略の同時実行は競合他社（OpenAI・Google）の対応を加速させる触媒となる。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 95,
+      "trend_history": [78, 82, 78, 82, 88, 86, 86, 95],
+      "summary_short": "Fable 5輸出規制解除・Sonnet 5公開・Claude Scienceベータ開始でAnthropicが一日三更新。",
+      "summary_long": "AnthropicはClaude Fable 5/Mythos 5の輸出規制解除を受け7月1日からグローバル再提供を開始した。同日にClaude Sonnet 5（SWE-bench Pro 63.2%）を全プランで公開し、科学者向けワークベンチ「Claude Science」もパブリックベータとして提供を開始した。三件同日公開はAnthropicにとって規制解除後の地位回復戦略の一環である。",
+      "articles": [
+        {
+          "title": "Claude Fable 5・Mythos 5の輸出規制解除 7月1日からグローバル再提供開始",
+          "url": "https://www.watch.impress.co.jp/docs/news/2121360.html",
+          "source": "Impress Watch",
+          "summary_short": "米商務省がFable 5/Mythos 5の輸出規制を解除し7月1日からFable 5がグローバル再提供。",
+          "summary_long": "米商務省は6月30日にClaude Fable 5とMythos 5への輸出規制を解除した。Anthropicは7月1日からFable 5のグローバルアクセスを復活させた（週次トークン制限を50%に設定）。Mythos 5は引き続き選定された米国組織のみへの提供を継続した。6月12日以来約3週間ぶりのグローバル提供再開となった。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "アンソロピック「Claude Sonnet 5」公開 Opus 4.8に迫る性能",
+          "url": "https://www.watch.impress.co.jp/docs/news/2121365.html",
+          "source": "Impress Watch",
+          "summary_short": "AnthropicがClaude Sonnet 5を公開。SWE-bench Pro 63.2%でOpus 4.8の69.2%に迫る。",
+          "summary_long": "AnthropicはClaude Sonnet 5を7月1日（日本時間）に公開した。最もagentic性能の高いSonnetモデルで、SWE-bench Proスコア63.2%（Opus 4.8は69.2%）を達成した。料金は入力$3/出力$15（8月31日まで$2/$10の導入価格）で全プランで利用可能となった。ネイティブ1Mトークンコンテキストウィンドウをサポートし、Claude Codeのデフォルトモデルに設定された。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "Anthropicが科学者向けAIアプリ「Claude Science」をパブリックベータで公開",
+          "url": "https://gigazine.net/news/20260701-anthropic-claude-science/",
+          "source": "GIGAZINE",
+          "summary_short": "AnthropicがClaude Scienceをパブリックベータで公開。60種以上のDBと連携する研究統合環境。",
+          "summary_long": "AnthropicはClaude Scienceをパブリックベータとして7月1日に公開した。文献調査・解析・図表作成を単一環境に統合し、UniProt・PDB・Ensembl等60種以上のデータベースと接続できる。多層エージェント構造を採用しレビューエージェントが不正引用を検出する。NVIDIA BioNeMoとも連携し、Pro以上のプランで利用可能となった。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 78,
+      "trend_history": [55, 55, 60, 62, 55, 58, 72, 78],
+      "summary_short": "NTTドコモFGが7月1日事業開始。金融事業を集約し社長に広井孝史氏が就任した。",
+      "summary_long": "NTTドコモの金融持株会社「NTTドコモ・フィナンシャルグループ（ドコモFG）」が7月1日付で事業を開始した。dカード・d払い・住信SBIネット銀行など金融事業を集約し、住信SBIネット銀行は8月にドコモSMTBネット銀行へ商号変更予定となっている。社長にNTT副社長の広井孝史氏、会長に元金融庁長官の栗田照久氏が就任した。",
+      "articles": [
+        {
+          "title": "NTTドコモ・フィナンシャルグループ設立、ドコモの金融事業を集約",
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/2097906.html",
+          "source": "ケータイ Watch",
+          "summary_short": "NTTドコモFGが7月1日事業開始。dカード・d払い・住信SBI銀等の金融事業を集約。",
+          "summary_long": "NTTドコモの完全子会社「NTTドコモ・フィナンシャルグループ」が7月1日付で事業を開始した。ドコモが展開するdカード・d払いのほか、住信SBIネット銀行やマネックス証券など金融関連事業を吸収分割により承継し、金融事業の持株会社として一体運営を開始した。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモ・フィナンシャルグループの経営体制 社長・広井孝史氏 会長・栗田照久氏",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/05/08_02.html",
+          "source": "NTTドコモ",
+          "summary_short": "ドコモFG社長にNTT副社長の広井孝史氏、会長に元金融庁長官の栗田照久氏が就任した。",
+          "summary_long": "NTTドコモ・フィナンシャルグループの経営体制として、社長にはNTT副社長の広井孝史氏、会長には元金融庁長官でNTTドコモ顧問の栗田照久氏が就任した。住信SBIネット銀行は事業開始後の8月にドコモSMTBネット銀行へ商号変更を予定しており、ドコモグループの金融基盤強化を図る体制が整った。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "金融・決済サービスの運営会社変更に伴うiDサービス規約改定のお知らせ",
+          "url": "https://www.docomo.ne.jp/info/notice/page/260508_00.html",
+          "source": "NTTドコモ",
+          "summary_short": "ドコモFG事業開始に伴いd払い・dカード・iDなどの運営会社が7月1日付で変更された。",
+          "summary_long": "NTTドコモ・フィナンシャルグループの事業開始に伴い、d払い・dカード・電子マネー「iD」などの金融・決済サービスの運営会社が2026年7月1日付でNTTドコモからNTTドコモFGへ変更された。利用者への影響はないが、各サービスの規約改定および会員規約の同意手続きが必要となった。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": ["https://www.nikkei.com/article/DGXZQOUB0966P0Z00C26A6000000/"]
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 68,
+      "trend_history": [62, 65, 62, 65, 62, 60, 60, 68],
+      "summary_short": "GoogleがWillow量子チップの優位性を初検証し、IQMがNasdaq上場で欧州初の公開量子企業に。",
+      "summary_long": "GoogleはQuantum EchoesアルゴリズムによりWillow量子チップが古典スパコン比13,000倍高速で動作することを検証可能な形で初めて示した。IQM Quantum ComputersがNasdaqに上場し欧州初の公開取引量子企業となった。IBMはQiskit Pauliceをオープンソースで公開し量子回路への誤り検出ループ自動注入を実現した。",
+      "articles": [
+        {
+          "title": "Google、Quantum Echoesアルゴリズムでウィロー量子チップの優位性を初検証―古典比1.3万倍高速",
+          "url": "https://technologymagazine.com/news/google-ibm-new-age-of-quantum-computing-is-about-to-begin",
+          "source": "Technology Magazine",
+          "summary_short": "GoogleがQuantum EchoesでWillowの量子優位性を初検証。古典スパコン比13,000倍高速。",
+          "summary_long": "GoogleはQuantum EchoesアルゴリズムによりOut-of-order時間相関子アルゴリズムの計算において、Willow量子チップが古典スパコン比13,000倍高速で動作することを初めて検証可能な形で示した。これまで定量的に検証困難だった量子優位性の主張に実証的根拠を与えた成果として注目される。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "IQM Quantum ComputersがNasdaqに上場―欧州初の公開取引量子コンピューティング企業に",
+          "url": "https://quantumcomputingreport.com/news/",
+          "source": "Quantum Computing Report",
+          "summary_short": "IQM Quantum ComputersがNasdaqに上場し欧州初の公開取引量子企業となった。",
+          "summary_long": "フィンランドのIQM Quantum ComputersがNasdaqに上場し、欧州初の公開取引量子コンピューティング企業となった。既に上場しているIonQ（米）・D-Wave（米）などに欧州勢が参入した形で、量子企業の資本市場アクセスが国際的に広がりを見せた。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "IBM、量子回路への誤り検出ループ自動注入ツール「Qiskit Paulice」をオープンソースで公開",
+          "url": "https://quantumcomputingreport.com/news/",
+          "source": "Quantum Computing Report",
+          "summary_short": "IBMが量子回路の誤り検出ループを自動注入するオープンソースツールQiskit Pauliceを公開。",
+          "summary_long": "IBMは6月29日にQiskit Pauliceを公開した。量子回路への誤り検出ループを自動的に識別・注入するオープンソースのアドオンで、ハードウェア効率の高いエラー検出の実装を容易にする。量子誤り訂正に向けた取り組みを加速するツールとして提供された。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 65,
+      "trend_history": [68, 62, 65, 62, 68, 65, 70, 65],
+      "summary_short": "3メガ円SC協議会が2026年度内目標を継続し、日銀短観で設備投資意欲が+6.8%と強い結果。",
+      "summary_long": "三菱UFJ・みずほ・三井住友の3メガバンクが設立した円建てステーブルコイン共同発行協議会は2026年度内実取引開始目標を継続している。日銀6月短観では設備投資計画が前年比+6.8%増と堅調で、ドル円が162円台の円安継続下でも企業景況感は底堅い。",
+      "articles": [
+        {
+          "title": "3メガバンク、26年度中にステーブルコイン共同発行へ 協議会を設置",
+          "url": "https://www.nikkei.com/article/DGXZQOUB0966P0Z00C26A6000000/",
+          "source": "日本経済新聞",
+          "summary_short": "3メガバンクが円SC共同発行協議会を設置し2026年度中の実取引開始を目指している。",
+          "summary_long": "三菱UFJ・みずほ・三井住友の3メガバンクは6月に円建てステーブルコイン共同発行の実取引開始を目指す協議会を設置した。発行基盤構築の可能性や制度設計・スキーム・ガバナンスを検討し、2026年度内（2027年3月まで）の実取引開始を目標としている。金融庁も支援対象に採択している。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "日銀6月短観 設備投資計画が前年比+6.8%増 大企業製造業の景況感も改善",
+          "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+          "source": "日本銀行",
+          "summary_short": "日銀6月短観で設備投資2026年度計画が前年比+6.8%増。大企業景況感も改善した。",
+          "summary_long": "日本銀行が発表した2026年6月の全国企業短期経済観測調査（短観）によると、設備投資計画が2026年度で前年比+6.8%増と堅調な結果となった。大企業製造業の業況判断DIも改善しており、円安継続下でも輸出関連企業の収益期待が底堅いことが示された。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "3メガバンク共同「信託型」ステーブルコイン 26年度中に実取引へ",
+          "url": "https://www.watch.impress.co.jp/docs/news/2116013.html",
+          "source": "Impress Watch",
+          "summary_short": "3メガバンクが信託型SCとして国内で円SCを共同発行し2026年度中に実取引を開始する計画。",
+          "summary_long": "3メガバンクは信託型ステーブルコインとして円建てのSCを共同発行する計画を進めている。三菱UFJ信託銀行が3メガから預かった資金をもとにSCを発行し、プログマの基盤システムを活用する。三菱商事が日本拠点と海外拠点間の越境決済に利用することが当初の用途として検討されている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": ["https://k-tai.watch.impress.co.jp/docs/news/2097906.html"]
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 62,
+      "trend_history": [72, 65, 70, 72, 75, 78, 80, 62],
+      "summary_short": "浜岡原発で中部電力が規制委調査後も地震データを改ざん。W杯日本はブラジルに1-2敗退。",
+      "summary_long": "原子力規制委員会の調査開始後も中部電力が浜岡原発の地震データを改ざんし続けていたことが7月1日に判明した。225件中69件が調査後に書き換えられており、規制監督の実効性に疑問が生じた。W杯日本代表はラウンド32でブラジルに1-2で逆転負けし3大会連続ベスト32止まりとなった。",
+      "articles": [
+        {
+          "title": "浜岡原発データ不正 中部電力が規制委の調査開始後もデータ操作を継続",
+          "url": "https://news.web.nhk/newsweb/na/na-k10015166151000",
+          "source": "NHK",
+          "summary_short": "中部電力が規制委調査開始後も浜岡原発の地震データを改ざんし225件中69件が書き換えられた。",
+          "summary_long": "原子力規制委員会は7月1日、中部電力が浜岡原発の地震データを規制委の調査開始後も改ざんしていたと発表した。調査対象の225件のうち69件が調査開始後に書き換えられており、後から正しい統計手法で選択したように見せかけていたことが確認された。中部電力は「深く反省し誠実にお詫び申し上げる」と声明を出した。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "サッカー日本、ブラジルに1-2で敗れる 決勝T1回戦突破ならず",
+          "url": "https://www.nikkei.com/article/DGXZQODH291IW0Z20C26A6000000/",
+          "source": "日本経済新聞",
+          "summary_short": "W杯日本代表がラウンド32でブラジルに1-2で逆転負けし3大会連続ベスト32で敗退した。",
+          "summary_long": "FIFAワールドカップ2026決勝トーナメント1回戦（ラウンド32）で日本代表はブラジル代表と対戦し1-2で敗れた。前半29分にMF佐野海舟のゴールで先制したが後半にカゼミーロの同点弾、アディショナルタイムにマルティネッリの逆転弾を許した。3大会連続でラウンド32止まりとなった。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "総務省 全自治体USB調査 自衛隊のウイルス感染USB問題受け一斉実施",
+          "url": "https://news.web.nhk/newsweb",
+          "source": "NHK",
+          "summary_short": "総務省が自衛隊USB感染問題を受け全自治体を対象にUSBメモリ使用状況を一斉調査。",
+          "summary_long": "総務省は7月上旬、自衛隊でウイルス感染したUSBメモリが使用されていた問題を受け、全国の自治体を対象にUSBメモリの使用状況に関する一斉調査を実施した。地方自治体のサイバーセキュリティリスク点検を目的とするもので、使用状況や管理体制の確認を求めている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 95,
+      "NTTドコモ": 78,
+      "量子コンピュータ": 68,
+      "金融決済": 65,
+      "国内・社会": 62
+    },
+    "source_distribution": {
+      "Impress Watch": 3,
+      "GIGAZINE": 1,
+      "ケータイ Watch": 1,
+      "NTTドコモ": 2,
+      "Technology Magazine": 1,
+      "Quantum Computing Report": 2,
+      "日本経済新聞": 2,
+      "日本銀行": 1,
+      "NHK": 2
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 6,
+      "4": 5,
+      "5": 4
+    }
+  }
+}

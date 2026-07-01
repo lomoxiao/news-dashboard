@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-30T06:30:00+09:00",
+  "last_updated": "2026-07-02T06:30:00+09:00",
   "reports": [
+    {
+      "date": "2026-07-02",
+      "headline": "Claude Fable 5輸出規制解除グローバル復活・Sonnet 5公開SWE-bench 63.2%・Claude Scienceベータ・NTTドコモFG事業開始金融集約・Google Quantum Echoes古典比1.3万倍・IQM Nasdaq上場欧州初・浜岡原発調査後改ざん69件・W杯日本ブラジル1-2敗退"
+    },
+    {
+      "date": "2026-07-01",
+      "headline": "食料品2566品目7月1日一斉値上げ・山崎製パン等・NTTドコモエージェンティックAIプラットフォーム部新設・3メガ円SC堅持・GPT-5.6 Sol Cerebras高速API・Claude企業コーディング42%・日経7万62円反発・パスポート申請料引き下げ"
+    },
     {
       "date": "2026-06-30",
       "headline": "Claude Azure Foundry一般公開・GPT-5.6米政府指示で限定公開継続・3メガ銀円SC協議会2026年度内発行目標堅持・IBM Kookaburra年内公開予定・日本W杯ラウンド32ブラジル戦・日経6万9468円反発"
@@ -311,7 +319,7 @@
     {
       "name": "NTTドコモ",
       "url": "https://www.docomo.ne.jp",
-      "count": 60
+      "count": 62
     },
     {
       "name": "NTTドコモビジネス",
@@ -326,7 +334,7 @@
     {
       "name": "日本銀行",
       "url": "https://www.boj.or.jp",
-      "count": 1
+      "count": 2
     },
     {
       "name": "首相官邸",
@@ -336,7 +344,7 @@
     {
       "name": "日本経済新聞",
       "url": "https://www.nikkei.com",
-      "count": 69
+      "count": 71
     },
     {
       "name": "NVIDIA",
@@ -481,7 +489,7 @@
     {
       "name": "ケータイ Watch",
       "url": "https://k-tai.watch.impress.co.jp",
-      "count": 9
+      "count": 10
     },
     {
       "name": "NTTデータグループ",
@@ -551,7 +559,7 @@
     {
       "name": "NHK",
       "url": "https://news.web.nhk.newsweb",
-      "count": 35
+      "count": 37
     },
     {
       "name": "PR TIMES",
@@ -871,7 +879,7 @@
     {
       "name": "GIGAZINE",
       "url": "https://gigazine.net",
-      "count": 3
+      "count": 4
     },
     {
       "name": "KSI政策ニュース",
@@ -1031,7 +1039,7 @@
     {
       "name": "Impress Watch",
       "url": "https://www.watch.impress.co.jp",
-      "count": 2
+      "count": 5
     },
     {
       "name": "統計局",
@@ -1106,7 +1114,7 @@
     {
       "name": "Quantum Computing Report",
       "url": "https://quantumcomputingreport.com",
-      "count": 9
+      "count": 11
     },
     {
       "name": "CRYPTO TIMES",
@@ -1351,6 +1359,11 @@
     {
       "name": "三菱UFJフィナンシャル・グループ",
       "url": "https://www.mufg.jp",
+      "count": 1
+    },
+    {
+      "name": "Technology Magazine",
+      "url": "https://technologymagazine.com",
       "count": 1
     }
   ],
