@@ -1,6 +1,10 @@
 {
-  "last_updated": "2026-07-02T06:30:00+09:00",
+  "last_updated": "2026-07-03T06:30:00+09:00",
   "reports": [
+    {
+      "date": "2026-07-03",
+      "headline": "Claude Sonnet 5公開SWE-bench Pro 63.2%・Fable 5全世界復活・ドコモFG金融事業7/1承継・MS PQC2029年前倒し・3メガ銀円SC協議継続"
+    },
     {
       "date": "2026-07-02",
       "headline": "Claude Fable 5輸出規制解除グローバル復活・Sonnet 5公開SWE-bench 63.2%・Claude Scienceベータ・NTTドコモFG事業開始金融集約・Google Quantum Echoes古典比1.3万倍・IQM Nasdaq上場欧州初・浜岡原発調査後改ざん69件・W杯日本ブラジル1-2敗退"
@@ -299,7 +303,7 @@
     {
       "name": "Anthropic",
       "url": "https://www.anthropic.com",
-      "count": 23
+      "count": 27
     },
     {
       "name": "SAP",
@@ -319,7 +323,7 @@
     {
       "name": "NTTドコモ",
       "url": "https://www.docomo.ne.jp",
-      "count": 62
+      "count": 63
     },
     {
       "name": "NTTドコモビジネス",
@@ -344,7 +348,7 @@
     {
       "name": "日本経済新聞",
       "url": "https://www.nikkei.com",
-      "count": 71
+      "count": 75
     },
     {
       "name": "NVIDIA",
@@ -359,7 +363,7 @@
     {
       "name": "時事通信",
       "url": "https://www.jiji.com",
-      "count": 9
+      "count": 10
     },
     {
       "name": "IMF",
@@ -399,7 +403,7 @@
     {
       "name": "ビジネスIT",
       "url": "https://www.sbbit.jp",
-      "count": 10
+      "count": 11
     },
     {
       "name": "野村証券",
@@ -489,7 +493,7 @@
     {
       "name": "ケータイ Watch",
       "url": "https://k-tai.watch.impress.co.jp",
-      "count": 10
+      "count": 11
     },
     {
       "name": "NTTデータグループ",
@@ -659,7 +663,7 @@
     {
       "name": "jetstream.blog",
       "url": "https://jetstream.blog",
-      "count": 2
+      "count": 3
     },
     {
       "name": "Lemino",
@@ -754,7 +758,7 @@
     {
       "name": "LLM Stats",
       "url": "https://llm-stats.com",
-      "count": 4
+      "count": 5
     },
     {
       "name": "富士通広報note",
@@ -1114,7 +1118,7 @@
     {
       "name": "Quantum Computing Report",
       "url": "https://quantumcomputingreport.com",
-      "count": 11
+      "count": 15
     },
     {
       "name": "CRYPTO TIMES",

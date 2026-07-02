@@ -1,0 +1,376 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T06:30:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "Claude Sonnet 5がSWE-bench Pro 63.2%を達成し一般公開、NTTドコモFGが金融事業を正式承継、MicrosoftはPQC実装を2029年に4年前倒しした。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Anthropicが6月30日にClaude Sonnet 5を公開した。SWE-bench Pro 63.2%・OSWorld 81.2%を達成し、導入価格は入力100万トークン当たり2ドル（8月末まで）。Fable 5は輸出規制解除を受け7月1日から全世界で再公開された。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモは2026年7月1日、完全子会社「NTTドコモ・フィナンシャルグループ（FG）」に金融・決済事業を正式承継した。d払い・dカード・dポイント等を集約し、住信SBIネット銀行など4社の株式も移管された。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "Microsoftは耐量子暗号（PQC）実装目標を2033年から2029年に4年前倒しした。韓国は量子・AI・半導体等の戦略分野に2030年までに200兆ウォン（約128億ドル）の投資計画を発表した。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "三菱UFJ・三井住友・みずほ3メガバンクによる円建てステーブルコイン共同発行の協議が継続中で2026年度内の実用化を目指している。野村ホールディングスと大和証券グループも証券即時決済実証に参加している。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "日経平均は7月2日終値70,671円と高水準を維持。USD/JPYは162円台半ばで円安基調が継続。囲碁の本因坊戦で福岡七段が55年ぶりに最年少本因坊位を獲得した。"
+        }
+      ],
+      "must_read": {
+        "title": "Claude Sonnet 5公開 - SWE-bench Pro 63.2%達成",
+        "url": "https://www.anthropic.com/news/claude-sonnet-5",
+        "reason": "複数の業界標準ベンチマークで最高水準を記録し、エージェントAI採用の基準となる性能指標を更新した。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "今週もAI界が盛り上がっていますよ！ClaudeのSonnet 5が登場して、コーディング性能がぐっと上がったみたいですね。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Anthropicが新しいClaude Sonnet 5を公開しましたよ！コーディングやエージェント作業に強くて、SWE-bench Proで63.2%という数字を叩き出したみたいです。Fable 5も輸出規制が解けて7月1日から世界中で使えるようになりましたね。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモの金融サービスが7月1日から新会社「NTTドコモFG」に移ったんですよ。d払いやdカードは引き続き使えますが、運営会社が変わったみたいですね。利用者への手続きは不要とのことです。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "Microsoftが量子暗号への備えを急いでいますよ。もともと2033年の予定だったPQC実装を、2029年に4年も前倒ししたんです。韓国も量子・AI分野に128億ドル規模の投資計画を発表していますね。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "3メガバンクの円ステーブルコイン計画が着々と進んでいます。今年度中の実用化を目指しているみたいですよ。証券決済との連携実証も並行して動いていますね。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "日経平均は7月2日の終値が70,671円で、引き続き高水準を維持していますね。円は162円台の円安が続いている状況です。囲碁界では福岡七段が55年ぶり最年少本因坊を獲得したみたいですよ！"
+        }
+      ],
+      "must_read": {
+        "title": "Claude Sonnet 5公開 - SWE-bench Pro 63.2%達成",
+        "url": "https://www.anthropic.com/news/claude-sonnet-5",
+        "reason": "最新のSonnet 5は今まで以上にコーディングやエージェント作業が得意で、お値段据え置きなんです！AIを業務活用している方には要チェックですよ。",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Claude Sonnet 5公開 SWE-bench Pro 63.2%\n・Fable 5が7月1日から全世界再公開\n・Claude Science科学者向けワークベンチ公開"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・NTTドコモFG 7/1より金融事業正式承継\n・d払い・dカード運営会社移管（手続き不要）\n・AIエージェント「シンクミー」夏提供予定"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・Microsoft PQC実装2029年に前倒し（従来2033年）\n・韓国 量子等戦略分野に200兆ウォン投資計画\n・Q*Bird Falqon量子鍵管理製品公開"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・3メガ銀円SC 2026年度内発行継続協議\n・野村・大和 証券即時決済実証に参加"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・日経平均70,671円（7/2終値）\n・USD/JPY 162円台半ば\n・囲碁本因坊 福岡七段が55年ぶり最年少獲得"
+        }
+      ],
+      "must_read": {
+        "title": "Claude Sonnet 5公開 - SWE-bench Pro 63.2%達成",
+        "url": "https://www.anthropic.com/news/claude-sonnet-5",
+        "reason": "AI開発・業務活用の最前線で注目度が高い。",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "Claude Sonnet 5の公開でAnthropicはエージェントAI市場の標準ベンチマークをリードし、NTTドコモFG発足は国内決済デジタル化の構造変化を示す。量子安全への移行が欧米主要企業で加速している。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Claude Sonnet 5はSWE-bench Pro 63.2%・OSWorld 81.2%を記録し、Sonnet 4.6比でコーディング性能が大幅改善された。導入コストは$2/Mtok（8月末まで）と設定されており、企業のAIエージェント採用コスト障壁が低下した。Fable 5の全世界再公開で輸出規制による空白期間が終了した。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモFGへの金融事業承継は、通信と金融を分離して専門経営体制を確立する戦略の実現形である。d払い・dカード・dポイント・住信SBIネット銀行などを一元化し、金融分野での意思決定の迅速化が期待される。今後はFGシナジーの評価が市場の焦点となる。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "MicrosoftのPQC前倒し（2033年→2029年）は「Harvest Now, Decrypt Later」攻撃リスクへの実務的対応であり、NIST標準化（ML-KEM・ML-DSA）の企業普及を加速させる要因となる。韓国の200兆ウォン投資は量子・AI・半導体の国家安全保障との連動を明確にしている。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "3メガバンクの円SC共同発行は規格統一による採用コスト低減が主な意義であり、金融庁の後押しで乱立を回避する設計となっている。野村・大和の証券即時決済実証との連携により、SC用途が一般決済から資本市場インフラへ拡張している点が中長期的に重要である。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "日経平均70,671円（7月2日終値）はFable 5再公開・AI関連銘柄への期待を反映している。USD/JPYは162円台を維持しており、日米金利差を背景にした円安基調が続いている。"
+        }
+      ],
+      "must_read": {
+        "title": "Claude Sonnet 5公開 - SWE-bench Pro 63.2%達成",
+        "url": "https://www.anthropic.com/news/claude-sonnet-5",
+        "reason": "AIエージェントのコスト・性能トレードオフの基準点が更新され、エンタープライズ採用の意思決定に直接影響する指標が示された。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 96,
+      "trend_history": [95, 96],
+      "summary_short": "Sonnet 5公開・Fable 5再開・Claude Science登場",
+      "summary_long": "Anthropicが6月30日にClaude Sonnet 5（SWE-bench Pro 63.2%）とClaude Scienceを同日公開。Fable 5は輸出規制解除を受け7月1日から全世界再公開。ByteDanceはSeed 2.1 Pro/Turboを発表した。",
+      "articles": [
+        {
+          "title": "Claude Sonnet 5公開 - SWE-bench Pro 63.2%達成",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "source": "Anthropic",
+          "summary_short": "Sonnet 5がSWE-bench Pro 63.2%で一般公開",
+          "summary_long": "AnthropicはClaude Sonnet 5を6月30日に公開した。SWE-bench Pro 63.2%・OSWorld 81.2%・Terminal-Bench 2.1 80.4%を記録。入力100万トークン当たり2ドルの導入価格で提供（8月末まで）。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "Fable 5が輸出規制解除で全世界再公開（7月1日）",
+          "url": "https://www.anthropic.com/news/redeploying-fable-5",
+          "source": "Anthropic",
+          "summary_short": "Fable 5が7月1日から全世界で再利用可能に",
+          "summary_long": "AnthropicはFable 5とMythos 5への米政府輸出管理規制が解除されたと発表。7月1日からClaude Platform・Claude.ai・Claude Code・Claude Coworkで全世界再公開された。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "Claude Science公開 - 科学者向けAIワークベンチ",
+          "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+          "source": "Anthropic",
+          "summary_short": "科学研究向けAIベンチ公開、3万ドル支援も",
+          "summary_long": "AnthropicはClaude Scienceを公開した。科学者が最もよく使うツール・パッケージを統合し、監査可能な成果物を生成するAIワークベンチ。1プロジェクト最大3万ドルのクレジットを7月15日まで申請受付。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Anthropic・Google・Broadcom 次世代GW規模計算インフラ提携",
+          "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+          "source": "Anthropic",
+          "summary_short": "AnthropicがGW規模の次世代計算基盤を確保",
+          "summary_long": "AnthropicはGoogleおよびBroadcomとの提携を拡大し、複数ギガワット規模の次世代計算インフラを確保した。AI開発・推論に必要な大規模計算基盤の強化が目的。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "ByteDance Seed 2.1 Pro/Turbo公開",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats",
+          "summary_short": "ByteDanceがSeed 2.1 Pro/Turboを公開",
+          "summary_long": "ByteDanceは6月24日にSeed 2.1 ProおよびSeed 2.1 Turboを公開した。Proはハイエンド、TurboはFast（高速）ティアの独自モデルとして提供される。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 80,
+      "trend_history": [78, 80],
+      "summary_short": "ドコモFG 7月1日より金融事業正式承継",
+      "summary_long": "NTTドコモは2026年7月1日、完全子会社NTTドコモ・フィナンシャルグループにd払い・dカード等の金融・決済事業を正式承継した。住信SBIネット銀行など4社の株式も移管。夏にはAIエージェントも提供予定。",
+      "articles": [
+        {
+          "title": "NTTドコモFG 2026年7月1日より金融事業を正式承継",
+          "url": "https://www.docomo.ne.jp/info/news_release/2026/03/31_00.html",
+          "source": "NTTドコモ",
+          "summary_short": "ドコモFG 7/1発足で金融事業集約完了",
+          "summary_long": "NTTドコモ・フィナンシャルグループが2026年7月1日より事業を開始。d払い・dカード・dポイントなど金融・決済サービスを承継。住信SBIネット銀行・ドコモ・インシュアランス等4社の株式も移管された。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "iD・dカードがドコモFGに承継（2026年7月1日）",
+          "url": "https://jetstream.blog/2026/05/08/docomo-id-dcard-transfer-docomo-fg-20260701/",
+          "source": "jetstream.blog",
+          "summary_short": "iD・dカードがドコモFG運営に移行",
+          "summary_long": "2026年7月1日付けでiD・dカードの運営がNTTドコモからNTTドコモFGに移管された。利用者への手続きは不要だが、通知元がドコモFGに変更される。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "ドコモ キャラ型AI相棒「シンクミー」夏提供へ",
+          "url": "https://www.nikkei.com/article/DGXZQOUC074J70X00C26A5000000/",
+          "source": "日本経済新聞",
+          "summary_short": "dアカウント連携AIエージェント夏公開予定",
+          "summary_long": "NTTドコモは個人向けAIエージェント「シンクミー」を2026年夏に提供開始する予定。dアカウントにひもづいた行動履歴・位置情報を活用し、個人に合わせた提案を行う。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": ["https://paymentnavi.com/paymentnews/172684.html"]
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 72,
+      "trend_history": [70, 72],
+      "summary_short": "MS PQC実装2029年前倒し・韓国200兆W投資",
+      "summary_long": "MicrosoftがPQC（耐量子暗号）実装を2029年に4年前倒しした。韓国政府は量子・AI・半導体等の戦略分野に2030年までに200兆ウォンの投資計画を発表。QKD分野でも新製品が登場した。",
+      "articles": [
+        {
+          "title": "Microsoft 耐量子暗号実装を2029年に前倒し",
+          "url": "https://quantumcomputingreport.com/news/",
+          "source": "Quantum Computing Report",
+          "summary_short": "MS PQC実装計画を2033年から2029年に変更",
+          "summary_long": "Microsoftは耐量子暗号（PQC）実装の目標年を2033年から2029年に4年前倒した。「今すぐ収集・後で解読」攻撃リスクと規制強化が背景。NIST標準（ML-KEM・ML-DSA）の早期採用を進める。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "韓国 量子・AI等戦略分野に200兆ウォン投資計画",
+          "url": "https://quantumcomputingreport.com/news/",
+          "source": "Quantum Computing Report",
+          "summary_short": "韓国科学省が量子等に128億ドル相当投資を表明",
+          "summary_long": "韓国科学技術情報通信部は2030年までにAI・半導体・量子技術等の戦略分野に200兆ウォン（約128億ドル相当）の投資計画を発表した。第6次基本計画として量子技術の国際競争力強化を目指す。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Q*Bird Falqon Key Manager QKD・PQC統合管理製品を公開",
+          "url": "https://quantumcomputingreport.com/news/",
+          "source": "Quantum Computing Report",
+          "summary_short": "QKD・PQC・PKI統合の量子鍵管理製品公開",
+          "summary_long": "Q*Birdは量子鍵配送（QKD）・耐量子暗号（PQC）・古典PKIを統合した鍵管理システム「Falqon Key Manager」を7月1日に公開した。量子セキュリティへの移行期における実用製品として提供される。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "WiMi 機械学習による双子フィールドQKDパラメータ最適化研究",
+          "url": "https://quantumcomputingreport.com/news/",
+          "source": "Quantum Computing Report",
+          "summary_short": "機械学習でQKD設定を最適化する研究を発表",
+          "summary_long": "WiMi Hologram CloudはBPNN・RBFNN・GRNNを用いた量子鍵配送（Twin-Field QKD）のパラメータ最適化研究を発表した。従来手法比で計算コストを大幅削減できるとしている。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 65,
+      "trend_history": [65, 65],
+      "summary_short": "3メガ銀円SC 2026年度内発行協議継続",
+      "summary_long": "三菱UFJ・三井住友・みずほ3メガバンクによる円建てステーブルコイン共同発行に向けた協議が継続中で、2026年度内の発行を目指している。野村・大和証券グループとの証券即時決済実証も並行して進む。",
+      "articles": [
+        {
+          "title": "3メガバンク 2026年度中に円建てSC共同発行へ協議会設置",
+          "url": "https://www.nikkei.com/article/DGXZQOUB0966P0Z00C26A6000000/",
+          "source": "日本経済新聞",
+          "summary_short": "3メガ銀 円SC今年度内共同発行の方針継続",
+          "summary_long": "三菱UFJ銀行・三井住友銀行・みずほ銀行は2026年度中に円建てステーブルコイン（SC）を共同発行する方針。統一規格のSC発行を目指し協議会を設置。乱立回避のため金融庁が支援する。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "野村HD・大和証券G、3メガ銀と連携したSCによる証券即時決済実証",
+          "url": "https://www.sbbit.jp/article/fj/180639",
+          "source": "ビジネスIT",
+          "summary_short": "SC活用の証券即時決済実証を野村・大和が参加",
+          "summary_long": "野村ホールディングスと大和証券グループは3メガバンクと連携し、ステーブルコインを活用した証券取引の即時決済実証実験を進めている。SC用途を決済から証券決済インフラへ拡張する取り組み。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモFG発足でd払い・dカードの決済事業承継完了",
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/2097906.html",
+          "source": "ケータイ Watch",
+          "summary_short": "ドコモFGへの金融決済事業承継が完了",
+          "summary_long": "NTTドコモ・フィナンシャルグループが7月1日より事業開始し、d払い・dカードを含む金融決済事業の承継が完了した。iD電子マネーの運営会社もドコモFGに変更された。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": ["https://www.docomo.ne.jp/info/news_release/2026/03/31_00.html"]
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 55,
+      "trend_history": [55, 55],
+      "summary_short": "日経平均70,671円・USD/JPY 162円台継続",
+      "summary_long": "日経平均は7月2日終値70,671円と高水準を維持。USD/JPYは162円台半ばで円安基調が継続中。囲碁の本因坊戦で福岡七段が55年ぶりに最年少本因坊位を獲得した。",
+      "articles": [
+        {
+          "title": "日経平均 7月2日終値70,671円",
+          "url": "https://www.nikkei.com/",
+          "source": "日本経済新聞",
+          "summary_short": "日経平均70,671円 AI関連銘柄が相場を牽引",
+          "summary_long": "7月2日の日経平均終値は70,671円と前日比上昇した。Fable 5再公開・Claude Sonnet 5公開等を受けてAI関連銘柄への期待が株式市場に反映された。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "USD/JPY 162円台半ばの円安基調継続",
+          "url": "https://www.nikkei.com/markets/worldidx/chart/usdjpy/",
+          "source": "日本経済新聞",
+          "summary_short": "USD/JPY 162円台半ばで円安基調が継続",
+          "summary_long": "7月初旬のUSD/JPYは162円台半ばで推移しており、7月1日終値は162.62円だった。日米金利差を背景にした円安基調が継続しており、介入警戒感も残る。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "囲碁本因坊戦 福岡七段が55年ぶり最年少本因坊を獲得",
+          "url": "https://www.jiji.com/jc/archives?g=soc_archive_0",
+          "source": "時事通信",
+          "summary_short": "福岡七段が囲碁本因坊位を55年ぶり最年少で獲得",
+          "summary_long": "囲碁の本因坊戦で福岡七段が55年ぶりに最年少本因坊位を獲得した。近年の若手棋士の活躍が続いており、国内囲碁界での世代交代を示す出来事となった。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 96,
+      "NTTドコモ": 80,
+      "量子コンピュータ": 72,
+      "金融決済": 65,
+      "国内・社会": 55
+    },
+    "source_distribution": {
+      "Anthropic": 4,
+      "日本経済新聞": 4,
+      "Quantum Computing Report": 4,
+      "NTTドコモ": 1,
+      "ケータイ Watch": 1,
+      "jetstream.blog": 1,
+      "LLM Stats": 1,
+      "ビジネスIT": 1,
+      "時事通信": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 9,
+      "4": 7,
+      "5": 3
+    }
+  }
+}
