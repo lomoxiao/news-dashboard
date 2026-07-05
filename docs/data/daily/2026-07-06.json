@@ -1,0 +1,352 @@
+{
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T06:00:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "AnthropicのARRが約$45Bに達しOpenAIを抜いてAI収益首位となった。令和8年路線価は全国平均2.9%上昇で5年連続かつ2010年以降最大の上昇率を記録した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicのARRが約$45Bに達し、OpenAIの約$33Bを上回った。Claude Fable 5は輸出規制解除で7月1日にグローバル再提供を開始。Claude Scienceは科学研究向け公開ベータとして稼働中で、Gemini 3.5 Proの7月GA確定も確認された。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "SyncMeのモニター参加者への7月以降dポイント付与が開始された。NTTドコモビジネスはAI SOCを5月から提供し、AIエージェント200種の年内展開を目標とする。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "理研・富士通の144量子ビット叡IIがクラウドサービスを開始した。耐量子暗号（PQC）の2035年移行期限が迫り、企業の対応準備が急務との専門家見解が示された。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "3メガバンクの円SC共同発行協議会が26年度中の実取引目標を継続して協議している。ドル円相場は7月2日に160.63円まで急落後、週明けに162円台を試す展開が見込まれる。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "令和8年路線価が全国平均2.9%上昇となり5年連続で2010年以降最大の上昇率を記録した。10年債金利が年2.7%に上昇し29年1か月ぶりの高水準となった。"
+        }
+      ],
+      "must_read": {
+        "title": "AnthropicのARRが$45Bに達しOpenAIを抜きAI収益首位に",
+        "url": "https://www.cnbc.com/2026/05/28/anthropic-open-ai-startup-value.html",
+        "reason": "ARR$45BはOpenAIの約$33Bを上回り、Claude Codeを中心とした収益構造がAI市場の覇権を塗り替えた事実を複数メディアが確認した。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "AIの世界でまたビッグニュースがありましたよ！AnthropicがOpenAIを収益で追い抜いたとのことで、AI競争がどんどん激しくなっていますね。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicがOpenAIを年間収益で上回ったみたいですよ！Claude Fable 5も輸出規制が解けて世界中で使えるようになりましたし、Claude Scienceという科学研究向けの新ツールも公開されました。Gemini 3.5 Proも今月中に使えるようになるみたいですよ。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモのパーソナルAIエージェント「SyncMe」がいよいよ夏のサービス開始に向けて動いていますよ！モニター参加者へのdポイント付与も7月から始まったみたいですね。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "理研と富士通が開発した叡IIがクラウドで使えるようになりましたよ！量子コンピュータがどんどん身近になってきていますね。ポスト量子暗号の対応も2035年までに必要とのことで、企業は早めに準備が必要ですよ。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "3メガバンクの円のデジタルコイン（ステーブルコイン）が今年度中の実取引に向けて準備中ですよ！ドル円も162円台とかなり円安が進んでいますね。週明けの動きが気になりますね。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "2026年の路線価が発表されて5年連続で上昇しましたよ！全国平均で2.9%の上昇で、相続税の計算にも影響しますね。長期金利も29年ぶりの高水準になっているみたいです。"
+        }
+      ],
+      "must_read": {
+        "title": "AnthropicのARRが$45Bに達しOpenAIを抜きAI収益首位に",
+        "url": "https://www.cnbc.com/2026/05/28/anthropic-open-ai-startup-value.html",
+        "reason": "AIの覇権がAnthropicに移ったというのは業界の大きな転換点ですね！Claude Codeが市場をリードしたことがこの結果につながったみたいですよ。",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Anthropic ARR $45B、OpenAI（約$33B）超え AI収益首位\n・Claude Fable 5輸出規制解除で7/1グローバル再提供開始\n・Claude Science公開ベータ・Gemini 3.5 Pro 7月GA確定"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・SyncMe夏正式サービス化準備・7月モニターdポイント付与開始\n・NTTドコモビジネス AI SOC 5月から提供開始"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・理研・富士通 叡II 144量子ビット クラウド稼働開始\n・PQC移行2035年期限・企業対応急務"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・3メガ銀円SC協議会 26年度内実取引目標継続\n・ドル円162円台・40年ぶり円安水準"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・路線価5年連続上昇 全国平均2.9%・2010年以降最大\n・10年債金利2.7%・29年1か月ぶり高水準\n・インフルエンサー詐欺13人再逮捕（大阪府警）"
+        }
+      ],
+      "must_read": {
+        "title": "AnthropicのARRが$45Bに達しOpenAIを抜きAI収益首位に",
+        "url": "https://www.cnbc.com/2026/05/28/anthropic-open-ai-startup-value.html",
+        "reason": "・AI収益首位がAnthropicに交代、業界構造に転換点",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "Anthropicの収益逆転は単なる競争上の勝利を超えており、コーディング特化モデルによる企業内製化需要の爆発という構造変化を示す一方、国内では路線価上昇と長期金利高騰が日本経済の構造転換の進行を示唆する。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicのARR$45Bは2025年末比約5倍の成長速度であり、Claude Codeが企業コーディング市場で約54%のシェアを占めたことが主因と分析される。Fable 5グローバル再開放は米政府の輸出規制運用の柔軟化を示すサインであり、国際AI覇権競争の縮図として読み解ける。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "SyncMeは決済・位置情報・通信データを統合したパーソナライズAIエージェントであり、NTTドコモFGの金融事業展開と組み合わせることで競合他社には模倣困難な顧客接点を形成する。AI SOCのB2B展開はドコモの法人向けサービス収益構造の強化と位置づけられる。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "叡IIのクラウド提供開始は実用量子計算の一般アクセス化を意味する。PQC移行期限2035年は企業に既存システムの再設計を余儀なくし、早期投資を促す構造的圧力となる。IBM Kookaburraの年内公開と相まって実用化競争が加速局面に入ったと判断できる。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "3メガ銀円SCの実取引移行は、プログマのインフラ上で信託型SCが国内決済に組み込まれる第一歩となる。ドル円162円台の継続は輸入コスト増と対外投資収益増という二面性をはらむが、日銀の追加利上げ観測が高まる中、7月の円高反転リスクを注視する必要がある。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "路線価2.9%上昇はインバウンド需要と都市再開発が牽引しているが、長期金利2.7%上昇と円安の持続は不動産ローン金利の上昇圧力となり、過熱気味の不動産市場に調整リスクを内包している。10年債金利高騰は政府の国債利払い費増大と財政運営への直接的影響を生じさせる。"
+        }
+      ],
+      "must_read": {
+        "title": "AnthropicのARRが$45Bに達しOpenAIを抜きAI収益首位に",
+        "url": "https://www.cnbc.com/2026/05/28/anthropic-open-ai-startup-value.html",
+        "reason": "ARR$45BはOpenAI$33Bの約1.4倍であり、企業AIコーディング市場の支配的シェアが収益構造を規定している。この逆転はAI競争の勝者がフロンティアモデル性能ではなく実用エージェントインフラの浸透度によって決まることを示す重要なデータポイントである。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 87,
+      "trend_history": [86, 95, 96, 90, 85, 87],
+      "summary_short": "Anthropic ARR $45B超でOpenAI抜き・Fable 5グローバル復活",
+      "summary_long": "AnthropicのARRが約$45Bに達しOpenAIを抜きAI収益首位となった。Claude Fable 5は輸出規制解除で7月1日にグローバル提供を再開。Claude Scienceが科学研究向け公開ベータとして稼働中で、Gemini 3.5 Proの7月GA確定、GPT-5.6のスペック詳細も確認された。",
+      "articles": [
+        {
+          "title": "AnthropicのARRが$45Bに達しOpenAIを抜きAI収益首位に",
+          "url": "https://www.cnbc.com/2026/05/28/anthropic-open-ai-startup-value.html",
+          "source": "CNBC",
+          "summary_short": "AnthropicのARRが約$45Bに達しOpenAIの約$33Bを上回った",
+          "summary_long": "Anthropicの年間経常収益（ARR）が約$45Bに達し、OpenAIの約$33Bを大幅に上回った。Claude Codeが企業向けコーディング市場で約54%のシェアを獲得し、2025年末から約5倍の急成長を遂げた。評価額は$965Bに達しOpenAI超えを果たした。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Claude Fable 5が輸出規制解除で7月1日にグローバル提供再開",
+          "url": "https://releasebot.io/updates/anthropic/claude",
+          "source": "Releasebot",
+          "summary_short": "Claude Fable 5が輸出規制解除で7月1日に全世界での提供を再開",
+          "summary_long": "AnthropicのClaude Fable 5は米政府の輸出規制により約3週間提供停止となっていたが、6月30日に規制解除が確認され7月1日よりClaude.ai・Claude Platform・Claude Code等で全世界への提供を再開した。Mythos 5も同様に解除された。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Anthropic、Claude Science公開ベータ開始 – 科学研究向けAIワークベンチ",
+          "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+          "source": "Anthropic",
+          "summary_short": "Claude Scienceが科学研究向けAIワークベンチとして公開ベータで稼働",
+          "summary_long": "AnthropicはClaude Scienceの公開ベータを開始した。ゲノミクス・プロテオミクス・構造生物学など60以上のスキルを備え、UniProt・PDB・EnsemblなどのDBに接続可能。NVIDIAのBioNeMo Agent Toolkitとも統合されている。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "Google Gemini 3.5 Pro、7月中の一般提供（GA）が確定",
+          "url": "https://llm-stats.com/llm-updates",
+          "source": "LLM Stats",
+          "summary_short": "Gemini 3.5 Proが7月中の一般提供に向けて準備完了と確認された",
+          "summary_long": "GoogleのGemini 3.5 Proは6月の提供予定からずれ込み、7月中の一般提供（GA）が確定した。Claude Sonnet 5の台頭に対抗する形でリリースタイムラインが前倒しされており、AI主要モデル間の競争が継続している。",
+          "importance": 3,
+          "fetch_failed": true
+        },
+        {
+          "title": "GPT-5.6 Sol/Terra/Lunaの詳細スペックが公開 – SolがTerminal-Bench 2.1 SOTA",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-1-2026",
+          "source": "Build Fast With AI",
+          "summary_short": "GPT-5.6 Sol/Terra/Lunaの詳細スペックが公式に確認された",
+          "summary_long": "OpenAIのGPT-5.6ファミリーはSol（Terminal-Bench 2.1 SOTA）、Terra（GPT-5.5同等・コスト半減）、Luna（最高速・最低コスト）の3モデル構成。現在は約20組織の米政府アクセスリスト限定で提供されており、一般公開時期は未定。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": [
+        "https://www.docomo.ne.jp/service/syncme/",
+        "https://www.ntt.com/about-us/press-releases/news/article/2026/0520.html"
+      ]
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 62,
+      "trend_history": [75, 78, 80, 72, 65, 62],
+      "summary_short": "SyncMe夏正式サービス化・AI SOCでドコモのAI展開加速",
+      "summary_long": "NTTドコモのパーソナルAIエージェント「SyncMe」は夏の正式サービス化に向け、モニター参加者への7月以降のdポイント付与を開始した。NTTドコモビジネスはAI SOCを5月から提供しサイバー攻撃の自動分析・対処を実現している。",
+      "articles": [
+        {
+          "title": "SyncMe夏正式サービス化へ・モニター参加者への7月以降dポイント付与開始",
+          "url": "https://www.docomo.ne.jp/service/syncme/",
+          "source": "NTTドコモ",
+          "summary_short": "SyncMeの夏正式サービス化に向けdポイント付与が7月以降に開始",
+          "summary_long": "NTTドコモのパーソナルAIエージェント「SyncMe」はdアカウント情報をもとにユーザーの価値観・性格を推定しパーソナライズ対応を行う。モニター参加者（5,000名）への謝礼dポイントは2026年7月以降の一括付与とされており、夏の正式サービス開始に向けた準備が進む。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモビジネス、AI SOCの提供開始でサイバー攻撃を自動分析・対処",
+          "url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0520.html",
+          "source": "NTTドコモビジネス",
+          "summary_short": "NTTドコモビジネスがAIでサイバー攻撃を自動分析・対処するAI SOC提供開始",
+          "summary_long": "NTTドコモビジネスは2026年5月20日よりAIを駆使してサイバー攻撃の脅威を分析・自動対処する「AI SOC」の提供を開始した。企業のセキュリティ運用の自動化・効率化を支援するもので、AIエージェント200種展開目標の一環として位置付けられる。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": [
+        "https://www.cnbc.com/2026/05/28/anthropic-open-ai-startup-value.html"
+      ]
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 60,
+      "trend_history": [63, 70, 72, 65, 62, 60],
+      "summary_short": "PQC2035年移行期限迫る・叡IIクラウド稼働し実用化競争加速",
+      "summary_long": "理研・富士通の144量子ビット「叡II」がクラウドサービスを開始した。耐量子暗号（PQC）の2035年移行期限が迫り企業の早急な対応準備が必要とされる。量子コンピュータは量子ビット数競争からエラー訂正競争へと軸足が移っている。",
+      "articles": [
+        {
+          "title": "理研・富士通の量子コンピュータ「叡II」がクラウドサービスを開始、144量子ビット",
+          "url": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00139/00005/",
+          "source": "日経クロステック",
+          "summary_short": "理研・富士通の144量子ビット叡IIがクラウドサービスを正式に開始",
+          "summary_long": "理化学研究所と富士通が共同開発した144量子ビットの超伝導量子コンピュータ「叡II（えいつー）」がクラウドサービスとして提供開始された。2026年度内に1,000量子ビット機の稼働を目指しており、産業応用の可能性を広げる。",
+          "importance": 4,
+          "fetch_failed": true
+        },
+        {
+          "title": "耐量子暗号（PQC）の2035年移行期限が迫り、企業への対応が急務と専門家が指摘",
+          "url": "https://enterprisezine.jp/article/detail/24381",
+          "source": "EnterpriseZine",
+          "summary_short": "PQC移行2035年期限で企業の耐量子暗号対応が急務と専門家が指摘",
+          "summary_long": "高木剛教授らの専門家が、量子コンピュータによる暗号解読リスクに対応するPost-Quantum Cryptography（PQC）への移行は遅くとも2035年までに必要と指摘。既存システムの再設計には数年を要するため、企業は今すぐ移行計画の策定を開始すべきとした。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 62,
+      "trend_history": [68, 65, 65, 62, 60, 62],
+      "summary_short": "3メガ銀円SC26年度実取引目標継続・ドル円162円台円安進行",
+      "summary_long": "3メガバンクの円建てステーブルコイン（円SC）共同発行協議会が26年度中の実取引開始を目標に協議を継続している。ドル円相場は7月2日に160.63円まで急落後、週明けに162円台を試す展開が見込まれており、40年ぶりの円安水準が継続している。",
+      "articles": [
+        {
+          "title": "3メガバンクが円SC26年度中の実取引開始目標を維持、協議会で協議継続",
+          "url": "https://www.nikkei.com/article/DGXZQOUB0966P0Z00C26A6000000/",
+          "source": "日本経済新聞",
+          "summary_short": "3メガ銀が円建てSC26年度内の実取引開始目標を継続して協議中",
+          "summary_long": "三菱UFJ銀行・三井住友銀行・みずほ銀行の3メガバンクが円建てステーブルコインの共同発行に向けた協議会を設置し、2026年度中の実取引開始を目標に継続協議中。三菱UFJ信託が資金受け入れ、プログマのインフラを利用する予定。金融庁が支援対象として採択済み。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "ドル円が7月2日に160.63円へ急落後、週明けは162円台を試す見通し",
+          "url": "https://www.gaitame.com/media/entry/2026/07/04/080100",
+          "source": "外為どっとコム",
+          "summary_short": "ドル円相場が162円台と40年ぶりの円安水準を継続する見通し",
+          "summary_long": "ドル円は7月1日に162.84円まで上昇したが7月2日の米雇用統計弱含みと介入警戒から160.63円まで急落した。週明け7月6日は米金利先高観を背景に162.50円を試す展開が見込まれる。「七夕天井」のアノマリーと米通商政策不透明感が上値を抑える可能性もある。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": [
+        "https://www.nikkei.com/article/DGXZQOUD233ZU0T20C26A6000000/"
+      ]
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 75,
+      "trend_history": [65, 68, 72, 70, 68, 75],
+      "summary_short": "路線価5年連続最大2.9%上昇・長期金利29年ぶり高水準",
+      "summary_long": "令和8年路線価が全国平均2.9%上昇で5年連続かつ2010年以降最大の伸び率を記録した。東京・銀座最高路線価は1平方メートル5,336万円。10年債金利は2.7%と29年1か月ぶりの高水準に達し、金利上昇局面が継続している。",
+      "articles": [
+        {
+          "title": "令和8年路線価、全国平均2.9%上昇で5年連続・2010年以降最大の伸び率",
+          "url": "https://www.nikkei.com/article/DGXZQOUD233ZU0T20C26A6000000/",
+          "source": "日本経済新聞",
+          "summary_short": "令和8年路線価が全国平均2.9%上昇し5年連続で最大の上昇率を記録",
+          "summary_long": "国税庁は令和8年（2026年）分の路線価を発表。全国平均は前年比2.9%上昇となり5年連続の上昇かつ2010年以降で最大の伸び率を記録した。東京・銀座中央通りの最高額は1平方メートル5,336万円。インバウンド需要と都市部再開発が主因とされる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "10年国債金利が年2.7%に上昇し29年1か月ぶりの高水準を記録",
+          "url": "https://www.jiji.com/jc/archives?g=eco_archive_0",
+          "source": "時事通信",
+          "summary_short": "10年債金利が年2.7%に上昇し29年1ヶ月ぶりの高水準となった",
+          "summary_long": "日本の10年国債金利が年2.7%に上昇し、1997年6月以来29年1か月ぶりの高水準を記録した。日銀の追加利上げ観測と米国金利動向を背景に長期金利の上昇が続いており、住宅ローン金利や国債利払い費の増大につながっている。",
+          "importance": 3,
+          "fetch_failed": true
+        },
+        {
+          "title": "インフルエンサー成り済まし詐欺で大阪府警が13人を再逮捕",
+          "url": "https://www.jiji.com/jc/archives?g=soc_archive_0",
+          "source": "時事通信",
+          "summary_short": "インフルエンサー成り済まし詐欺で大阪府警が13人を再逮捕した",
+          "summary_long": "大阪府警はSNSでインフルエンサーに成り済まして被害者を誘い込む詐欺事件で13人を再逮捕した。SNS上の著名人名を装い投資詐欺を行う手口が広がっており、被害総額は複数億円規模に上るとみられている。",
+          "importance": 3,
+          "fetch_failed": true
+        }
+      ],
+      "related": [
+        "https://www.gaitame.com/media/entry/2026/07/04/080100"
+      ]
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 87,
+      "NTTドコモ": 62,
+      "量子コンピュータ": 60,
+      "金融決済": 62,
+      "国内・社会": 75
+    },
+    "source_distribution": {
+      "CNBC": 1,
+      "Releasebot": 1,
+      "Anthropic": 1,
+      "LLM Stats": 1,
+      "Build Fast With AI": 1,
+      "NTTドコモ": 1,
+      "NTTドコモビジネス": 1,
+      "日経クロステック": 1,
+      "EnterpriseZine": 1,
+      "日本経済新聞": 2,
+      "外為どっとコム": 1,
+      "時事通信": 2
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 7,
+      "4": 7,
+      "5": 0
+    }
+  }
+}

@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-07-03T06:30:00+09:00",
+  "last_updated": "2026-07-06T06:00:00+09:00",
   "reports": [
+    {
+      "date": "2026-07-06",
+      "headline": "Anthropic ARR $45B超でOpenAI抜き首位・Claude Fable 5グローバル復活・路線価2.9%5年連続最大・3メガ銀円SC継続・ドル円162円台"
+    },
+    {
+      "date": "2026-07-05",
+      "headline": "Claude Sonnet 5企業採用拡大Verified92.4%・SyncMe夏開始準備・IBM Kookaburra2026年内公開・3メガ銀SC三菱商事越境決済・大坂なおみベスト16"
+    },
+    {
+      "date": "2026-07-04",
+      "headline": "Claude Sonnet 5 SWE-bench Pro 63.2%・Claude Science公開・NTTドコモFG金融事業承継・3メガ銀円SC継続・米建国250周年"
+    },
     {
       "date": "2026-07-03",
       "headline": "Claude Sonnet 5公開SWE-bench Pro 63.2%・Fable 5全世界復活・ドコモFG金融事業7/1承継・MS PQC2029年前倒し・3メガ銀円SC協議継続"
@@ -303,7 +315,7 @@
     {
       "name": "Anthropic",
       "url": "https://www.anthropic.com",
-      "count": 27
+      "count": 28
     },
     {
       "name": "SAP",
@@ -323,12 +335,12 @@
     {
       "name": "NTTドコモ",
       "url": "https://www.docomo.ne.jp",
-      "count": 63
+      "count": 64
     },
     {
       "name": "NTTドコモビジネス",
       "url": "https://www.ntt.com",
-      "count": 13
+      "count": 14
     },
     {
       "name": "arXiv",
@@ -348,7 +360,7 @@
     {
       "name": "日本経済新聞",
       "url": "https://www.nikkei.com",
-      "count": 75
+      "count": 77
     },
     {
       "name": "NVIDIA",
@@ -363,7 +375,7 @@
     {
       "name": "時事通信",
       "url": "https://www.jiji.com",
-      "count": 10
+      "count": 12
     },
     {
       "name": "IMF",
@@ -383,7 +395,7 @@
     {
       "name": "CNBC",
       "url": "https://www.cnbc.com",
-      "count": 7
+      "count": 8
     },
     {
       "name": "BigGo",
@@ -458,7 +470,7 @@
     {
       "name": "外為どっとコム",
       "url": "https://www.gaitame.com",
-      "count": 3
+      "count": 4
     },
     {
       "name": "マネービッツ",
@@ -523,7 +535,7 @@
     {
       "name": "日経Xtech",
       "url": "https://xtech.nikkei.com",
-      "count": 17
+      "count": 18
     },
     {
       "name": "Yahoo!ニュース エキスパート",
@@ -618,7 +630,7 @@
     {
       "name": "Releasebot",
       "url": "https://releasebot.io",
-      "count": 4
+      "count": 5
     },
     {
       "name": "@DIME",
@@ -758,7 +770,7 @@
     {
       "name": "LLM Stats",
       "url": "https://llm-stats.com",
-      "count": 5
+      "count": 6
     },
     {
       "name": "富士通広報note",
@@ -908,7 +920,7 @@
     {
       "name": "EnterpriseZine",
       "url": "https://enterprisezine.jp",
-      "count": 7
+      "count": 8
     },
     {
       "name": "Ledge.ai",
@@ -1218,7 +1230,7 @@
     {
       "name": "Build Fast with AI",
       "url": "https://www.buildfastwithai.com",
-      "count": 1
+      "count": 2
     },
     {
       "name": "centerbit.co",

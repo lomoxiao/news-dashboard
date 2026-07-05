@@ -1,0 +1,353 @@
+{
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05T06:00:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "Claude Sonnet 5が企業エージェント導入の実用基盤として広まる中、NTTドコモFGが新体制に移行しSyncMe AIエージェントの夏季サービス開始準備が進む。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Claude Sonnet 5（SWE-bench Verified 92.4%・$2/MTok）が企業のAIエージェント導入コストを大幅に引き下げ実用自律開発の新標準となった。Claude Enterpriseは管理者向け分析・支出アラート機能を追加した。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモがSyncMe AIエージェントの2026年夏サービス開始を準備中。NTTドコモビジネスはElevenLabsと音声AIコンタクトセンター協業を開始した。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMはKookaburra（1,386量子ビット・QECモジュール）を2026年内公開予定とし、量子誤り訂正の実用展開に向けQiskit Pauliceをオープンソースで公開した。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "3メガバンクの円SC共同発行協議会が三菱商事との越境決済実証を計画する。金融庁は同実証を支援対象として採択し、2026年度内の実用化を後押しする。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "大坂なおみがウィンブルドン4回戦でカサトキナを6-1・6-3で破り自己最高のベスト16入りを果たした。次戦は第4シードのペグラ（米国）戦。"
+        }
+      ],
+      "must_read": {
+        "title": "Claude Sonnet 5がFree/Proデフォルトモデルに、企業エージェント導入コスト大幅低下",
+        "url": "https://uravation.com/media/claude-sonnet-5-launch-agent-cost-2026/",
+        "reason": "SWE-bench Verified 92.4%・$2/MTokという性能価格比はAIエージェント市場の競争地形を根本的に変えるものであり、企業のAI内製化を加速させる歴史的転換点を示す。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "今日も面白いニュースが盛りだくさんですよ！AIも量子も金融も動いていますね。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Claude Sonnet 5が企業での自律エージェント導入の新標準になりつつあるみたいですよ。SWE-bench Verified 92.4%という数値はコード書きが本当に得意になっていますよね！"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモのSyncMeが夏のサービス開始に向けて準備中みたいですよ！AIエージェントが日常生活に溶け込む体験を目指しているみたいで、楽しみですね。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMがKookaburraという1,386量子ビットのマシンを今年中に公開する予定みたいですよ！量子エラーを訂正する機能もついていて、一歩一歩実用化に近づいていますよ。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "3メガバンクのデジタル円（円SC）が三菱商事の海外送金にも使われる計画があるみたいですよ！金融庁も後押ししていて、少しずつ現実に近づいてきましたよ。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "大坂なおみがウィンブルドンでついにベスト16入りしましたよ！カサトキナを圧倒して4回戦突破。次はペグラとの対戦で、応援しましょう！"
+        }
+      ],
+      "must_read": {
+        "title": "Claude Sonnet 5がFree/Proデフォルトモデルに、企業エージェント導入コスト大幅低下",
+        "url": "https://uravation.com/media/claude-sonnet-5-launch-agent-cost-2026/",
+        "reason": "コーディングAIが低コスト・高性能になったというのは企業にとって嬉しいニュースですね。Opus級の性能が5分の1のコストで使えるようになったのは画期的ですよ！",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Claude Sonnet 5企業採用拡大（Verified 92.4%・$2/MTok）\n・Claude Enterprise管理者分析・支出アラート追加\n・Claude Science beta（60以上の科学DB連携）継続稼働"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・SyncMe AIエージェント2026年夏サービス開始準備\n・ElevenLabsと音声AIコンタクトセンター協業\n・ドコモFG金融AIエージェント戦略具体化"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・IBM Kookaburra（1,386量子ビット・QEC）2026年内公開予定\n・Qiskit Paulice量子エラー検出OSSツール公開\n・Microsoft PQC実装2029年前倒し"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・3メガ銀円SC・三菱商事越境決済実証計画（金融庁採択済み）\n・日銀CBDC実証継続・導入時期未定\n・外国SC認定制度（改正資金決済法6月施行）運用中"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・大坂なおみウィンブルドンベスト16（カサトキナ破り）・次戦ペグラ\n・日銀6月短観製造業5期連続改善も先行き悪化\n・日経平均7/2: 68,733円（1,741円安）AI半導体株下落"
+        }
+      ],
+      "must_read": {
+        "title": "Claude Sonnet 5がFree/Proデフォルトモデルに、企業エージェント導入コスト大幅低下",
+        "url": "https://uravation.com/media/claude-sonnet-5-launch-agent-cost-2026/",
+        "reason": "・低コスト高性能AIの新標準が確立",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "AI能力コモディティ化と量子実用化競争が同時進行する中、NTTドコモFGの金融デジタル化と3メガ銀のSC発行が日本の決済インフラ変革の節目を形成しつつある。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Claude Sonnet 5の$2/MTok導入はOpus 4.8比で約5分の1のコストであり、エージェント実用コストの急激な低下は企業のAI内製化を加速させる。SWE-bench Verified 92.4%は人間開発者の平均的タスク完遂率を超える水準であり、コーディング業務への影響は不可逆的段階に入った。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "SyncMeの展開はテレコム事業者がAIエージェントを通じてユーザーとの接点を再構築する戦略を示す。ドコモFGの金融AIエージェントと組み合わせることで、通信・金融・生活情報を統合した新顧客接点の形成を目指す構造となっている。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBM KookaburraのQECモジュールは「量子ビット数競争」から「誤り訂正精度競争」への業界転換を象徴する。論理量子ビット時代の始動により、2029年のStarling（フォールトトレラント）への道筋が明確化し、産業適用の計画立案が現実的な段階に入った。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "三菱商事が円SCの越境決済実証に参加することで、企業間取引（B2B）での実用事例が生まれる。従来の国際送金と比較して決済時間とコストが大幅削減できる可能性があり、成功すれば日本の貿易金融全体のデジタル化を後押しする先例となる。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "日銀6月短観で製造業DIが5期連続改善を示す一方、先行きDIが悪化した背景にはAI投資コスト増と米国政策不確実性がある。日経平均が7月2日に1,741円安となった要因はAI半導体株の一斉急落であり、AI期待値と実績のギャップが市場調整を促した。"
+        }
+      ],
+      "must_read": {
+        "title": "Claude Sonnet 5がFree/Proデフォルトモデルに、企業エージェント導入コスト大幅低下",
+        "url": "https://uravation.com/media/claude-sonnet-5-launch-agent-cost-2026/",
+        "reason": "低コスト・高性能AIモデルの登場はAI市場の競争地形を根本的に変えるものであり、エージェントAI活用の主流化が不可逆的段階に入ったことを示す。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 85,
+      "trend_history": [88, 86, 95, 96, 90, 85],
+      "summary_short": "Claude Sonnet 5企業採用拡大・Verified 92.4%で実用エージェント時代へ",
+      "summary_long": "Claude Sonnet 5（SWE-bench Verified 92.4%・$2/MTok）が企業のAIエージェント導入の実用基盤となった。Claude Enterpriseは管理者分析・モデル権限・支出アラート機能を追加。Claude Scienceは60以上の科学データベースと連携した研究AIワークベンチとしてベータ稼働中。",
+      "articles": [
+        {
+          "title": "Claude Sonnet 5がFree/Proデフォルトモデルに、企業エージェント導入コスト大幅低下",
+          "url": "https://uravation.com/media/claude-sonnet-5-launch-agent-cost-2026/",
+          "source": "Uravation",
+          "summary_short": "Claude Sonnet 5がFree/Proデフォルト、$2/MTokで自律開発実用化",
+          "summary_long": "AnthropicのClaude Sonnet 5（SWE-bench Verified 92.4%・SWE-bench Pro 63.2%）が6月30日公開後、Claude Free/ProおよびClaude Code Proのデフォルトモデルとなった。Opus 4.8比で約5分の1のコストで同等のエージェント性能を提供し、企業のAI導入コストを大幅に引き下げた。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "Anthropic Claude Enterpriseに管理者向け分析・モデル権限・支出アラート機能を追加",
+          "url": "https://www.anthropic.com/news",
+          "source": "Anthropic",
+          "summary_short": "Claude Enterpriseに管理者分析・モデル権限・支出アラートを追加",
+          "summary_long": "AnthropicはClaude Enterpriseに管理者向け詳細利用分析、モデルレベルの権限管理、および支出アラート機能を追加した。Azure経由での利用にも対応し、企業向けガバナンス機能が強化された。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "Claude Science beta – 60以上の科学データベースと連携した研究AIワークベンチが継続稼働",
+          "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+          "source": "Anthropic",
+          "summary_short": "Claude Science beta、科学DB60超と連携した研究AIワークベンチを継続提供",
+          "summary_long": "AnthropicのClaude Scienceは6月30日のベータ公開以来、60以上の科学データベースと連携する研究AIワークベンチとして全有料プランで利用可能。マルチエージェント環境でClaude Opus 4.8を基盤とし、タンパク質構造表示や再現可能な全結果記録機能を備える。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 65,
+      "trend_history": [58, 75, 78, 80, 72, 65],
+      "summary_short": "SyncMe 2026年夏サービス開始準備・ElevenLabs音声AI協業も始動",
+      "summary_long": "NTTドコモは2026年夏頃を目途にAIエージェント「SyncMe」のサービス開始準備を進める。NTTドコモビジネスはElevenLabsと音声AIコンタクトセンターで協業を開始した。NTTドコモFGは金融AIエージェントによるパーソナライズ化戦略を具体化している。",
+      "articles": [
+        {
+          "title": "NTTドコモ、AIエージェント「SyncMe」を2026年夏頃サービス開始へ準備",
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/2097906.html",
+          "source": "ケータイ Watch",
+          "summary_short": "NTTドコモSyncMe AIエージェント、2026年夏頃サービス開始を準備",
+          "summary_long": "NTTドコモが開発中のAIエージェント「SyncMe（シンクミー）」は2026年夏頃のサービス開始を目指す。通信・金融・生活情報を統合したパーソナライズ体験を提供するテレコム発のBtoC新モデルとして展開予定。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモビジネスとElevenLabs、音声AIによるコンタクトセンター応対で協業開始",
+          "url": "https://www.ntt.com/about-us/press-releases.html",
+          "source": "NTTドコモビジネス",
+          "summary_short": "NTTドコモビジネスとElevenLabsが音声AIコンタクトセンターで協業開始",
+          "summary_long": "NTTドコモビジネスはElevenLabsと協業し、自然な音声AIを活用したコンタクトセンター応対の実現に向けた取り組みを開始した。AI SOCに続くドコモの法人向けAIサービス強化策の一環として6月29日に発表された。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "NTTドコモFG、金融AIエージェントで顧客一人ひとりに寄り添う新体験を創出",
+          "url": "https://ictr.co.jp/report/%E3%80%90%E6%A5%AD%E7%95%8C%E3%83%88%E3%83%94%E3%83%83%E3%82%AF%E3%82%B9%E3%80%91%E3%83%89%E3%82%B3%E3%83%A2%E6%B1%BA%E7%AE%97%E3%80%81%E9%9D%9E%E9%80%9A%E4%BF%A1%E9%A0%98%E5%9F%9F%E3%81%AE%E6%88%90.html/",
+          "source": "ICT総研",
+          "summary_short": "NTTドコモFGが金融AIエージェントでパーソナライズ戦略を具体化",
+          "summary_long": "NTTドコモFGはdカード・d払い等の金融サービスを束ねた上で、顧客一人ひとりの生活スタイルを理解する「金融AIエージェント」の展開を視野に入れる。新体制移行後の2030年をめどに金融収益の倍増計画も策定済み。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 62,
+      "trend_history": [62, 63, 70, 72, 65, 62],
+      "summary_short": "IBM Kookaburra 1,386量子ビット・QEC対応、2026年内公開予定",
+      "summary_long": "IBM Kookaburraは1,386量子ビットの量子誤り訂正（QEC）対応モジュールとして2026年内公開予定。IBM Qiskit Pauliceのオープンソース公開やMicrosoftの2029年PQC前倒し実装など、量子コンピューティングの実用化に向けた取り組みが加速している。",
+      "articles": [
+        {
+          "title": "IBM Kookaburra、1,386量子ビットQECモジュールを2026年内に公開予定",
+          "url": "https://www.ibm.com/roadmaps/quantum/2026/",
+          "source": "IBM",
+          "summary_short": "IBM Kookaburra 1,386量子ビットQECモジュール、2026年内公開予定",
+          "summary_long": "IBMは2026年ロードマップでKookaburra（1,386量子ビット）を公開予定とした。QECメモリと論理処理ユニット（LPU）を組み合わせたモジュール構成で、フォールトトレラント量子コンピュータに向けた2029年Starlingロードマップの重要ステップとなる。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "IBM Qiskit Paulice公開、量子回路のエラー検出ループをオープンソースで提供",
+          "url": "https://quantumcomputingreport.com/news/",
+          "source": "Quantum Computing Report",
+          "summary_short": "IBM Qiskit Paulice公開、量子回路エラー検出をOSSで提供",
+          "summary_long": "IBMはオープンソースのQiskit拡張ツール「Paulice」を公開した。ハードウェア効率の高いエラー検出ループを量子回路に自動挿入する機能を提供し、量子誤り訂正の実用展開を支援する。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "MicrosoftがPQC実装を2029年に前倒し、耐量子暗号を先行導入",
+          "url": "https://business20channel.tv/ibm-google-microsoft-advance-quantum-computing-strategy-in-2026-10-02-2026",
+          "source": "Business 2.0 News",
+          "summary_short": "MicrosoftがPQC（耐量子暗号）実装を2029年に前倒し実施",
+          "summary_long": "MicrosoftはQuantum Safe Programにおいて、耐量子暗号（PQC）の実装期限を当初計画より数年前倒しし2029年とした。世界的な量子脅威の高まりに対応し、自社製品・サービスの暗号化基盤を早期に更新する。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 60,
+      "trend_history": [65, 68, 65, 65, 62, 60],
+      "summary_short": "3メガ銀SC三菱商事越境決済実証計画・金融庁支援対象採択済み",
+      "summary_long": "三菱UFJ・三井住友・みずほ3メガ銀行の円SC共同発行協議会が、三菱商事の越境決済での利用を実証計画とした。金融庁が同実証を支援対象として採択。日銀はCBDC実証実験を継続中で、改正資金決済法施行後の外国SC認定制度も運用中。",
+      "articles": [
+        {
+          "title": "3メガバンク円SC共同発行・三菱商事が越境決済実証計画、金融庁採択済み",
+          "url": "https://www.nikkei.com/article/DGXZQOUB301QG0Q5A031C2000000/",
+          "source": "日本経済新聞",
+          "summary_short": "3メガ銀SC・三菱商事越境決済実証を金融庁が支援対象採択",
+          "summary_long": "三菱UFJ・三井住友・みずほ3メガバンクの円SC共同発行協議会は、三菱商事が日本拠点と海外拠点の越境決済に円SCを利用する実証実験を計画する。金融庁は「フィンテック実証実験ハブ」の採択でこれを支援し、2026年度内の実用化を後押しする。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "日銀CBDC実証実験継続中、銀行勘定系との連携システム設計を進める",
+          "url": "https://www.boj.or.jp/paym/digital/index.htm",
+          "source": "日本銀行",
+          "summary_short": "日銀CBDC実証継続・銀行勘定系との連携システムを設計中",
+          "summary_long": "日本銀行は中央銀行デジタル通貨（CBDC）の実証実験を継続している。銀行勘定系との連携システム構成の検討を進めており、発行の可否の決定にはさらなる検討が必要としている。導入時期は未定。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "改正資金決済法施行後・外国SC電子決済手段認定制度が運用段階に移行",
+          "url": "https://www.fsa.go.jp/news/",
+          "source": "金融庁",
+          "summary_short": "改正資金決済法施行後の外国SC認定制度が運用段階に移行",
+          "summary_long": "2026年6月1日施行の改正資金決済法に基づく外国ステーブルコインの電子決済手段認定制度が運用段階に移行した。規制整備により銀行や大手企業主導の信頼性重視型SC市場の形成が進んでいる。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": ["https://k-tai.watch.impress.co.jp/docs/news/2097906.html"]
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 45,
+      "trend_history": [47, 48, 46, 50, 48, 45],
+      "summary_short": "大坂なおみウィンブルドンベスト16・日銀6月短観先行き悪化",
+      "summary_long": "大坂なおみがウィンブルドン4回戦でカサトキナを破りベスト16入りを果たした。日銀6月短観で製造業景況感DIが5期連続改善も先行きDIが悪化した。日経平均は7月2日に1,741円安の68,733円となった。",
+      "articles": [
+        {
+          "title": "大坂なおみ ウィンブルドン4回戦突破・ベスト16 次戦は第4シードペグラ",
+          "url": "https://news.web.nhk/newsweb/na/na-k10015168531000",
+          "source": "NHK",
+          "summary_short": "大坂なおみがウィンブルドン4回戦でカサトキナ破りベスト16入り",
+          "summary_long": "テニスの大坂なおみがウィンブルドン選手権4回戦でカサトキナ（オーストラリア）を6-1・6-3で下し、ウィンブルドン初のベスト16入りを果たした。次戦は第4シードのジェシカ・ペグラ（米国）戦となる。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "日経平均7月2日に1,741円安の68,733円、AI半導体株が全面安で4日ぶり反落",
+          "url": "https://kabutan.jp/news/marketnews/?b=n202607020965",
+          "source": "株探",
+          "summary_short": "日経平均7/2に1,741円安・68,733円、AI半導体株が全面安",
+          "summary_long": "日経平均株価は7月2日（水）、前日比1,741円81銭安の68,733円15銭で取引を終えた。AI・半導体関連株が全面安となり、下げ幅は過去5番目の大きさとなった。7月1日の高値70,671円から約2,000円の急落となった。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "日銀6月短観、製造業DIが5期連続改善も先行きは悪化",
+          "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+          "source": "日本銀行",
+          "summary_short": "日銀6月短観で製造業5期連続改善も先行きDIは悪化",
+          "summary_long": "日銀が発表した2026年6月短観で製造業景況感DIが5期連続で改善した一方、先行きDIは悪化した。AI投資関連コストや原材料費の上昇が先行き不透明感の主因とされる。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 85,
+      "NTTドコモ": 65,
+      "量子コンピュータ": 62,
+      "金融決済": 60,
+      "国内・社会": 45
+    },
+    "source_distribution": {
+      "Uravation": 1,
+      "Anthropic": 2,
+      "ケータイ Watch": 1,
+      "NTTドコモビジネス": 1,
+      "ICT総研": 1,
+      "IBM": 1,
+      "Quantum Computing Report": 1,
+      "Business 2.0 News": 1,
+      "日本経済新聞": 1,
+      "日本銀行": 2,
+      "金融庁": 1,
+      "NHK": 1,
+      "株探": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 10,
+      "4": 4,
+      "5": 1
+    }
+  }
+}

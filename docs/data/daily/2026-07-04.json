@@ -1,0 +1,364 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T06:00:00+09:00",
+  "top_summary": {
+    "journalist": {
+      "lead": "AnthropicがClaude Sonnet 5とClaude Scienceをリリースした週、NTTドコモFGが7月1日に設立され、金融事業が正式に新体制へ移行した。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicはClaude Sonnet 5（SWE-bench Pro 63.2%・$2/MTok）と科学者向けClaude Scienceをベータ公開した。Claude Fable 5・Mythos 5も米輸出規制解除で全世界提供が再開された。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモFGが7月1日に設立され、dカード・d払い・ドコモ口座等の金融サービスが新会社へ承継された。NTTドコモビジネスはAI SOCも提供中。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "IBMが量子実用フェーズを宣言した。理研・富士通の叡II（144量子ビット）がクラウド稼働中であり、NECは豊田自動織機向け量子最適化システムを実用化した。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "3メガ銀の円SC協議会が2026年度内実用化を継続目標とする。PayPayは2026年3月期純利益3倍の1178億円を達成した。SC規制強化で銀行主導の市場構造が進んでいる。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "米国が建国250周年独立記念日を迎え全米で大規模行事が開催された。米国株式市場は本日休場。国内ではラーメン店倒産が上半期36件と過去最多ペースを記録した。"
+        }
+      ],
+      "must_read": {
+        "title": "Claude Sonnet 5公開・SWE-bench Pro 63.2%達成、低コスト自律エージェント実現",
+        "url": "https://llm-stats.com/models/claude-sonnet-5",
+        "reason": "AI業界主力モデルが低コスト・高性能化の新段階に入ったことを象徴する発表であり、企業向けAI導入コストを大幅に引き下げる影響を持つ。",
+        "bookmark_count": 0
+      }
+    },
+    "friendly": {
+      "lead": "今週もAI業界が動いていますね！ClaudeもClaude Scienceも登場し、ドコモの金融サービスも新体制に移行しましたよ。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "AnthropicからClaude Sonnet 5が登場しましたよ！SWE-bench Proで63.2%を達成して、しかも価格もお得になっているんです。科学者向けの新ツールClaude Scienceもベータ公開されましたよ。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "ドコモの金融サービスが7月1日から新体制に移行しましたよ。dカードやd払いの運営会社が「NTTドコモFG」に変わりましたが、サービス内容はそのままなので安心ですよ！"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "量子コンピュータが少しずつ現実に近づいていますよ！IBMが実用フェーズに入ったと宣言して、日本でも理研・富士通の144量子ビット機が本格稼働しているみたいですよ。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "3メガバンクが電子的なデジタル円（円SC）を共同で発行しようとしていますよ。PayPayも純利益3倍の1178億円と絶好調みたいです！"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "今日はアメリカの建国250周年記念日ですよ！全米でお祝い一色みたいです。大阪なおみもウィンブルドンで4回戦に進んで頑張っていますよ！"
+        }
+      ],
+      "must_read": {
+        "title": "Claude Sonnet 5公開・SWE-bench Pro 63.2%達成、低コスト自律エージェント実現",
+        "url": "https://llm-stats.com/models/claude-sonnet-5",
+        "reason": "コーディングAIが低コスト・高性能になったというのはエンジニアや企業にとって嬉しいニュースですね！",
+        "bookmark_count": 0
+      }
+    },
+    "brief": {
+      "lead": "本日のサマリー",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "・Claude Sonnet 5公開（SWE-bench Pro 63.2%・$2/MTok）\n・Claude Scienceベータ公開（科学DB60以上連携）\n・GPT-5.6 Sol/Terra/Luna限定プレビュー開始"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "・NTTドコモFG設立（7/1）・dカード等金融事業承継\n・dカード/d払い運営会社変更\n・AI SOCサービス提供中"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "・IBM量子実用フェーズ宣言\n・叡II（144量子ビット）クラウド稼働\n・arXiv量子論文7月164件"
+        },
+        {
+          "theme": "金融決済",
+          "text": "・3メガ銀円SC協議会・2026年度内目標継続\n・PayPay純利益3倍（1178億円）\n・SC規制強化で銀行主導の競争構造へ"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "・米建国250周年独立記念日・全米大規模行事・米株市場休場\n・大阪なおみウィンブルドン4回戦進出\n・ラーメン倒産上半期36件・過去最多"
+        }
+      ],
+      "must_read": {
+        "title": "Claude Sonnet 5公開・SWE-bench Pro 63.2%達成、低コスト自律エージェント実現",
+        "url": "https://llm-stats.com/models/claude-sonnet-5",
+        "reason": "・低コスト高性能AIの新標準が確立",
+        "bookmark_count": 0
+      }
+    },
+    "analytical": {
+      "lead": "AI能力のコモディティ化が加速する中、NTTドコモFG設立と3メガSC発行に向けた動きは、日本の金融デジタル化の制度的基盤が整いつつある段階を示している。",
+      "highlights": [
+        {
+          "theme": "最新AI情報",
+          "text": "Claude Sonnet 5はOpusクラス機能を$2/MTokで提供し、AI能力のコモディティ化を加速させた。SWE-bench Pro 63.2%（GPT-5.5比+4.6pt）はコーディングエージェントの実用域到達を示す。Anthropicのコスト低下は他AIプロバイダへの競争圧力を高める。"
+        },
+        {
+          "theme": "NTTドコモ",
+          "text": "NTTドコモFG設立は金融事業の専門性と独立性を高める戦略的分離であり、dカード・d払い・住信SBIネット銀行の統合運営によるファイナンシャルスーパーアプリ化への布石と位置づけられる。"
+        },
+        {
+          "theme": "量子コンピュータ",
+          "text": "2026年の量子業界は「量子ビット数競争」から「誤り訂正・実用化」へ主軸が移行した。IBMのNEC向け量子最適化実装はPOC終了後の本番移行事例であり、産業適用が加速する転換点を示している。"
+        },
+        {
+          "theme": "金融決済",
+          "text": "3メガ銀の円SC発行は日本の決済インフラデジタル化の象徴的動きであり、銀行主導の信頼性重視型モデルが優勢になりつつある。PayPayの純利益3倍は決済×金融エコシステムの収益モデル確立を示すが、SC規制強化による参入障壁上昇が今後の競争環境を変えうる。"
+        },
+        {
+          "theme": "国内・社会",
+          "text": "米国建国250周年と市場休場は米ナショナリズム高揚を背景に、AI・貿易政策への影響が注目される局面が続く。国内ではラーメン業態の大量倒産が飲食業における原価・人件費高騰の深刻さを示しており、中小事業者の廃業連鎖につながるリスクがある。"
+        }
+      ],
+      "must_read": {
+        "title": "Claude Sonnet 5公開・SWE-bench Pro 63.2%達成、低コスト自律エージェント実現",
+        "url": "https://llm-stats.com/models/claude-sonnet-5",
+        "reason": "低コスト・高性能AIモデルの登場はAI市場の競争地形を根本的に変えるものであり、他業界の戦略にも波及する。",
+        "bookmark_count": 0
+      }
+    }
+  },
+  "topics": [
+    {
+      "theme": "最新AI情報",
+      "category": "interested",
+      "trend_score": 90,
+      "trend_history": [86, 88, 86, 95, 96, 90],
+      "summary_short": "Claude Sonnet 5公開・SWE-bench Pro 63.2%、Claude Scienceもベータ開始。",
+      "summary_long": "AnthropicはClaude Sonnet 5（SWE-bench Pro 63.2%・$2/MTok）と科学研究者向けClaude Scienceをベータ公開。7月1日にはFable 5・Mythos 5が全世界復活。OpenAIは6月末GPT-5.6を3モデル構成で限定プレビュー開始。",
+      "articles": [
+        {
+          "title": "Claude Sonnet 5公開・SWE-bench Pro 63.2%達成、低コスト自律エージェント実現",
+          "url": "https://llm-stats.com/models/claude-sonnet-5",
+          "source": "LLM Stats",
+          "summary_short": "Claude Sonnet 5がSWE-bench Pro 63.2%達成、$2/MTokで提供開始。",
+          "summary_long": "AnthropicはClaude Sonnet 5を6月30日に公開した。SWE-bench Proで63.2%を記録し、GPT-5.5の58.6%を上回った。入力100万トークンあたり2ドルで自律エージェント機能を提供する。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "Anthropicが科学研究者向けAIワークベンチ「Claude Science」をベータ公開",
+          "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+          "source": "Anthropic",
+          "summary_short": "Anthropicが科学者向けAIワークベンチ「Claude Science」をベータ公開した。",
+          "summary_long": "AnthropicはClaude Scienceを6月30日にベータ公開した。60以上の科学データベースと連携し、タンパク質構造の3D表示や全結果の再現可能な記録機能を備える。全有料プランで利用可能。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "米輸出規制解除でClaude Fable 5・Mythos 5が7月1日より全世界提供再開",
+          "url": "https://www.sbbit.jp/article/cont1/185965",
+          "source": "ビジネス+IT",
+          "summary_short": "米輸出規制解除でClaude Fable 5・Mythos 5が7月1日より全世界復活。",
+          "summary_long": "米商務省が輸出管理規制を解除し、AnthropicはClaude Fable 5とMythos 5の全世界提供を7月1日から再開した。一時は日本を含む米国外での利用が制限されていた。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "OpenAIがGPT-5.6（Sol・Terra・Luna）を発表、政府要請で段階提供",
+          "url": "https://www.watch.impress.co.jp/docs/news/2120569.html",
+          "source": "Impress Watch",
+          "summary_short": "OpenAIがGPT-5.6（Sol・Terra・Luna）を発表、政府要請で段階提供中。",
+          "summary_long": "OpenAIは6月26日にGPT-5.6（Sol・Terra・Luna）を発表した。最上位のSolはCerebras基盤で最大750トークン/秒を実現。米政府要請により当初は限定プレビューとして提供された。",
+          "importance": 4,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "NTTドコモ",
+      "category": "interested",
+      "trend_score": 72,
+      "trend_history": [55, 58, 75, 78, 80, 72],
+      "summary_short": "NTTドコモFGが7月1日設立、dカード・d払い等の金融事業が新会社に承継。",
+      "summary_long": "NTTドコモは2026年7月1日、完全子会社「NTTドコモ・フィナンシャルグループ」を設立した。dカード・d払い・ドコモ口座等の金融サービスが新体制に移行。NTTドコモビジネスは5月よりAI SOCの提供も開始。",
+      "articles": [
+        {
+          "title": "NTTドコモ・フィナンシャルグループ設立、ドコモの金融事業を集約",
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/2097906.html",
+          "source": "ケータイ Watch",
+          "summary_short": "NTTドコモFGが7月1日設立、dカード・d払い等の金融事業を承継した。",
+          "summary_long": "NTTドコモは2026年7月1日、完全子会社「NTTドコモ・フィナンシャルグループ」を設立した。dカード、d払い、ドコモ口座等の金融・決済サービスが新会社に承継され、住信SBIネット銀行株式等も移管された。",
+          "importance": 5,
+          "fetch_failed": false
+        },
+        {
+          "title": "金融・決済サービスの運営会社変更に伴うdカード利用規約改定のお知らせ",
+          "url": "https://www.docomo.ne.jp/info/notice/page/260508_00.html",
+          "source": "NTTドコモ",
+          "summary_short": "dカード・d払いの運営会社が7月1日よりNTTドコモFGへ変更となった。",
+          "summary_long": "NTTドコモFG設立に伴い、dカード、d払い、iDサービスの運営会社が2026年7月1日付でNTTドコモからNTTドコモFGへ変更された。サービス内容に実質的変更はなく、顧客手続きは不要。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "AIを活用してサイバー攻撃の脅威を自動対処する「AI SOC」の提供を開始",
+          "url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0520.html",
+          "source": "NTTドコモビジネス",
+          "summary_short": "NTTドコモビジネスがAIでサイバー攻撃を自動対処する「AI SOC」を提供開始。",
+          "summary_long": "NTTドコモビジネスは2026年5月20日、AIでサイバー攻撃の脅威を分析・自動対処する「AI SOC」の提供を開始した。AIによる初動対応自動化でセキュリティ対応の効率化を実現する。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "量子コンピュータ",
+      "category": "interested",
+      "trend_score": 65,
+      "trend_history": [65, 62, 63, 70, 72, 65],
+      "summary_short": "IBMが量子実用フェーズ宣言、叡IIクラウドも稼働、2026年は実用移行の年。",
+      "summary_long": "2026年は量子コンピューティングが「誤り訂正精度」へ関心がシフトし、実産業応用が本格化した年と位置づけられる。IBMは実用フェーズを宣言、理研・富士通の叡II（144量子ビット）もクラウドサービスを開始した。",
+      "articles": [
+        {
+          "title": "量子コンピューターはついに実用フェーズへ IBMが達成した量子優位性と今後",
+          "url": "https://enterprisezine.jp/article/detail/24247",
+          "source": "EnterpriseZine",
+          "summary_short": "IBMが量子コンピュータを「実用フェーズ」と宣言、産業応用が本格始動。",
+          "summary_long": "IBMはThink 2026で量子コンピューティングが実用フェーズに入ったと宣言した。NECは量子最適化で豊田自動織機向けに配車計画立案時間を6分の1以下に短縮するシステムを実用化した。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "理研・富士通共同144量子ビット叡IIクラウドサービス稼働・2026年度内1000量子ビット目指す",
+          "url": "https://note.com/hirokimiyano/n/n713958286abe",
+          "source": "量子技術解説",
+          "summary_short": "理研・富士通共同の144量子ビット「叡II」クラウドサービスが2026年3月稼働。",
+          "summary_long": "理化学研究所と富士通が共同開発した144量子ビット超伝導量子コンピュータ「叡II」のクラウドサービスが2026年3月に正式稼働した。2026年度内には1000量子ビット機の稼働も目指している。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "arXiv量子物理学（quant-ph）7月投稿164件、量子×AI融合研究が主要テーマに",
+          "url": "https://arxiv.org/list/quant-ph/current",
+          "source": "arXiv",
+          "summary_short": "arXiv quant-phに7月164件投稿、量子×AI融合研究が主要テーマに。",
+          "summary_long": "arXivの量子物理学（quant-ph）カテゴリでは2026年7月に164件の論文が投稿された。量子機械学習、誤り訂正コード、量子×AI融合研究が主要テーマとして増加している。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    },
+    {
+      "theme": "金融決済",
+      "category": "interested",
+      "trend_score": 62,
+      "trend_history": [68, 65, 68, 65, 65, 62],
+      "summary_short": "3メガ円SC協議会で2026年度内発行継続目標、PayPay純利益3倍を達成。",
+      "summary_long": "三菱UFJ・三井住友・みずほ3行の円SC共同発行協議会が2026年度内の実用化を目指して継続中。PayPayは2026年3月期の純利益が前期比3倍の1178億円に。SC規制強化で銀行・大手主導の市場構造が強まっている。",
+      "articles": [
+        {
+          "title": "3メガバンク、2026年度中にステーブルコイン共同発行へ協議会設置",
+          "url": "https://www.nikkei.com/article/DGXZQOUB0966P0Z00C26A6000000/",
+          "source": "日本経済新聞",
+          "summary_short": "3メガ銀が円SC共同発行協議会を設置、2026年度内の実取引を目指す。",
+          "summary_long": "三菱UFJ・三井住友・みずほ3メガ銀行は法定通貨連動型ステーブルコイン（円SC）の共同発行に向け協議会を設置した。信託型スキームを採用し、2026年度内の実用化を目指している。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "PayPayの2026年3月期、純利益3倍 ECサイトでの決済が堅調",
+          "url": "https://www.nikkei.com/article/DGXZQOUB070KN0X00C26A5000000/",
+          "source": "日本経済新聞",
+          "summary_short": "PayPayの2026年3月期純利益が前期比約3倍の1178億円に達した。",
+          "summary_long": "PayPayは上場後初の通期決算で純利益が前期比約3倍の1178億円を記録した。ECサイトでの決済取扱高増加に加え、PayPayカードとPayPay銀行の収益増が寄与した。",
+          "importance": 4,
+          "fetch_failed": false
+        },
+        {
+          "title": "2026年最新・ステーブルコイン規制の全貌と市場への影響",
+          "url": "https://www.fidx.co.jp/2026%E5%B9%B4%E6%9C%80%E6%96%B0%E3%82%B9%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%82%B3%E3%82%A4%E3%83%B3%E8%A6%8F%E5%88%B6%E3%81%AE%E5%85%A8%E8%B2%8C%E5%B8%82%E5%A0%B4/",
+          "source": "フィデックス",
+          "summary_short": "2026年SC規制強化で「規制適合＋信頼性」が市場競争力の核心に変化。",
+          "summary_long": "2026年のステーブルコイン規制強化により、低信頼性プロジェクトの淘汰と銀行・大手企業の市場支配力強化が進んでいる。「技術だけで勝てる時代」は終わり、規制適合と信頼性が競争の核心となった。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": ["https://k-tai.watch.impress.co.jp/docs/news/2097906.html"]
+    },
+    {
+      "theme": "国内・社会",
+      "category": "must_know",
+      "trend_score": 48,
+      "trend_history": [45, 47, 48, 46, 50, 48],
+      "summary_short": "米国建国250周年独立記念日、国内ではラーメン倒産が過去最多ペースを記録。",
+      "summary_long": "米国は2026年7月4日に建国250周年を迎え全米で大規模記念行事が開催された。大阪なおみがウィンブルドン4回戦に進出。国内ではラーメン店倒産が上半期36件と過去最多ペースを更新した。",
+      "articles": [
+        {
+          "title": "米国が建国250周年独立記念日 全米で大規模記念行事・米株市場は本日休場",
+          "url": "https://www.risvel.com/news/7627",
+          "source": "Risvel",
+          "summary_short": "米国が建国250周年独立記念日を迎え、全米で大規模記念行事が開催された。",
+          "summary_long": "2026年7月4日、米国は建国250周年（セミクインセンテニアル）を迎えた。全米で大規模なパレードや花火大会が開催され、米国株式・債券市場は本日休場となった。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "大阪なおみ ウィンブルドン選手権4回戦進出",
+          "url": "https://news.web.nhk/newsweb",
+          "source": "NHK",
+          "summary_short": "大阪なおみがウィンブルドン選手権で4回戦に進出した。",
+          "summary_long": "テニスの大阪なおみがウィンブルドン選手権4回戦に進出した。自己最高成績の更新を目指して戦っており、日本国内で注目が集まっている。",
+          "importance": 3,
+          "fetch_failed": false
+        },
+        {
+          "title": "ラーメン店倒産 2026年上半期36件 過去最多ペースを更新",
+          "url": "https://www.jiji.com/jc/archives?g=eco_archive_0",
+          "source": "時事通信",
+          "summary_short": "ラーメン店倒産が2026年上半期に36件、過去最多ペースを更新した。",
+          "summary_long": "2026年上半期のラーメン店倒産件数が36件となり、過去最多ペースを更新した。食材費高騰・人手不足・競合激化の三重苦が続き、廃業・閉店を含めた実態はさらに深刻とみられる。",
+          "importance": 3,
+          "fetch_failed": false
+        }
+      ],
+      "related": []
+    }
+  ],
+  "chart_data": {
+    "trend_scores": {
+      "最新AI情報": 90,
+      "NTTドコモ": 72,
+      "量子コンピュータ": 65,
+      "金融決済": 62,
+      "国内・社会": 48
+    },
+    "source_distribution": {
+      "LLM Stats": 1,
+      "Anthropic": 1,
+      "ビジネス+IT": 1,
+      "Impress Watch": 1,
+      "ケータイ Watch": 1,
+      "NTTドコモ": 1,
+      "NTTドコモビジネス": 1,
+      "EnterpriseZine": 1,
+      "量子技術解説": 1,
+      "arXiv": 1,
+      "日本経済新聞": 2,
+      "フィデックス": 1,
+      "Risvel": 1,
+      "NHK": 1,
+      "時事通信": 1
+    },
+    "importance_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 7,
+      "4": 7,
+      "5": 2
+    }
+  }
+}
