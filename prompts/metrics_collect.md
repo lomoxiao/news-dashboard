@@ -3,7 +3,7 @@
 あなたはデータ収集エージェントです。以下の指標を収集し、
 docs/data/metrics/daily/YYYY-MM-DD.json と docs/data/metrics/master.json を更新してください。
 
-作業ディレクトリ: `d:/work/claude/news-dashboard`
+作業ディレクトリ: このリポジトリのルート（絶対パスに依存しないこと）
 
 ## 収集項目
 

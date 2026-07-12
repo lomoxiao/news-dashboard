@@ -560,7 +560,9 @@
   </div>
 </div>
 
-<script>
+<script type="module">
+import { dataStatus, loadIndex, loadMetrics, loadReport, loadReports } from "./firestore-data.js";
+
 // ─────────────────────────────────────────────
 // State
 // ─────────────────────────────────────────────
@@ -594,15 +596,16 @@ async function getJSON(path) {
 async function boot() {
   [S.config, S.index, S.metrics] = await Promise.all([
     getJSON('config.json'),
-    getJSON('data/index.json'),
-    getJSON('data/metrics/master.json'),
+    loadIndex(),
+    loadMetrics(),
   ]);
 
   if (S.index?.reports?.length) {
     S.todayDate = S.index.reports[0].date;
-    S.today = await getJSON('data/daily/' + S.todayDate + '.json');
+    S.today = await loadReport(S.todayDate);
   }
 
+  renderDataSourceNotice();
   renderStylePills();
   renderMeta();
   renderTopSummary();
@@ -1103,7 +1106,8 @@ function renderArchive() {
 }
 
 async function loadDate(date) {
-  const data = await getJSON('data/daily/' + date + '.json');
+  const data = await loadReport(date);
+  renderDataSourceNotice();
   if (!data) { alert('データがありません: ' + date); return; }
   S.today = data;
   S.todayDate = date;
@@ -1160,9 +1164,8 @@ async function loadSourceHistoryBatch() {
   sh.loading = true;
   const dates = sh.allDates.slice(sh.loadedCount, sh.loadedCount + HISTORY_BATCH_SIZE);
   if (!dates.length) { sh.loading = false; return; }
-  const results = await Promise.all(
-    dates.map(d => fetch(BASE + 'data/daily/' + d + '.json').then(r => r.ok ? r.json() : null).catch(() => null))
-  );
+  const results = await loadReports(dates);
+  renderDataSourceNotice();
   for (let i = 0; i < dates.length; i++) {
     const data = results[i];
     if (!data) continue;
@@ -1239,6 +1242,22 @@ function switchPage(page) {
 // ─────────────────────────────────────────────
 // Utils
 // ─────────────────────────────────────────────
+function renderDataSourceNotice() {
+  let notice = document.getElementById('data-source-notice');
+  if (!dataStatus.usedFallback) {
+    notice?.remove();
+    return;
+  }
+  if (!notice) {
+    notice = document.createElement('div');
+    notice.id = 'data-source-notice';
+    notice.setAttribute('role', 'status');
+    notice.style.cssText = 'margin:12px 20px;padding:10px 14px;border:1px solid #f59e0b;border-radius:8px;background:#fffbeb;color:#92400e;font-size:13px';
+    document.querySelector('main')?.prepend(notice);
+  }
+  notice.textContent = 'Firestore?????????????????????JSON?????????';
+}
+
 function esc(s) {
   return String(s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
@@ -1246,7 +1265,12 @@ function esc(s) {
 // ─────────────────────────────────────────────
 // Boot
 // ─────────────────────────────────────────────
-boot();
+boot().catch(error => {
+  console.error(error);
+  dataStatus.usedFallback = true;
+  dataStatus.errors.push(error instanceof Error ? error.message : String(error));
+  renderDataSourceNotice();
+});
 </script>
 </body>
 </html>

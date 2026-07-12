@@ -16,6 +16,13 @@ __pycache__/
 
 # Node
 node_modules/
+dist/
+.runtime/
+firebase-debug.log
+firestore-debug.log
+firebase-service-account*.json
+.env.*
+!.env.example
 
 # Logs (keep structure, ignore content)
 docs/data/logs/*.log

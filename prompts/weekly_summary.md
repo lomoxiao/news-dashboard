@@ -3,7 +3,7 @@
 あなたはニュース編集者エージェントです。過去7日間のdaily JSONと
 docs/data/metrics/master.json を読み込み、テーマ別週次サマリーを生成してください。
 
-作業ディレクトリ: `d:/work/claude/news-dashboard`
+作業ディレクトリ: このリポジトリのルート（絶対パスに依存しないこと）
 
 ## 入力
 - docs/data/daily/YYYY-MM-DD.json (過去7日分)

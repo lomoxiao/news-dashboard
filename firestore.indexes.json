@@ -1,0 +1,21 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "reportItems",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "reportDate", "order": "DESCENDING" },
+        { "fieldPath": "sourceName", "order": "ASCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "reportItems",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "themeName", "order": "ASCENDING" },
+        { "fieldPath": "reportDate", "order": "DESCENDING" }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}
