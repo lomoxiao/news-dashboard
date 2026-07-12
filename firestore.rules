@@ -2,6 +2,11 @@ rules_version = '2';
 
 service cloud.firestore {
   match /databases/{database}/documents {
+    function isAllowlisted() {
+      return request.auth != null
+        && exists(/databases/$(database)/documents/access/$(request.auth.uid));
+    }
+
     // Public GitHub Pages data. Admin SDK writes bypass these client rules.
     match /publicReports/{date} {
       allow read: if true;
@@ -11,6 +16,54 @@ service cloud.firestore {
     match /publicDashboard/{document} {
       allow read: if document == "index" || document == "metrics";
       allow write: if false;
+    }
+
+    // Interest-engine allowlist. Granted server-side via `interest:grant`.
+    match /access/{uid} {
+      allow read: if request.auth != null && request.auth.uid == uid;
+      allow write: if false;
+    }
+
+    // Behavior telemetry: append-only, owner-only, schema-validated.
+    match /dashboardEvents/{uid}/events/{eventId} {
+      allow create: if request.auth != null
+        && request.auth.uid == uid
+        && exists(/databases/$(database)/documents/access/$(uid))
+        && request.resource.data.keys().hasOnly(['v', 'ts', 'date', 'action', 'articleId', 'theme', 'url'])
+        && request.resource.data.keys().hasAll(['v', 'ts', 'date', 'action'])
+        && request.resource.data.v == 1
+        && request.resource.data.ts is int
+        && request.resource.data.date is string
+        && request.resource.data.date.size() == 10
+        && request.resource.data.action in ['impression', 'expand', 'source_click']
+        && (!('articleId' in request.resource.data)
+            || (request.resource.data.articleId is string && request.resource.data.articleId.size() <= 128))
+        && (!('theme' in request.resource.data)
+            || (request.resource.data.theme is string && request.resource.data.theme.size() <= 60))
+        && (!('url' in request.resource.data)
+            || (request.resource.data.url is string && request.resource.data.url.size() <= 600));
+      allow read, update, delete: if false;
+    }
+
+    // Interest-engine outputs: private reads for the allowlisted user.
+    match /interestAggregates/{docId} {
+      allow read: if isAllowlisted();
+      allow write: if false;
+    }
+
+    match /interestLedger/{docId} {
+      allow read: if isAllowlisted();
+      allow write: if false;
+    }
+
+    // Proposals: the user records an approval intent; the local job applies it.
+    match /interestProposals/{proposalId} {
+      allow read: if isAllowlisted();
+      allow update: if isAllowlisted()
+        && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['decision', 'decidedAt'])
+        && request.resource.data.decision in ['approved', 'rejected']
+        && request.resource.data.decidedAt is string;
+      allow create, delete: if false;
     }
 
     // Canonical data and operational metadata remain server-only.

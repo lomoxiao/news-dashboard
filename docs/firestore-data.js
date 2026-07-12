@@ -1,6 +1,6 @@
 import { firebaseConfig } from "./firebase-config.js";
 
-const SDK_VERSION = "12.1.0";
+export const SDK_VERSION = "12.1.0";
 const APP_SDK = `https://www.gstatic.com/firebasejs/${SDK_VERSION}/firebase-app.js`;
 const FIRESTORE_SDK = `https://www.gstatic.com/firebasejs/${SDK_VERSION}/firebase-firestore.js`;
 const documentCache = new Map();
@@ -11,12 +11,12 @@ export const dataStatus = {
   errors: [],
 };
 
-async function firestoreApi() {
+export async function firestoreApi() {
   if (!firestoreApiPromise) {
     firestoreApiPromise = Promise.all([import(APP_SDK), import(FIRESTORE_SDK)])
       .then(([appSdk, firestoreSdk]) => {
-        const app = appSdk.initializeApp(firebaseConfig);
-        return { db: firestoreSdk.getFirestore(app), ...firestoreSdk };
+        const app = appSdk.getApps().length ? appSdk.getApp() : appSdk.initializeApp(firebaseConfig);
+        return { app, db: firestoreSdk.getFirestore(app), ...firestoreSdk };
       });
   }
   return firestoreApiPromise;

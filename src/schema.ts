@@ -5,6 +5,7 @@ export const datePattern = /^\d{4}-\d{2}-\d{2}$/;
 export const articleSchema = z.object({
   title: z.string().min(1),
   url: z.string().url(),
+  articleId: z.string().min(1).optional(),
   source: z.string().min(1),
   summary_short: z.string().min(1),
   summary_long: z.string().min(1),

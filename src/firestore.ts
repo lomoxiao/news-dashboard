@@ -1,5 +1,6 @@
 import { applicationDefault, getApps, initializeApp } from "firebase-admin/app";
 import { FieldValue, type Firestore, getFirestore } from "firebase-admin/firestore";
+import { enrichReportWithArticleIds } from "./enrich.js";
 import { dailyReportSchema, publicIndexSchema, type DailyReport, type PublicIndex } from "./schema.js";
 import type { SupplementalData, SupplementalDocument } from "./supplemental.js";
 import { articleIdForUrl, canonicalizeUrl } from "./url.js";
@@ -45,6 +46,7 @@ export class FirestoreStore {
     headline = "",
     rejectDuplicateUrls = true,
   ): Promise<void> {
+    report = enrichReportWithArticleIds(report);
     const batch = this.db.batch();
     const seenInReport = new Set<string>();
     batch.set(this.db.collection("reports").doc(report.date), {
@@ -143,7 +145,7 @@ export class FirestoreStore {
     return snapshot.docs.map((doc) => {
       const data = doc.data();
       return {
-        report: dailyReportSchema.parse(data.payload),
+        report: enrichReportWithArticleIds(dailyReportSchema.parse(data.payload)),
         headline: typeof data.headline === "string" ? data.headline : "",
       };
     });

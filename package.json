@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "dev": "node scripts/dev-server.mjs",
     "build": "tsc -p tsconfig.json",
     "typecheck": "tsc -p tsconfig.json --noEmit",
     "test": "tsx --test tests/*.test.ts",
@@ -18,6 +19,7 @@
     "publish:backfill:dry": "tsx src/cli.ts publish:backfill --dry-run",
     "verify:public": "tsx src/cli.ts verify:public",
     "sync:supplemental": "tsx src/cli.ts sync:supplemental",
+    "interest:grant": "tsx src/cli.ts interest:grant",
     "test:rules": "firebase emulators:exec --only firestore --project demo-news-dashboard \"npm test\""
   },
   "dependencies": {

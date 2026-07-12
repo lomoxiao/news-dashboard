@@ -56,6 +56,14 @@ try {
       print({ runId, status });
       break;
     }
+    case "interest:grant": {
+      const uid = args[0];
+      if (!uid) throw new Error("Usage: cli.ts interest:grant <uid>");
+      const store = new FirestoreStore();
+      await store.db.collection("access").doc(uid).set({ grantedAt: new Date().toISOString() }, { merge: true });
+      print({ uid, status: "granted" });
+      break;
+    }
     case "export":
       print(await exportPublicJson());
       break;
@@ -69,7 +77,7 @@ try {
       print(await syncSupplementalData());
       break;
     default:
-      throw new Error("Usage: cli.ts <validate|validate-existing|migrate|ingest|export|publish:backfill|verify:public|sync:supplemental|mark-run> [args]");
+      throw new Error("Usage: cli.ts <validate|validate-existing|migrate|ingest|export|publish:backfill|verify:public|sync:supplemental|mark-run|interest:grant> [args]");
   }
 } catch (error) {
   process.stderr.write(`${error instanceof Error ? error.stack ?? error.message : String(error)}\n`);

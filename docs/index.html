@@ -436,6 +436,34 @@
     /* Sources page — row is clickable */
     .source-item { cursor: pointer; transition: background .12s; }
     .source-item:hover { background: var(--surface3); }
+
+    /* ── Telemetry auth (interest engine) ── */
+    .auth-btn {
+      background: var(--surface2); border: 1px solid var(--border);
+      color: var(--text2); padding: 3px 10px; border-radius: 14px;
+      font-size: 12px; transition: all .12s; white-space: nowrap;
+    }
+    .auth-btn:hover { border-color: var(--accent); color: var(--text); }
+    .auth-btn.on { border-color: rgba(62,207,142,.4); color: var(--green); background: rgba(62,207,142,.1); }
+    .auth-panel {
+      position: absolute; right: 16px; top: 100%; margin-top: 6px;
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: 10px; padding: 12px; width: 250px; z-index: 300;
+      box-shadow: 0 8px 24px rgba(0,0,0,.4);
+    }
+    .auth-panel input {
+      width: 100%; background: var(--surface2); border: 1px solid var(--border);
+      color: var(--text); border-radius: 6px; padding: 6px 8px;
+      font-size: 13px; margin-bottom: 6px; font-family: inherit;
+    }
+    .auth-panel input:focus { outline: none; border-color: var(--accent); }
+    .auth-action-btn {
+      width: 100%; background: var(--accent); border: none; color: #fff;
+      border-radius: 6px; padding: 6px; font-size: 13px; font-weight: 600;
+    }
+    .auth-action-btn.secondary { background: var(--surface3); color: var(--text2); }
+    .auth-error { color: var(--red); font-size: 11px; margin-top: 4px; }
+    .auth-meta { font-size: 11px; color: var(--text2); word-break: break-all; }
   </style>
 </head>
 <body>
@@ -448,7 +476,25 @@
         <div class="header-title">📰 ニュースダッシュボード</div>
         <div class="header-meta" id="header-meta">読み込み中...</div>
       </div>
-      <div class="style-pills" id="style-pills"></div>
+      <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap">
+        <div class="style-pills" id="style-pills"></div>
+        <button class="auth-btn" id="auth-btn" title="計測（興味エンジン）">🔐</button>
+      </div>
+    </div>
+    <div class="auth-panel" id="auth-panel" style="display:none">
+      <div class="card-label" style="margin-bottom:8px">計測（興味エンジン）</div>
+      <div id="auth-form">
+        <input id="auth-email" type="email" placeholder="メールアドレス" autocomplete="username">
+        <input id="auth-password" type="password" placeholder="パスワード" autocomplete="current-password">
+        <button class="auth-action-btn" id="auth-login">ログイン</button>
+        <div class="auth-error" id="auth-error"></div>
+      </div>
+      <div id="auth-session" style="display:none">
+        <div class="auth-meta" id="auth-user" style="margin-bottom:4px"></div>
+        <div class="auth-meta" id="auth-uid" style="margin-bottom:8px;opacity:.7"></div>
+        <button class="auth-action-btn secondary" id="auth-logout">ログアウト</button>
+      </div>
+      <div class="auth-meta" id="auth-queue" style="margin-top:8px"></div>
     </div>
   </header>
 
@@ -562,6 +608,7 @@
 
 <script type="module">
 import { dataStatus, loadIndex, loadMetrics, loadReport, loadReports } from "./firestore-data.js";
+import { currentUser, initTelemetry, logEvent, observeArticleCards, queuedEventCount, signIn, signOutUser } from "./telemetry.js";
 
 // ─────────────────────────────────────────────
 // State
@@ -646,11 +693,19 @@ async function boot() {
     // Expand/collapse card
     const card = e.target.closest('.article-card');
     if (!card) return;
-    if (e.target.tagName === 'A') return;
+    if (e.target.tagName === 'A') {
+      logEvent('source_click', cardTelMeta(card));
+      return;
+    }
     card.classList.toggle('expanded');
+    if (card.classList.contains('expanded')) logEvent('expand', cardTelMeta(card));
     const btn = card.querySelector('.art-expand-btn');
     if (btn) btn.textContent = card.classList.contains('expanded') ? '▲ 閉じる' : '▼ 詳細を見る';
   });
+
+  // Interest-engine telemetry (soft login; dashboard works fully without it)
+  initAuthUi();
+  void initTelemetry({ getDate: () => S.todayDate, onAuthChange: renderAuthState });
 
   // Source history modal
   document.getElementById('src-history-backdrop').addEventListener('click', e => {
@@ -896,6 +951,7 @@ function renderTopics(filterTheme) {
         ${moreBtn}
       </div>`;
   }).join('');
+  observeArticleCards(el);
 }
 
 function handleLoadMore(moreBtn) {
@@ -910,6 +966,7 @@ function handleLoadMore(moreBtn) {
   const next = articles.slice(offset, offset + DEFAULT_TOPIC_PAGE_SIZE);
   const grid = moreBtn.previousElementSibling;
   grid.insertAdjacentHTML('beforeend', next.map(a => articleCard(a, theme)).join(''));
+  observeArticleCards(grid);
   const newOffset = offset + DEFAULT_TOPIC_PAGE_SIZE;
   const remaining = articles.length - newOffset;
   if (remaining <= 0) moreBtn.remove();
@@ -939,7 +996,7 @@ function renderSourceFilterBar() {
 
 function articleCard(a, theme) {
   return `
-    <div class="article-card">
+    <div class="article-card" data-tel-id="${esc(a.articleId || '')}" data-tel-theme="${esc(theme)}" data-tel-url="${esc(a.url)}">
       <div class="art-header">
         <div class="art-title">
           <a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a>
@@ -1237,6 +1294,72 @@ function switchPage(page) {
   if (page === 'trends')  renderCharts();
   if (page === 'archive') renderArchive();
   if (page === 'sources') renderSources();
+}
+
+// ─────────────────────────────────────────────
+// Telemetry auth UI (interest engine)
+// ─────────────────────────────────────────────
+function cardTelMeta(card) {
+  return {
+    articleId: card.dataset.telId || undefined,
+    theme: card.dataset.telTheme || undefined,
+    url: card.dataset.telUrl || undefined,
+  };
+}
+
+function initAuthUi() {
+  const btn = document.getElementById('auth-btn');
+  const panel = document.getElementById('auth-panel');
+  btn.addEventListener('click', () => {
+    const hidden = panel.style.display === 'none';
+    panel.style.display = hidden ? '' : 'none';
+    if (hidden) renderAuthPanel();
+  });
+  document.getElementById('auth-login').addEventListener('click', () => void doLogin());
+  document.getElementById('auth-password').addEventListener('keydown', e => {
+    if (e.key === 'Enter') void doLogin();
+  });
+  document.getElementById('auth-logout').addEventListener('click', async () => {
+    try { await signOutUser(); } catch { /* already signed out */ }
+    renderAuthPanel();
+  });
+  document.addEventListener('click', e => {
+    if (panel.style.display === 'none') return;
+    if (!panel.contains(e.target) && !btn.contains(e.target)) panel.style.display = 'none';
+  });
+}
+
+async function doLogin() {
+  const errEl = document.getElementById('auth-error');
+  errEl.textContent = '';
+  const email = document.getElementById('auth-email').value.trim();
+  const password = document.getElementById('auth-password').value;
+  if (!email || !password) { errEl.textContent = 'メールとパスワードを入力してください'; return; }
+  try {
+    await signIn(email, password);
+    document.getElementById('auth-password').value = '';
+    document.getElementById('auth-panel').style.display = 'none';
+  } catch {
+    errEl.textContent = 'ログインできませんでした';
+  }
+}
+
+function renderAuthState(user) {
+  const btn = document.getElementById('auth-btn');
+  btn.classList.toggle('on', !!user);
+  btn.textContent = user ? '🔐 計測中' : '🔐';
+  renderAuthPanel();
+}
+
+function renderAuthPanel() {
+  const user = currentUser();
+  document.getElementById('auth-form').style.display = user ? 'none' : '';
+  document.getElementById('auth-session').style.display = user ? '' : 'none';
+  if (user) {
+    document.getElementById('auth-user').textContent = user.email || '(メール未設定)';
+    document.getElementById('auth-uid').textContent = 'uid: ' + user.uid;
+  }
+  document.getElementById('auth-queue').textContent = `未送信イベント: ${queuedEventCount()} 件`;
 }
 
 // ─────────────────────────────────────────────
