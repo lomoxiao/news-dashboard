@@ -1,6 +1,7 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 import { enrichReportWithArticleIds } from "../src/enrich.js";
+import { reportsMatchForPublication } from "../src/publisher.js";
 import type { DailyReport } from "../src/schema.js";
 import { articleIdForUrl } from "../src/url.js";
 
@@ -60,4 +61,19 @@ test("enrichReportWithArticleIds does not mutate the input report", () => {
   const report = sampleReport();
   enrichReportWithArticleIds(report);
   assert.equal(firstArticle(report).articleId, undefined);
+});
+
+test("publication comparison normalizes legacy reports missing articleId", () => {
+  const published = sampleReport();
+  const canonical = enrichReportWithArticleIds(published);
+
+  assert.equal(reportsMatchForPublication(canonical, published), true);
+});
+
+test("publication comparison still rejects substantive report differences", () => {
+  const published = sampleReport();
+  const canonical = enrichReportWithArticleIds(published);
+  firstArticle(canonical).title = "Changed article";
+
+  assert.equal(reportsMatchForPublication(canonical, published), false);
 });

@@ -1,12 +1,21 @@
 import { isDeepStrictEqual } from "node:util";
+import { enrichReportWithArticleIds } from "./enrich.js";
 import { FirestoreStore } from "./firestore.js";
 import { buildPublicIndex } from "./publication.js";
+import type { DailyReport } from "./schema.js";
 import { loadSupplementalData } from "./supplemental.js";
 
 export interface PublishSummary {
   reports: number;
   metrics: boolean;
   dryRun: boolean;
+}
+
+export function reportsMatchForPublication(canonical: DailyReport, published: DailyReport): boolean {
+  return isDeepStrictEqual(
+    enrichReportWithArticleIds(canonical),
+    enrichReportWithArticleIds(published),
+  );
 }
 
 export async function refreshPublicIndex(store: FirestoreStore): Promise<number> {
@@ -61,7 +70,7 @@ export async function verifyPublishedData(): Promise<{ reports: number; metrics:
   }
   for (const { report } of reports) {
     const published = await store.readPublicReport(report.date);
-    if (!published || !isDeepStrictEqual(published, report)) {
+    if (!published || !reportsMatchForPublication(report, published)) {
       throw new Error(`Published report does not match canonical report: ${report.date}`);
     }
   }
