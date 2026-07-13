@@ -26,3 +26,6 @@ firebase-service-account*.json
 
 # Logs (keep structure, ignore content)
 docs/data/logs/*.log
+
+# Interest engine working files (private behavior data)
+interest-work/

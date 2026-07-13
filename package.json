@@ -20,6 +20,8 @@
     "verify:public": "tsx src/cli.ts verify:public",
     "sync:supplemental": "tsx src/cli.ts sync:supplemental",
     "interest:grant": "tsx src/cli.ts interest:grant",
+    "interest:score": "tsx src/cli.ts interest:score",
+    "interest:score:dry": "tsx src/cli.ts interest:score --dry-run",
     "test:rules": "firebase emulators:exec --only firestore --project demo-news-dashboard \"npm test\""
   },
   "dependencies": {

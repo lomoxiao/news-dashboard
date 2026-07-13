@@ -56,6 +56,11 @@ try {
       print({ runId, status });
       break;
     }
+    case "interest:score": {
+      const { runInterestScore } = await import("./interest/run.js");
+      print(await runInterestScore(args.includes("--dry-run")));
+      break;
+    }
     case "interest:grant": {
       const uid = args[0];
       if (!uid) throw new Error("Usage: cli.ts interest:grant <uid>");
@@ -77,7 +82,7 @@ try {
       print(await syncSupplementalData());
       break;
     default:
-      throw new Error("Usage: cli.ts <validate|validate-existing|migrate|ingest|export|publish:backfill|verify:public|sync:supplemental|mark-run|interest:grant> [args]");
+      throw new Error("Usage: cli.ts <validate|validate-existing|migrate|ingest|export|publish:backfill|verify:public|sync:supplemental|mark-run|interest:grant|interest:score> [args]");
   }
 } catch (error) {
   process.stderr.write(`${error instanceof Error ? error.stack ?? error.message : String(error)}\n`);

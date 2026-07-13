@@ -131,5 +131,24 @@
     "articles_per_theme_min": 3,
     "articles_per_theme_max": 15,
     "min_importance_score": 3
+  },
+  "interest": {
+    "window_days": 28,
+    "half_life_days": 14,
+    "weights": {
+      "expand": 1,
+      "source_click": 2,
+      "promotion": 3,
+      "generation": 1,
+      "read": 2,
+      "later": 0.5,
+      "stale_promotion": -1
+    },
+    "stale_after_days": 14,
+    "repromotion_multiplier": 1.5,
+    "smoothing_exposures": 8,
+    "min_exposure": 8,
+    "lift_boost_threshold": 2.0,
+    "lift_decay_threshold": 0.3
   }
 }
