@@ -10,7 +10,17 @@ export interface ValidationResult {
   summaryLengthViolations: number;
 }
 
+const expectedSummaryStyles = ["journalist", "friendly", "brief", "analytical"];
+
 export function validateReportSemantics(report: DailyReport, strict = true): ValidationResult {
+  const summaryStyles = Object.keys(report.top_summary);
+  const missingStyles = expectedSummaryStyles.filter((style) => !summaryStyles.includes(style));
+  const unexpectedStyles = summaryStyles.filter((style) => !expectedSummaryStyles.includes(style));
+  if (strict && (missingStyles.length > 0 || unexpectedStyles.length > 0)) {
+    throw new Error(
+      `Invalid top_summary styles in ${report.date}: missing=${missingStyles.join(",") || "none"}; unexpected=${unexpectedStyles.join(",") || "none"}`,
+    );
+  }
   const seen = new Set<string>();
   let articles = 0;
   let duplicateArticles = 0;

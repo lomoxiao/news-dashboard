@@ -59,7 +59,7 @@ export class FirestoreStore {
       articleCount: report.topics.reduce((sum, topic) => sum + topic.articles.length, 0),
       payload: report,
       updatedAt: FieldValue.serverTimestamp(),
-    }, { merge: true });
+    });
     batch.set(this.db.collection("publicReports").doc(report.date), {
       date: report.date,
       generatedAt: report.generated_at,
