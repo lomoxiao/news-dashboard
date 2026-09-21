@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+<title>Payments Landscape — 全体図</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho+B1:wght@500;700&family=Zen+Kaku+Gothic+New:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="css/base.css" />
+</head>
+<body class="pl-body">
+
+<header class="pl-header">
+  <div class="pl-brand">
+    <span class="pl-brand-name">Payments Landscape</span>
+    <span class="pl-brand-tagline">決済業界の関係図・週次アップデート</span>
+  </div>
+  <nav class="pl-nav">
+    <a href="index.html" class="is-active">全体図</a>
+    <a href="player.html">企業の関係図</a>
+    <a href="edge.html">関係の履歴</a>
+    <a href="news.html">週次ニュース</a>
+  </nav>
+  <div class="pl-spacer"></div>
+  <div id="auth-widget" class="pl-auth-widget"></div>
+  <div class="pl-search">
+    <span class="pl-search-label">企業名で検索</span><br />
+    <input id="q" type="text" class="pl-search-input" placeholder="企業名で検索（例：Mastercard）" aria-label="企業名で検索" />
+  </div>
+  <span id="updated" class="pl-updated"></span>
+</header>
+
+<div class="pl-layout">
+  <aside class="pl-filters">
+    <div class="pl-filter-group">
+      <div class="pl-filter-group-title">地域</div>
+      <div id="filter-region"></div>
+    </div>
+    <div class="pl-filter-group">
+      <div class="pl-filter-group-title">表示</div>
+      <div id="filter-display"></div>
+    </div>
+    <div class="pl-filter-group">
+      <div class="pl-filter-group-title">系統</div>
+      <div id="filter-track"></div>
+    </div>
+    <div class="pl-filter-group">
+      <div class="pl-filter-group-title">集計</div>
+      <div id="stats" class="pl-stats"></div>
+    </div>
+  </aside>
+
+  <main class="pl-main">
+    <div class="pl-main-title-row">
+      <h1 class="pl-main-title">全体図</h1>
+      <span class="pl-main-subtitle">レイヤー別に企業・サービスを一覧できます。チップをクリックすると関係図に移動します。</span>
+    </div>
+    <div id="layers"></div>
+  </main>
+
+  <aside class="pl-side-news">
+    <div class="pl-side-news-head">
+      <span class="pl-side-news-title">今週の動き</span>
+      <span id="news-period" class="pl-side-news-period"></span>
+    </div>
+    <ul id="news-list" class="pl-news-list"></ul>
+  </aside>
+</div>
+
+<script type="module" src="js/mobile-nav.js"></script>
+<script type="module" src="js/auth.js"></script>
+<script type="module" src="js/page-main.js"></script>
+</body>
+</html>

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+<title>関係の履歴 — Payments Landscape</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho+B1:wght@500;700&family=Zen+Kaku+Gothic+New:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="css/base.css" />
+</head>
+<body class="pl-body">
+
+<header class="pl-header">
+  <div class="pl-brand">
+    <span class="pl-brand-name">Payments Landscape</span>
+    <span class="pl-brand-tagline">決済業界の関係図・週次アップデート</span>
+  </div>
+  <nav class="pl-nav">
+    <a href="index.html">全体図</a>
+    <a href="player.html">企業の関係図</a>
+    <a href="edge.html" class="is-active">関係の履歴</a>
+    <a href="news.html">週次ニュース</a>
+  </nav>
+  <div class="pl-spacer"></div>
+  <div id="auth-widget" class="pl-auth-widget"></div>
+</header>
+
+<div id="edge-root" class="pl-edge-root">
+  <div class="pl-edge-main">
+    <nav class="pl-breadcrumb" aria-label="パンくず">
+      <a href="index.html">全体図</a><span>›</span><a id="breadcrumb-via" href="player.html"></a><span>›</span>
+      <span class="current" id="breadcrumb-current"></span>
+    </nav>
+
+    <h1 class="pl-edge-title" id="edge-title"></h1>
+    <div class="pl-edge-meta-row" id="edge-meta"></div>
+
+    <div class="pl-state-block" id="state-block">
+      <span class="pl-side-section-title">現在の状態</span>
+      <div class="pl-state-track" id="state-track"></div>
+      <span class="pl-caveat">状態は最新の記録で決まる。</span>
+    </div>
+
+    <div>
+      <div class="pl-record-list-head">
+        <span class="pl-side-section-title">記録</span>
+        <button type="button" class="pl-link-btn" id="sort-toggle">新しい順</button>
+      </div>
+      <ol class="pl-record-list" id="record-list"></ol>
+    </div>
+  </div>
+
+  <aside class="pl-edge-side">
+    <span class="pl-side-section-title">この画面に出ないもの</span>
+    <ul>
+      <li>evidence の Notes 本文（判断・疑義のメモ）</li>
+      <li>週次レポートの「提案への効き」</li>
+      <li>個人情報、顧客名・案件名</li>
+      <li>有料媒体の本文</li>
+    </ul>
+    <span class="pl-caveat">公開用の注意は、収集時に書いた caution の1行だけを表示します。</span>
+  </aside>
+</div>
+
+<script type="module" src="js/mobile-nav.js"></script>
+<script type="module" src="js/auth.js"></script>
+<script type="module" src="js/page-edge.js"></script>
+</body>
+</html>

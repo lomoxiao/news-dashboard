@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+<title>週次ニュース — Payments Landscape</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho+B1:wght@500;700&family=Zen+Kaku+Gothic+New:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="css/base.css" />
+</head>
+<body class="pl-body">
+
+<header class="pl-header">
+  <div class="pl-brand">
+    <span class="pl-brand-name">Payments Landscape</span>
+    <span class="pl-brand-tagline">決済業界の関係図・週次アップデート</span>
+  </div>
+  <nav class="pl-nav">
+    <a href="index.html">全体図</a>
+    <a href="player.html">企業の関係図</a>
+    <a href="edge.html">関係の履歴</a>
+    <a href="news.html" class="is-active">週次ニュース</a>
+  </nav>
+  <div class="pl-spacer"></div>
+  <div id="auth-widget" class="pl-auth-widget"></div>
+</header>
+
+<div id="news-root" class="pl-news-layout">
+  <aside class="pl-news-sidebar">
+    <div style="display:flex; flex-direction:column; gap:8px;">
+      <span style="font-size:12px; font-weight:700; color:var(--pl-text-muted);">回</span>
+      <div class="pl-round-list" id="round-list"></div>
+    </div>
+
+    <div style="display:flex; flex-direction:column; gap:8px;">
+      <div class="pl-trend-head">
+        <span>系統の推移（出典数）</span>
+        <span class="cols" id="trend-head-cols"></span>
+      </div>
+      <div id="trend-body"></div>
+      <span class="pl-caveat" id="trend-note"></span>
+    </div>
+  </aside>
+
+  <main class="pl-news-main">
+    <div class="pl-news-title-row">
+      <h1 class="pl-news-title" id="news-title"></h1>
+      <span class="pl-news-subtitle" id="news-subtitle"></span>
+    </div>
+    <span class="pl-news-hint">企業名を選ぶと関係図へ。見出しを選ぶと事実の段落と出典（提案への効きは非公開）</span>
+    <ol class="pl-news-list-lg" id="news-list-lg"></ol>
+  </main>
+</div>
+
+<script type="module" src="js/mobile-nav.js"></script>
+<script type="module" src="js/auth.js"></script>
+<script type="module" src="js/page-news.js"></script>
+</body>
+</html>

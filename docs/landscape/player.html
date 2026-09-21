@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+<title>企業の関係図 — Payments Landscape</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho+B1:wght@500;700&family=Zen+Kaku+Gothic+New:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="css/base.css" />
+</head>
+<body class="pl-body">
+
+<header class="pl-header">
+  <div class="pl-brand">
+    <span class="pl-brand-name">Payments Landscape</span>
+    <span class="pl-brand-tagline">決済業界の関係図・週次アップデート</span>
+  </div>
+  <nav class="pl-nav">
+    <a href="index.html">全体図</a>
+    <a href="player.html" class="is-active">企業の関係図</a>
+    <a href="edge.html">関係の履歴</a>
+    <a href="news.html">週次ニュース</a>
+  </nav>
+  <div class="pl-spacer"></div>
+  <div id="auth-widget" class="pl-auth-widget"></div>
+</header>
+
+<div id="player-root" class="pl-player-layout" data-mtab="rel">
+  <main class="pl-player-main">
+    <nav class="pl-breadcrumb" aria-label="パンくず">
+      <a href="index.html">全体図</a><span>›</span><span id="breadcrumb-layer"></span><span>›</span>
+      <span class="current" id="breadcrumb-current"></span>
+    </nav>
+
+    <div class="pl-page-head">
+      <h1 class="pl-page-title" id="page-title">関係図</h1>
+      <div class="pl-btn-group">
+        <button type="button" class="pl-btn is-active">直接の関係</button>
+        <button type="button" class="pl-btn" disabled title="将来の拡張（フェーズ1では未実装）">2 段階先まで</button>
+      </div>
+    </div>
+
+    <div class="pl-diagram-legend">
+      <span class="item"><svg width="36" height="8" aria-hidden="true"><line x1="0" y1="4" x2="36" y2="4" stroke="#1C1E24" stroke-width="2"></line></svg>一次</span>
+      <span class="item"><svg width="36" height="8" aria-hidden="true"><line x1="0" y1="4" x2="36" y2="4" stroke="#1C1E24" stroke-width="2" stroke-dasharray="10 6"></line></svg>二次</span>
+      <span class="item"><svg width="36" height="8" aria-hidden="true"><line x1="0" y1="4" x2="36" y2="4" stroke="#1C1E24" stroke-width="2" stroke-dasharray="3 5"></line></svg>未確認・参考</span>
+      <span>線の色＝系統（競合はグレー）　太さ＝記録の数</span>
+    </div>
+
+    <div class="pl-diagram-card" id="diagram"></div>
+    <p class="pl-caveat" id="edge-caption"></p>
+  </main>
+
+  <aside class="pl-player-side">
+    <div style="display:flex; flex-direction:column; gap:8px;">
+      <div class="pl-entity-head">
+        <span class="name" id="entity-name"></span>
+        <span class="meta" id="entity-meta"></span>
+      </div>
+      <div class="pl-entity-tags" id="entity-tags"></div>
+    </div>
+
+    <div class="pl-mtabs" id="mtabs" role="group" aria-label="表示する内容"></div>
+
+    <div id="rel-section" data-mtab-sec="rel" style="display:flex; flex-direction:column; gap:4px;">
+      <span class="pl-side-section-title">関係の一覧</span>
+      <span class="pl-caveat pl-rel-mobile-note">スマホでは関係図の代わりに一覧で表示（新しい順・タップで履歴へ）</span>
+      <ul class="pl-rel-mobile" id="rel-list-mobile"></ul>
+      <table class="pl-rel-table">
+        <thead>
+          <tr><th>相手</th><th>種類</th><th>日付</th><th>確度</th><th>系統</th></tr>
+        </thead>
+        <tbody id="rel-table-body"></tbody>
+      </table>
+    </div>
+
+    <div id="milestone-section" data-mtab-sec="plan" style="display:flex; flex-direction:column; gap:4px;">
+      <span class="pl-side-section-title">今後の予定</span>
+      <ul class="pl-milestone-list" id="milestone-list"></ul>
+      <span class="pl-caveat">いずれも発表元の見通し。確定日ではない。</span>
+    </div>
+
+    <div id="news-refs-section" data-mtab-sec="news" style="display:flex; flex-direction:column; gap:4px;">
+      <span class="pl-side-section-title">最近の記事（未確認・自動要約）</span>
+      <ul class="pl-newsref-list" id="news-refs-list"></ul>
+      <span class="pl-caveat">news-dashboardの記事を企業名で機械的に照合しただけの参考情報。Landscape本体（企業・関係・確度）の根拠ではない。</span>
+    </div>
+    <p class="pl-mtab-empty" id="mtab-empty"></p>
+  </aside>
+</div>
+
+<script type="module" src="js/mobile-nav.js"></script>
+<script type="module" src="js/auth.js"></script>
+<script type="module" src="js/page-player.js"></script>
+</body>
+</html>

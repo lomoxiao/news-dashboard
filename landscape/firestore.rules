@@ -1,0 +1,66 @@
+rules_version = '2';
+
+// Payments Landscape 用 Firestore セキュリティルール（雛形）
+// 前提：news-dashboard とは別の新規 Firebase プロジェクト（2026-09-21 決定）
+// 参照：decisions/2026-09-21-payments-landscape-firebase-architecture.md
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // 本人判定：Firebase Auth でサインインしたユーザーのうち、
+    // メールアドレスが一致し、かつ email_verified な場合のみ「本人」とみなす。
+    // NOTE: 実装時、UID が確定したら request.auth.uid == '<本人のUID>' に切り替えてもよい。
+    //       メール比較のままでも、Firebase Auth の ID トークンはサーバー側で検証済みのため
+    //       クライアントから偽装はできない。
+    function isOwner() {
+      return request.auth != null
+        && request.auth.token.email == 'lomoxiao@gmail.com'
+        && request.auth.token.email_verified == true;
+    }
+
+    // ---------------------------------------------------------------
+    // 公開コレクション：誰でも読み取り可。書き込みはクライアントから一切禁止。
+    // 同期スクリプトは Admin SDK のサービスアカウントを使って書き込むため、
+    // このセキュリティルール（クライアント SDK 向け）の対象外。
+    // ---------------------------------------------------------------
+    match /entities/{entityId} {
+      allow read: if true;
+      allow write: if false;
+    }
+    match /relations/{relationId} {
+      allow read: if true;
+      allow write: if false;
+    }
+    match /evidence/{evidenceId} {
+      allow read: if true;
+      allow write: if false;
+    }
+    match /weeklyDigests/{digestId} {
+      allow read: if true;
+      allow write: if false;
+    }
+    match /newsRefs/{newsRefId} {
+      allow read: if true;
+      allow write: if false;
+    }
+
+    // ---------------------------------------------------------------
+    // 非公開コレクション：本人のみ読み書き可
+    // ---------------------------------------------------------------
+    match /notes/{noteId} {
+      allow read, write: if isOwner();
+    }
+    match /researchRequests/{requestId} {
+      allow read, write: if isOwner();
+    }
+    match /proposalNotes/{noteId} {
+      allow read, write: if isOwner();
+    }
+
+    // それ以外のコレクションは全て拒否
+    // （想定外のコレクションが誤って公開されることを防ぐデフォルト拒否）
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

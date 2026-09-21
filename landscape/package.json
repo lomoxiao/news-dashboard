@@ -1,0 +1,19 @@
+{
+  "name": "payments-landscape-firebase",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Payments Landscape 用 Firestore セキュリティルール・同期スクリプト（雛形）",
+  "scripts": {
+    "test:rules": "firebase emulators:exec --only firestore \"node --test test/rules.test.mjs\"",
+    "sync": "node sync/index.mjs --vault \"$VAULT_DIR\""
+  },
+  "devDependencies": {
+    "firebase-tools": "^13.0.0",
+    "@firebase/rules-unit-testing": "^3.0.0"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "firebase-admin": "^12.0.0",
+    "firebase": "^10.14.1"
+  }
+}
