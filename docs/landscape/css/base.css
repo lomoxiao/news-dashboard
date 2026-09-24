@@ -218,6 +218,18 @@ a.pl-chip:hover { border-color: var(--pl-accent); }
 .pl-newsref-title a { font-size: 13px; font-weight: 600; line-height: 1.4; }
 .pl-newsref-summary { font-size: 12px; color: var(--pl-text-muted); line-height: 1.6; margin: 0; }
 
+.pl-event-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 10px; }
+.pl-event-item { padding: 8px 0; border-top: 1px solid var(--pl-border); display: flex; flex-direction: column; gap: 4px; }
+.pl-event-item:first-child { border-top: none; padding-top: 0; }
+.pl-event-head { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+.pl-event-date { font-family: var(--font-mono); font-size: 11px; color: var(--pl-text-muted); }
+.pl-event-summary { font-size: 13px; font-weight: 600; line-height: 1.5; margin: 0; }
+.pl-event-meta { display: flex; gap: 6px; align-items: center; flex-wrap: wrap; font-size: 12px; }
+.pl-event-relations { display: flex; gap: 6px; flex-wrap: wrap; }
+.pl-event-relation-link { font-size: 11px; padding: 1px 6px; border-radius: 999px; border: 1px solid var(--pl-border); color: var(--pl-text-muted); }
+.pl-event-relation-link:hover { border-color: var(--pl-text); color: var(--pl-text); }
+.pl-event-caution { font-size: 12px; color: #8A4B12; }
+
 /* ---------------------------------------------------------------- 関係の履歴（Edge） */
 
 .pl-edge-title { margin: 0; font-family: var(--font-serif); font-size: 28px; }
@@ -382,6 +394,7 @@ a.pl-chip:hover { border-color: var(--pl-accent); }
   .pl-mtab.is-active { border-color: var(--pl-text); background: var(--pl-text); color: #FFFFFF; }
 
   #player-root[data-mtab="rel"] [data-mtab-sec]:not([data-mtab-sec="rel"]),
+  #player-root[data-mtab="events"] [data-mtab-sec]:not([data-mtab-sec="events"]),
   #player-root[data-mtab="news"] [data-mtab-sec]:not([data-mtab-sec="news"]),
   #player-root[data-mtab="plan"] [data-mtab-sec]:not([data-mtab-sec="plan"]) { display: none !important; }
   .pl-mtab-empty.is-shown { display: block; padding: 24px 0; text-align: center; font-size: 13px; color: var(--pl-text-muted); }

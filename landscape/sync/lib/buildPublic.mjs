@@ -113,8 +113,8 @@ export function buildEvidence(evidenceList) {
 // ---------------------------------------------------------------- relations
 
 /**
- * evidence の frontmatter.relations（{from,to,kind} の配列）を
- * (from,to,kind) 単位に集約し、confidence・tracks・firstSeenDate・lastSeenDate を導出する。
+ * evidence の frontmatter.relations（{from,to,kind,date,status,until} の配列）を
+ * (from,to,kind) 単位に集約し、confidence・tracks・firstSeenDate・lastSeenDate・status・until を導出する。
  *
  * 集約ルール（このスクリプトの実装判断。ADRに明記が無いため、ここに理由を書く）：
  * - confidence は、その関係を裏付ける evidence のうち最も強いもの
@@ -122,9 +122,14 @@ export function buildEvidence(evidenceList) {
  * - tracks は、裏付ける evidence の track（空文字は除く）の和集合。
  * - firstSeenDate / lastSeenDate は、裏付ける evidence の記事日（published があればそれ、なければ date）の
  *   最小 / 最大（"YYYY-MM-DD" 形式なので文字列比較で安全に min/max が取れる）。
+ * - status / until は、[[decisions/2026-09-20-evidence-schema-v2]] 3節の定義どおり「関係の現在の状態」。
+ *   各 rel（関係の1レコード）の rel.date（関係が起きた日。無ければ evidence の記事日で代用）を比較し、
+ *   最新のものの status・until を「現在の状態」として採用する（古い記録の status で上書きしない）。
+ *   status を持つ rel が1件も無い関係（過去に実装漏れで status を書けなかった時期の evidence など）では、
+ *   status / until フィールドそのものを出力しない（画面側は「現在の状態」欄を非表示にする）。
  */
 export function buildRelations(evidenceList) {
-  const byKey = new Map(); // "from|to|kind" -> { from, to, kind, confidence, tracks:Set, dates:[] }
+  const byKey = new Map(); // "from|to|kind" -> { from, to, kind, confidence, tracks:Set, dates:[], statusEvents:[] }
 
   for (const evidence of evidenceList) {
     if (evidence.frontmatter.publish === false) continue;
@@ -144,6 +149,7 @@ export function buildRelations(evidenceList) {
           confidence,
           tracks: new Set(),
           dates: [],
+          statusEvents: [],
         });
       }
       const agg = byKey.get(key);
@@ -152,13 +158,16 @@ export function buildRelations(evidenceList) {
       }
       if (track) agg.tracks.add(track);
       if (date) agg.dates.push(date);
+      if (rel.status) {
+        agg.statusEvents.push({ date: rel.date ?? date, status: rel.status, until: rel.until });
+      }
     }
   }
 
   const out = [];
   for (const [key, agg] of byKey.entries()) {
     const dates = agg.dates.slice().sort();
-    out.push({
+    const doc = {
       id: key.replace(/\|/g, "__"),
       from: agg.from,
       to: agg.to,
@@ -167,7 +176,14 @@ export function buildRelations(evidenceList) {
       tracks: [...agg.tracks],
       firstSeenDate: dates[0] ?? null,
       lastSeenDate: dates[dates.length - 1] ?? null,
-    });
+    };
+    if (agg.statusEvents.length > 0) {
+      const sortedStatusEvents = agg.statusEvents.slice().sort((a, b) => (a.date < b.date ? -1 : 1));
+      const latest = sortedStatusEvents[sortedStatusEvents.length - 1];
+      doc.status = latest.status;
+      if (latest.until) doc.until = latest.until;
+    }
+    out.push(doc);
   }
   return out;
 }

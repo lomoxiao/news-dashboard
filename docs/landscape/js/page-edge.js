@@ -2,10 +2,14 @@
 // URLクエリ：?rel=<relations.id>（from__to__kind の形式）＆via=<どのPlayer画面から来たか、任意>
 import { loadAll, indexById, evidenceDate, TRACK_BY_ID, CONFIDENCE_LABEL } from "./data.js";
 
-// 「現在の状態」4段階（mockup由来。evidenceのroleフィールドで表す想定だが、
-// 現時点ではVaultのどのevidenceもroleを書いていないため、実データがある時だけ表示する
-// ＝roleを使うevidenceが1件も無い関係では、このブロックごと非表示にする）。
+// 「現在の状態」4段階（mockup由来）。relations の status
+// （[[decisions/2026-09-20-evidence-schema-v2]] 3節：rumor/announced/live/ended）を
+// この4段階に対応させる。buildRelations（landscape/sync/lib/buildPublic.mjs）が
+// 集約時に「最新の日付のstatus」をrelation.statusとして1つに決めて渡してくる前提。
+// status を持つ関係が無ければ（すべてのevidenceがstatusの無い古い形式のときなど）、
+// このブロックごと非表示にする。
 const STAGE_ORDER = ["噂", "発表", "稼働", "終了"];
+const STATUS_STAGE = { rumor: "噂", announced: "発表", live: "稼働", ended: "終了" };
 
 function el(tag, attrs = {}, children = []) {
   const node = document.createElement(tag);
@@ -108,20 +112,23 @@ async function main() {
     ].filter(Boolean)
   );
 
-  // 現在の状態（roleを使っているevidenceが1件でもあるときだけ表示）
-  const withRole = records.filter((e) => e.role && STAGE_ORDER.includes(e.role));
+  // 現在の状態（relationにstatusがある時だけ表示。値はbuildRelationsが決めた「最新のstatus」1つ）
+  const currentStage = STATUS_STAGE[relation.status];
   const stateBlock = document.getElementById("state-block");
-  if (withRole.length === 0) {
+  if (!currentStage) {
     stateBlock.style.display = "none";
   } else {
     stateBlock.style.display = "";
-    const currentStage = withRole.slice().sort((a, b) => (evidenceDate(a) < evidenceDate(b) ? 1 : -1))[0].role;
     const track2 = document.getElementById("state-track");
     track2.innerHTML = "";
     for (const stage of STAGE_ORDER) {
       track2.appendChild(
         el("div", { class: `pl-state-pill${stage === currentStage ? " is-current" : ""}`, text: stage })
       );
+    }
+    const caveat = stateBlock.querySelector(".pl-caveat");
+    if (caveat) {
+      caveat.textContent = relation.until ? `状態は最新の記録で決まる（〜${relation.until} 予定）。` : "状態は最新の記録で決まる。";
     }
   }
 

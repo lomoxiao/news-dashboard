@@ -170,6 +170,7 @@ async function main() {
   }
   milestoneSection.style.display = milestones.length ? "" : "none";
 
+  renderEvents(evidence, entityId, byId);
   renderNewsRefs(newsRefsForEntity(newsRefs, entityId));
   setupMobileTabs();
 }
@@ -222,6 +223,7 @@ function renderRelationsMobile(satellites, centerEntityId) {
 
 const MOBILE_TABS = [
   { key: "rel", label: "関係", empty: "" },
+  { key: "events", label: "出来事", empty: "記録されている出来事はありません。" },
   { key: "news", label: "ニュース", empty: "この企業に照合された news-dashboard の記事はありません。" },
   { key: "plan", label: "予定", empty: "記録されている今後の予定はありません。" },
 ];
@@ -256,6 +258,61 @@ function setupMobileTabs() {
     box.appendChild(btn);
   }
   select("rel");
+}
+
+/**
+ * 「出来事」欄。この企業を entities に含む evidence を記事日（published優先）の新しい順に並べる。
+ * 「関係の一覧」（rel-table）は他社との関係に紐づく evidence だけを拾うため、relations が空の
+ * 単独の出来事（例：自治体キャンペーンなど）はそこに出てこない。ここでは entities に載っていれば
+ * relations の有無を問わず拾う。追加リサーチ（2026-04以降）分もこの一覧に含まれる。
+ */
+function renderEvents(evidence, entityId, byId) {
+  const section = document.getElementById("events-section");
+  const list = document.getElementById("event-list");
+  list.innerHTML = "";
+  const items = evidence
+    .filter((e) => (e.entities ?? []).includes(entityId))
+    .slice()
+    .sort((a, b) => (evidenceDate(a) < evidenceDate(b) ? 1 : -1));
+
+  if (items.length === 0) {
+    section.style.display = "none";
+    return;
+  }
+  section.style.display = "";
+
+  for (const ev of items) {
+    const track = TRACK_BY_ID[ev.track];
+    const relationLinks = (ev.relations ?? [])
+      .map((r) => {
+        const cpId = r.from === entityId ? r.to : r.from;
+        const cp = byId.get(cpId);
+        if (!cp) return null;
+        const relId = `${r.from}__${r.to}__${r.kind}`;
+        return el("a", {
+          class: "pl-event-relation-link",
+          href: `edge.html?rel=${encodeURIComponent(relId)}&via=${encodeURIComponent(entityId)}`,
+          text: `${cp.name}・${r.kind}`,
+        });
+      })
+      .filter(Boolean);
+
+    list.appendChild(
+      el("li", { class: "pl-event-item" }, [
+        el("div", { class: "pl-event-head" }, [
+          el("span", { class: "pl-event-date", text: evidenceDate(ev) }),
+          el("span", { class: `pl-confidence ${ev.confidence}`, text: CONFIDENCE_LABEL[ev.confidence] ?? ev.confidence }),
+          track ? el("span", { class: "pl-track-pill", style: `color:${track.color}`, text: track.label }) : null,
+        ]),
+        el("p", { class: "pl-event-summary", text: ev.summary || "（要約なし）" }),
+        relationLinks.length ? el("div", { class: "pl-event-relations" }, relationLinks) : null,
+        el("div", { class: "pl-event-meta" }, [
+          ev.source ? el("a", { href: ev.source, target: "_blank", rel: "noopener", text: "出典を開く" }) : null,
+        ]),
+        ev.caution ? el("span", { class: "pl-event-caution", text: `注意：${ev.caution}` }) : null,
+      ])
+    );
+  }
 }
 
 /**

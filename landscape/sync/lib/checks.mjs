@@ -4,7 +4,7 @@
 
 const ALLOWED_KEYS = {
   entities: new Set(["id", "name", "type", "layers", "region", "origin", "parent", "aliases"]),
-  relations: new Set(["id", "from", "to", "kind", "confidence", "tracks", "firstSeenDate", "lastSeenDate"]),
+  relations: new Set(["id", "from", "to", "kind", "confidence", "tracks", "firstSeenDate", "lastSeenDate", "status", "until"]),
   evidence: new Set([
     "id", "date", "published", "source", "confidence", "entities", "relations", "track",
     "milestones", "role", "caution", "summary", "relevantClaims",
