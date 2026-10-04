@@ -2,7 +2,7 @@
 //   1. Market closes (nikkei, usdjpy) are re-fetched from the Yahoo Finance chart API and assigned
 //      to dates in the exchange's local time zone (meta.exchangeTimezoneName). Converting the UTC
 //      timestamps to UTC dates shifts USD/JPY one day early (London-midnight bars).
-//   2. arXiv counts that failed with HTTP 429 are re-fetched from the arXiv API (totalResults),
+//   2. arXiv counts that failed (HTTP 429 / 5xx / network) are re-fetched from the arXiv API (totalResults),
 //      3+ seconds apart, waiting 30s/60s/90s on 429 before giving up (null + null_reason).
 // Progress is saved after every arXiv day, so the script can be re-run after an interruption.
 // A backup of the original is written once to <file>.before-refetch.
@@ -49,8 +49,9 @@ export function closesByLocalDate(chartJson) {
 async function fetchWithRetry(url, label) {
   for (let attempt = 0; ; attempt++) {
     const response = await fetch(url, { headers: UA });
-    if (response.status !== 429 || attempt >= RETRY_WAITS_MS.length) return response;
-    console.log(`  ${label}: HTTP 429, waiting ${RETRY_WAITS_MS[attempt] / 1000}s`);
+    const retryable = response.status === 429 || response.status >= 500;
+    if (!retryable || attempt >= RETRY_WAITS_MS.length) return response;
+    console.log(`  ${label}: HTTP ${response.status}, waiting ${RETRY_WAITS_MS[attempt] / 1000}s`);
     await sleep(RETRY_WAITS_MS[attempt]);
   }
 }
@@ -97,7 +98,8 @@ async function refetchArxiv(draft, file) {
   for (const day of draft.days) {
     for (const [key, category] of [["arxiv_ai", "cs.AI"], ["arxiv_quantum", "quant-ph"]]) {
       const point = day.values[key];
-      if (point.value === null && /429/.test(point.null_reason ?? "")) targets.push({ day, key, category });
+      // Retry rate limits (429), server errors (5xx) and network failures; keep genuine zero/holiday nulls.
+      if (point.value === null && /HTTP (429|5\d\d)|fetch failed: (?!HTTP)/.test(point.null_reason ?? "")) targets.push({ day, key, category });
     }
   }
   console.log(`arXiv: ${targets.length} values to re-fetch (about ${Math.ceil(targets.length * ARXIV_GAP_MS / 60000)}+ minutes)`);
