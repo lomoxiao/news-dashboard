@@ -22,6 +22,12 @@ Cloud Firestore, and serve the dashboard directly from Firestore on GitHub Pages
 6. Mark the run published only after the public projection is verified.
 7. Commit or push only when application code or configuration changed; daily
    data publication does not require Git.
+8. Macro metrics follow the same pattern: draft `.runtime/metrics/YYYY-MM-DD.json`
+   (`prompts/metrics_collect.md`) -> `npm run metrics:validate` -> `npm run metrics:ingest`
+   -> `npm run verify:public`. Never edit the metrics master directly.
+9. Trend scores (`trend_score`, `trend_history`) are computed by TypeScript at ingest
+   (`src/trend.ts`). Prompts must not produce them; `npm run trend:recompute` rebuilds
+   stored reports.
 
 ## Verification
 

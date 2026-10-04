@@ -32,8 +32,11 @@ export const styleSummarySchema = z.object({
 export const topicSchema = z.object({
   theme: z.string().min(1),
   category: z.enum(["interested", "must_know"]),
-  trend_score: z.number(),
-  trend_history: z.array(z.number()),
+  // Computed by TypeScript at ingest (src/trend.ts); drafts may omit them.
+  trend_score: z.number().default(0),
+  trend_history: z.array(z.number()).default([]),
+  // Articles that matched this theme during collection, before filtering and the per-theme cap.
+  candidate_count: z.number().int().nonnegative().optional(),
   summary_short: z.string().min(1),
   summary_long: z.string().min(1),
   articles: z.array(articleSchema),

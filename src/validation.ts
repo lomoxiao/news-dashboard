@@ -1,4 +1,5 @@
-import { listDailyReportFiles, readDailyReport } from "./files.js";
+import path from "node:path";
+import { listDailyReportFiles, readDailyReport, readJson, repositoryRoot } from "./files.js";
 import type { DailyReport } from "./schema.js";
 import { articleIdForUrl } from "./url.js";
 
@@ -12,7 +13,13 @@ export interface ValidationResult {
 
 const expectedSummaryStyles = ["journalist", "friendly", "brief", "analytical"];
 
-export function validateReportSemantics(report: DailyReport, strict = true): ValidationResult {
+export function validateReportSemantics(report: DailyReport, strict = true, allowedThemes?: string[]): ValidationResult {
+  if (strict && allowedThemes?.length) {
+    const unknown = report.topics.map((topic) => topic.theme).filter((theme) => !allowedThemes.includes(theme));
+    if (unknown.length) {
+      throw new Error(`Unknown theme names in ${report.date}: ${unknown.join(", ")} (use exactly: ${allowedThemes.join(", ")})`);
+    }
+  }
   const summaryStyles = Object.keys(report.top_summary);
   const missingStyles = expectedSummaryStyles.filter((style) => !summaryStyles.includes(style));
   const unexpectedStyles = summaryStyles.filter((style) => !expectedSummaryStyles.includes(style));
@@ -49,4 +56,10 @@ export async function validateExistingReports(): Promise<ValidationResult[]> {
     results.push(validateReportSemantics(await readDailyReport(file), false));
   }
   return results;
+}
+
+/** Theme names defined in docs/config.json (the config the daily job reads). */
+export async function configuredThemeNames(): Promise<string[]> {
+  const config = await readJson(path.join(repositoryRoot, "docs", "config.json")) as { themes?: Array<{ name?: unknown }> };
+  return (config.themes ?? []).map((theme) => theme.name).filter((name): name is string => typeof name === "string");
 }

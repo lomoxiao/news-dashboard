@@ -125,6 +125,32 @@ export class FirestoreStore {
     await batch.commit();
   }
 
+  async readMetricsMaster(): Promise<unknown | null> {
+    const snapshot = await this.db.collection("metadata").doc("metricsMaster").get();
+    return snapshot.exists ? snapshot.data()?.payload ?? null : null;
+  }
+
+  /** Writes the canonical metrics master and its public projection atomically. */
+  async writeMetricsMaster(master: unknown): Promise<void> {
+    const batch = this.db.batch();
+    batch.set(this.db.collection("metadata").doc("metricsMaster"), { payload: master });
+    batch.set(this.db.collection("publicDashboard").doc("metrics"), { payload: master });
+    await batch.commit();
+  }
+
+  /** Replaces only the stored payload of existing reports (canonical and public), e.g. after recomputing trends. */
+  async updateReportPayloads(reports: DailyReport[]): Promise<void> {
+    for (let start = 0; start < reports.length; start += 200) {
+      const batch = this.db.batch();
+      for (const report of reports.slice(start, start + 200)) {
+        const update = { payload: report, updatedAt: FieldValue.serverTimestamp() };
+        batch.set(this.db.collection("reports").doc(report.date), update, { mergeFields: ["payload", "updatedAt"] });
+        batch.set(this.db.collection("publicReports").doc(report.date), update, { mergeFields: ["payload", "updatedAt"] });
+      }
+      await batch.commit();
+    }
+  }
+
   async readSupplementalData(): Promise<SupplementalData> {
     const [master, metrics, themes, monthly] = await Promise.all([
       this.db.collection("metadata").doc("metricsMaster").get(),

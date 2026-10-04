@@ -20,3 +20,14 @@ test("unsupported top summary styles are rejected", async () => {
     /Invalid top_summary styles.*missing=journalist,friendly,brief,analytical.*unexpected=balanced/,
   );
 });
+
+import { validateReportSemantics as validateThemes } from "../src/validation.js";
+test("strict validation rejects theme names that are not configured", () => {
+  const report = {
+    date: "2026-10-04", generated_at: "x",
+    top_summary: Object.fromEntries(["journalist", "friendly", "brief", "analytical"].map((k) => [k, { lead: "l", highlights: [], must_read: { title: "t", url: "https://e.com", reason: "r" } }])),
+    topics: [{ theme: "AI", category: "interested", trend_score: 0, trend_history: [], summary_short: "s", summary_long: "l", articles: [], related: [] }],
+  } as never;
+  assert.throws(() => validateThemes(report, true, ["最新AI情報"]), /Unknown theme names/);
+  assert.doesNotThrow(() => validateThemes(report, false, ["最新AI情報"]));
+});

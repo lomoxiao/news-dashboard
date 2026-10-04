@@ -1,47 +1,62 @@
-# ニュースダッシュボード 日次マクロ指標収集プロンプト
+# ニュースダッシュボード 日次マクロ指標収集（Codex）
 
-あなたはデータ収集エージェントです。以下の指標を収集し、
-docs/data/metrics/daily/YYYY-MM-DD.json と docs/data/metrics/master.json を更新してください。
+作業ディレクトリ: このリポジトリのルート（絶対パスに依存しないこと）。`AGENTS.md` に従う。
 
-作業ディレクトリ: このリポジトリのルート（絶対パスに依存しないこと）
+あなたの仕事は **指標の値と取得元を集めて下書きを作ること** だけです。
+蓄積データ（Firestore の metricsMaster や `docs/data/metrics/` 配下）を直接編集してはいけません。
+検査・蓄積・公開は TypeScript（`npm run metrics:validate` / `npm run metrics:ingest`）が行います。
 
-## 収集項目
+## 対象日
 
-### 1. arXiv論文数
-- ArXiv RSS (cs.AI) から当日投稿数を取得
-- ArXiv RSS (quant-ph) から当日投稿数を取得
+- 対象日 = **実行日（日本時間）の前日**。例：2026-10-04 の朝に実行 → 対象日 2026-10-03。
+- 土日も含めて毎日作成する（土日は市場の値が null になるだけ）。
 
-### 2. Google Trends スコア
-- config.json の themes[].name ごとにキーワードをWeb Searchで取得
-- 相対的な検索関心度（0〜100）を推定して記録
+## 収集項目（4つ）
 
-### 3. 株価・為替
-- Yahoo Finance APIで日経平均終値・USD/JPY終値を取得
-- 取得できない場合は null を記録
+### 1. arXiv 投稿数（arxiv_ai / arxiv_quantum）
+- **必ず arXiv API の総件数（`opensearch:totalResults`）を使う。RSS は使わない**（RSS は1ページ分しか返らず、件数が頭打ちになる）。
+- 対象日（UTC の暦日）に投稿された論文数を数える。`max_results=0` にすると件数だけ返る。
+  - cs.AI: `https://export.arxiv.org/api/query?search_query=cat:cs.AI+AND+submittedDate:[YYYYMMDD0000+TO+YYYYMMDD2359]&max_results=0`
+  - quant-ph: `https://export.arxiv.org/api/query?search_query=cat:quant-ph+AND+submittedDate:[YYYYMMDD0000+TO+YYYYMMDD2359]&max_results=0`
+- `source_url` には実際に叩いた URL をそのまま書く。
+- 連続で叩くときは 3 秒以上あける（arXiv の利用規約）。
 
-## 出力スキーマ: docs/data/metrics/daily/YYYY-MM-DD.json
+### 2. 日経平均 終値（nikkei）／ 3. USD/JPY 終値（usdjpy）
+- 対象日の終値を数値で記録する。毎日 **同じ提供元** を使う。
+  - 推奨: Yahoo Finance の日次チャート API（`https://query1.finance.yahoo.com/v8/finance/chart/%5EN225?interval=1d&range=1mo`、`.../chart/JPY=X?...`）。取れなければ日経平均は公式ヒストリカル（indexes.nikkei.co.jp）など。
+- `source_url` には値を確認した URL を書く。
+- **土日・祝日・取得失敗は `null` にして `null_reason` を書く**（例: "market closed (Saturday)", "market holiday (JP)", "fetch failed: HTTP 429"）。0 や推測値を入れてはいけない。
+
+## 出力：`.runtime/metrics/YYYY-MM-DD.json`（YYYY-MM-DD = 対象日）
 
 ```json
 {
-  "date": "YYYY-MM-DD",
-  "arxiv_ai": 0,
-  "arxiv_quantum": 0,
-  "trends": {
-    "最新AI情報": 0,
-    "NTTドコモ": 0,
-    "量子コンピュータ": 0,
-    "金融決済": 0
-  },
-  "markets": {
-    "nikkei": null,
-    "usdjpy": null
-  }
+  "collected_at": "2026-10-04T06:30:00+09:00",
+  "days": [
+    {
+      "date": "2026-10-03",
+      "values": {
+        "arxiv_ai":      { "value": 512, "source_url": "https://export.arxiv.org/api/query?search_query=cat:cs.AI+AND+submittedDate:[202610030000+TO+202610032359]&max_results=0" },
+        "arxiv_quantum": { "value": 143, "source_url": "https://export.arxiv.org/api/query?search_query=cat:quant-ph+AND+submittedDate:[202610030000+TO+202610032359]&max_results=0" },
+        "nikkei":        { "value": null, "null_reason": "market closed (Saturday)" },
+        "usdjpy":        { "value": null, "null_reason": "market closed (Saturday)" }
+      }
+    }
+  ]
 }
 ```
 
-## master.json 更新ルール
-- 各 series の data[] に { "date": "YYYY-MM-DD", "value": N } を追加
-- データは時系列順（古い順）で保持
-- 最大365件を保持（古いものから削除）
+ルール:
+- 値があるなら `source_url` 必須。値が `null` なら `null_reason` 必須。
+- 上の4項目以外のキーを追加しない（検査で不合格になる）。
 
-以上の手順をすべて自律的に実行し、両ファイルの保存まで完了してください。
+## 手順
+
+1. 上の形式で下書きを保存する。
+2. `npm run metrics:validate -- .runtime/metrics/YYYY-MM-DD.json`
+3. 不合格なら理由を読んで直す（推測値で埋めて合格させるのは禁止。取れないなら null＋理由）。3回失敗したら公開せず終了。
+4. `npm run metrics:ingest -- .runtime/metrics/YYYY-MM-DD.json`
+5. `npm run verify:public`
+6. `npm run mark-run -- metrics-YYYY-MM-DD published`
+
+指標の失敗はニュース日報の公開を取り消さない。

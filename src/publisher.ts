@@ -47,7 +47,9 @@ export async function backfillPublicData(dryRun: boolean): Promise<PublishSummar
 }
 
 export async function syncSupplementalData(): Promise<{ files: number }> {
-  const supplemental = await loadSupplementalData();
+  // The metrics master is owned by `metrics:ingest` (Firestore is its source of truth).
+  // docs/data/metrics/master.json is a frozen fallback and must never overwrite it.
+  const supplemental = { ...(await loadSupplementalData()), metricsMaster: null };
   const store = new FirestoreStore();
   await store.writeSupplementalData(supplemental);
   return {

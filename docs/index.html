@@ -297,6 +297,10 @@
     .chart-section { margin-bottom: 20px; }
     .chart-section-title { font-size: 12px; color: var(--text2); margin-bottom: 8px; }
     .chart-wrap { position: relative; height: 200px; }
+    .chart-empty { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; text-align: center; font-size: 12px; }
+    .chart-empty[hidden] { display: none; }
+    .metrics-status { font-size: 11px; color: var(--text2); margin: 0 0 12px; }
+    .metrics-status.stale { color: #f6ad55; }
 
     /* ── Archive page ── */
     .archive-list { display: flex; flex-direction: column; gap: 5px; }
@@ -549,17 +553,18 @@
           <button class="period-btn" data-days="180">180日</button>
           <button class="period-btn" data-days="365">365日</button>
         </div>
+        <div id="metrics-status" class="metrics-status"></div>
         <div class="chart-section">
-          <div class="chart-section-title">arXiv 投稿数（AI・量子）</div>
-          <div class="chart-wrap"><canvas id="chart-arxiv"></canvas></div>
+          <div class="chart-section-title">arXiv 投稿数（AI・量子／投稿日ベース）</div>
+          <div class="chart-wrap"><canvas id="chart-arxiv"></canvas><div class="empty chart-empty" hidden></div></div>
         </div>
         <div class="chart-section">
-          <div class="chart-section-title">Google Trends（テーマ別）</div>
-          <div class="chart-wrap"><canvas id="chart-gtrends"></canvas></div>
+          <div class="chart-section-title">テーマ別 候補記事数（収集時にテーマへヒットした件数）</div>
+          <div class="chart-wrap"><canvas id="chart-themes"></canvas><div class="empty chart-empty" hidden></div></div>
         </div>
         <div class="chart-section">
-          <div class="chart-section-title">日経平均・USD/JPY</div>
-          <div class="chart-wrap"><canvas id="chart-markets"></canvas></div>
+          <div class="chart-section-title">日経平均・USD/JPY（終値）</div>
+          <div class="chart-wrap"><canvas id="chart-markets"></canvas><div class="empty chart-empty" hidden></div></div>
         </div>
       </div>
     </div><!-- /trends -->
@@ -824,7 +829,7 @@ function renderSparklines() {
       <div class="spark-item${isActive ? ' active' : ''}" data-theme="${t.theme}">
         <div>
           <div class="spark-name">${conf.emoji || ''} ${t.theme}</div>
-          <div class="spark-score">スコア ${score}</div>
+          <div class="spark-score" title="過去7日の平均的な盛り上がり＝50、平均の2倍以上＝100">スコア ${score}</div>
           <div class="spark-delta ${cls}">${sign}${delta.toFixed(0)}%</div>
         </div>
         ${svgSparkline(h, 76, 28)}
@@ -1044,86 +1049,131 @@ const CHART_DEFAULTS = {
   },
 };
 
-function sliceDays(arr, days) {
-  return (arr || []).slice(-days);
+// Metrics are stored as { date, value } points per series. Charts use one shared
+// date axis per chart so series with gaps (weekends, holidays, missed runs) stay aligned.
+const STALE_AFTER_DAYS = 3;
+
+function jstToday() {
+  return new Date(Date.now() + 9 * 3600 * 1000).toISOString().slice(0, 10);
+}
+
+function shiftDate(date, days) {
+  const d = new Date(date + 'T00:00:00Z');
+  d.setUTCDate(d.getUTCDate() + days);
+  return d.toISOString().slice(0, 10);
+}
+
+function latestObserved(series) {
+  const points = (series?.data || []).filter(p => typeof p.value === 'number');
+  return points.length ? points[points.length - 1].date : null;
+}
+
+function alignSeries(seriesList, days) {
+  const cutoff = shiftDate(jstToday(), -days);
+  const dates = [...new Set(seriesList.flatMap(s => (s?.data || []).map(p => p.date)))]
+    .filter(d => d >= cutoff).sort();
+  const values = seriesList.map(s => {
+    const byDate = new Map((s?.data || []).map(p => [p.date, p.value]));
+    return dates.map(d => (typeof byDate.get(d) === 'number' ? byDate.get(d) : null));
+  });
+  const hasData = values.some(v => v.some(x => x !== null));
+  return { labels: dates.map(d => d.slice(5)), values, hasData };
+}
+
+function showChartOrMessage(id, message) {
+  const canvas = document.getElementById('chart-' + id);
+  const empty = canvas.parentElement.querySelector('.chart-empty');
+  canvas.style.display = message ? 'none' : '';
+  empty.hidden = !message;
+  empty.textContent = message || '';
+  return !message;
+}
+
+function renderMetricsStatus(m) {
+  const el = document.getElementById('metrics-status');
+  const arxiv = latestObserved(m?.series?.arxiv_ai);
+  const market = [latestObserved(m?.series?.markets?.nikkei), latestObserved(m?.series?.markets?.usdjpy)]
+    .filter(Boolean).sort().pop() || null;
+  const latest = [arxiv, market].filter(Boolean).sort().pop() || null;
+  if (!latest) { el.textContent = '指標データがまだありません'; el.classList.add('stale'); return; }
+  // Daily collection measures the previous day, so "today - 1" is up to date.
+  const stale = latest < shiftDate(jstToday(), -STALE_AFTER_DAYS);
+  el.textContent = `指標の最新観測日：arXiv ${arxiv || '—'}／市場 ${market || '—'}` +
+    (stale ? `（${STALE_AFTER_DAYS}日以上更新されていません。日次の指標収集を確認してください）` : '');
+  el.classList.toggle('stale', stale);
+}
+
+function lineDataset(label, data, color, extra = {}) {
+  return { label, data, borderColor: color, backgroundColor: 'transparent', tension: .3, pointRadius: 2, spanGaps: true, ...extra };
 }
 
 function renderCharts() {
   const m = S.metrics;
-  if (!m?.series) {
-    ['arxiv', 'gtrends', 'markets'].forEach(id => {
-      const el = document.getElementById('chart-' + id);
-      if (el) el.closest('.chart-section').querySelector('.chart-wrap').innerHTML =
-        '<div class="empty">データなし（Routine②を実行してください）</div>';
-    });
-    return;
-  }
-
   const days = S.period;
+  renderMetricsStatus(m);
 
   // ── arXiv ──
   destroyChart('arxiv');
-  const aiRaw = sliceDays(m.series.arxiv_ai?.data, days);
-  const qRaw  = sliceDays(m.series.arxiv_quantum?.data, days);
-  const labels = aiRaw.map(d => d.date.slice(5));  // MM-DD
-  charts['arxiv'] = new Chart(document.getElementById('chart-arxiv'), {
-    type: 'line',
-    data: {
-      labels,
-      datasets: [
-        { label: 'AI (cs.AI)', data: aiRaw.map(d => d.value), borderColor: '#5b8dee', backgroundColor: 'rgba(91,141,238,.08)', fill: true, tension: .3, pointRadius: 2 },
-        { label: '量子 (quant-ph)', data: qRaw.map(d => d.value), borderColor: '#3ecf8e', backgroundColor: 'rgba(62,207,142,.08)', fill: true, tension: .3, pointRadius: 2 },
-      ],
-    },
-    options: CHART_DEFAULTS,
-  });
+  const ax = alignSeries([m?.series?.arxiv_ai, m?.series?.arxiv_quantum], days);
+  if (showChartOrMessage('arxiv', ax.hasData ? '' : 'この期間の arXiv データはありません')) {
+    charts['arxiv'] = new Chart(document.getElementById('chart-arxiv'), {
+      type: 'line',
+      data: {
+        labels: ax.labels,
+        datasets: [
+          lineDataset('AI (cs.AI)', ax.values[0], '#5b8dee', { backgroundColor: 'rgba(91,141,238,.08)', fill: true }),
+          lineDataset('量子 (quant-ph)', ax.values[1], '#3ecf8e', { backgroundColor: 'rgba(62,207,142,.08)', fill: true }),
+        ],
+      },
+      options: CHART_DEFAULTS,
+    });
+  }
 
-  // ── Google Trends ──
-  destroyChart('gtrends');
-  const trends = m.series.trends || {};
+  // ── Theme candidate counts ──
+  destroyChart('themes');
+  const themeSeries = m?.series?.theme_candidates || {};
+  const order = (S.config?.themes || []).map(t => t.name);
+  const tKeys = Object.keys(themeSeries).sort((a, b) =>
+    (order.indexOf(a) + 1 || 99) - (order.indexOf(b) + 1 || 99));
   const tColors = ['#5b8dee', '#f6c90e', '#3ecf8e', '#f56565', '#a78bfa', '#f6ad55'];
-  const tKeys = Object.keys(trends);
-  const tLabels = tKeys.length ? sliceDays(trends[tKeys[0]]?.data, days).map(d => d.date.slice(5)) : [];
-  charts['gtrends'] = new Chart(document.getElementById('chart-gtrends'), {
-    type: 'line',
-    data: {
-      labels: tLabels,
-      datasets: tKeys.map((k, i) => ({
-        label: k,
-        data: sliceDays(trends[k]?.data, days).map(d => d.value),
-        borderColor: tColors[i % tColors.length],
-        tension: .3, pointRadius: 2,
-      })),
-    },
-    options: CHART_DEFAULTS,
-  });
+  const th = alignSeries(tKeys.map(k => themeSeries[k]), days);
+  const themeMessage = !tKeys.length
+    ? '候補件数の蓄積待ちです（日次収集が candidate_count を報告し始めると表示されます）'
+    : (th.hasData ? '' : 'この期間の候補件数データはありません');
+  if (showChartOrMessage('themes', themeMessage)) {
+    charts['themes'] = new Chart(document.getElementById('chart-themes'), {
+      type: 'line',
+      data: { labels: th.labels, datasets: tKeys.map((k, i) => lineDataset(k, th.values[i], tColors[i % tColors.length])) },
+      options: CHART_DEFAULTS,
+    });
+  }
 
   // ── Markets ──
   destroyChart('markets');
-  const nk = sliceDays(m.series.markets?.nikkei?.data, days);
-  const fx = sliceDays(m.series.markets?.usdjpy?.data, days);
-  const mkLabels = nk.map(d => d.date.slice(5));
-  charts['markets'] = new Chart(document.getElementById('chart-markets'), {
-    type: 'line',
-    data: {
-      labels: mkLabels,
-      datasets: [
-        { label: '日経平均（円）', data: nk.map(d => d.value), borderColor: '#f6c90e', tension: .3, pointRadius: 2, yAxisID: 'y' },
-        { label: 'USD/JPY',      data: fx.map(d => d.value), borderColor: '#3ecf8e', tension: .3, pointRadius: 2, yAxisID: 'y1' },
-      ],
-    },
-    options: {
-      ...CHART_DEFAULTS,
-      scales: {
-        ...CHART_DEFAULTS.scales,
-        y1: {
-          position: 'right',
-          ticks: { color: '#5c6080', font: { size: 10 } },
-          grid: { drawOnChartArea: false },
+  const mk = alignSeries([m?.series?.markets?.nikkei, m?.series?.markets?.usdjpy], days);
+  if (showChartOrMessage('markets', mk.hasData ? '' : 'この期間の市場データはありません')) {
+    charts['markets'] = new Chart(document.getElementById('chart-markets'), {
+      type: 'line',
+      data: {
+        labels: mk.labels,
+        datasets: [
+          lineDataset('日経平均（円）', mk.values[0], '#f6c90e', { yAxisID: 'y' }),
+          lineDataset('USD/JPY', mk.values[1], '#3ecf8e', { yAxisID: 'y1' }),
+        ],
+      },
+      options: {
+        ...CHART_DEFAULTS,
+        scales: {
+          ...CHART_DEFAULTS.scales,
+          y1: {
+            position: 'right',
+            ticks: { color: '#5c6080', font: { size: 10 } },
+            grid: { drawOnChartArea: false },
+          },
         },
       },
-    },
-  });
+    });
+  }
 }
 
 // Period buttons
@@ -1378,7 +1428,7 @@ function renderDataSourceNotice() {
     notice.style.cssText = 'margin:12px 20px;padding:10px 14px;border:1px solid #f59e0b;border-radius:8px;background:#fffbeb;color:#92400e;font-size:13px';
     document.querySelector('main')?.prepend(notice);
   }
-  notice.textContent = 'Firestore?????????????????????JSON?????????';
+  notice.textContent = 'Firestoreに接続できなかったため、保存済みの固定JSON（2026年7月までのデータ）を表示しています。';
 }
 
 function esc(s) {
