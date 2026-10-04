@@ -19,6 +19,7 @@
     "trend:recompute:dry": "tsx src/cli.ts trend:recompute --dry-run",
     "metrics:validate": "tsx src/cli.ts metrics:validate",
     "metrics:ingest": "tsx src/cli.ts metrics:ingest",
+    "metrics:refetch": "node scripts/refetch-metrics.mjs",
     "publish:backfill": "tsx src/cli.ts publish:backfill",
     "publish:backfill:dry": "tsx src/cli.ts publish:backfill --dry-run",
     "verify:public": "tsx src/cli.ts verify:public",
