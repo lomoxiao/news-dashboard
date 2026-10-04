@@ -19,12 +19,17 @@
   - cs.AI: `https://export.arxiv.org/api/query?search_query=cat:cs.AI+AND+submittedDate:[YYYYMMDD0000+TO+YYYYMMDD2359]&max_results=0`
   - quant-ph: `https://export.arxiv.org/api/query?search_query=cat:quant-ph+AND+submittedDate:[YYYYMMDD0000+TO+YYYYMMDD2359]&max_results=0`
 - `source_url` には実際に叩いた URL をそのまま書く。
-- 連続で叩くときは 3 秒以上あける（arXiv の利用規約）。
+- 連続で叩くときは 3 秒以上あける（arXiv の利用規約）。HTTP 429（アクセス過多）が返ったら
+  30 秒以上待って最大 3 回まで再試行し、それでも失敗した場合だけ null＋`null_reason` にする。
 
 ### 2. 日経平均 終値（nikkei）／ 3. USD/JPY 終値（usdjpy）
 - 対象日の終値を数値で記録する。毎日 **同じ提供元** を使う。
   - 推奨: Yahoo Finance の日次チャート API（`https://query1.finance.yahoo.com/v8/finance/chart/%5EN225?interval=1d&range=1mo`、`.../chart/JPY=X?...`）。取れなければ日経平均は公式ヒストリカル（indexes.nikkei.co.jp）など。
 - `source_url` には値を確認した URL を書く。
+- **日付の割り当てに注意：** チャート API の `timestamp` は UTC の秒。これを UTC の日付に直すと、
+  為替（JPY=X）は前日にずれる（ロンドン時間の0時区切りのため）。必ず `meta.exchangeTimezoneName`
+  （または `meta.gmtoffset`）の取引所ローカル時間に変換してから日付を決めること。
+  平日（祝日以外）なのに値が無い日が続く、特定の曜日だけ毎週欠ける、といった場合は日付ずれを疑う。
 - **土日・祝日・取得失敗は `null` にして `null_reason` を書く**（例: "market closed (Saturday)", "market holiday (JP)", "fetch failed: HTTP 429"）。0 や推測値を入れてはいけない。
 
 ## 出力：`.runtime/metrics/YYYY-MM-DD.json`（YYYY-MM-DD = 対象日）
