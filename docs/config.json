@@ -150,5 +150,14 @@
     "min_exposure": 8,
     "lift_boost_threshold": 2.0,
     "lift_decay_threshold": 0.3
+  },
+  "digest": {
+    "chapters": [
+      { "title": "AI", "themes": ["最新AI情報"] },
+      { "title": "金融決済", "themes": ["金融決済"] },
+      { "title": "量子", "themes": ["量子コンピュータ"] }
+    ],
+    "per_chapter_max": 3,
+    "total_max": 9
   }
 }

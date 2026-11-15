@@ -19,6 +19,10 @@ Work from the repository root. Follow `AGENTS.md` and do not publish partial res
 9. Run `npm run typecheck`, `npm test`, and `npm run validate:existing`.
 10. Review `git diff --check`; daily publication must not modify `docs/data/`.
 11. Run `npm run mark-run -- daily-YYYY-MM-DD published` after verification.
+    Then run `npm run digest:export -- .runtime/daily/YYYY-MM-DD.json` to hand the
+    day's top summaries to the "today's digest" pipeline (writes
+    `.runtime/digest/YYYY-MM-DD.json`; no AI, no Firestore). A digest export failure
+    must not roll back the daily report; report it and continue.
 12. Commit and push only when application code or configuration changed.
 13. Then run the macro-metrics job in `prompts/metrics_collect.md`
     (draft -> `metrics:validate` -> `metrics:ingest` -> `verify:public` -> mark-run).

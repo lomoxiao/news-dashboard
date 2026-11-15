@@ -8,6 +8,8 @@ import { isDeepStrictEqual } from "node:util";
 import { migrateExisting } from "./migration.js";
 import { backfillPublicData, refreshPublicIndex, syncSupplementalData, verifyPublishedData } from "./publisher.js";
 import { configuredThemeNames, validateExistingReports, validateReportSemantics } from "./validation.js";
+import { mkdir, rename, writeFile } from "node:fs/promises";
+import { buildDigestInput, digestConfigSchema } from "./digest.js";
 
 const [command, ...args] = process.argv.slice(2);
 
@@ -134,6 +136,26 @@ try {
       const store = new FirestoreStore();
       await store.db.collection("access").doc(uid).set({ grantedAt: new Date().toISOString() }, { merge: true });
       print({ uid, status: "granted" });
+      break;
+    }
+    case "digest:export": {
+      // "今日のまとめ" の材料を .runtime/digest/YYYY-MM-DD.json に書き出す。AIもFirestoreも使わない。
+      const file = requiredFile(args[0]);
+      const report = await readDailyReport(file);
+      validateReportSemantics(report, true, await configuredThemeNames());
+      const rawConfig = await readJson(path.join(repositoryRoot, "config.json")) as { digest?: unknown };
+      const digest = buildDigestInput(report, digestConfigSchema.parse(rawConfig.digest), new Date().toISOString());
+      const outputFile = path.join(repositoryRoot, ".runtime", "digest", `${digest.date}.json`);
+      // 受け取り側が書きかけを読まないよう、一時ファイルに書いてから改名する
+      const temporaryFile = `${outputFile}.tmp`;
+      await mkdir(path.dirname(outputFile), { recursive: true });
+      await writeFile(temporaryFile, `${JSON.stringify(digest, null, 2)}\n`, "utf8");
+      await rename(temporaryFile, outputFile);
+      print({
+        outputFile,
+        date: digest.date,
+        chapters: digest.chapters.map((chapter) => ({ title: chapter.title, articles: chapter.articles.length })),
+      });
       break;
     }
     case "export":

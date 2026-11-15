@@ -27,6 +27,7 @@
     "interest:grant": "tsx src/cli.ts interest:grant",
     "interest:score": "tsx src/cli.ts interest:score",
     "interest:score:dry": "tsx src/cli.ts interest:score --dry-run",
+    "digest:export": "tsx src/cli.ts digest:export",
     "test:rules": "firebase emulators:exec --only firestore --project demo-news-dashboard \"npm test\""
   },
   "dependencies": {
