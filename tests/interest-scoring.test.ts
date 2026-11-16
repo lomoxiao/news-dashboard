@@ -1,5 +1,6 @@
 import assert from "node:assert/strict";
 import test from "node:test";
+import { isSyntheticViewerUrl } from "../src/interest/collector.js";
 import { decayFactor, joinViewerArticles, score } from "../src/interest/scoring.js";
 import type { ExposureItem, InterestConfig, ScoringInput, ThemeConfig, ViewerArticle } from "../src/interest/types.js";
 import { articleIdForUrl } from "../src/url.js";
@@ -187,4 +188,11 @@ test("joinViewerArticles matches across URL tracking variants", () => {
   assert.equal(matched.size, 1);
   assert.ok(matched.has(id));
   assert.equal(outOfConfig.length, 0);
+});
+
+test("synthetic viewer entries (pasted text, bundles) are excluded from interest scoring", () => {
+  assert.equal(isSyntheticViewerUrl("text:txt_0123456789ab"), true);
+  assert.equal(isSyntheticViewerUrl("bundle:bnd_0123456789ab"), true);
+  assert.equal(isSyntheticViewerUrl("https://example.com/text:notes"), false);
+  assert.equal(isSyntheticViewerUrl("https://www.youtube.com/watch?v=abc"), false);
 });

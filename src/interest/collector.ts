@@ -89,6 +89,15 @@ interface RawViewerArticle {
   manga?: RawArtifact;
 }
 
+/**
+ * Viewer entries that are not a real web page: pasted text (`text:`) and bundles / daily digests
+ * synthesized from other articles (`bundle:`). They are generated from articles that are already
+ * counted, so they must not feed the interest score a second time.
+ */
+export function isSyntheticViewerUrl(canonicalUrl: string): boolean {
+  return /^(text|bundle):/i.test(canonicalUrl.trim());
+}
+
 export async function readViewerArticles(db: Database): Promise<ViewerArticle[]> {
   const [articlesSnapshot, readStateSnapshot] = await Promise.all([
     db.ref("articles").get(),
@@ -115,7 +124,7 @@ export async function readViewerArticles(db: Database): Promise<ViewerArticle[]>
     const canonicalUrl = typeof raw.canonicalUrl === "string" && raw.canonicalUrl
       ? raw.canonicalUrl
       : typeof raw.originalUrl === "string" ? raw.originalUrl : "";
-    if (!canonicalUrl) continue;
+    if (!canonicalUrl || isSyntheticViewerUrl(canonicalUrl)) continue;
     const promotedAt = firstString(raw.registeredAt, raw.lastRegisteredAt, raw.slides?.updatedAt, raw.manga?.updatedAt, raw.updatedAt);
     const readEntry = readByArticle.get(viewerId);
     result.push({
