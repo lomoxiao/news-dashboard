@@ -95,7 +95,7 @@ interface RawViewerArticle {
  * counted, so they must not feed the interest score a second time.
  */
 export function isSyntheticViewerUrl(canonicalUrl: string): boolean {
-  return /^(text|bundle):/i.test(canonicalUrl.trim());
+  return /^(text|bundle|research):/i.test(canonicalUrl.trim());
 }
 
 export async function readViewerArticles(db: Database): Promise<ViewerArticle[]> {
